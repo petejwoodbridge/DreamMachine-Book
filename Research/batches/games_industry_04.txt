@@ -1,0 +1,28 @@
+# Research batch: games_industry #4
+# URLs: 25
+
+[Issue 17] https://www.gamesindustry.biz/roblox-debuts-tool-for-players-to-ai-generate-interactive-in-game-objects-promises-full-scene-generation-is-coming
+[Issue 17] https://www.gamedeveloper.com/business/one-third-of-game-workers-use-generative-ai-but-half-think-it-s-bad-for-the-industry
+[Issue 17] https://gamesbeat.com/studio-atelico-unveils-ai-based-bobium-brawlers-ios-game-with-pro-human-approach/
+[Issue 17] https://www.videogameschronicle.com/news/sony-patents-ai-generated-podcasts-voiced-by-characters-from-its-games/
+[Issue 17] https://gamesbeat.com/bitmagic-unveils-ai-created-version-of-classic-civilization-game/
+[Issue 19] https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence-?utm_source=chatgpt.com
+[Issue 19] https://www.gamespot.com/articles/fortnite-studio-buys-this-digital-human-company/1100-6538258/
+[Issue 19] https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence-
+[Issue 19] https://www.polygon.com/steam-miyazaki-studio-ghibli-anlife-ai-reviews/
+[Issue 19] https://www.pcgamer.com/software/platforms/open-source-game-engine-godot-is-drowning-in-ai-slop-code-contributions-i-dont-know-how-long-we-can-keep-it-up/
+[Issue 19] https://www.pcgamer.com/games/mmo/eve-online-rolls-out-ai-powered-assistance-feature-for-new-players-promises-it-does-not-produce-game-content-create-art-or-replace-creative-work/
+[Issue 19] https://www.gamespot.com/articles/pubg-studio-clarifies-how-big-new-game-project-windless-uses-ai/1100-6538174/
+[Issue 20] https://www.gamesindustry.biz/google-unveils-new-ai-cloud-tools-to-support-game-development
+[Issue 20] https://www.pocketgamer.biz/helika-is-building-the-ai-publishing-engine-game-studios-never-had/
+[Issue 20] https://www.polygon.com/microsoft-xbox-ai-tutorials-patent/
+[Issue 20] https://www.gamedeveloper.com/business/indie-fund-outersloth-has-rejected-every-generative-ai-pitch-it-has-received
+[Issue 20] https://www.polygon.com/mtg-dnd-ai-hasbro-ceo-chris-cocks-interview/
+[Issue 21] https://www.gamesindustry.biz/new-research-shows-over-90-of-gamers-find-playing-with-ai-powered-npcs-to-be-enjoyable-and-rewarding
+[Issue 21] https://www.pocketgamer.biz/tencent-showcases-ai-lighting-tech-magicdawn-at-gdc/
+[Issue 21] https://www.gamesindustry.biz/gaming-copilot-coming-to-current-gen-xbox-consoles-in-2026
+[Issue 21] https://gamesbeat.com/game-industry-leaders-debate-the-urgency-of-ai-adoption-gamesbeat-crossfire-recap/
+[Issue 21] https://www.gamesindustry.biz/biting-the-silver-bullet-ai-in-the-games-industry-in-2026-and-beyond-opinion
+[Issue 22] https://www.gamesindustry.biz/the-big-debate-what-role-should-ai-have-in-video-game-narrative
+[Issue 22] https://www.gamesindustry.biz/nearly-nine-in-ten-games-industry-workers-believe-genai-use-should-be-disclosed-on-storefronts
+[Issue 22] https://www.pcgamer.com/gaming-industry/capcom-says-it-will-not-implement-assets-generated-by-ai-into-our-game-content-but-still-plans-to-use-ai-to-enhance-efficiency-and-boost-productivity-in-game-development/

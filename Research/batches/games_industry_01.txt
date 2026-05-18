@@ -1,0 +1,28 @@
+# Research batch: games_industry #1
+# URLs: 25
+
+[Issue 1] https://www.pcgamer.com/games/amazon-breaks-glass-marked-ai-powered-snoop-dogg-game-where-hes-a-judge-to-get-you-to-pay-attention-to-its-wilting-luna-streaming-service/
+[Issue 1] https://www.gamedeveloper.com/business/unity-forms-ai-council-to-accelerate-ai-product-innovation-
+[Issue 1] https://www.uploadvr.com/meta-horizon-studio-upgrade-ai-assistant-horizon-worlds/
+[Issue 1] https://www.pcgamer.com/gaming-industry/as-the-videogame-industry-continues-to-be-hammered-by-layoffs-netflix-is-offering-up-to-usd840-000-per-year-for-a-new-director-of-generative-ai-for-games/
+[Issue 1] https://www.pcgamer.com/software/ai/fabulous-news-everyone-market-analyst-says-the-ai-bubble-is-17x-bigger-than-the-dotcom-goldrush-and-4x-larger-than-the-subprime-bubble-that-caused-the-2008-crash/
+[Issue 1] https://www.gamesindustry.biz/51-of-japanese-game-makers-use-generative-ai
+[Issue 2] https://www.pcgamer.com/software/ai/elon-musks-ai-fuelled-fever-dream-gets-even-hotter-as-he-promises-his-ai-game-studio-is-going-to-release-a-great-game-before-the-end-of-2026/
+[Issue 2] https://www.gamesindustry.biz/roblox-announces-new-ai-tools-for-creators
+[Issue 2] https://www.pcgamer.com/hardware/graphics-cards/nvidias-gen-ai-facial-animation-tech-is-going-open-source-potentially-making-it-much-easier-for-game-devs-to-turn-real-time-speech-into-convincing-characters/?utm_source=chatgpt.com
+[Issue 3] https://www.gamesradar.com/games/battlefield/battlefield-6-lead-calls-generative-ai-very-seducing-but-says-it-was-only-used-in-the-games-earliest-stages-to-allow-for-more-time-and-more-space-to-be-creative/
+[Issue 3] https://gamesbeat.com/reblink-unveils-arbo-arena-tactics-an-ai-powered-strategy-battler-that-thinks-alongside-you/
+[Issue 3] https://www.pocketgamer.biz/supercell-launches-global-ai-game-hackathon-for-creators-worldwide/
+[Issue 3] https://www.gamesindustry.biz/ai-was-an-expensive-mistake-charles-cecil-on-innovation-insolvency-and-broken-sword
+[Issue 4] https://www.gamespot.com/articles/ai-can-help-save-the-broken-beaten-battered-games-industry-dev-says/1100-6535516/
+[Issue 4] https://thegamepost.com/insider-halo-studios-generative-ai-game-development/
+[Issue 4] https://www.pcgamer.com/gaming-industry/can-elon-musks-xai-make-an-ai-generated-game-in-a-year-hes-full-of-crap-says-glen-schofield/
+[Issue 4] https://www.pocketgamer.biz/character-platform-ego-ai-raises-67m-to-make-in-game-characters-more-human-like/
+[Issue 4] https://www.pcgamer.com/software/ai/palworld-studio-pocketpair-says-its-new-publishing-division-wont-handle-games-that-use-generative-ai-we-dont-believe-in-it/
+[Issue 4] https://www.gamesradar.com/games/dead-space/dead-space-creator-and-ex-call-of-duty-boss-glen-schofield-says-ai-is-the-right-investment-and-downplays-theft-concerns-picasso-said-good-artists-always-borrow-great-artists-steal/
+[Issue 5] https://www.videogameschronicle.com/news/nbcuniversal-signs-deal-with-law-order-creator-dick-wolfs-son-to-make-ai-generated-games-based-on-its-ip/#google_vignette
+[Issue 5] https://www.pcgamer.com/gaming-industry/tech-investor-declares-ai-games-are-going-to-be-amazing-posts-an-ai-generated-demo-of-a-god-awful-shooter-as-proof/
+[Issue 5] https://gamesbeat.com/jabali-creates-ai-platform-to-democratize-game-creation/
+[Issue 6] https://www.gamedeveloper.com/business/subnautica-owner-krafton-outlines-plans-to-transform-into-an-ai-first-company
+[Issue 6] https://www.roadtovr.com/meta-reshapes-metaverse-ai-divisions-amid-leadership-shifts/#google_vignette
+[Issue 6] https://www.gamesradar.com/games/even-under-usd20-million-in-debt-ea-reportedly-pushes-15-000-employees-to-use-ai-as-a-thought-partner-for-everything-from-character-art-to-playtesting/

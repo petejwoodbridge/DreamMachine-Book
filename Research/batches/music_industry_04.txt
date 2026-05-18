@@ -1,0 +1,33 @@
+# Research batch: music_industry #4
+# URLs: 30
+
+[Issue 14] https://routenote.com/blog/morgan-stanley-report-ai-music-listening-habits/
+[Issue 14] https://musically.com/2026/01/09/umg-boss-slams-exponential-growth-of-ai-slop-on-streaming-services/
+[Issue 14] https://www.digitalmusicnews.com/2026/01/13/musical-ai-funding-january-2026/
+[Issue 14] https://www.billboard.com/music/rb-hip-hop/asap-rocky-helicopter-video-not-ai-generated-1236153909/
+[Issue 14] https://soultracks.com/news-ai-generated-music-is-catchy-boring/
+[Issue 15] https://completemusicupdate.com/ai-music-creation-platform-udio-signs-deal-with-indie-label-licensing-body-merlin/
+[Issue 15] https://musictech.com/features/interviews/josh-baker-interview/
+[Issue 15] https://musically.com/2026/01/16/ai-music-firm-udio-is-recruiting-a-head-of-artist-partnerships/
+[Issue 15] https://musically.com/2026/01/15/x-will-now-block-grok-users-from-editing-people-into-bikinis/
+[Issue 16] https://www.digitalmusicnews.com/2026/01/23/spotify-ai-prompted-playlists-us-canada/
+[Issue 16] https://www.digitalmusicnews.com/2026/01/23/nvidia-accused-of-training-on-annas-archive/
+[Issue 16] https://www.soundonsound.com/news/ace-studio-and-eastwest-sounds-partnership
+[Issue 16] https://www.musicradar.com/guitars/guitar-amps/a-brand-new-amp-and-speaker-with-ai-vocal-and-instrument-separation-tech-jbls-new-bandbox-makes-it-easier-than-ever-to-craft-the-perfect-backing-track
+[Issue 16] https://musically.com/2026/01/23/landr-launches-ai-tools-for-musicians-blueprints-and-layers/
+[Issue 16] https://musically.com/2026/01/22/exploring-a-positive-future-for-ai-music-david-bowie-would-not-be-fearful-of-this/
+[Issue 16] https://www.musicbusinessworldwide.com/wixen-files-50m-copyright-suit-against-meta-claims-tech-giant-wants-to-replace-songwriters-with-ai/
+[Issue 16] https://www.digitalmusicnews.com/2026/01/22/youtube-ceo-ai-slop-2026-comments/
+[Issue 16] https://www.digitalmusicnews.com/2026/01/26/ai-licensing-shift-creative-weight-attribution/
+[Issue 16] https://www.digitalmusicnews.com/2026/01/22/stealing-isnt-innovation/
+[Issue 16] https://musically.com/2026/01/22/youtube-to-roll-out-ai-tools-to-experiment-with-music-this-year/
+[Issue 17] https://www.musicbusinessworldwide.com/umg-concord-and-abkco-sue-anthropic-for-3bn-in-what-could-be-single-largest-non-class-action-copyright-case-in-us-history/
+[Issue 17] https://www.digitalmusicnews.com/2026/01/30/apple-qai-acquisition/
+[Issue 17] https://musictech.com/news/industry/deezer-plans-to-license-its-ai-detection-tool/
+[Issue 17] https://www.musicbusinessworldwide.com/splice-acquires-ai-powered-voice-production-platform-kits-ai/
+[Issue 17] https://musically.com/2026/02/04/suno-exec-hits-out-at-walled-gardens-vision-for-genai-music/
+[Issue 17] https://www.digitalmusicnews.com/2026/01/29/suno-artist-partnership-team-addition/
+[Issue 17] https://completemusicupdate.com/uk-government-needs-to-urgently-address-creator-concerns-over-ai-say-two-new-studies/
+[Issue 17] https://www.musicradar.com/music-tech/lalal-ai-brings-its-ai-powered-stem-separation-into-your-daw-with-its-first-plugin
+[Issue 17] https://www.digitalmusicnews.com/2026/01/29/who-is-worried-about-ai-study/
+[Issue 18] https://www.musicbusinessworldwide.com/spotify-eyes-ai-derivatives-as-new-revenue-stream-for-artists-and-says-its-tech-to-let-fans-make-remixes-covers-is-ready/

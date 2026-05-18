@@ -1,0 +1,76 @@
+Total URLs to attempt: 1,520
+Already cached: 20
+To fetch: 1500
+  [  25/1500] 7.0/s — {'connection_error': 1, 'ok': 22, 'http_403': 1, 'http_400': 1}
+  [  50/1500] 6.8/s — {'connection_error': 2, 'ok': 45, 'http_403': 1, 'http_400': 1, 'http_404': 1}
+  [  75/1500] 5.8/s — {'connection_error': 2, 'ok': 70, 'http_403': 1, 'http_400': 1, 'http_404': 1}
+  [ 100/1500] 5.7/s — {'connection_error': 2, 'ok': 93, 'http_403': 3, 'http_400': 1, 'http_404': 1}
+  [ 125/1500] 5.4/s — {'connection_error': 2, 'ok': 113, 'http_403': 6, 'http_400': 1, 'http_404': 2, 'timeout': 1}
+  [ 150/1500] 5.3/s — {'connection_error': 2, 'ok': 134, 'http_403': 8, 'http_400': 1, 'http_404': 4, 'timeout': 1}
+  [ 175/1500] 5.2/s — {'connection_error': 2, 'ok': 159, 'http_403': 8, 'http_400': 1, 'http_404': 4, 'timeout': 1}
+  [ 200/1500] 5.4/s — {'connection_error': 2, 'ok': 183, 'http_403': 8, 'http_400': 1, 'http_404': 5, 'timeout': 1}
+  [ 225/1500] 5.4/s — {'connection_error': 2, 'ok': 205, 'http_403': 10, 'http_400': 1, 'http_404': 6, 'timeout': 1}
+  [ 250/1500] 5.5/s — {'connection_error': 2, 'ok': 230, 'http_403': 10, 'http_400': 1, 'http_404': 6, 'timeout': 1}
+  [ 275/1500] 5.5/s — {'connection_error': 2, 'ok': 252, 'http_403': 12, 'http_400': 1, 'http_404': 7, 'timeout': 1}
+  [ 300/1500] 5.4/s — {'connection_error': 2, 'ok': 276, 'http_403': 13, 'http_400': 1, 'http_404': 7, 'timeout': 1}
+  [ 325/1500] 5.6/s — {'connection_error': 2, 'ok': 300, 'http_403': 13, 'http_400': 1, 'http_404': 8, 'timeout': 1}
+  [ 350/1500] 5.6/s — {'connection_error': 2, 'ok': 323, 'http_403': 14, 'http_400': 1, 'http_404': 9, 'timeout': 1}
+  [ 375/1500] 5.7/s — {'connection_error': 2, 'ok': 348, 'http_403': 14, 'http_400': 1, 'http_404': 9, 'timeout': 1}
+  [ 400/1500] 5.8/s — {'connection_error': 2, 'ok': 370, 'http_403': 15, 'http_400': 1, 'http_404': 11, 'timeout': 1}
+  [ 425/1500] 5.8/s — {'connection_error': 2, 'ok': 390, 'http_403': 16, 'http_400': 1, 'http_404': 14, 'timeout': 1, 'http_500': 1}
+  [ 450/1500] 5.8/s — {'connection_error': 3, 'ok': 409, 'http_403': 18, 'http_400': 2, 'http_404': 16, 'timeout': 1, 'http_500': 1}
+  [ 475/1500] 6.0/s — {'connection_error': 3, 'ok': 432, 'http_403': 18, 'http_400': 3, 'http_404': 17, 'timeout': 1, 'http_500': 1}
+  [ 500/1500] 6.2/s — {'connection_error': 3, 'ok': 456, 'http_403': 18, 'http_400': 3, 'http_404': 18, 'timeout': 1, 'http_500': 1}
+  [ 525/1500] 6.3/s — {'connection_error': 3, 'ok': 478, 'http_403': 20, 'http_400': 3, 'http_404': 19, 'timeout': 1, 'http_500': 1}
+  [ 550/1500] 6.5/s — {'connection_error': 3, 'ok': 499, 'http_403': 22, 'http_400': 3, 'http_404': 21, 'timeout': 1, 'http_500': 1}
+  [ 575/1500] 6.6/s — {'connection_error': 3, 'ok': 523, 'http_403': 22, 'http_400': 3, 'http_404': 22, 'timeout': 1, 'http_500': 1}
+  [ 600/1500] 6.7/s — {'connection_error': 3, 'ok': 545, 'http_403': 23, 'http_400': 4, 'http_404': 23, 'timeout': 1, 'http_500': 1}
+  [ 625/1500] 6.6/s — {'connection_error': 3, 'ok': 569, 'http_403': 23, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1}
+  [ 650/1500] 6.6/s — {'connection_error': 3, 'ok': 594, 'http_403': 23, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1}
+  [ 675/1500] 6.5/s — {'connection_error': 3, 'ok': 619, 'http_403': 23, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1}
+  [ 700/1500] 6.4/s — {'connection_error': 3, 'ok': 642, 'http_403': 24, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 725/1500] 6.2/s — {'connection_error': 3, 'ok': 665, 'http_403': 26, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 750/1500] 6.1/s — {'connection_error': 3, 'ok': 686, 'http_403': 30, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 775/1500] 6.0/s — {'connection_error': 3, 'ok': 710, 'http_403': 31, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 800/1500] 6.0/s — {'connection_error': 3, 'ok': 735, 'http_403': 31, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 825/1500] 6.0/s — {'connection_error': 3, 'ok': 760, 'http_403': 31, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 850/1500] 6.0/s — {'connection_error': 3, 'ok': 784, 'http_403': 32, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 875/1500] 5.9/s — {'connection_error': 3, 'ok': 809, 'http_403': 32, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 900/1500] 5.9/s — {'connection_error': 3, 'ok': 834, 'http_403': 32, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 925/1500] 5.9/s — {'connection_error': 3, 'ok': 856, 'http_403': 35, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 950/1500] 5.8/s — {'connection_error': 3, 'ok': 877, 'http_403': 39, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [ 975/1500] 5.9/s — {'connection_error': 3, 'ok': 898, 'http_403': 43, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [1000/1500] 5.9/s — {'connection_error': 3, 'ok': 923, 'http_403': 43, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1}
+  [1025/1500] 5.9/s — {'connection_error': 3, 'ok': 945, 'http_403': 45, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1050/1500] 5.8/s — {'connection_error': 3, 'ok': 966, 'http_403': 49, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1075/1500] 5.8/s — {'connection_error': 3, 'ok': 990, 'http_403': 50, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1100/1500] 5.7/s — {'connection_error': 3, 'ok': 1015, 'http_403': 50, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1125/1500] 5.8/s — {'connection_error': 3, 'ok': 1039, 'http_403': 51, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1150/1500] 5.7/s — {'connection_error': 3, 'ok': 1062, 'http_403': 53, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1175/1500] 5.8/s — {'connection_error': 3, 'ok': 1084, 'http_403': 56, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1200/1500] 5.8/s — {'connection_error': 3, 'ok': 1107, 'http_403': 58, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1225/1500] 5.8/s — {'connection_error': 3, 'ok': 1125, 'http_403': 65, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1250/1500] 5.8/s — {'connection_error': 3, 'ok': 1147, 'http_403': 68, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1275/1500] 5.8/s — {'connection_error': 3, 'ok': 1166, 'http_403': 74, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1300/1500] 5.7/s — {'connection_error': 3, 'ok': 1184, 'http_403': 81, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1325/1500] 5.7/s — {'connection_error': 3, 'ok': 1202, 'http_403': 88, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1350/1500] 5.6/s — {'connection_error': 3, 'ok': 1225, 'http_403': 90, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1375/1500] 5.6/s — {'connection_error': 3, 'ok': 1246, 'http_403': 94, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1400/1500] 5.4/s — {'connection_error': 3, 'ok': 1271, 'http_403': 94, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1425/1500] 5.3/s — {'connection_error': 3, 'ok': 1296, 'http_403': 94, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1450/1500] 5.2/s — {'connection_error': 3, 'ok': 1321, 'http_403': 94, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1475/1500] 5.1/s — {'connection_error': 3, 'ok': 1345, 'http_403': 95, 'http_400': 4, 'http_404': 24, 'timeout': 1, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+  [1500/1500] 4.9/s — {'connection_error': 3, 'ok': 1368, 'http_403': 96, 'http_400': 4, 'http_404': 24, 'timeout': 2, 'http_500': 1, 'http_401': 1, 'http_503': 1}
+
+=== Manifest written to d:/VSCODE PROJECTS/DreamMachine Book/Research/manifest.json ===
+Total records: 1520
+OK (text captured): 1388 (91.3%)
+                    ok: 1388
+              http_403: 96
+              http_404: 24
+              http_400: 4
+      connection_error: 3
+               timeout: 2
+              http_500: 1
+              http_401: 1
+              http_503: 1

@@ -1,0 +1,16 @@
+# Research batch: blog_essay #1
+# URLs: 13
+
+[Issue 4] https://en.wikipedia.org/wiki/Dead_Internet_theory
+[Issue 4] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=40A39351-5419-4681-94DF-31A53480B698&issueId=0C289FFD-DFF6-418F-9C6C-4DDA1DB4C0C3&copyId=8B8E9CF5-D7AA-4C1B-B89D-553A691795A2
+[Issue 8] https://thereader.mitpress.mit.edu/the-prompt-engineer-is-the-artist-of-our-age/
+[Issue 8] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=40A39351-5419-4681-94DF-31A53480B698&issueId=1B6147A6-B568-48DC-97CA-08DB43171ADB&copyId=4370D441-6188-4F71-A946-83FD8474CE1B
+[Issue 11] https://medium.com/@imogenheap/what-do-musicians-do-about-genai-3ff458f955f0
+[Issue 13] https://substack.com/home/post/p-183997149
+[Issue 13] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=40A39351-5419-4681-94DF-31A53480B698&issueId=58E986AD-821F-422E-9E34-3386E0E2272B&copyId=2DB8E453-8E83-416C-949B-44751F252A8D
+[Issue 14] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=6F25CE2D-CD64-4672-BB9F-F38843D4ECE2&issueId=4238597B-4CC9-4622-ADCB-31475D8CDCBB&copyId=19015C91-06A4-44A3-9CBF-99F01AECFD07
+[Issue 14] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=40A39351-5419-4681-94DF-31A53480B698&issueId=025444D1-A590-46D8-B969-EF81DEE05228&copyId=1B5F70D2-FFDA-4660-9CE9-047C9B16BF83
+[Issue 14] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=40A39351-5419-4681-94DF-31A53480B698&issueId=025444D1-A590-46D8-B969-EF81DEE05228&copyId=4A1F368B-BE16-4BD1-A3F7-E40094170DD3
+[Issue 14] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=7325D171-85C1-4A99-9773-4FE6659490B5&issueId=B0D88201-67BB-4A4F-991C-2314EF40B4B0&copyId=52E0571A-3641-445D-A2E1-1467CE8AC7E7
+[Issue 15] https://newsletter.smartbrief.com/sharedSummary/index.jsp?briefId=40A39351-5419-4681-94DF-31A53480B698&issueId=BB455C40-B34B-4146-AE2A-31C76268C91C&copyId=A937F2E5-2E5A-427B-A0F7-C8F792C0A91F
+[Issue 25] https://geekycuriosity.substack.com/p/midjourney-v81-is-here-and-it-feels

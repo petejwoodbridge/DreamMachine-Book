@@ -1,0 +1,33 @@
+# Research batch: music_industry #1
+# URLs: 30
+
+[Issue 1] https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/
+[Issue 1] https://musically.com/2025/10/02/report-umg-and-wmg-could-sign-landmark-ai-deals-within-weeks/
+[Issue 1] https://musictech.com/news/industry/its-shocking-disheartening-and-insulting-cardiff-band-speaks-out-after-ai-artist-trained-on-their-music-outperforms-them-on-spotify/
+[Issue 1] https://musically.com/2025/10/02/google-wants-ai-regulators-to-oversee-outputs-not-inputs/
+[Issue 2] https://www.nme.com/news/gaming-news/baldurs-gate-3-boss-bashes-elon-musks-great-ai-game-plan-3898005
+[Issue 2] https://musically.com/2025/10/09/oasiz-raises-2-5m-for-its-tiktok-meets-roblox-ugc-games-service/
+[Issue 2] https://newsroom.spotify.com/2025-10-06/spotify-personalized-prompts-chatgpt/
+[Issue 2] https://musictech.com/news/gear/groundhog-audio-onepedal-ai-tone-matching/
+[Issue 2] https://musically.com/2025/10/08/music-publishers-to-proceed-with-revised-anthropic-lawsuit/
+[Issue 2] https://www.hypebot.com/hypebot/2025/10/how-toprotect-music-from-ai-misuse.html
+[Issue 2] https://musically.com/2025/10/07/ai-band-bleeding-verses-creator-signs-deal-with-hallwood-media/
+[Issue 2] https://www.musicbusinessworldwide.com/jyp-entertainment-is-hiring-for-ai-and-unreal-engine-experts-to-develop-an-unprecedented-virtual-kpop-artist/
+[Issue 2] https://www.musicbusinessworldwide.com/ai-music-tech-startup-claimy-raises-1-8m-to-tackle-missing-royalty-payments/
+[Issue 2] https://musically.com/2025/10/06/spotify-co-ceos-want-to-avoid-one-decision-about-genai-music/
+[Issue 2] https://www.digitalmusicnews.com/2025/10/08/openais-likeness-protections-dont-apply-to-dead-celebrities/
+[Issue 2] https://press.dittomusic.com/only-10-of-music-makers-would-listen-to-ai-generated-music
+[Issue 2] https://press.dittomusic.com/48-of-artists-use-ai-to-make-music-fewer-than-in-2023
+[Issue 3] https://musically.com/2025/10/14/umg-boss-sir-lucian-grainge-talks-ai-full-internal-memo/
+[Issue 3] https://musictech.com/reviews/plug-ins/izotope-ozone-12-review/
+[Issue 3] https://www.hypebot.com/hypebot/2025/10/new-ticketmaster-president-to-lead-ai-transformation-amid-legal-battles.html
+[Issue 3] https://au.rollingstone.com/music/music-news/hiatus-kaiyote-genesis-owusu-king-gizzard-more-sign-petition-against-ai-generated-music-uploads-85683/
+[Issue 3] https://musically.com/2025/10/16/spotify-to-build-artist-first-ai-music-products-with-major-labels-and-indies/
+[Issue 4] https://www.musicradar.com/artists/meet-the-ai-artist-thats-earning-four-times-the-average-wage-in-the-uk
+[Issue 4] https://completemusicupdate.com/new-udio-lawsuit-hones-in-on-the-significant-and-unequal-harm-inflicted-on-independent-musicians-by-music-ai/
+[Issue 4] https://musictech.com/news/music/grimes-new-song-artificial-angel-ai-pov/
+[Issue 4] https://musically.com/2025/10/20/meet-lenny-an-ai-agent-to-help-organisers-of-live-music-events/
+[Issue 4] https://www.musicbusinessworldwide.com/tuned-global-acquires-london-based-ai-audio-search-firm-figaro-ai/
+[Issue 4] https://www.digitalmusicnews.com/2025/10/20/suno-funding-round-october-2025/
+[Issue 4] https://www.digitalmusicnews.com/2025/10/20/virtual-influencers-out-earn-humans/
+[Issue 5] https://www.nme.com/news/gaming-news/the-office-and-sex-and-the-city-ai-video-games-3901630

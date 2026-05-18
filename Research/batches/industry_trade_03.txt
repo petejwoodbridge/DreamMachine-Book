@@ -1,0 +1,33 @@
+# Research batch: industry_trade #3
+# URLs: 30
+
+[Issue 8] https://www.hollywoodreporter.com/movies/movie-features/tilly-norwood-creator-particle6-eline-van-der-velden-talks-1236428824/
+[Issue 8] https://deadline.com/2025/11/beta-film-tv-ai-initiative-filmakademie-baden-wurttemberg-1236621237/
+[Issue 8] https://variety.com/2025/film/news/ai-drama-humans-in-the-loop-oscar-race-1236582975/
+[Issue 8] https://www.hollywoodreporter.com/business/business-news/inside-indie-films-ai-reckoning-1236424907/
+[Issue 8] https://www.hollywoodreporter.com/movies/movie-news/synthetic-sincerity-film-idfa-ai-authenticity-interview-1236426180/
+[Issue 8] https://variety.com/2025/film/festivals/ai-generated-images-threaten-future-of-documentary-1236583466/
+[Issue 8] https://www.marketingweek.com/dismiss-ai-ads-winning-creative-effectiveness/
+[Issue 9] https://www.screendaily.com/news/berlinale-asking-have-you-used-ai-of-submitted-films/5211259.article
+[Issue 9] https://www.broadcastnow.co.uk/industry-opinions/redefining-ai-as-augmented-intelligence/5211317.article
+[Issue 9] https://deadline.com/2025/11/castles-sos-ai-doc-sky-history-documentary-rick-edwards-1236627378/
+[Issue 9] https://www.tvtechnology.com/news/vizrt-launches-viz-one-8-1-with-ai-powered-features
+[Issue 10] https://martech.org/why-todays-ai-panic-feels-like-the-1990s-internet-all-over-again/
+[Issue 11] https://variety.com/2025/film/news/james-cameron-rejects-ai-actors-hainan-wouldnt-do-it-1236604204/
+[Issue 11] https://www.hollywoodreporter.com/movies/movie-news/leonardo-dicaprio-ai-cant-be-art-no-humanity-1236445405/
+[Issue 11] https://www.broadcastnow.co.uk/production-and-post/wonder-studios-adapts-childrens-book-to-animated-series-with-ai/5211713.article
+[Issue 11] https://deadline.com/2025/12/allison-gardner-joins-ai-start-up-my-smash-media-scotland-1236641471/
+[Issue 11] https://www.adweek.com/agencies/these-are-the-skills-agencies-say-will-define-2026/
+[Issue 11] https://adage.com/technology/meta/aa-ad-platfrom-ai-automation-impact-agencies-brands/
+[Issue 11] https://martech.org/when-everyone-has-ai-thinking-becomes-the-differentiator/
+[Issue 12] https://tvnewscheck.com/tech/article/storycentric-workflows-ai-help-broadcasters-meet-multiplatform-demand/
+[Issue 12] https://www.hollywoodreporter.com/news/general-news/slop-word-year-2025-merriam-webster-1236450780/
+[Issue 13] https://deadline.com/2025/12/charlie-brooker-ai-cinema-sora-disney-1236659172/
+[Issue 14] https://www.hollywoodreporter.com/tv/tv-news/emmys-ai-guidelines-2026-awards-1236468434/
+[Issue 14] https://www.marketingweek.com/ai-smes-tv-advertising/
+[Issue 14] https://www.broadcastprome.com/news/tunisian-filmmaker-wins-1-million-ai-film-award-for-lily/
+[Issue 14] https://www.adweek.com/creativity/when-everyone-has-the-tools-the-best-story-still-wins/
+[Issue 14] https://martechseries.com/sales-marketing/programmatic-buying/rakuten-advertising-unveils-innovation-labs-to-accelerate-ai-innovation-in-affiliate-marketing/
+[Issue 15] https://deadline.com/2026/01/matilda-mara-wilson-stranger-things-ai-deepfake-apocalypse-1236689474/
+[Issue 16] https://variety.com/2026/film/news/chris-pratt-ai-actor-villain-mercy-amazon-mgm-1236640460/
+[Issue 16] https://variety.com/2026/digital/news/tilly-norwood-creator-tells-actors-to-create-ai-avatars-1236638940/

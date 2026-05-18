@@ -1,0 +1,28 @@
+# Research batch: games_industry #2
+# URLs: 25
+
+[Issue 6] https://www.pcgamer.com/games/action/humans-who-create-things-can-beat-technology-touhou-project-creator-criticises-generative-ai-despite-using-generative-ai-in-his-own-videogame/
+[Issue 7] https://www.pcgamer.com/gaming-industry/square-enix-aims-to-have-ai-doing-70-percent-of-its-qa-work-by-the-end-of-2027-which-seems-like-itd-be-hard-to-achieve-without-laying-off-most-of-your-qa-workers/
+[Issue 7] https://www.gamesindustry.biz/epics-tim-sweeney-wades-into-the-arc-raiders-ai-row
+[Issue 7] https://www.eurogamer.net/hoyoverse-releases-first-tease-for-new-unreal-engine-5-fantasy-mmo-and-yes-it-uses-ai
+[Issue 7] https://80.lv/articles/despite-the-hype-only-22-of-3d-artists-regularly-use-ai
+[Issue 7] https://80.lv/articles/how-to-create-simple-animations-using-3d-gaussian-splats
+[Issue 8] https://80.lv/articles/gen-z-loves-ai-slop-former-square-enix-director-says-that-ai-hate-is-driven-by-emotion-not-logic
+[Issue 8] https://www.gamesradar.com/games/former-playstation-boss-says-that-the-indie-scene-is-developing-creative-uses-for-ai-and-that-it-can-only-take-shape-so-quickly-thanks-to-their-effort/
+[Issue 8] https://www.gamesindustry.biz/in-the-mirror-world-of-mobile-ai-outrage-is-remarkably-absent
+[Issue 8] https://www.pcgamer.com/games/city-builder/despite-mixed-steam-reviews-and-a-touch-of-ai-slop-strategy-city-builder-anno-117-pax-romana-has-the-best-launch-in-series-history/
+[Issue 8] https://www.gamesindustry.biz/unity-on-ai-new-tools-and-recovering-from-the-runtime-fee
+[Issue 8] https://www.videogameschronicle.com/news/surely-theres-a-middle-ground-here-helldivers-studio-ceo-says-people-jump-to-extreme-takes-when-debating-genai/#google_vignette
+[Issue 8] https://www.videogameschronicle.com/news/it-honestly-sucks-fans-think-call-of-duty-black-ops-7-is-filled-with-generative-ai-art/#google_vignette
+[Issue 8] https://www.videogameschronicle.com/news/ubisoft-says-ai-generated-art-in-anno-117-was-a-placeholder-which-slipped-through-our-review-process/#google_vignette
+[Issue 9] https://decrypt.co/349865/assassins-creed-maker-ubisoft-unveils-game-powered-generative-ai
+[Issue 9] https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/
+[Issue 9] https://www.gamesindustry.biz/ai-assets-are-an-unconscionable-risk-for-premium-priced-games-opinion-1
+[Issue 9] https://www.videogameschronicle.com/features/the-future-of-gaming-or-just-a-tool-hands-on-with-teammates-ubisofts-ambitious-voice-ai-tech-demo/
+[Issue 9] https://gamesbeat.com/fifth-door-raises-20m-for-ai-powered-game-creation/
+[Issue 9] https://www.gamesindustry.biz/witcher-3-and-cyberpunk-2077-director-says-ai-can-help-but-not-replace-creatives
+[Issue 9] https://www.pocketgamer.biz/tencent-rolls-out-hunyuan-3d-engine-for-ai-driven-asset-creation/
+[Issue 10] https://www.polygon.com/let-it-die-inferno-ai-generated-content/
+[Issue 10] https://www.polygon.com/fortnite-chapter-7-season-1-generative-ai-art-epic-games/
+[Issue 10] https://www.eurogamer.net/execs-pushing-ai-not-humane-creative-rockstar-co-founder-mad-cow-disease
+[Issue 10] https://www.videogameschronicle.com/news/a-japanese-game-studio-now-asks-art-applicants-to-draw-a-picture-during-the-interview-to-prove-they-dont-just-use-genai/#google_vignette

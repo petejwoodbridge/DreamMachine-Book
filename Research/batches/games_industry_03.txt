@@ -1,0 +1,28 @@
+# Research batch: games_industry #3
+# URLs: 25
+
+[Issue 11] https://www.gamesradar.com/entertainment/animation-movies/wallace-and-gromit-creator-says-beloved-animation-studio-aardman-will-embrace-the-technology-of-ai-but-will-be-very-cautious-not-to-lose-our-values/
+[Issue 11] https://www.ign.com/articles/developer-of-new-postal-game-shuts-down-studio-after-game-was-announced-then-canceled-over-gen-ai-allegations
+[Issue 11] https://www.videogameschronicle.com/news/sega-says-it-will-use-ai-in-game-development-but-only-in-appropriate-use-cases/#google_vignette
+[Issue 11] https://www.pocketgamer.biz/merge-mayor-developer-starberry-games-goes-all-in-on-ai/
+[Issue 11] https://www.pcgamer.com/gaming-industry/todd-howard-says-ai-cant-replace-human-creative-intention-but-its-part-of-bethesdas-toolset-for-how-we-build-our-worlds-or-check-things/
+[Issue 11] https://www.videogameschronicle.com/news/dragon-quest-creator-yuji-horii-says-hed-like-to-add-an-ai-chatbot-into-one-of-his-future-games/
+[Issue 11] https://www.uploadvr.com/android-xr-getting-system-autospatialization-turn-any-content-3d/
+[Issue 12] https://www.eurogamer.net/falcom-is-the-latest-developer-to-buy-into-the-ai-hype-machine
+[Issue 12] https://www.gamesindustry.biz/a-look-back-at-the-games-industrys-turbulent-year-in-ai-year-in-review-1
+[Issue 12] https://gamesbeat.com/artificial-intelligence-in-gaming-hollywood/
+[Issue 13] https://www.gamesindustry.biz/nobody-wants-ai-slop-joost-van-dreunen-on-the-future-of-ai-and-the-shifting-economics-of-the-games-industry
+[Issue 13] https://www.techspot.com/news/110792-open-source-tool-uses-ai-translate-japanese-retro.html
+[Issue 13] https://www.pocketgamer.biz/ai-powered-game-creation-platform-gamebyte-raises-1m/
+[Issue 14] https://www.pocketgamer.biz/shift-up-ceo-says-ai-is-key-to-competing-with-chinas-game-industry-scale/
+[Issue 14] https://decrypt.co/354482/warhammer-40000-maker-games-workshop-rules-out-generative-ai
+[Issue 14] https://nichegamer.com/larian-studios-backs-off-from-gen-ai/
+[Issue 14] https://nichegamer.com/manor-lords-publisher-hooded-horse-wont-work-with-devs-using-gen-ai/
+[Issue 14] https://gamesbeat.com/as-nvidia-rolls-out-dlss-4-5-ai-upscaling-is-becoming-a-standard-practice-in-gaming/
+[Issue 14] https://nichegamer.com/nexon-producer-slams-ai-slop-says-consumers-naturally-react-negatively/
+[Issue 14] https://www.videogameschronicle.com/news/an-indie-developer-is-delisting-his-steam-game-because-his-new-girlfriend-convinced-him-its-use-of-ai-is-a-disgrace/
+[Issue 15] https://80.lv/articles/steam-has-clarified-its-rules-on-the-use-of-ai-in-video-games
+[Issue 15] https://www.ign.com/articles/art-may-still-be-created-with-the-same-tools-that-created-the-slop-razer-ceo-believes-gamers-will-eventually-come-around-on-generative-ai-use-in-development
+[Issue 16] https://80.lv/articles/amidst-all-its-problems-ubisoft-plans-to-pour-even-more-money-into-generative-ai
+[Issue 16] https://www.gamesindustry.biz/runescape-maker-jagex-says-it-will-never-use-generative-ai-to-make-in-game-content
+[Issue 17] https://www.videogameschronicle.com/news/numerous-video-game-company-share-prices-dropped-following-googles-project-genie-ai-rollout/

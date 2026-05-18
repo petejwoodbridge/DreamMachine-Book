@@ -1,0 +1,33 @@
+# Research batch: tech_press #1
+# URLs: 30
+
+[Issue 1] https://futurism.com/artificial-intelligence/lionsgate-movies-ai
+[Issue 1] https://www.forbes.com/sites/dougmelville/2025/09/27/al-singer-xania-monet-just-charted-on-billboard-signed-3m-deal-is-this-the-future-of-music/
+[Issue 1] https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/
+[Issue 1] https://www.forbes.com/sites/stevenwolfepereira/2025/06/24/ai-is-ending-marketing-as-we-know-itso-what-comes-next/
+[Issue 1] https://www.techradar.com/ai-platforms-assistants/i-tried-suno-studio-the-new-platform-that-mixes-ai-music-generation-with-hands-on-editing-like-garageband-but-smarter
+[Issue 2] https://www.creativebloq.com/entertainment/movies-tv-shows/spike-jonzes-surreal-gucci-movie-shows-how-filmmakers-can-really-use-ai
+[Issue 2] https://www.artificialintelligence-news.com/news/marketing-ai-boom-faces-crisis-of-consumer-trust/
+[Issue 2] https://www.forbes.com/sites/ronschmelzer/2025/10/09/samsung-ai-research-team-builds-a-tiny-model-with-big-powe/
+[Issue 2] https://www.techradar.com/ai-platforms-assistants/musicians-meet-your-ethical-ai-bandmates?utm_source=chatgpt.com
+[Issue 3] https://www.engadget.com/directv-will-start-replacing-screensavers-with-ai-generated-ads-next-year-224436035.html?src=rss
+[Issue 3] https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/
+[Issue 3] https://www.techradar.com/audio/youtube-music-is-channeling-spotifys-ai-dj-with-this-new-feature-and-early-testers-love-it-despite-one-big-frustration
+[Issue 3] https://www.forbes.com/sites/johnbbrandon/2025/10/10/mrbeast-is-right-about-ai-content-but-are-we-really-in-scary-times/
+[Issue 3] https://digiday.com/marketing/advertising-week-briefing-podcast-industry-juggles-using-ai-tools-with-maintaining-mediums-intimacy/
+[Issue 4] https://futurism.com/social-network-ai-intervention-echo-chamber
+[Issue 4] https://www.cnbc.com/2025/10/22/netflix-all-in-on-leveraging-ai-in-its-streaming-platform.html
+[Issue 4] https://www.businessinsider.com/marc-andreessen-ai-hollywood-movies-2025-10
+[Issue 4] https://www.businessinsider.com/ai-video-game-industry-grand-theft-auto-2025-10
+[Issue 4] https://techbullion.com/how-musick-ai-is-revolutionizing-music-creation-for-modern-artists/
+[Issue 4] https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enterprises/
+[Issue 5] https://www.creativeboom.com/news/adobe-is-putting-ai-in-everything-everywhere-all-at-once/
+[Issue 5] https://futurism.com/artificial-intelligence/ai-animal-actors-work
+[Issue 5] https://www.businessinsider.com/ai-dog-podcasters-dogpack-sign-with-talent-giant-wme-2025-10
+[Issue 5] https://futurism.com/artificial-intelligence/ea-attempts-use-ai-game-development-backfiring
+[Issue 5] https://www.tomshardware.com/video-games/pc-gaming/microsoft-says-gaming-copilot-uses-screenshots-to-understand-in-game-events-not-for-training-ai-models-optional-feature-can-be-turned-off-but-not-easily-uninstalled
+[Issue 5] https://www.creativebloq.com/3d/video-game-design/why-the-games-industrys-ai-revolution-is-its-biggest-battle-yet
+[Issue 5] https://www.theinformation.com/articles/openai-plots-generating-ai-music-potential-rivalry-startup-suno
+[Issue 5] https://www.zdnet.com/article/canvas-new-creative-operating-system-wants-to-be-your-one-stop-shop-for-ai-design/
+[Issue 5] https://www.zdnet.com/article/google-labs-free-new-experiment-creates-ai-generated-ads-for-your-small-business/
+[Issue 5] https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/

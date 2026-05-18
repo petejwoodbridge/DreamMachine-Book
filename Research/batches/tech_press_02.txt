@@ -1,0 +1,33 @@
+# Research batch: tech_press #2
+# URLs: 30
+
+[Issue 5] https://www.edtechinnovationhub.com/news/meta-and-hugging-face-launch-openenv-to-advance-open-source-agentic-development
+[Issue 5] https://www.forbes.com/sites/carolinecastrillon/2025/09/09/ai-tools-flood-workplaces-as-employees-face-a-double-bind/
+[Issue 6] https://www.cnbc.com/2025/10/31/gaming-billionaire-prepare-for-ai-to-completely-disrupt-everything.html
+[Issue 6] https://techbullion.com/ai-music-genre-transformation-ukulele/
+[Issue 6] https://digiday.com/media/how-the-times-is-using-ai-to-model-synthetic-focus-groups-from-human-audiences/
+[Issue 6] https://digiday.com/media-buying/agencies-continue-to-expand-ai-capabilities-to-boost-brand-performance/
+[Issue 6] https://techbullion.com/how-ai-image-editing-is-reshaping-the-future-of-digital-design/
+[Issue 6] https://digiday.com/marketing/independent-agencies-face-new-frontier-as-agency-in-a-box-tools-democratize-creativity/
+[Issue 6] https://www.forbes.com/sites/tarungalagali/2025/08/25/ais-impact-on-generation-z/
+[Issue 7] https://digiday.com/marketing/brands-and-influencers-are-not-including-intellectual-property-clauses-addressing-ai-in-their-deals/
+[Issue 7] https://digiday.com/media/daily-mail-says-google-ai-overviews-have-killed-click-throughs/
+[Issue 7] https://www.marketingdive.com/news/how-corona-cero-mixed-ai-human-insights-to-find-olympic-gold/804930/
+[Issue 7] https://digiday.com/marketing/ai-agent-developers-have-become-adlands-in-demand-role/
+[Issue 7] https://techbullion.com/ai-worldbuilding-when-imagination-meets-intelligent-creation/
+[Issue 7] https://digiday.com/marketing/why-ai-and-synthetic-social-arent-driving-up-creator-value-yet/
+[Issue 7] https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html
+[Issue 8] https://www.forbes.com/sites/charliefink/2025/11/13/who-owns-the-dreams-of-an-ai-machine/
+[Issue 8] https://www.forbes.com/sites/rachelwells/2025/11/06/the-in-demand-ai-skill-and-certifications-that-pays-up-to-220000/
+[Issue 8] https://digiday.com/media-buying/media-agencies-use-ai-search-insights-to-predict-what-audiences-want/
+[Issue 8] https://www.marketingdive.com/news/will-amazons-ai-powered-one-stop-shop-for-advertising-change-the-game/805547/
+[Issue 9] https://techbullion.com/ai-in-video-production-the-future-of-creativity-meets-authentic-storytelling/
+[Issue 9] https://www.engadget.com/ai/you-can-now-watch-a-google-deepmind-doc-for-free-184911659.html?src=rss
+[Issue 9] https://futurism.com/artificial-intelligence/gaming-exec-gen-z-loves-ai-slop
+[Issue 9] https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/
+[Issue 9] https://www.businessinsider.com/mrbeast-former-employee-startup-cofounder-palo-creators-ai-2025-11
+[Issue 9] https://techbullion.com/playing-the-long-game-with-a-portfolio-career-why-the-future-belongs-to-multi-skilled-leaders/
+[Issue 9] https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html
+[Issue 10] https://www.forbes.com/sites/charliefink/2025/12/01/ai-slips-in-where-hollywood-is-weakest/
+[Issue 10] https://futurism.com/artificial-intelligence/gaming-exec-furious-steam-ai-label
+[Issue 10] https://techbullion.com/dah-gg-levels-up-ai-gaming-with-interactive-platform-launch-and-two-new-game-experiences/

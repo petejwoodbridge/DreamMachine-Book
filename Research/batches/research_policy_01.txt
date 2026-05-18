@@ -1,0 +1,23 @@
+# Research batch: research_policy #1
+# URLs: 20
+
+[Issue 2] https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society
+[Issue 3] https://www.wipo.int/en/web/wipo-magazine/articles/could-ai-music-be-the-industrys-next-napster-moment-75538
+[Issue 4] https://www.imperva.com/blog/2025-imperva-bad-bot-report-how-ai-is-supercharging-the-bot-threat/
+[Issue 4] https://www.grandviewresearch.com/industry-analysis/generative-ai-content-creation-market-report
+[Issue 4] https://humanityai.ai/
+[Issue 4] https://www.dayforce.com/blog/ai-buzz-into-business-value
+[Issue 6] https://www.youthmusic.org.uk/news/generation-ai-how-young-musicians-are-embracing-ai
+[Issue 7] https://www.gov.uk/government/publications/ai-skills-for-the-uk-workforce
+[Issue 8] https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/tmt-predictions-hollywood-cautious-of-genai-adoption.html
+[Issue 9] https://reutersinstitute.politics.ox.ac.uk/ai-adoption-uk-journalists-and-their-newsrooms-surveying-applications-approaches-and-attitudes
+[Issue 9] https://www.ana.net/miccontent/showvideo/id/ps-2025-11-onscope-ai-gartner-underperformance
+[Issue 12] https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act
+[Issue 12] https://www.equity.org.uk/news/2025/performers-prepared-to-take-industrial-action-over-ai-in-landslide-99-vote
+[Issue 12] https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251216-3
+[Issue 15] https://www.equity.org.uk/news/2026/equity-welcomes-improved-offer-in-ai-protection-negotiations-in-film-and-tv
+[Issue 16] https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future
+[Issue 16] https://www.prsformusic.com/m-magazine/news/prs-for-music-ai-survey-2026
+[Issue 16] https://www.bain.com/insights/in-an-ai-age-people-still-want-the-radio-star/
+[Issue 16] https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030
+[Issue 23] https://apply-for-innovation-funding.service.gov.uk/competition/2419/overview/bb8d7d28-0e63-4ee1-bf4a-790dfb3ae02f

@@ -1,0 +1,29 @@
+# Research batch: primary_press #3
+# URLs: 26
+
+[Issue 15] https://www.project-syndicate.org/onpoint/ai-takeover-of-media-will-be-sweeping-and-profound-by-charles-ferguson-2026-01
+[Issue 15] https://www.bbc.co.uk/news/articles/cvgjn012k3do
+[Issue 16] https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher?utm_source=chatgpt.com
+[Issue 16] https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher
+[Issue 16] https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme
+[Issue 16] https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia
+[Issue 16] https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/
+[Issue 17] https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/
+[Issue 18] https://www.reuters.com/business/media-telecom/amazon-plans-use-ai-speed-up-tv-film-production-2026-02-04/
+[Issue 18] https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/
+[Issue 18] https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers
+[Issue 18] https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels
+[Issue 18] https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation
+[Issue 19] https://www.bbc.co.uk/news/articles/c93wq6xqgy1o
+[Issue 19] https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie
+[Issue 20] https://www.bbc.co.uk/mediacentre/2026/bbc-ai-unpacked-to-launch
+[Issue 21] https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
+[Issue 21] https://www.bbc.co.uk/news/articles/cvg1gr5v333o
+[Issue 21] https://www.fastcompany.com/91510683/great-dictator-deepfakes-sxsw
+[Issue 21] https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers
+[Issue 22] https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai
+[Issue 22] https://www.bbc.co.uk/news/articles/cy57593gxe0o
+[Issue 22] https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&smid=url-share
+[Issue 23] https://www.theguardian.com/technology/2026/mar/26/tilly-norwood-ai-actor-creator-backlash-death-threats
+[Issue 23] https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves
+[Issue 23] https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says

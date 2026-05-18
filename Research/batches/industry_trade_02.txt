@@ -1,0 +1,33 @@
+# Research batch: industry_trade #2
+# URLs: 30
+
+[Issue 4] https://adage.com/technology/ai/aa-ai-ad-of-the-week-teriyaki-madness/
+[Issue 5] https://variety.com/2025/film/news/watch-the-skies-us-theatrical-release-ai-dubbing-1236343110/
+[Issue 5] https://variety.com/2025/film/news/guillermo-del-toro-rather-die-generative-ai-frankenstein-1236561316/
+[Issue 5] https://www.hollywoodreporter.com/movies/movie-news/paul-schrader-first-ai-movie-1236409606/
+[Issue 5] https://campaignbrief.com/the-mill-to-relaunch-across-europe-and-asia-under-new-ownership-reopening-studios-in-london-seoul-and-bangalore-plus-us-plans/
+[Issue 5] https://www.campaignlive.co.uk/article/photoroom-takes-outernet-ai-photobooth-experience/1937216
+[Issue 5] https://campaignbrief.com/wpp-launches-ai-powered-marketing-platform-wpp-open-pro/
+[Issue 5] https://martechseries.com/sales-marketing/programmatic-buying/adcreative-ai-an-appier-group-company-launches-mobile-app-to-put-professional-ad-creation-in-everyones-pocket/
+[Issue 5] https://www.tvbeurope.com/production-post/slapshot-launches-ai-camera-tracking-solution
+[Issue 5] https://www.tvtechnology.com/news/vimeo-releases-new-ai-powered-creator-tools
+[Issue 6] https://variety.com/2025/biz/news/ai-short-films-adobe-max-firefly-1236566145/
+[Issue 6] https://www.indiewire.com/news/business/obsidian-studio-ai-production-company-imagine-entertainment-1235158619/
+[Issue 6] https://www.tvtechnology.com/news/the-battle-to-protect-broadcast-content-from-ai-has-just-begun
+[Issue 6] https://deadline.com/2025/11/ai-ed-gein-original-psycho-documentary-global-breakouts-1236605394/
+[Issue 6] https://variety.com/2025/gaming/news/sony-jabali-ai-ai-game-development-platform-1236566619/
+[Issue 6] https://www.adweek.com/creativity/coca-cola-uses-ai-to-rekindle-the-magic-of-its-holiday-ads/
+[Issue 6] https://martechseries.com/tv-advertising/brand-networks-expands-aimy-with-ai-powered-tv-advertising-built-on-comcasts-universal-ads-api/
+[Issue 7] https://deadline.com/2025/11/amazon-ai-studios-matt-newman-1236603477/
+[Issue 7] https://www.broadcastnow.co.uk/industry-opinions/what-producers-need-to-know-after-the-getty-ai-ruling/5210735.article
+[Issue 7] https://campaignbrief.com/welcome-to-the-machine-superlunar-launches-little-plastics-a-dystopian-film-about-a-proposed-plastics-reprocessing-facility/
+[Issue 7] https://deadline.com/2025/11/beta-film-ai-startup-chapter41-artificial-intelligence-1236612632/
+[Issue 7] https://deadline.com/2025/11/jeremy-renner-lawsuit-threat-ai-movie-1236611830/
+[Issue 7] https://variety.com/2025/scene/columns/george-clooney-ai-actors-movie-stars-1236579661/
+[Issue 7] https://www.hollywoodreporter.com/business/digital/kevin-reilly-ceo-kartel-ai-hbo-1236424692/
+[Issue 7] https://variety.com/2025/film/news/wanted-director-method-acting-ai-actors-1236579647/
+[Issue 7] https://adage.com/technology/ai/aa-ad-of-the-week-progressive-ai-generated-animals/
+[Issue 7] https://www.adweek.com/media/google-ai-agent-ads-analytics-advisor/
+[Issue 8] https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/
+[Issue 8] https://www.hollywoodreporter.com/business/business-news/disney-ai-future-1236430498/
+[Issue 8] https://variety.com/2025/digital/news/obsidian-ai-studio-imagine-entertainment-1236567045/

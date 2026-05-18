@@ -1,0 +1,30 @@
+# Research batch: primary_press #2
+# URLs: 27
+
+[Issue 9] https://www.bbc.co.uk/news/articles/cjdrl7lr039o
+[Issue 9] https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/
+[Issue 9] https://www.reuters.com/legal/litigation/european-lawmakers-seek-eu-wide-minimum-age-access-ai-chatbots-social-media-2025-11-26/
+[Issue 9] https://www.theguardian.com/australia-news/2025/nov/26/online-ghost-stores-accc-warning-christmas-black-friday-sales
+[Issue 9] https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening
+[Issue 9] https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad
+[Issue 10] https://www.theguardian.com/film/2025/dec/01/james-cameron-says-ai-actors-are-horrifying-to-me
+[Issue 10] https://www.bbc.co.uk/news/articles/cwyvjye18e9o
+[Issue 10] https://www.bbc.co.uk/news/articles/cwyvjyvn83go
+[Issue 10] https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify
+[Issue 11] https://www.theguardian.com/business/2025/dec/11/disney-open-ai-sora-video-deal
+[Issue 11] https://www.theguardian.com/games/2025/dec/10/i-bought-the-games-studio-behind-zombies-run-because-humanity-is-essential-to-storytelling
+[Issue 11] https://www.theguardian.com/music/2025/dec/05/musicians-must-embrace-unstoppable-force-of-ai-eurythmics-dave-stewart-urges
+[Issue 11] https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor
+[Issue 11] https://www.theguardian.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support
+[Issue 11] https://www.nature.com/articles/d41586-025-03915-7
+[Issue 12] https://www.ft.com/content/cbb102c9-dd94-479b-9c2d-bbeea2183666
+[Issue 12] https://www.theguardian.com/music/2025/dec/16/musicians-are-deeply-concerned-about-ai-so-why-are-the-major-labels-embracing-it
+[Issue 12] https://www.economist.com/business/2025/12/14/job-apocalypse-humbug-ai-is-creating-brand-new-occupations
+[Issue 12] https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025
+[Issue 13] https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026
+[Issue 14] https://www.bbc.co.uk/future/article/20251223-why-indian-cinema-is-awash-with-ai
+[Issue 14] https://www.bloomberg.com/news/videos/2026-01-11/is-ai-made-music-taking-over
+[Issue 14] https://www.vox.com/podcasts/474751/ai-music-suno-generator
+[Issue 14] https://www.fastcompany.com/91474131/governments-around-the-world-are-considering-bans-on-groks-app-over-ai-sexual-image-scandal?partner=rss&amp;utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss
+[Issue 15] https://www.bbc.co.uk/news/articles/cq6v83gq66eo
+[Issue 15] https://www.theguardian.com/music/2026/jan/19/ai-music-company-mikey-shulman-suna

@@ -1,0 +1,30 @@
+# Research batch: primary_press #1
+# URLs: 27
+
+[Issue 1] https://www.theguardian.com/us-news/2025/oct/04/openai-sora-violence-racism
+[Issue 2] https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/
+[Issue 2] https://www.theguardian.com/film/2025/oct/09/ai-film-making-omni-festival-mad-max-director-george-miller-interview
+[Issue 2] https://www.theguardian.com/music/2025/oct/09/classical-music-and-ai-by-tarik-oregan-composer-radio-3
+[Issue 2] https://www.theguardian.com/business/2025/oct/08/bank-of-england-warns-of-growing-risk-that-ai-bubble-could-burst
+[Issue 3] https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner
+[Issue 3] https://www.theguardian.com/technology/2025/oct/13/equity-threatens-mass-direct-action-over-use-of-actors-images-in-ai-content
+[Issue 3] https://www.ft.com/content/ac566346-53dd-4490-8d4c-5269906c64ee
+[Issue 3] https://www.theguardian.com/technology/2025/oct/14/openai-chatgpt-adult-erotic-content
+[Issue 4] https://www.theguardian.com/film/2025/oct/17/ai-data-scanning-film-tv-actors-crew
+[Issue 4] https://www.bbc.co.uk/bitesize/articles/zbtrp9q
+[Issue 4] https://www.theguardian.com/technology/2025/oct/17/openai-sora-ai-videos-deepfake
+[Issue 4] https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
+[Issue 5] https://www.bbc.co.uk/news/articles/c1kwvlyrjyxo
+[Issue 5] https://www.bbc.co.uk/news/articles/ce9rv4p8pejo
+[Issue 5] https://www.theverge.com/news/806047/mondelez-ai-generated-ads
+[Issue 6] https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/
+[Issue 6] https://www.scientificamerican.com/article/can-ai-music-ever-feel-human-the-answer-goes-beyond-the-sound/
+[Issue 6] https://www.wsj.com/articles/googles-first-ai-ad-avoids-the-uncanny-valley-by-casting-a-turkey-dafd3662
+[Issue 6] https://www.theguardian.com/media/2025/nov/04/stabilty-ai-high-court-getty-images-copyright
+[Issue 6] https://www.wired.com/story/adobe-max-sneaks-2025-corrective-ai/
+[Issue 7] https://www.wired.com/story/amazons-house-of-david-used-over-350-ai-shots-in-season-2-its-creator-isnt-sorry/
+[Issue 7] https://www.bbc.co.uk/news/articles/cn4j83pde33o
+[Issue 8] https://www.theguardian.com/music/2025/nov/17/the-sound-of-silence-why-theres-barely-anything-there-in-paul-mccartney-new-release
+[Issue 9] https://www.theguardian.com/tv-and-radio/2025/nov/25/years-and-years-black-mirror-tv-show-depictions-ai-repurcussions
+[Issue 9] https://www.theguardian.com/games/2025/nov/19/pushing-buttons-arc-raiders-generative-ai-call-of-duty
+[Issue 9] https://www.bbc.co.uk/news/articles/c5ylzjj5wzwo

@@ -1,0 +1,33 @@
+# Research batch: music_industry #2
+# URLs: 30
+
+[Issue 5] https://www.digitalmusicnews.com/2025/10/22/youtube-launches-ai-detection-tool-to-battle-deepfakes/
+[Issue 5] https://www.hypebot.com/hypebot/2025/10/ai-and-music-licensing.html
+[Issue 5] https://musically.com/2025/10/28/musicians-heirs-hit-out-at-ai-deepfakes-as-digital-grave-robbing/
+[Issue 5] https://www.billboard.com/pro/clearnote-ai-platform-music-contracts-good-boy-records/
+[Issue 5] https://musicbusinessresearch.wordpress.com/2025/10/27/virtual-music-worlds-part-4-ai-generated-artists/
+[Issue 5] https://www.musicradar.com/artists/to-my-knowledge-no-one-else-has-tried-a-project-like-this-reinier-zonneveld-is-playing-b2b-with-an-ai-powered-clone-of-his-musical-brain
+[Issue 6] https://happymag.tv/ai-music-chart-staple/
+[Issue 6] https://www.musicradar.com/music-tech/with-this-poisoned-music-out-there-we-can-bring-ai-firms-to-the-negotiating-table-for-fair-licensing-of-training-data-for-independent-musicians-could-poison-pill-be-the-antidote-to-illegal-ai-scraping
+[Issue 6] https://completemusicupdate.com/north-american-collecting-societies-open-door-to-partially-ai-generated-musical-works/
+[Issue 6] https://www.digitalmusicnews.com/2025/10/31/udio-downloads-disabled-umg-deal/
+[Issue 6] https://completemusicupdate.com/artists-must-have-creative-control-in-ai-deals-or-risk-ending-up-with-scraps-says-us-artist-trade-body/
+[Issue 6] https://www.digitalmusicnews.com/2025/11/02/ai-artist-xania-monet-getting-spins-on-us-radio-stations
+[Issue 6] https://musictech.com/news/gear/creative-sound-blaster-reimagine-audio-hub/
+[Issue 7] https://musically.com/2025/11/07/raynmaker-is-a-k-pop-crime-thriller-micro-drama-made-with-ai/
+[Issue 7] https://www.nme.com/news/music/creator-of-controversial-billboard-charting-ai-artist-xania-monet-speaks-out-i-look-at-her-as-a-real-person-3906429
+[Issue 7] https://www.musicradar.com/music-tech/the-no-1-country-song-in-the-us-right-now-is-ai-generated
+[Issue 7] https://musically.com/2025/11/11/overtune-is-building-a-virtual-music-studio-for-roblox/
+[Issue 7] https://www.digitalmusicnews.com/2025/11/12/deezer-ai-music/
+[Issue 7] https://musically.com/2025/11/12/50000-ai-music-tracks-are-now-uploaded-to-deezer-every-day/
+[Issue 7] https://www.digitalmusicnews.com/2025/11/09/ai-generated-hate-songs-dutch-spotify-charts/
+[Issue 7] https://edm.com/gear-tech/rights-group-sues-suno-copyright-infringement/
+[Issue 7] https://musically.com/2025/11/11/epidemic-sound-launches-ai-powered-studio/
+[Issue 8] https://musically.com/2025/11/19/genai-music-firm-suno-raises-250m-at-2-45bn-valuation/
+[Issue 8] https://www.musicradar.com/artists/guitarists/im-quite-interested-in-ai-getting-some-of-my-songs-that-didnt-quite-work-and-putting-them-up-onto-suno-there-might-be-hits-why-pete-townshend-is-interested-in-using-ai
+[Issue 8] https://www.musicradar.com/music-tech/is-this-the-future-of-the-daw-melosurf-is-a-voice-controlled-ai-assistant-that-lets-you-talk-to-ableton-live
+[Issue 8] https://cdm.link/roland-ai-pedal-concept/
+[Issue 8] https://www.rollingstone.co.uk/music/news/bbc-introducing-criticised-after-championing-pitch-perfect-ai-generated-music-55904/
+[Issue 8] https://www.digitalmusicnews.com/2025/11/13/songscription-funding-round/
+[Issue 8] https://www.musicbusinessworldwide.com/musixmatch-launches-music-lens-an-ai-agent-that-transforms-catalogs-into-actionable-insights-for-publishers-labels-and-creators/
+[Issue 8] https://www.musicradar.com/music-tech/most-musicians-cant-easily-find-notation-for-the-songs-they-actually-want-to-play-were-using-ai-to-close-that-gap-songscription-is-an-ai-powered-platform-that-converts-any-audio-file-into-notation-tabs-and-midi

@@ -1,0 +1,33 @@
+# Research batch: company_blog #2
+# URLs: 30
+
+[Issue 13] https://blog.comfy.org/p/ltx-2-open-source-audio-video-ai
+[Issue 14] https://research.nvidia.com/labs/adlr/MF/
+[Issue 14] https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/?utm_source=ingredientstovideo&utm_id=ingredientstovideo
+[Issue 15] https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/
+[Issue 16] https://blog.adobe.com/en/publish/2026/01/20/sundance-film-festival-2026-creativity-community-power-storytelling
+[Issue 16] https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/?utm_source=linkedin&utm_medium=social&utm_campaign=&utm_content=
+[Issue 17] https://deepmind.google/models/genie/
+[Issue 18] https://blog.comfy.org/p/kling-30-models-are-now-available?hide_intro_popup=true
+[Issue 19] https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=
+[Issue 19] https://research.nvidia.com/labs/adlr/personaplex/
+[Issue 20] https://runwayml.com/news/introducing-runway-labs
+[Issue 20] https://blog.comfy.org/p/elevenlabs-is-now-available-in-comfyui
+[Issue 20] https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/
+[Issue 20] https://blog.comfy.org/p/kling-30-motion-control-in-comfyui
+[Issue 20] https://blog.comfy.org/p/from-workflow-to-app-introducing
+[Issue 20] https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+[Issue 21] https://news.adobe.com/news/2026/03/adobe-and-nvidia-announce-strategic-partnership
+[Issue 21] https://news.adobe.com/news/2026/03/adobe-major-league-baseball-expand-partnership
+[Issue 21] https://blog.adobe.com/en/publish/2026/03/10/image-editing-just-got-smarter-with-ai-photoshop-firefly
+[Issue 22] https://www.comfy.org/cloud/enterprise-case-studies/comfyui-at-architectural-scale-how-moment-factory-reimagined-3d-projection-mapping
+[Issue 22] https://blog.comfy.org/p/the-complete-style-transfer-handbook
+[Issue 23] https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
+[Issue 23] https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/
+[Issue 23] https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/
+[Issue 23] https://runwayml.com/news/introducing-runway-characters
+[Issue 23] https://runwayml.com/product/builders
+[Issue 25] https://aif.runwayml.com/
+[Issue 25] https://app.runwayml.com/characters/meet
+[Issue 25] https://kling.ai/document-api/apiReference/skill
+[Issue 25] https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/?utm_source=linkedin&utm_medium=social&utm_campaign=&utm_content=

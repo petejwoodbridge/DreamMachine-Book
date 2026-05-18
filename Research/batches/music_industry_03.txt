@@ -1,0 +1,33 @@
+# Research batch: music_industry #3
+# URLs: 30
+
+[Issue 9] https://completemusicupdate.com/johnny-cash-estate-uses-elvis-act-to-sue-coke-over-tribute-act-ad-soundtrack/
+[Issue 9] https://routenote.com/blog/majority-of-musicians-now-use-ai-in-their-creative-process-study-shows/
+[Issue 9] https://www.billboard.com/pro/maga-rapper-ai-gospel-song-climbed-charts/
+[Issue 9] https://musictech.com/news/industry/music-producers-are-rejecting-ai-study-reveals-over-80-of-producers-are-against-ai-generated-songs/
+[Issue 10] https://www.nme.com/news/jenna-ortega-says-its-very-easy-to-be-terrified-of-ai-in-filmmaking-3913926
+[Issue 10] https://completemusicupdate.com/ecsa-calls-for-transparency-over-the-majors-ai-deals-and-confirmation-songs-and-recordings-will-have-parity/
+[Issue 10] https://www.hypebot.com/hypebot/2025/12/suno-has-asquired-songkick-what-it-means-for-artists.html
+[Issue 10] https://www.nme.com/news/music/teddy-swims-says-he-sometimes-uses-ai-to-make-music-3913804
+[Issue 10] https://musictech.com/features/how-to-remove-background-noise-from-your-vocals-within-seconds-using-bandlabs-voice-cleaner/
+[Issue 11] https://musictech.com/features/opinion-analysis/djs-producers-marketing-music-as-not-ai-slop-on-youtube/
+[Issue 11] https://musictech.com/news/gear/virtualdj-2026/
+[Issue 11] https://www.digitalmusicnews.com/2025/12/08/sony-music-udio-lawsuit-impasse/
+[Issue 11] https://musically.com/2025/12/08/licensed-or-lost-in-the-future-of-ai-training-the-world-is-splintering/
+[Issue 11] https://www.musicradar.com/artists/its-creepy-the-whole-thing-that-ai-can-do-if-you-think-about-it-its-just-really-creepy-aerosmith-legend-joe-perry-warns-ai-is-way-beyond-anything-we-ever-thought
+[Issue 11] https://musictech.com/news/music/tame-impala-isnt-worried-about-ai-music/
+[Issue 12] https://www.musicbusinessworldwide.com/berlin-startup-mirelo-raises-41m-in-seed-funding-for-ai-generated-video-sound/
+[Issue 12] https://musically.com/2025/12/15/the-a-to-z-of-ai-music-in-2025-part-1-ai-technologies-to-fair-use/
+[Issue 12] https://musically.com/2025/12/17/indian-ai-band-trilok-performs-live-government-denies-association/
+[Issue 12] https://www.soundonsound.com/news/ace-studio-20-timedomain
+[Issue 12] https://www.digitalmusicnews.com/2025/12/14/audio-startup-podcast-ai-churn/
+[Issue 13] https://www.hypebot.com/hypebot/2026/01/napsters-streaming-service-shutters-as-company-rebrands-around-ai.html
+[Issue 13] https://www.digitalmusicnews.com/2026/01/06/universal-music-group-nvidia-collaboration/
+[Issue 13] https://www.digitalmusicnews.com/2026/01/02/black-sabbath-bassist-uses-ai-for-unreleased-songs/
+[Issue 13] https://www.musicradar.com/music-tech/the-whole-process-left-me-feeling-flat-and-empty-with-ai-now-threatening-to-make-the-daw-obsolete-is-it-finally-time-to-stand-up-to-the-tech-taking-the-very-soul-out-of-music-making
+[Issue 13] https://musictech.com/news/gear/krotos-video-to-sound-footsteps-cloth-foley/
+[Issue 13] https://www.digitalmusicnews.com/2026/01/05/instagram-chief-ai-slop-comments/
+[Issue 13] https://musically.com/2026/01/05/report-56-9-of-new-independent-songs-in-china-are-ai-generated/
+[Issue 14] https://www.musicradar.com/music-tech/apple-expands-logic-pros-ai-features-with-a-synth-player-and-a-personal-music-theory-expert-that-can-generate-chord-progressions-from-any-audio-or-midi-recording-that-you-play-it
+[Issue 14] https://musictech.com/reviews/digital-audio-workstations/suno-studio-review/
+[Issue 14] https://stereogum.com/2485199/bandcamp-bans-ai-music/news

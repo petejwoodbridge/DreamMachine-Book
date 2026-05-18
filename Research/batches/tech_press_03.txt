@@ -1,0 +1,33 @@
+# Research batch: tech_press #3
+# URLs: 30
+
+[Issue 10] https://futurism.com/artificial-intelligence/openai-stuff-ads-into-chatgpt
+[Issue 10] https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html
+[Issue 11] https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/
+[Issue 11] https://futurism.com/future-society/king-gizzard-spotify-ai-knockoff
+[Issue 11] https://siliconangle.com/2025/12/10/not-ready-mcdonalds-ai-generated-ad-taken-public-backlash/
+[Issue 11] https://www.pymnts.com/artificial-intelligence-2/2025/adobe-lets-users-design-and-edit-using-chatgpt/
+[Issue 12] https://techbullion.com/alli-ai-unveils-an-innovative-system-for-creating-and-editing-8k-video-up-to-60-seconds-long-rivaling-hollywood-production-quality/
+[Issue 12] https://www.cnet.com/tech/services-and-software/youtube-boots-two-channels-for-posting-fake-ai-film-trailers/
+[Issue 12] https://www.artificialintelligence-news.com/news/roblox-brings-ai-into-the-studio-to-speed-up-game-creation/
+[Issue 12] https://siliconangle.com/2025/12/15/audio-generation-startup-mirelo-nabs-41m-investment/
+[Issue 12] https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-just-got-a-major-upgrade-and-it-could-change-how-we-all-create
+[Issue 13] https://www.forbes.com/sites/charliefink/2025/12/07/ai-characters-fight-to-the-death-in-microstreamer-non-player-combat/
+[Issue 13] https://www.cnet.com/tech/services-and-software/nano-banana-ai-image-video-google-tvs/
+[Issue 13] https://www.pymnts.com/artificial-intelligence-2/2025/roblox-uses-ai-to-filter-billions-of-user-interactions-in-real-time/
+[Issue 13] https://www.pymnts.com/news/artificial-intelligence/2026/razer-spends-600-million-dollars-sharpen-focus-ai-gaming/
+[Issue 13] https://www.forbes.com/sites/virginieberger/2025/12/29/nine-predictions-for-the-music-industry-in-2026-how-ai-reshapes-licensing-and-power/
+[Issue 13] https://www.webpronews.com/instagram-head-warns-ai-images-erode-trust-calls-for-verification-standards/
+[Issue 13] https://www.forbes.com/sites/kolawolesamueladebayo/2025/12/22/how-ai-is-changing-how-creators-work-and-earn/
+[Issue 14] https://www.marketingdive.com/news/disney-unveils-tiktok-like-vertical-video-ai-video-generation-tool/809269/
+[Issue 14] https://siliconangle.com/2026/01/08/craftstory-adds-image-video-generation-power-long-form-ai-videos-human-actors/
+[Issue 14] https://www.techradar.com/audio/spotify/ai-music-is-flooding-spotify-and-subscribers-are-furious-heres-why-music-fans-no-longer-trust-discover-weekly
+[Issue 15] https://siliconangle.com/2026/01/15/higgsfield-raises-80m-1-3b-valuation-scale-ai-video-platform/
+[Issue 15] https://www.pymnts.com/subscription-commerce/2026/retention-is-name-of-the-game-for-netflixs-ai-strategy/
+[Issue 15] https://digiday.com/marketing/avocados-from-mexico-turns-to-ai-to-advertise-around-the-super-bowl-instead-of-a-tv-buy/
+[Issue 15] https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/
+[Issue 15] https://www.pymnts.com/artificial-intelligence-2/2026/ai-content-is-par-for-the-course-with-pga-tours-expanded-aws-partnership/
+[Issue 15] https://futurism.com/artificial-intelligence/experts-concerned-ai-progress-wall
+[Issue 15] https://www.zdnet.com/article/ai-failed-test-on-remote-freelance-jobs/
+[Issue 16] https://www.businessinsider.com/ai-gaming-developers-jack-buser-google-2026-1
+[Issue 16] https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/

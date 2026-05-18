@@ -1,0 +1,33 @@
+# Research batch: company_blog #1
+# URLs: 30
+
+[Issue 1] https://openai.com/index/sora-2/
+[Issue 1] https://decart.ai/
+[Issue 2] https://blog.comfy.org/p/sora-2-api-nodes-now-in-comfyui
+[Issue 3] https://runwayml.com/ai-for-gaming
+[Issue 3] https://stability.ai/learning-hub/stability-seconds-create-a-soundtrack-with-stable-audio-25?utm_source=linkedin&utm_medium=social&utm_campaign=SS+Stable+Audio+2.5
+[Issue 4] https://blog.cloudflare.com/crawlers-click-ai-bots-training/
+[Issue 4] https://runwayml.com/customers/how-eggplant-picture-and-sound-transformed-history-channels-life-after-people-with-runway
+[Issue 4] https://www.worldlabs.ai/blog/rtfm
+[Issue 4] https://runwayml.com/product/model-fine-tuning
+[Issue 5] https://news.adobe.com/news/2025/10/adobe-max-2025-express-ai-assistant
+[Issue 5] https://news.adobe.com/news/2025/10/adobe-max-2025-firefly
+[Issue 5] https://news.adobe.com/news/2025/10/adobe-max-2025-firefly-foundry
+[Issue 5] https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development?utm_source=employee&utm_medium=social&utm_campaign=SAI+x+EA+
+[Issue 5] https://stability.ai/news/universal-music-group-and-stability-ai-announce-strategic-alliance?utm_source=linkedin&utm_medium=social&utm_campaign=Stability+AI+x+UMG+
+[Issue 5] https://www.udio.com/blog/a-new-era
+[Issue 5] https://blog.google/technology/google-labs/opal-expansion/
+[Issue 6] https://news.adobe.com/news/2025/10/adobe-max-2025-creators-survey
+[Issue 7] https://www.worldlabs.ai/labs
+[Issue 7] https://marble.worldlabs.ai/
+[Issue 7] https://blog.google/products/google-cloud/generative-ai-video-games/
+[Issue 8] https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/
+[Issue 8] https://stability.ai/news/warner-music-group-and-stability-ai-join-forces-to-build-next-gen-tools?utm_source=linkedin&utm_medium=social&utm_campaign=WMG+Partnership
+[Issue 10] https://runwayml.com/research/introducing-runway-gen-4.5
+[Issue 11] https://blog.comfy.org/p/ubisoft-open-sources-the-chord-model?hide_intro_popup=true
+[Issue 11] https://magenta.withgoogle.com/lyria-camera-announce
+[Issue 11] https://blog.google/technology/developers/gemini-2-5-text-to-speech/
+[Issue 12] https://www.spaitial.ai/
+[Issue 12] https://blog.adobe.com/en/publish/2025/12/10/edit-photoshop-chatgpt?sdid=H822XCN3&mv=social&mv2=owned-organic&linkId=100000396714148
+[Issue 12] https://bfl.ai/models/flux-2-max
+[Issue 12] https://blog.google/technology/google-labs/flow-refine-videos/?utm_source=invite&utm_medium=email&utm_campaign=Q4_25GoogleFlowInitialNewsletter&utm_content

@@ -1,0 +1,33 @@
+# Research batch: industry_trade #4
+# URLs: 30
+
+[Issue 16] https://variety.com/2026/digital/news/ai-video-deadpool-harry-potter-andrii-daniels-1236624632/
+[Issue 16] https://www.adweek.com/media/higgsfield-ai-marketing-startup/
+[Issue 16] https://variety.com/2026/film/news/mythos-wink-ai-films-sundance-1236641498/
+[Issue 17] https://www.hollywoodreporter.com/business/digital/svedka-super-bowl-ad-ai-watch-1236493612/
+[Issue 17] https://deadline.com/2026/01/runway-ai-festival-adding-new-categories-1236700233/
+[Issue 17] https://campaignbrief.com/luma-ai-launches-the-luma-dream-brief-a-1m-global-competition-for-cannes-lions-gold-winner/
+[Issue 17] https://deadline.com/2026/02/disney-openai-sora-video-bob-iger-1236705948/
+[Issue 17] https://variety.com/2026/digital/news/john-gaeta-escape-ai-streaming-apps-roku-fire-tv-samsung-lg-1236646910/
+[Issue 17] https://www.campaignlive.co.uk/article/meta-hits-200bn-revenue-milestone-ai-powered-ad-surge/1946668
+[Issue 18] https://variety.com/2026/film/news/lionsgate-hires-chief-ai-officer-1236653786/
+[Issue 18] https://variety.com/2026/digital/news/filmology-labs-content-creation-ai-studio-1236657646/
+[Issue 18] https://www.screendaily.com/news/ai-generated-documentary-post-truth-boarded-for-sales-ahead-of-efm/5213612.article
+[Issue 18] https://www.hollywoodreporter.com/business/digital/joseph-gordon-levitt-hollywood-ethical-future-ai-1236501403/
+[Issue 19] https://www.tvbeurope.com/production-post/framestore-aims-to-revolutionise-production-with-ai-platform
+[Issue 19] https://variety.com/2026/film/global/filmax-dinogames-carlos-f-de-vigo-european-film-market-1236660806/
+[Issue 19] https://www.hollywoodreporter.com/movies/movie-news/ai-video-tom-cruise-brad-pitt-writer-warning-1236504200/
+[Issue 19] https://www.hollywoodreporter.com/business/business-news/warner-bros-cease-and-desist-says-tiktok-owner-ip-1236508224/
+[Issue 19] https://variety.com/2026/film/news/sony-seedance-protest-1236666951/
+[Issue 19] https://deadline.com/2026/02/roger-avary-3-ai-films-active-production-1236725619/
+[Issue 19] https://variety.com/2026/global/news/ai-film-studio-india-abundantia-entertainment-invideo-1236665369/
+[Issue 20] https://www.hollywoodreporter.com/tv/tv-news/seth-macfarlane-ai-bill-clinton-ted-1236523723/
+[Issue 20] https://variety.com/2026/film/news/wga-ai-training-amptp-talks-1236684012/
+[Issue 20] https://www.hollywoodreporter.com/business/business-news/canal-plus-sky-english-drama-openai-google-cloud-ai-deals-1236527214/
+[Issue 20] https://www.hollywoodreporter.com/news/general-news/ai-actor-tilly-norwood-song-music-take-the-lead-1236526080/
+[Issue 21] https://variety.com/2026/digital/news/rebel-audio-ai-podcast-mark-burnett-1236683633/
+[Issue 22] https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/
+[Issue 22] https://variety.com/2026/digital/news/short-form-video-ai-generated-dramas-filmart-1236692132/
+[Issue 22] https://www.broadcastnow.co.uk/tech-innovation/infosys-launches-ai-powered-race-centre-for-formula-e/5215029.article
+[Issue 22] https://deadline.com/2026/02/ordan-goldnadel-launches-aispasia-studios-ai-animation-1236737128/
+[Issue 22] https://www.hollywoodreporter.com/movies/movie-news/gossip-goblin-zack-london-ai-films-watch-1236544634/

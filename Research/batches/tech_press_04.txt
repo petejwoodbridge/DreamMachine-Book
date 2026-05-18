@@ -1,0 +1,33 @@
+# Research batch: tech_press #4
+# URLs: 30
+
+[Issue 16] https://www.cnet.com/culture/san-diego-comic-con-bans-ai-art-for-2026-event/
+[Issue 16] https://mashable.com/article/what-is-clawdbot-how-to-try
+[Issue 16] https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/
+[Issue 17] https://siliconangle.com/2026/01/30/mito-ai-raises-4-5-million-led-lightspeed-empower-video-professionals-ai-tools/
+[Issue 17] https://www.forbes.com/sites/bennyhareven/2026/01/29/animated-ai-film-festival-shorts-to-be-shown-in-us-theaters-in-february/
+[Issue 17] https://www.businessinsider.com/hottest-job-in-tech-writing-words-ai-hiring-2026-2
+[Issue 17] https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/
+[Issue 18] https://www.forbes.com/sites/anthonykarcz/2026/02/05/roli-ai-music-coach-uses-conversational-ai-to-help-you-learn-piano/
+[Issue 18] https://www.businessinsider.com/super-bowl-ai-ads-anthropic-openai-chatgpt-claude-codex-2026-2
+[Issue 18] https://www.forbes.com/sites/bernardmarr/2026/02/11/ai-agents-are-about-to-change-gaming-forever/
+[Issue 18] https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/?utm_campaign=social&utm_source=linkedin&utm_medium=organic
+[Issue 18] https://www.forbes.com/sites/rashishrivastava/2026/02/11/racist-videos-and-payment-problems-the-dark-side-of-this-ai-startups-super-fast-growth/
+[Issue 18] https://www.engadget.com/ai/openai-starts-testing-ads-in-chatgpt-191756493.html
+[Issue 18] https://www.marketingdive.com/news/amazon-enables-communication-between-ads-platform-and-ai-agents/811566/
+[Issue 18] https://siliconangle.com/2026/02/06/ai-torches-software-stocks-even-investors-fret-ai-factory-spending/
+[Issue 19] https://www.forbes.com/sites/ronschmelzer/2026/02/18/bytedance-says-it-will-add-guardrails-after-studios-complain-about-ip-violations/
+[Issue 19] https://www.forbes.com/sites/paultassi/2026/02/14/bad-game-of-thrones-stranger-things-endings-are-being-remade-convincingly-poorly-with-ai/
+[Issue 19] https://www.forbes.com/sites/virginieberger/2026/01/20/beatstars-acquires-lemonaide-ai-integrating-generative-music-into-rights-first-creator-platform/
+[Issue 19] https://www.pymnts.com/artificial-intelligence-2/2026/ai-worries-erase-1-trillion-from-big-tech-firms/
+[Issue 20] https://www.businessinsider.com/ex-snapchat-engineers-behind-gizmo-join-meta-superintelligence-labs-2026-3
+[Issue 20] https://techbullion.com/gaming-is-having-its-youtube-moment-why-sony-and-bitkraft-are-betting-on-ai-native-engines/
+[Issue 20] https://futurism.com/artificial-intelligence/google-ai-overviews-media
+[Issue 20] https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/
+[Issue 21] https://www.cnet.com/news/social-media/your-attention-please-documentary-interview-sxsw/
+[Issue 21] https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/
+[Issue 21] https://www.cnet.com/tech/services-and-software/steven-spielberg-isnt-against-ai/
+[Issue 21] https://www.cnet.com/tech/services-and-software/report-bytedance-puts-seedance-2-0-global-rollout-on-hold-amid-hollywood-pressure/
+[Issue 22] https://mashable.com/article/fabula-rasa-dead-man-talking-vr-ai-game-sxsw-2026
+[Issue 23] https://www.cnet.com/tech/services-and-software/300000-ai-animated-poses-in-an-instant-my-visit-to-disney-and-the-new-reality-for-cartoons/
+[Issue 23] https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/
