@@ -28,7 +28,18 @@
       "Bash(python Research/quant.py)",
       "Bash(python -c ' *)",
       "Bash(python convert_deepdives_to_md.py)",
-      "Bash(awk 'END{print NR}' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/14_The_Tools.md\")"
+      "Bash(awk 'END{print NR}' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/14_The_Tools.md\")",
+      "Bash(python renumber.py)",
+      "PowerShell(Move-Item -Path \"Book\\\\17_Epilogue.md\" -Destination \"Book\\\\18_Epilogue.md\")",
+      "PowerShell(Get-Command pandoc, xelatex, lualatex, pdflatex, wkhtmltopdf -ErrorAction SilentlyContinue)",
+      "PowerShell($tools = @\\('pandoc', 'xelatex', 'lualatex', 'pdflatex', 'wkhtmltopdf', 'python', 'weasyprint'\\); foreach \\($t in $tools\\) { $cmd = Get-Command $t -ErrorAction SilentlyContinue; if \\($cmd\\) { Write-Output \"FOUND: $\\($cmd.Name\\) -> $\\($cmd.Source\\)\" } else { Write-Output \"MISSING: $t\" } })",
+      "PowerShell(python -m pip install --quiet weasyprint 2>&1)",
+      "PowerShell(python -c \"import weasyprint; print\\('weasyprint', weasyprint.__version__\\)\")",
+      "PowerShell($edge = Get-Command msedge -ErrorAction SilentlyContinue; if \\($edge\\) { Write-Output \"Edge in PATH: $\\($edge.Source\\)\" } else { $paths = @\\(\"C:\\\\Program Files \\(x86\\)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe\", \"C:\\\\Program Files\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe\"\\); foreach \\($p in $paths\\) { if \\(Test-Path $p\\) { Write-Output \"Edge at: $p\" } } })",
+      "Bash(python Book/build_book.py)",
+      "Bash(python -m pip install --quiet pypdf)",
+      "Bash(python -m pip install --quiet pymupdf)",
+      "Bash(python -c \"import fitz; print\\('pymupdf', fitz.__version__\\)\")"
     ]
   }
 }

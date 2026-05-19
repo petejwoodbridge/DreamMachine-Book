@@ -1,12 +1,12 @@
 # Appendix G — The Age of Intent: Artistic Mastery and the Inversion of Value
 
-*Companion piece to [Chapter 9: The Orchestrator](09_The_Orchestrator.md) and [Chapter 13: Choosing the Future](13_Choosing_the_Future.md).*
+*Companion piece to [Chapter 11: The Orchestrator](11_The_Orchestrator.md) and [Chapter 15: Choosing the Future](15_Choosing_the_Future.md).*
 
-This deep dive is the philosophical and economic companion to the book's central claim about where creative value lives after the AI transition. Chapter 9 develops the *orchestrator* role — the practical operating model of a senior creative directing a team of agents — and Chapter 12 lays out the four principles (agency, attribution, access, audience) for a humane creative economy. Both rest on a deeper proposition that this appendix makes explicit: when the technical labour of execution becomes a commodity, the intentional labour of *deciding what to make and why* becomes the scarce, valuable good.
+This deep dive is the philosophical and economic companion to the book's central claim about where creative value lives after the AI transition. Chapter 11 develops the *orchestrator* role — the practical operating model of a senior creative directing a team of agents — and Chapter 14 lays out the four principles (agency, attribution, access, audience) for a humane creative economy. Both rest on a deeper proposition that this appendix makes explicit: when the technical labour of execution becomes a commodity, the intentional labour of *deciding what to make and why* becomes the scarce, valuable good.
 
 The argument here draws on Duchamp's readymade, Arthur Danto's institutional theory of art, David Pye's distinction between the "workmanship of certainty" and the "workmanship of risk," and Rick Rubin's framing of creativity as "acts of noticing." It builds an empirical and philosophical case that the artist of 2030 is less a *manual labourer* and more an *Architect of Meaning* — a curator, editor-in-chief, and director of intent whose value is precisely the human friction the machine cannot supply.
 
-This is, in the book's broader frame, the strongest available account of why AI is best understood as an *assistive instrument that amplifies human creativity* rather than a replacement for it. It underpins the conviction set out at the top of Chapter 13 and the operational pattern described in Chapter 9. Read it as the philosophical spine of the second half of the book.
+This is, in the book's broader frame, the strongest available account of why AI is best understood as an *assistive instrument that amplifies human creativity* rather than a replacement for it. It underpins the conviction set out at the top of Chapter 15 and the operational pattern described in Chapter 11. Read it as the philosophical spine of the second half of the book.
 
 The piece below is preserved largely as researched, with citation markers and section headings intact. Some PDF-conversion artefacts have not been editorially cleaned.
 
