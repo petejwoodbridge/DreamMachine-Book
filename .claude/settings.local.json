@@ -53,7 +53,8 @@
       "Bash(awk 'NR<=300 && /^##/ {print NR\": \"$0}' A1_Appendix_Quantitative_Anatomy.md)",
       "Bash(awk '/^##/ {print NR\": \"$0}' A3_Bibliography_by_Topic.md)",
       "Bash(rm -f build/_body.html)",
-      "Bash(python build_book.py)"
+      "Bash(python build_book.py)",
+      "Bash(git -C \"d:/VSCODE PROJECTS/DreamMachine Book\" status)"
     ]
   }
 }
