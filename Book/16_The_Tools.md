@@ -54,6 +54,8 @@ The video layer changed faster than any other modality between October 2025 and 
 
 **Heygen** ships Video Agent — a full scripting-to-assembly agent built around reference images.[^8] **Synthesia** holds the corporate AI-avatar market ($4B valuation, having reportedly rejected a $3B Adobe acquisition offer).[^9] **ElevenLabs** runs the dominant audio-AI layer underneath much of the new video work ($500m ARR by April 2026).[^10]
 
+**Gemini Omni** (Google DeepMind), announced at Google I/O 2026, brings text, image, audio, video and live interaction into a single multimodal model — the first foundation-model release in this category that meaningfully unifies the modalities working creatives currently have to bridge across five different tools.[^42] **Beeple Canvas**, Mike Winkelmann's gen-AI compositor — launched May 2026 — is the first AI-native compositing application to ship from a working visual-effects artist's own studio, and is structurally distinct from the AI-features-bolted-onto-existing-compositors pattern in the legacy-software section below.[^43]
+
 If I had to name a single video product that, in my experience, working creatives have settled on as a default in 2026, it would be Veo 3.1 for finished work and Runway for iteration and integration. Sora is the brand name the audience knows. The actual production pipelines run on the other two.
 
 ### Image
@@ -82,6 +84,8 @@ The music layer split into three categories during this period, and the split is
 
 **Voice and audio synthesis** — **ElevenLabs** is the dominant player, with $500m ARR, BlackRock / NVIDIA backing, and meaningful share across audiobook narration, dubbing, podcast synthesis and AI character voice work.[^15] The Cardiff band that found their music had been used to train an "AI artist" outperforming them on Spotify[^16] is one of the cautionary tales of this layer; the Andrii Daniels bomb-shelter clip[^17] is one of the success cases.
 
+**Sound-effect foundation models** emerged as a new sub-category in May 2026. **Sony AI's Woosh** is the first foundation model explicitly trained for the professional sound-effects discipline — built for the people who design the sonic worlds behind games, film and interactive media, not for the consumer market.[^44] **Mirelo SFX 1.6** shipped the first sound-effects model that lets you *edit* a generated sound rather than only regenerate it — a structural shift in the discipline equivalent to the move from rendered images to layered Photoshop files.[^45] **Stable Audio 3.0** (Stability AI) shipped as an open-weight audio model family explicitly aimed at artistic experimentation.[^46] **Tamber**, the ethically-trained AI music suite I describe in [Chapter 6](06_The_88_Percent.md), shipped alongside a gestural-control interface that lets the musician steer the generation with arm movements.[^47] **Beatport's Track ID** rolled out as the real-time identification standard for the DJ market.[^48]
+
 The deal flow underneath this layer is the second-fastest-changing in the toolchain. The Stability AI / Universal Music alliance, the Stability AI / Warner Music deal, the Splice / Universal partnership, the GEMA / OpenAI lawsuit, the Wixen / Meta lawsuit, the UMG / Anthropic $3B suit — these are the structural moves I would track if I were a working musician trying to plan a five-year toolchain.[^18]
 
 ### 3D, world models, spatial
@@ -93,6 +97,8 @@ The category that, more than any other, I think defines the next decade of creat
 **Google DeepMind Genie 3** is the most ambitious research-grade world model, named by *Time* as one of the best inventions of 2025. Made publicly available to Google AI Ultra subscribers via Project Genie in January 2026.[^21]
 
 **Meta WorldGen**, **Tencent HY World 1.5** (open-sourced December 2025, alongside the Hunyuan 3D Studio integration[^22]), **SpAItial ECHO**, **Stanford Wonderzoom**, **OpenArt Worlds**, **Luma UNI-1** (the most important *category* announcement of spring 2026, combining world generation with reasoning[^23]) — the rest of the world-model commercial layer.
+
+The May 2026 world-model wave extended this layer further. **NVIDIA SANA-WM** is the first open-weight world model at meaningful scale (2.6B parameters), with 60-second video generation and explicit camera control.[^49] **Odyssey Starchild-1** is, by Odyssey's own framing, *"the first ever real-time multimodal world model"* — a system that doesn't just generate a world but simulates and reasons about it.[^50] **Odyssey Agora-1** is the multiplayer companion to Starchild, putting four players inside the same AI-generated world (built, in a small piece of provenance theatre, on the bones of a 1997 shooter).[^51] **Apple Headsup** is a research-grade 3D Gaussian head-reconstruction pipeline built for multi-view captures from consumer iPhones, extending the Vision-Pro-Personas Gaussian-splat thread into the open research layer.[^52]
 
 Underneath this layer, the Gaussian-splatting infrastructure has matured into a stable workflow: **SuperSplat** (PlayCanvas) for editing, **Spark 2.0** for open-source streaming of 100-million-splat scenes to browsers, the SOG / WebP equivalent compression standard.[^24] Apple's confirmation that its Vision Pro Personas feature is powered by Gaussian splatting under the hood made it, by some margin, the most-deployed Gaussian-splat technology in consumer hardware as of late 2025.[^25]
 
@@ -106,11 +112,13 @@ The category I think most working creatives are still underestimating, six month
 
 **OpenAI AgentKit** (Agent Builder, ChatKit, connector registry, eval framework) launched October 2025 and is the developer-facing platform underneath most third-party agentic creative tools.[^28]
 
-**Anthropic Claude apps** and the **Skills framework** — the system of named, reusable capabilities that Claude Code uses to coordinate multi-agent workflows. The Sony 49-agent / 72-skill game-development stack is built on this.[^29]
+**Anthropic Claude apps** and the **Skills framework** — the system of named, reusable capabilities that Claude Code uses to coordinate multi-agent workflows. The Sony 49-agent / 72-skill game-development stack is built on this.[^29] In May 2026, **Google** released its own **official skills for AI agents** — a parallel, cross-vendor skills layer that lets Google-side agents do what Anthropic's Skills framework has been doing for Claude-side ones.[^53] The convergence of two named "skills" frameworks across the foundation-model vendors is, in my read, the first sign that the orchestration layer is settling on a shared vocabulary rather than continuing to fragment.
+
+**Tencent Ardot**, the company's AI-native design-agent platform launched May 2026, is the most ambitious non-Western agent-platform launch of the period — an integrated environment in which generative design agents handle layout, asset generation, brand application and iteration as a single coordinated pipeline.[^54] In the same week, **Viktor** raised $75M to embed an agentic *coworker* directly into Slack and Microsoft Teams — i.e., the agentic layer landing not as a standalone product but as a colleague-shaped presence in the chat surface the working creative is already in all day, as discussed in [Chapter 9](09_AI_In_Everything.md).
 
 **Heygen Video Agent** for end-to-end video assembly.[^30] **Adobe CX Enterprise** (announced at Adobe Summit 2026 with NVIDIA) for "agentic creative intelligence" across the full content lifecycle.[^31] **NVIDIA + Google Cloud** for the underlying creative-AI infrastructure most enterprise pipelines run on.[^32]
 
-**ComfyUI** — the open-source node-based workflow editor — sits underneath much of the technical-creator community's agentic work. ComfyUI raised $17M in October 2025[^33] and hit a $500M valuation by May 2026[^34]; the platform has become the de facto OS for the open-source side of the creative-AI ecosystem.
+**ComfyUI** — the open-source node-based workflow editor — sits underneath much of the technical-creator community's agentic work. ComfyUI raised $17M in October 2025[^33] and hit a $500M valuation by May 2026[^34]; the platform has become the de facto OS for the open-source side of the creative-AI ecosystem. In May 2026 **Anthropic's Claude** was added as an official partner node inside ComfyUI, joining the existing Google, OpenAI and open-weight nodes — meaning the three frontier foundation models can now be orchestrated side-by-side inside the same open-source pipeline.[^55]
 
 **Hugging Face**, **OpenEnv** (Meta / Hugging Face), the **Hugging Face / Google Cloud** partnership — the open-source agentic-development infrastructure.[^35]
 
@@ -129,7 +137,7 @@ The most under-reported strategic story of this period, in my view, has been the
 
 **Adobe** — I have written enough about Adobe in Chapter 9 that I will not repeat it here. The short version: Creative Cloud is, today, a stack of AI agents wearing a Photoshop / Premiere / After Effects / Illustrator / InDesign / Acrobat skin. The agents are inside the apps; the apps are inside ChatGPT; the apps are inside Adobe Express; the apps are inside the new CX Enterprise platform. The repositioning is complete.
 
-**Unreal Engine** (Epic) — the games engine that has, through plugins, integrations and the Nano Banana / Gemini partnership, become a hybrid game-engine / virtual-production / AI-generation hub. The Unreal Engine 5 AI Assistant, announced at the end of 2025[^36], is one of the more consequential single-product launches of the period.
+**Unreal Engine** (Epic) — the games engine that has, through plugins, integrations and the Nano Banana / Gemini partnership, become a hybrid game-engine / virtual-production / AI-generation hub. The Unreal Engine 5 AI Assistant, announced at the end of 2025[^36], is one of the more consequential single-product launches of the period. The **ECABridge** connector, launched May 2026, is the most-cited Unreal-Engine MCP integration of the spring — providing the Model Context Protocol surface and a set of agentic capabilities Epic itself has not yet shipped to the launcher.[^56] In a separate but related move, an **Epic Games veteran** announced an AI-heavy *"Fully European"* game-engine project in the same week — the first plausibly-credible new entrant in the AAA game-engine market since the early 2010s, framed explicitly around AI as the core operating layer.[^57]
 
 **Unity** — Unity's AI Open Beta (May 2026), an in-editor AI suite for the full games-development pipeline, alongside the company's AI Council formation in October 2025.[^37]
 
@@ -149,7 +157,9 @@ The open-source ecosystem has, against the odds and against most VC predictions 
 
 **ComfyUI** — already discussed.
 
-**Open-source models from Tencent (Hunyuan)**, **Alibaba (Qwen, Wan)**, **DeepSeek**, **Meta (Llama)**, **Mistral**, **Stability AI** — collectively, the open-weight ecosystem that, by the spring of 2026, was being used by approximately 80% of startups pitching the Andreessen Horowitz fund.[^40]
+**Open-source models from Tencent (Hunyuan)**, **Alibaba (Qwen, Wan)**, **DeepSeek**, **Meta (Llama)**, **Mistral**, **Stability AI** — collectively, the open-weight ecosystem that, by the spring of 2026, was being used by approximately 80% of startups pitching the Andreessen Horowitz fund.[^40] **NVIDIA's SANA-WM** (May 2026) extended this list to world-models for the first time at meaningful parameter scale.[^49]
+
+**PhotoGIMP**, the open-source skin that takes GIMP and makes it look and feel exactly like Photoshop, became, in this period, a credible Photoshop alternative for working creatives who wanted to opt out of the Adobe subscription stack — the open-source equivalent of the *Tools I do not use* discipline in the section above.[^58]
 
 **OpenEnv** (Meta / Hugging Face) for open-source agentic development. **Korin AI** (the Africa-trained, Africa-built model launched May 2026[^41]). **SuperSplat**, **Spark 2.0**, **PlayCanvas SOG**, **Blender** — the open-source spatial / 3D infrastructure layer.
 
@@ -886,3 +896,37 @@ The transition is going to keep going. The tools will keep changing. The work th
 [^40]: Andreessen Horowitz pitch-deck observations on Chinese open-source model usage. <https://www.linkedin.com/posts/stevenouri_a-wild-stat-80-of-startups-pitching-a16z-activity-7396182718998351872-xTKR>. [*Dream Machine* Issue 8](../Dream%20Machine%20MD/8.md).
 
 [^41]: Korin AI launch, May 2026. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md).
+
+[^42]: Google DeepMind, "Introducing Gemini Omni: Create Anything from Any input." <https://blog.google/technology/google-deepmind/gemini-omni-launch/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^43]: Beeple Canvas — Generative AI compositor. <https://www.beeple-canvas.com/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^44]: Sony AI, "Woosh — a sound effect foundation model." <https://ai.sony/blog/woosh-sound-effect-foundation-model/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^45]: Mirelo SFX 1.6, "edit sound, not just generate it." <https://mirelo.ai/sfx-1-6>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^46]: Stability AI, "Stable Audio 3.0 released — open-weight model family built for artistic experimentation." <https://stability.ai/news/stable-audio-3-0-released>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^47]: Tamber product page: <https://tamber.ai/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^48]: Beatport Track ID. <https://www.beatport.com/track-id>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^49]: NVIDIA SANA-WM model collection. <https://huggingface.co/collections/nvidia/sana-wm>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^50]: Odyssey, "Introducing Starchild-1, the first real-time multimodal world model." <https://odyssey.ml/introducing-starchild-1>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^51]: Odyssey, "Introducing Agora-1 — four-player AI-generated world built on a 1997 shooter." <https://odyssey.ml/introducing-agora-1>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^52]: Apple Machine Learning Research, "Apple Headsup: a Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures." <https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^53]: Google, "Official skills for AI agents." <https://github.com/google/agent-skills>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^54]: Tencent Ardot, AI-native design agent platform. <https://ardot.tencent.com/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^55]: Anthropic, "Claude is now available as a partner node in ComfyUI." <https://www.anthropic.com/news/claude-comfyui-partner-node>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^56]: ECABridge — Unreal Engine MCP integration. <https://ecabridge.dev/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^57]: *Video Games Chronicle*, "Epic Games Veteran Claims He's Building AI-Heavy 'Fully European' Game Engine." <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^58]: PhotoGIMP — the open-source GIMP skin that mimics Photoshop. <https://github.com/Diolinux/PhotoGIMP>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).

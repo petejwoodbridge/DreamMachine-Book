@@ -318,6 +318,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **43b.** *Marketing Week*, "You can't dismiss AI ads as slop when they're winning in testing." Coverage discussed in [*Dream Machine* Issue 22](../Dream%20Machine%20MD/22.md).
 
+**44.** *Billboard*, "The Real Story Behind The AI Song That Knocked Tyla Off No. 1 On Billboard Afrobeats Chart." <https://www.billboard.com/pro/ai-song-knocked-tyla-off-no-1-afrobeats/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**45.** *MusicTech*, "Jack Antonoff brands AI music makers as 'godless whores'." <https://musictech.com/news/industry/jack-antonoff-ai-music-makers-godless-whores/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
 
 ## Chapter 6 — The 88%
 
@@ -394,6 +398,12 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **35.** IBM watsonx uncapped indemnity for enterprise customers. [TODO: confirm citation.]
 
 **36.** Sundance AI Literacy Initiative, in [Chapter 12: Authenticity, the New Scarcity](12_Authenticity_New_Scarcity.md), §"The provenance infrastructure, named."
+
+**37.** *Musically*, "BPI sets out transparency and sovereignty demands to secure 'AI licensing boom'." <https://musically.com/2026/05/19/bpi-transparency-sovereignty-ai-licensing-boom/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**38.** *MusicTech*, "Tamber is an 'ethically trained' AI tool to aid the creative process – and you can use arm gestures to control it." <https://musictech.com/news/gear/tamber-ai-ethically-trained-arm-gestures/>. Tamber product page: <https://tamber.ai/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**39.** *Variety*, "Is 'AI Resistance' Setting the Music Sector Back? WMG's Robert Kyncl Sees 'An Incredible Value Creation Opportunity,' But Warns 'We Cannot Wait the Way the Industry Did 25 Years Ago'." <https://variety.com/2026/music/news/wmg-robert-kyncl-ai-resistance-1236748901/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 
 ## Chapter 7 — The Studios Decide
@@ -496,6 +506,18 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **47.** [*Dream Machine* Issue 29](../Dream%20Machine%20MD/29.md), on Sony's "all in on AI for games" announcement.
 
+**48.** *Hollywood Reporter*, "Netflix is building and recruiting for an AI animation studio, called INKubator, to produce 'feature-quality' shorts." <https://www.hollywoodreporter.com/business/business-news/netflix-ai-animation-studio-inkubator-1236592110/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**49.** *Forbes*, "Meet Wonder Studios, The $50M British Studio Striving To Become The A24 Of AI Production." <https://www.forbes.com/sites/charliefink/2026/05/18/meet-wonder-studios-the-50m-british-studio-striving-to-become-the-a24-of-ai-production/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**50.** *Variety*, "Kling AI Partners With Evolutionary Films on Animated Feature 'Minibots,' Unveils Filmmaker Initiative at Cannes Market." <https://variety.com/2026/film/news/kling-ai-evolutionary-films-minibots-cannes-1236748590/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**51.** *Variety*, "AI Dominates Cannes Buzz as Filmmakers Grudgingly Accept It." <https://variety.com/2026/film/festivals/ai-cannes-2026-filmmakers-accept-1236748402/>; *Hollywood Reporter*, "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability." <https://www.hollywoodreporter.com/business/business-news/cannes-2026-ai-acceptance-1236592488/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**52.** *Variety*, "Is AI Basically Like Special Effects? Peter Jackson Seems to Think So." <https://variety.com/2026/film/news/peter-jackson-ai-special-effects-1236748120/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**53.** *PC Gamer*, "Take-Two's CEO says AI's not in the business of making hits, 'datasets by their very nature are backward looking', but that doesn't mean AI can't be 'super helpful'." <https://www.pcgamer.com/games/take-two-ceo-ai-not-making-hits-backward-looking/>. *Business Insider*, "The CEO behind Grand Theft Auto says he's pro AI — but the technology can't make an original hit." <https://www.businessinsider.com/take-two-ceo-strauss-zelnick-ai-original-hits-2026-5>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
 
 ## Chapter 8 — Worlds, Not Pictures
 
@@ -548,6 +570,14 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **24.** Unity AI Open Beta, in-editor AI suite, May 2026. [*Dream Machine* Issue 28](../Dream%20Machine%20MD/28.md).
 
 **25.** Korin AI, "trained with African datasets, built by Africans," May 2026. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md).
+
+**26.** NVIDIA SANA-WM, 2.6B open-source world model with 60-second video generation and camera control, May 2026. <https://huggingface.co/collections/nvidia/sana-wm>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**27.** Odyssey, "Introducing Starchild-1, the first real-time multimodal world model." <https://odyssey.ml/introducing-starchild-1>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**28.** Apple Machine Learning Research, "Headsup: a large-scale high-quality 3D Gaussian head reconstruction from multi-view captures." <https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**29.** WorldLens VR, "AI-powered 3D depth for Google Street View on Quest." <https://www.uploadvr.com/worldlens-vr-quest-street-view-3d-depth/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 
 ## Chapter 9 — AI in Everything, Everywhere, All at Once
@@ -608,7 +638,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **27.** Runway product cycle: Gen-4.5 (December 2025), Gen-4.5 Image-to-Video (January 2026), Workflows, Story Panels, Characters API, Apps for Advertising — *Dream Machine* Issues [10](../Dream%20Machine%20MD/10.md), [14](../Dream%20Machine%20MD/14.md), [15](../Dream%20Machine%20MD/15.md), [16](../Dream%20Machine%20MD/16.md), [20](../Dream%20Machine%20MD/20.md). Runway CEO on indie films vs. blockbusters: [*Dream Machine* Issue 26](../Dream%20Machine%20MD/26.md).
 
-**28.** For the running ledger of new creative-AI products through 2025–26, see *Dream Machine* Issues [1](../Dream%20Machine%20MD/1.md)–[29](../Dream%20Machine%20MD/29.md) archive.
+**28.** For the running ledger of new creative-AI products through 2025–26, see *Dream Machine* Issues [1](../Dream%20Machine%20MD/1.md)–[30](../Dream%20Machine%20MD/30.md) archive.
 
 **29.** ComfyUI, "We raised $17 million to build an OS for Creative AI." <https://www.linkedin.com/posts/comfyui_we-raised-17-million-to-build-an-os-for-ugcPost-7373743341236236288-wkCc>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
@@ -635,6 +665,25 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **40.** *CNBC*, "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work." <https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html>. [*Dream Machine* Issue 7](../Dream%20Machine%20MD/7.md).
 
 **41.** University of Wisconsin-Stout, "AI Reshaping Industry: New UW-Stout Course Sets AI-Use as Baseline Competency in Filmmaking." <https://www.uwstout.edu/about-us/news-center/ai-reshaping-industry-new-uw-stout-course-sets-ai-use-baseline-competency-filmmaking>. [*Dream Machine* Issue 15](../Dream%20Machine%20MD/15.md).
+
+**42.** Google I/O 2026 announcement block: Gemini Omni <https://blog.google/technology/google-deepmind/gemini-omni/>, Antigravity <https://antigravity.google/>, Google Flow <https://flow.google/>, Gemini Spark <https://blog.google/technology/developers/gemini-spark/>, Project Genie + Street View <https://deepmind.google/discover/blog/project-genie-street-view/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md), "Editor's Pick — Google I/O 2026," 21 May 2026.
+
+**43.** Google Labs, "Infinite Scaler." <https://blog.google/technology/google-labs/infinite-scaler/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**44.** Google DeepMind, "SynthID — 100 billion watermarks, partner ecosystem." <https://deepmind.google/discover/blog/synthid-100-billion-watermarks-partners/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**45.** Runway, "Runway Japan." <https://runwayml.com/blog/runway-japan>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**46.** *Music Business Worldwide*, "Splice inks 'Responsible AI' deal with ElevenLabs." <https://www.musicbusinessworldwide.com/splice-elevenlabs-responsible-ai-deal/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**47.** *Adweek*, "Netflix ad tools could see 'agentic AIs talking to each other'." <https://www.adweek.com/media/netflix-ad-tools-agentic-ais-talking-to-each-other/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**48.** *Fortune*, "AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams." <https://fortune.com/2026/05/19/ai-startup-viktor-75-million-virtual-coworker-slack-teams/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+
+## Chapter 10 — What is newly possible
+
+**1.** Snap Newsroom, "Snapchat Gen Z AI Creativity Research 2026." <https://newsroom.snap.com/snapchat-gen-z-ai-creativity-research-2026>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 
 ## Chapter 11 — The Orchestrator
@@ -749,6 +798,18 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **25.** *Broadcast Pro Middle East*, "Tunisian filmmaker wins $1 million AI Film Award for 'Lily'." *op. cit.* [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
 
 **26.** Sundance Institute AI Literacy Initiative emphasis on documentation: <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
+
+**27.** Google DeepMind, "SynthID — 100 billion watermarks, expanding to partner ecosystems including OpenAI, ElevenLabs and Kakao." <https://deepmind.google/discover/blog/synthid-100-billion-watermarks-partners/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**28.** *Hollywood Reporter*, "Bobby Berk Says AI Will Make Reality TV & 'Verifiably Human Content' More Valuable." <https://www.hollywoodreporter.com/tv/tv-news/bobby-berk-ai-reality-tv-1236592920/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**29.** *Rolling Stone*, "The Rolling Stones Release New Single 'In the Stars' — With a Music Video De-Aging the Rockers Courtesy of AI." <https://www.rollingstone.com/music/music-news/rolling-stones-in-the-stars-ai-de-aging-video-1235142200/>. *Hollywood Reporter*, "'South Park' Creators' AI Company Made The Rolling Stones Young Again for 'In The Stars' Music Video." <https://www.hollywoodreporter.com/tv/tv-news/south-park-creators-ai-rolling-stones-in-the-stars-1236592855/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**30.** *Variety*, "Cate Blanchett Co-Founds RSL Media, a Non-Profit to Address Consent Around AI Usage including creative work, name, image and likeness." <https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-consent-1236748255/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**31.** *Bloomberg*, "Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'." <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**32.** *The Drum*, "David Beckham Designs 'Henchester United' Chicken Coop in Lenovo Ad." <https://www.thedrum.com/news/2026/05/18/david-beckham-henchester-united-chicken-coop-lenovo-ai-ad>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 
 ## Chapter 13 — Coordination Collapse
@@ -1032,12 +1093,46 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **41.** Korin AI launch, May 2026. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md).
 
+**42.** Google DeepMind, "Introducing Gemini Omni: Create Anything from Any input." <https://blog.google/technology/google-deepmind/gemini-omni-launch/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**43.** Beeple Canvas — Generative AI compositor. <https://www.beeple-canvas.com/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**44.** Sony AI, "Woosh — a sound effect foundation model." <https://ai.sony/blog/woosh-sound-effect-foundation-model/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**45.** Mirelo SFX 1.6, "edit sound, not just generate it." <https://mirelo.ai/sfx-1-6>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**46.** Stability AI, "Stable Audio 3.0 released — open-weight model family built for artistic experimentation." <https://stability.ai/news/stable-audio-3-0-released>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**47.** Tamber product page: <https://tamber.ai/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**48.** Beatport Track ID. <https://www.beatport.com/track-id>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**49.** NVIDIA SANA-WM model collection. <https://huggingface.co/collections/nvidia/sana-wm>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**50.** Odyssey, "Introducing Starchild-1, the first real-time multimodal world model." <https://odyssey.ml/introducing-starchild-1>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**51.** Odyssey, "Introducing Agora-1 — four-player AI-generated world built on a 1997 shooter." <https://odyssey.ml/introducing-agora-1>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**52.** Apple Machine Learning Research, "Apple Headsup: a Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures." <https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**53.** Google, "Official skills for AI agents." <https://github.com/google/agent-skills>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**54.** Tencent Ardot, AI-native design agent platform. <https://ardot.tencent.com/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**55.** Anthropic, "Claude is now available as a partner node in ComfyUI." <https://www.anthropic.com/news/claude-comfyui-partner-node>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**56.** ECABridge — Unreal Engine MCP integration. <https://ecabridge.dev/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**57.** *Video Games Chronicle*, "Epic Games Veteran Claims He's Building AI-Heavy 'Fully European' Game Engine." <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**58.** PhotoGIMP — the open-source GIMP skin that mimics Photoshop. <https://github.com/Diolinux/PhotoGIMP>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
 
 
 ---
 
 ## Summary
 
-- **Total footnotes**: 489
-- **Unique primary-source URLs cited**: 290
-- **Source corpus**: 29 editions of *Dream Machine | Creative AI* (October 2025 – May 2026)
+- **Total footnotes**: 535
+- **Unique primary-source URLs cited**: 339
+- **Source corpus**: 30 editions of *Dream Machine | Creative AI* (October 2025 – May 2026)

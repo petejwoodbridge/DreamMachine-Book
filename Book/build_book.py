@@ -32,7 +32,6 @@ BACK_COVER_HTML = BUILD / "_back_cover.html"
 COVER_PDF = BUILD / "_cover.pdf"
 BACK_COVER_PDF = BUILD / "_back_cover.pdf"
 CONTENT_PDF = BUILD / "_content.pdf"
-OUT_PDF = BUILD / "Dream_Machine.pdf"
 CITATION_INDEX = ROOT / "Citation_Index.md"
 
 EDGE_PATHS = [
@@ -83,7 +82,11 @@ TITLE = "Dream Machine"
 SUBTITLE = "The New Creative Economy"
 AUTHOR = "Pete Woodbridge"
 PLACE = "DreamLab, the North West, UK"
-DATE = "May 2026"
+DATE = "21 May 2026"
+# Used both in the colophon and in the output PDF filename. Each new edition
+# of the book gets a fresh dated PDF so prior versions are retained alongside.
+EDITION_SLUG = "2026-05-21"
+OUT_PDF = BUILD / f"Dream_Machine_{EDITION_SLUG}.pdf"
 
 # --- Header normaliser ----------------------------------------------------
 
@@ -210,6 +213,7 @@ def build_static_front_matter() -> str:
         f'<h1 class="book-title">{TITLE}</h1>'
         f'<h2 class="book-subtitle">{SUBTITLE}</h2>'
         f'<p class="book-author">{AUTHOR}</p>'
+        f'<p class="book-edition-date">{DATE}</p>'
         f'<p class="book-imprint">DreamLab AI Collective</p>'
         f'</div>'
     )
@@ -220,9 +224,9 @@ def build_static_front_matter() -> str:
         f'<p class="colophon">'
         f'<em>{TITLE}: {SUBTITLE}</em><br/>'
         f'© 2026 {AUTHOR}. All rights reserved.<br/>'
-        f'First edition, {DATE}.<br/><br/>'
+        f'Edition of {DATE}.<br/><br/>'
         f'Written and edited at DreamLab in the North West of England, '
-        f'between October 2025 and May 2026, in parallel with twenty-nine weekly '
+        f'between October 2025 and May 2026, in parallel with thirty weekly '
         f'editions of the <em>Dream Machine</em> newsletter.<br/><br/>'
         f'All footnoted claims are sourced. Every footnote links either to a '
         f'primary source or to the issue of <em>Dream Machine</em> in which the '
@@ -238,7 +242,7 @@ def build_static_front_matter() -> str:
         f'<p class="blurb">'
         f'In September 2025, a synthetic actress walked onto a Zurich film '
         f'festival stage, OpenAI shipped Sora 2, and Pete Woodbridge sat down '
-        f'to write a newsletter about it. Twenty-nine weekly issues later, what '
+        f'to write a newsletter about it. Thirty weekly issues later, what '
         f'began as a one-month experiment had become <em>Dream Machine</em> — '
         f'the most-read working-creative record of the AI transition.'
         f'</p>'
@@ -375,7 +379,7 @@ def build_citation_index(chapter_data: list[tuple[str, str]]) -> str:
     lines.append("## Summary\n")
     lines.append(f"- **Total footnotes**: {total}")
     lines.append(f"- **Unique primary-source URLs cited**: {len(unique_urls)}")
-    lines.append("- **Source corpus**: 29 editions of *Dream Machine | Creative AI* (October 2025 – May 2026)\n")
+    lines.append("- **Source corpus**: 30 editions of *Dream Machine | Creative AI* (October 2025 – May 2026)\n")
 
     return "\n".join(lines)
 

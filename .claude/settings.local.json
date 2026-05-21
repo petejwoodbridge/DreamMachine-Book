@@ -39,7 +39,21 @@
       "Bash(python Book/build_book.py)",
       "Bash(python -m pip install --quiet pypdf)",
       "Bash(python -m pip install --quiet pymupdf)",
-      "Bash(python -c \"import fitz; print\\('pymupdf', fitz.__version__\\)\")"
+      "Bash(python -c \"import fitz; print\\('pymupdf', fitz.__version__\\)\")",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(grep -v \"build\\\\\\\\\\\\\\\\\")",
+      "Bash(awk 'NR>=80 && NR<=160' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/13_Coordination_Collapse.md\")",
+      "Bash(awk 'NR>=100 && NR<=220' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/04_Dead_Internet_Living_Web.md\")",
+      "Bash(awk 'NR>=1 && NR<=170' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/A3_Bibliography_by_Topic.md\")",
+      "Bash(awk 'NR>=1 && NR<=130' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/11_The_Orchestrator.md\")",
+      "Bash(awk 'NR>=80 && NR<=140' \"d:/VSCODE PROJECTS/DreamMachine Book/Book/10_What_Is_Newly_Possible.md\")",
+      "Bash(awk '/^\\\\[\\\\^[0-9a-zA-Z-]+\\\\]:/ {print NR\": \"$1}' 10_What_Is_Newly_Possible.md)",
+      "Bash(awk 'NR<=900' 16_The_Tools.md)",
+      "Bash(awk 'NR<=300 && /^##/ {print NR\": \"$0}' A1_Appendix_Quantitative_Anatomy.md)",
+      "Bash(awk '/^##/ {print NR\": \"$0}' A3_Bibliography_by_Topic.md)",
+      "Bash(rm -f build/_body.html)",
+      "Bash(python build_book.py)"
     ]
   }
 }

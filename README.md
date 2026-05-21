@@ -5,14 +5,23 @@
 A practitioner's account of the year generative AI re-platformed the creative industries — written from inside the work, week by week, between October 2025 and May 2026.
 
 <p align="center">
-  <a href="Book/build/Dream_Machine.pdf">
+  <a href="Book/build/Dream_Machine_2026-05-21.pdf">
     <img src="Book/assets/cover.png" alt="Dream Machine — The New Creative Economy" width="320"/>
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="Book/build/Dream_Machine.pdf">📖 Read the latest PDF →</a></strong>
+  <strong><a href="Book/build/Dream_Machine_2026-05-21.pdf">📖 Read the latest PDF (21 May 2026) →</a></strong>
 </p>
+
+### Editions
+
+Each rebuild of the book ships as its own dated PDF, so earlier editions stay readable alongside the current one. The newest edition is always at the top.
+
+| Edition | Newsletter span | PDF |
+|---|---|---|
+| **21 May 2026** *(current)* | Issues 1–30 | [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf) |
+| 14 May 2026 | Issues 1–29 | [Dream_Machine_2026-05-14.pdf](Book/build/Dream_Machine_2026-05-14.pdf) |
 
 ---
 
@@ -58,7 +67,7 @@ Book/
 │   ├── cover.png, back_cover.png         # Cover art
 │   └── book.css                          # Book typography
 ├── build/
-│   └── Dream_Machine.pdf                 # The current rendered book
+│   └── Dream_Machine_YYYY-MM-DD.pdf      # Dated edition (one per rebuild)
 ├── build_book.py                         # The build pipeline
 └── watch_book.py                         # Auto-rebuild on file change
 
@@ -84,6 +93,8 @@ python Book/build_book.py
 
 The build is a two-pass pipeline — Pandoc converts the chapter markdown to HTML, headless Edge renders that HTML to PDF, drop-cap positions are scanned to discover chapter page numbers, and the table of contents is re-rendered with those numbers before a final merge with the standalone cover PDFs.
 
+Each build writes to `Book/build/Dream_Machine_<EDITION_SLUG>.pdf` where `EDITION_SLUG` is set near the top of [`build_book.py`](Book/build_book.py). To cut a new dated edition, bump `DATE` and `EDITION_SLUG` together and re-run — prior editions are left untouched on disk so older readings stay reachable.
+
 Auto-rebuild while editing:
 
 ```
@@ -92,7 +103,7 @@ python Book/watch_book.py
 
 ## Reading the book without building it
 
-If you don't want to run the toolchain, the latest rendered PDF is committed at [Book/build/Dream_Machine.pdf](Book/build/Dream_Machine.pdf). Open it directly.
+If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf)) or any prior edition from the table above.
 
 ## Get in touch
 

@@ -31,6 +31,15 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Digiday*, *"AI agent developers have become adland's in-demand role."* <https://digiday.com/marketing/ai-agent-developers-have-become-adlands-in-demand-role/>
 - *Eurogamer*, *"Falcom: 'Tasks that previously took 2–3 hours can now be completed in 10 minutes'."* <https://www.eurogamer.net/falcom-is-the-latest-developer-to-buy-into-the-ai-hype-machine>
 - *Forbes*, *"AI Is Changing How Creators Work And Earn."* <https://www.forbes.com/sites/kolawolesamueladebayo/2025/12/22/how-ai-is-changing-how-creators-work-and-earn/>
+- Google DeepMind, *"Introducing Gemini Omni — unified multimodal model."* <https://blog.google/technology/google-deepmind/gemini-omni/>
+- Google, *"Gemini Spark — developer toolkit for autonomous agents."* <https://blog.google/technology/developers/gemini-spark/>
+- Google, *"Antigravity — agentic coding environment."* <https://antigravity.google/>
+- Google, *"Google Flow — agent-based creative workflows."* <https://flow.google/>
+- Google, *"Official skills for AI agents."* <https://github.com/google/agent-skills>
+- *Adweek*, *"Netflix ad tools could see 'agentic AIs talking to each other'."* <https://www.adweek.com/media/netflix-ad-tools-agentic-ais-talking-to-each-other/>
+- *Fortune*, *"AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams."* <https://fortune.com/2026/05/19/ai-startup-viktor-75-million-virtual-coworker-slack-teams/>
+- Tencent, *"Ardot — AI-native design agent platform."* <https://ardot.tencent.com/>
+- Anthropic, *"Claude available as a partner node in ComfyUI."* <https://www.anthropic.com/news/claude-comfyui-partner-node>
 
 ## III. Bot economy, model collapse, and the Dead Internet
 
@@ -59,6 +68,18 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Digital Music News*, *"YouTube CEO Puts 'Managing AI Slop' on the Priority List for 2026."* <https://www.digitalmusicnews.com/2026/01/22/youtube-ceo-ai-slop-2026-comments/>
 - *Musically*, *"Report: 56.9% of new independent songs in China are AI-generated."* <https://musically.com/2026/01/05/report-56-9-of-new-independent-songs-in-china-are-ai-generated/>
 - *The Guardian*, *"Paul McCartney joins music industry protest against AI with silent track."* <https://www.theguardian.com/music/2025/nov/17/the-sound-of-silence-why-theres-barely-anything-there-in-paul-mccartney-new-release>
+- *MusicTech*, *"Jack Antonoff brands AI music makers as 'godless whores'."* <https://musictech.com/news/industry/jack-antonoff-ai-music-makers-godless-whores/>
+- *Billboard*, *"The Real Story Behind The AI Song That Knocked Tyla Off No. 1 On Billboard Afrobeats Chart."* <https://www.billboard.com/pro/ai-song-knocked-tyla-off-no-1-afrobeats/>
+- *Variety*, *"WMG's Robert Kyncl: 'AI Resistance' Setting Music Sector Back."* <https://variety.com/2026/music/news/wmg-robert-kyncl-ai-resistance-1236748901/>
+- *Musically*, *"Sondo AI says it has 10m global users."* <https://musically.com/2026/05/18/sondo-ai-10m-global-users/>
+- *Musically*, *"BPI sets out transparency and sovereignty demands to secure AI licensing boom."* <https://musically.com/2026/05/19/bpi-transparency-sovereignty-ai-licensing-boom/>
+- *Musicbusinessworldwide*, *"DistroKid asks creators if their music is AI-generated as self-disclosure moves out of beta."* <https://www.musicbusinessworldwide.com/distrokid-ai-self-disclosure-out-of-beta/>
+- *Musicbusinessworldwide*, *"Splice inks 'Responsible AI' deal with ElevenLabs."* <https://www.musicbusinessworldwide.com/splice-elevenlabs-responsible-ai-deal/>
+- *Rolling Stone*, *"The Rolling Stones Release 'In the Stars' — AI De-Aging Music Video."* <https://www.rollingstone.com/music/music-news/rolling-stones-in-the-stars-ai-de-aging-video-1235142200/>
+- *MusicTech*, *"Tamber — ethically trained AI music tool with arm gesture control."* <https://musictech.com/news/gear/tamber-ai-ethically-trained-arm-gestures/>
+- Stability AI, *"Stable Audio 3.0 released."* <https://stability.ai/news/stable-audio-3-0-released>
+- Sony AI, *"Woosh — sound effect foundation model."* <https://ai.sony/blog/woosh-sound-effect-foundation-model/>
+- Mirelo, *"SFX 1.6 — edit sound, not just generate."* <https://mirelo.ai/sfx-1-6>
 
 ## V. Copyright, consultation and the legal architecture
 
@@ -67,6 +88,7 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - UCL Copyright Queries, *"UK government publishes progress statement on AI and copyright consultation."* <https://blogs.ucl.ac.uk/copyright/2025/12/23/uk-government-publishes-progress-statement-on-ai-and-copyright-consultation/>
 - Hogan Lovells, *"Copyright and AI: UK government publishes statement of progress."* <https://www.hoganlovells.com/en/publications/copyright-and-ai-uk-government-publishes-statement-of-progress>
 - *Music Business Worldwide*, *"Wixen files $50m copyright suit against Meta."* <https://www.musicbusinessworldwide.com/wixen-files-50m-copyright-suit-against-meta-claims-tech-giant-wants-to-replace-songwriters-with-ai/>
+- *Music Business Worldwide*, *"Meta hits back against Wixen Music Publishing's $70m 'AI replacement' infringement suit."* <https://www.musicbusinessworldwide.com/meta-wixen-music-publishing-70-million-ai-replacement-lawsuit/>
 - *EDM.com*, *"'Biggest Theft in Music History': Rights Group Sues Suno."* <https://edm.com/gear-tech/rights-group-sues-suno-copyright-infringement/>
 - *Complete Music Update*, *"Johnny Cash estate uses ELVIS Act to sue Coke."* <https://completemusicupdate.com/johnny-cash-estate-uses-elvis-act-to-sue-coke-over-tribute-act-ad-soundtrack/>
 - Dr. Barry Scannell, analysis of GEMA v. OpenAI ruling. <https://www.linkedin.com/posts/dr-barry-scannell-bbb5aa207_in-a-major-ruling-for-european-copyright-share-7393957246386323457-8bbx>
@@ -94,6 +116,16 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Decrypt*, *"'Warhammer 40,000' Maker Games Workshop Rules Out Generative AI."* <https://decrypt.co/354482/warhammer-40000-maker-games-workshop-rules-out-generative-ai>
 - *Niche Gamer*, *"Larian Studios backs off from gen AI."* <https://nichegamer.com/larian-studios-backs-off-from-gen-ai/>
 - *PC Gamer*, *"Todd Howard says AI can't replace human 'creative intention'."* <https://www.pcgamer.com/gaming-industry/todd-howard-says-ai-cant-replace-human-creative-intention-but-its-part-of-bethesdas-toolset-for-how-we-build-our-worlds-or-check-things/>
+- *Hollywood Reporter*, *"Netflix INKubator AI animation studio for 'feature-quality' shorts."* <https://www.hollywoodreporter.com/business/business-news/netflix-ai-animation-studio-inkubator-1236592110/>
+- *Forbes*, *"Wonder Studios — $50M British studio aiming to become 'A24 of AI'."* <https://www.forbes.com/sites/charliefink/2026/05/18/meet-wonder-studios-the-50m-british-studio-striving-to-become-the-a24-of-ai-production/>
+- Runway, *"Runway Japan — Tokyo office and $40M investment."* <https://runwayml.com/blog/runway-japan>
+- *Hollywood Reporter*, *"Cannes 2026: filmmakers shift towards cautious AI acceptance."* <https://www.hollywoodreporter.com/business/business-news/cannes-2026-ai-acceptance-1236592488/>
+- *Variety*, *"AI Dominates Cannes Buzz as Filmmakers Grudgingly Accept It."* <https://variety.com/2026/film/festivals/ai-cannes-2026-filmmakers-accept-1236748402/>
+- *Variety*, *"Peter Jackson: AI is basically the next wave of special effects."* <https://variety.com/2026/film/news/peter-jackson-ai-special-effects-1236748120/>
+- *Variety*, *"Kling AI + Evolutionary Films on 'Minibots' at Cannes Market."* <https://variety.com/2026/film/news/kling-ai-evolutionary-films-minibots-cannes-1236748590/>
+- *Cartoon Brew*, *"Former Disney Animator: Marvel layoffs point to a bigger AI shift."* <https://www.cartoonbrew.com/artist-rights/former-disney-animator-marvel-layoffs-ai-shift-260601.html>
+- *Hollywood Reporter*, *"Bobby Berk: AI will make reality TV and 'verifiably human content' more valuable."* <https://www.hollywoodreporter.com/tv/tv-news/bobby-berk-ai-reality-tv-1236592920/>
+- *PC Gamer*, *"Take-Two's CEO: AI 'datasets by their very nature are backward looking'."* <https://www.pcgamer.com/games/take-two-ceo-ai-not-making-hits-backward-looking/>
 
 ## VII. World models and the new medium
 
@@ -108,6 +140,14 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - DeepMind, *"SIMA 2: An Agent that Plays, Reasons, and Learns."* <https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/>
 - Radiance Fields, *"Apple Confirms Personas use Gaussian Splatting."* <https://radiancefields.com/apple-confirms-personas-use-gaussian-splatting>
 - Sony Pictures' virtual-production case study (Marble integration). <https://www.linkedin.com/posts/brent-liang_tech-media-launch-ugcPost-7394911181091692546-TyUz>
+- NVIDIA, *"SANA-WM — 2.6B open-source world model with 60-second video generation and camera control."* <https://huggingface.co/collections/nvidia/sana-wm>
+- Odyssey, *"Starchild-1 — first real-time multimodal world model."* <https://odyssey.ml/introducing-starchild-1>
+- Odyssey, *"Agora-1 — four-player AI-generated world built on a 1997 shooter."* <https://odyssey.ml/introducing-agora-1>
+- Google DeepMind, *"Project Genie + Street View — simulate real-world places."* <https://deepmind.google/discover/blog/project-genie-street-view/>
+- Google Labs, *"Infinite Scaler — browser multiplayer generative game."* <https://blog.google/technology/google-labs/infinite-scaler/>
+- Apple Machine Learning Research, *"Apple Headsup — 3D Gaussian Head Reconstruction from Multi-View Captures."* <https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head>
+- WorldLens VR, *"AI-powered 3D depth on Quest for Google Street View."* <https://www.uploadvr.com/worldlens-vr-quest-street-view-3d-depth/>
+- *gamesindustry.biz*, *"Meet Seed, the planet-sized society simulator."* <https://www.gamesindustry.biz/meet-seed-planet-sized-society-simulator>
 
 ## VIII. The platform layer and the AI-native toolchain
 
@@ -123,6 +163,13 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - TechCrunch, *"Synthesia hits $4B valuation."* <https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/>
 - *Sifted*, *"Synthesia rejects $3bn Adobe acquisition offer."* <https://sifted.eu/articles/synthesia-acquisition-offer>
 - ComfyUI, *"We raised $17 million to build an OS for creative AI."* <https://www.linkedin.com/posts/comfyui_we-raised-17-million-to-build-an-os-for-ugcPost-7373743341236236288-wkCc>
+- Beeple Canvas, *"Generative AI meets compositing."* <https://www.beeple-canvas.com/>
+- *MacRumors*, *"New CarPlay Audio Apps Add AI Music and Global Radio."* <https://www.macrumors.com/2026/05/19/carplay-ai-music-global-radio/>
+- *The Drum*, *"World's First AI-Driven Immersive Shoppable Catwalk."* <https://www.thedrum.com/news/2026/05/18/how-world-s-first-ai-driven-immersive-shoppable-catwalk-redefined-future-brand>
+- *The Drum*, *"David Beckham designs 'Henchester United' chicken coop in Lenovo AI ad."* <https://www.thedrum.com/news/2026/05/18/david-beckham-henchester-united-chicken-coop-lenovo-ai-ad>
+- *Amazon*, *"Alexa+ debuts feature to create AI-generated podcasts."* <https://www.aboutamazon.com/news/devices/alexa-plus-ai-podcasts>
+- ECABridge, *"Unreal Engine MCP integration."* <https://ecabridge.dev/>
+- *Video Games Chronicle*, *"Epic Games Veteran on AI-Heavy 'Fully European' Game Engine."* <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>
 
 ## IX. Authenticity, provenance and disclosure
 
@@ -137,6 +184,11 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *The Hollywood Reporter*, *"Synthetic Sincerity on AI Characters, Authenticity (IDFA)."* <https://www.hollywoodreporter.com/movies/movie-news/synthetic-sincerity-film-idfa-ai-authenticity-interview-1236426180/>
 - Variety, *"AI-Generated Images Lead to Audiences' Distrust, Threaten Documentary."* <https://variety.com/2025/film/festivals/ai-generated-images-threaten-future-of-documentary-1236583466/>
 - *Hollywood Reporter*, *"Merriam-Webster Names Slop Word of the Year 2025."* <https://www.hollywoodreporter.com/news/general-news/slop-word-year-2025-merriam-webster-1236450780/>
+- Google DeepMind, *"SynthID — 100 billion items watermarked; partner expansion to OpenAI, ElevenLabs, Kakao."* <https://deepmind.google/discover/blog/synthid-100-billion-watermarks-partners/>
+- *Variety*, *"Cate Blanchett co-founds RSL Media — non-profit on AI consent for name, image, likeness."* <https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-consent-1236748255/>
+- *Bloomberg*, *"Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'."* <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>
+- Snap Newsroom, *"Snapchat Gen Z AI Creativity Research 2026 — 31% of 13–15 year-olds use AI to be creative."* <https://newsroom.snap.com/snapchat-gen-z-ai-creativity-research-2026>
+- YouGov AU, *"45% of Australians say AI-generated ads would make them trust a brand less."* <https://yougov.com.au/topics/consumer/articles-reports/2026/05/19/45-percent-australians-ai-generated-ads-trust-brand-less>
 
 ## X. Labour, organisation and the new geography
 
@@ -165,6 +217,6 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 
 ## XII. Newsletters and primary corpus
 
-- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–29 (6 October 2025 – 14 May 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
+- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–30 (6 October 2025 – 21 May 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
 - DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>
 - DreamLab Substack, "Some Predictions on Creative AI for 2026" — *Dream Machine* Issue 13 companion piece. <https://substack.com/home/post/p-183997149>

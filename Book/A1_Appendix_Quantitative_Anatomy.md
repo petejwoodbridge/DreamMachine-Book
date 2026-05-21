@@ -9,7 +9,7 @@
 
 - **Total fetched and parsed articles**: 1,388.
 - **Total captured words across the corpus**: ~1,099,216 (~6,945,361 characters of post-extraction text).
-- **Source span**: 29 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 14 May 2026.
+- **Source span**: 29 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 14 May 2026 (the quantitative tables in §A1–A6 below cover this analytic window; **Issue 30**, dated 21 May 2026, is documented in §A7 as a post-cut supplemental, and is incorporated narratively into the May-2026 closing material across the body chapters).
 - **Average articles per newsletter edition** (in this corpus): ~48.
 - **Capture rate** against the full curated URL set: **91.4%** (1,438 of 1,574 URLs returned readable content; the remainder hit bot-detection, 404s, or live-page connection issues).
 
@@ -202,6 +202,24 @@ Recurring key phrases by month — articles containing each phrase:
 | model collapse | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 **Reading note.** Watch *AI slop* — it goes from a fringe term in October 2025 to a Merriam-Webster word of the year by December and a policy framing by the spring. Watch *agentic AI* — it lifts after the October DevDay and never falls back. Watch *world model* — barely present in October 2025, ubiquitous by April 2026. Watch *consent / license / copyright* — climbing all the way through, with a sharp December spike around the UK consultation closure.
+
+## A7. May 2026 supplemental: the Issue-30 datapoints
+
+The corpus closes at *Dream Machine* Issue 29. **Issue 30**, dated 21 May 2026, post-dates the analytic cut and is not represented in the article-frequency tables above; it is the issue that catches the **Google I/O 2026** announcement wave, and is the source for the manuscript's closing-week additions. The numerical datapoints from Issue 30 worth recording here in standalone form:
+
+| Datapoint | Value | Source |
+|---|---:|---|
+| SynthID watermarked items, cumulative | 100B+ | Google DeepMind, May 2026 |
+| Wonder Studios total funding | $50M | *Forbes*, May 2026 |
+| Runway Japan investment (Tokyo office) | $40M | Runway, May 2026 |
+| Viktor (virtual AI coworker) Series funding | $75M | *Fortune*, May 2026 |
+| Sondo AI claimed global users | 10M | *Musically*, May 2026 |
+| 13–15 year-olds using AI to "be creative" (Snapchat survey) | 31% | Snap Newsroom, May 2026 |
+| Australians who say AI-generated ads make them trust a brand less (YouGov) | 45% | YouGov AU, May 2026 |
+| NVIDIA SANA-WM model size | 2.6B | NVIDIA, May 2026 |
+| SANA-WM native video-generation length | 60 sec | NVIDIA, May 2026 |
+
+**Reading note.** Issue 30's headline tool releases (Gemini Omni, Beeple Canvas, Sony Woosh, Mirelo SFX 1.6, Tencent Ardot, Odyssey Starchild-1 / Agora-1, NVIDIA SANA-WM, Apple Headsup, Stable Audio 3.0, PhotoGIMP, Tamber, ECABridge, Claude/ComfyUI) lift the cumulative tool count in §A5 by roughly **a dozen entries in a single week**. The May-2026 cadence is the highest single-week tool-release count in the period the book covers, and reads — in the context of the §A5 average of 7.5 new platforms per *month* — as a Google-I/O-week saturation point that I would expect to settle back into the prior cadence by July.
 
 
 ---

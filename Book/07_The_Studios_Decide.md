@@ -22,6 +22,8 @@ Netflix's "all in" framing was the most prominent example of what became, over t
 
 The actual deployment, when the trade press dug into it, was more interesting than the slogan suggested. Netflix's use of AI in late 2025 included generative AI tools for visual effects (de-aging actors, scene extensions, background plates), AI-driven recommendation engines that the company had been refining for fifteen years, and — disclosed in a January 2026 *Pymnts* report — a major AI strategic push focused on subscriber *retention* rather than production cost.[^4] The story Sarandos was telling Wall Street was not "AI will replace our writers." It was "AI will keep our subscribers engaged in a way that human-only programming alone cannot afford to."
 
+By May 2026 the deployment had moved one further step in. Netflix announced **INKubator**, an in-house AI animation studio explicitly chartered to produce *"feature-quality"* short-form work, and began recruiting for it publicly.[^48] What is notable about INKubator, for the purposes of this chapter, is not the size of the unit — small, by Netflix standards — but the *organisational position* of it: an *internal* AI-native studio sitting *inside* the major-streamer architecture, producing original work, reporting up into the same commissioning structure as the live-action slates. That is a different shape from the Position-Two AI-native studios I describe in the next section. It is a hybrid: Position One on the org chart, Position Two in the pipeline.
+
 Adjacent moves from other big studios that autumn told the same story.
 
 **Amazon** built out an internal "AI Studios" unit in November 2025, naming sports-docs boss Matt Newman as its head of live-action production.[^5] In the same month, Amazon's *House of David* TV series became one of the first major Western dramas to publicly disclose the use of more than **350 AI-generated visual-effects shots** in its second season, with creator Jon Erwin telling *Wired* he was "not sorry."[^6]
@@ -46,7 +48,7 @@ A second group, more recent and more interesting, are the studios that have deci
 
 **Imagine Entertainment** — Ron Howard and Brian Grazer's production company, with one of the most distinguished filmographies in modern Hollywood — partnered with a new AI-first production company called **Obsidian Studio** in November 2025.[^17]
 
-**Wonder Studios** raised $12m in seed in October 2025[^18] and by January 2026 was running its own **Wonder Film Festival** with a curated shortlist of AI-made shorts.[^19]
+**Wonder Studios** raised $12m in seed in October 2025[^18] and by January 2026 was running its own **Wonder Film Festival** with a curated shortlist of AI-made shorts.[^19] By May 2026 Wonder had closed a further round bringing total funding to **$50M**, with the company publicly framing the ambition as becoming *"the A24 of AI production"* — a deliberate analogue to the indie-prestige distribution model rather than to the streamer-replacement model the trade press had been expecting AI-native studios to chase.[^49]
 
 **Asteria** — Natasha Lyonne's AI company, backed by James Cameron's *Lightstorm Entertainment* — produced its first animated short, *All Heart*, in October 2025.[^20]
 
@@ -63,6 +65,8 @@ A second group, more recent and more interesting, are the studios that have deci
 **Particle6**, the U.K.–Netherlands company behind Tilly Norwood, expanded to 41 AI actors in development by November 2025, with founder Eline Van der Velden in a December 2025 *Deadline* interview making the case that AI performance was a "more ethical way" to act — and urging working performers to "future-proof" themselves by creating their own AI avatars.[^26]
 
 **Wonder Studios**, separately, adapted a children's book to an animated series using AI in December 2025.[^27]
+
+**Kling AI** and **Evolutionary Films** announced an AI-animated feature, *Minibots*, at the Cannes Film Market in May 2026, alongside a broader Kling-backed filmmaker initiative aimed at funding AI-native productions on the same indie-distribution architecture.[^50]
 
 By **April 2026**, the trade press could no longer keep up with the AI-native studio launches. There were too many of them. Most of them, like most early-stage production companies in any era, will not survive the next two years. The question of whether a meaningful AI-native studio system will eventually emerge as a parallel structure to legacy Hollywood — the way Netflix and Amazon eventually emerged as a parallel structure to the cable networks — is, in my view, the biggest single open question in the film and TV industry as of May 2026.
 
@@ -119,6 +123,8 @@ You see the same position in **The Witcher 3** and **Cyberpunk 2077** director's
 You see the same position in the **Wallace and Gromit creator** Nick Park's December 2025 framing — embrace the technology, but be cautious about the values.[^46]
 
 You see the same position, most starkly, in the May 2026 **Sony** announcement that it was "going all in on AI for games" — *with the specific framing that AI was a force multiplier, not a replacement.* Mocap-to-facial animation in seconds rather than hours. AI integrated into asset generation, QA, engineering and animation pipelines. The goal: *more games, faster.* But Sony's framing, which I have read several times to make sure I am not over-reading it, repeatedly emphasised AI as a tool *inside* the creative work, not as a substitute *for* it.[^47]
+
+You see the same position, by May 2026, in the **Cannes** festival press cycle, where the working auteurs on the Croisette had shifted markedly from the prior year's defensive stance to a more cautious *acceptance of inevitability* — framed less as enthusiasm than as a refusal to be left out of the next decade's tooling argument.[^51] **Peter Jackson**, in a May 2026 interview during the Cannes window, summarised the Position-Four read in a single line that I think will travel further than the Sony announcement: *AI is, in essence, the next wave of special effects.* The director's job is not changed by the SFX wave. The director's job is to know what the film is for, and to deploy whatever tools are now in the box to get it there.[^52] **Take-Two**'s Strauss Zelnick made the same argument from inside the AAA games business in the same week — that AI *"datasets by their very nature are backward-looking"* and so cannot, alone, make an *original* hit, but that AI is *"super helpful"* in the production of hits the human team has already conceived.[^53] Different industries, different framings, structurally identical position: *tool in the workflow, not author of the work.*
 
 This middle position — *AI in the workflow, not in the work* — is, I think, where most of the surviving major studios are going to land in 2030. It is the most defensible commercial position because it captures the productivity upside without giving up the cultural-product specificity that the audience continues, against the slop ceiling, to demand. It is also the most defensible *ethical* position, because it allows the studio to credibly claim — and to credibly prove, with disclosure and documentation — that the creative work the audience sees was, in its decisive moments, the work of human creators.
 
@@ -275,3 +281,15 @@ That is what Adobe, NVIDIA, Google and the rest of the platform layer started te
 [^46]: *GamesRadar*, "Aardman" *op. cit.*
 
 [^47]: [*Dream Machine* Issue 29](../Dream%20Machine%20MD/29.md), on Sony's "all in on AI for games" announcement.
+
+[^48]: *Hollywood Reporter*, "Netflix is building and recruiting for an AI animation studio, called INKubator, to produce 'feature-quality' shorts." <https://www.hollywoodreporter.com/business/business-news/netflix-ai-animation-studio-inkubator-1236592110/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^49]: *Forbes*, "Meet Wonder Studios, The $50M British Studio Striving To Become The A24 Of AI Production." <https://www.forbes.com/sites/charliefink/2026/05/18/meet-wonder-studios-the-50m-british-studio-striving-to-become-the-a24-of-ai-production/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^50]: *Variety*, "Kling AI Partners With Evolutionary Films on Animated Feature 'Minibots,' Unveils Filmmaker Initiative at Cannes Market." <https://variety.com/2026/film/news/kling-ai-evolutionary-films-minibots-cannes-1236748590/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^51]: *Variety*, "AI Dominates Cannes Buzz as Filmmakers Grudgingly Accept It." <https://variety.com/2026/film/festivals/ai-cannes-2026-filmmakers-accept-1236748402/>; *Hollywood Reporter*, "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability." <https://www.hollywoodreporter.com/business/business-news/cannes-2026-ai-acceptance-1236592488/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^52]: *Variety*, "Is AI Basically Like Special Effects? Peter Jackson Seems to Think So." <https://variety.com/2026/film/news/peter-jackson-ai-special-effects-1236748120/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^53]: *PC Gamer*, "Take-Two's CEO says AI's not in the business of making hits, 'datasets by their very nature are backward looking', but that doesn't mean AI can't be 'super helpful'." <https://www.pcgamer.com/games/take-two-ceo-ai-not-making-hits-backward-looking/>. *Business Insider*, "The CEO behind Grand Theft Auto says he's pro AI — but the technology can't make an original hit." <https://www.businessinsider.com/take-two-ceo-strauss-zelnick-ai-original-hits-2026-5>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
