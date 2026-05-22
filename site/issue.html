@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Issue — Dream Machine</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="bg-layer"></div>
+  <div class="bg-grid"></div>
+  <div class="orb orb--pink"></div>
+  <div class="orb orb--cyan"></div>
+
+  <nav class="nav">
+    <div class="container nav__inner">
+      <a class="brand" href="index.html">
+        <span class="brand__mark">DREAM MACHINE</span>
+        <span class="brand__tag">A creative's guide to AI</span>
+      </a>
+      <div class="nav__links">
+        <a class="nav__link" href="tools.html">Toolkit</a>
+        <a class="nav__link" href="use-cases.html">Use Cases</a>
+        <a class="nav__link" href="issues.html">Issues</a>
+        <a class="nav__link" href="editions.html">Newsletter</a>
+        <a class="nav__link" href="book.html">Book</a>
+        <a class="nav__cta" href="book.html">Read the book</a>
+      </div>
+    </div>
+  </nav>
+
+  <section class="section">
+    <div class="container">
+      <div class="issue-reader">
+        <article id="issue-body">
+          <div class="issue-reader__header">
+            <div class="issue-reader__num">Issue <span id="i-num">—</span></div>
+            <h1 class="issue-reader__title" id="i-title">Loading…</h1>
+            <div class="issue-reader__date" id="i-date"></div>
+            <div style="margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap;">
+              <a id="prev-link" class="btn btn--ghost btn--small">← Previous</a>
+              <a href="editions.html" class="btn btn--ghost btn--small">All editions</a>
+              <a id="next-link" class="btn btn--ghost btn--small">Next →</a>
+            </div>
+          </div>
+
+          <div id="spotlight-wrap"></div>
+          <div id="sections-wrap"></div>
+        </article>
+
+        <aside class="issue-reader__aside">
+          <div class="issue-toc">
+            <div class="issue-toc__heading">In this issue</div>
+            <div id="i-toc"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__base">
+        <span>© 2026 Pete Woodbridge / DreamLab AI Collective.</span>
+        <span><a href="editions.html">← All editions</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script>
+    (async () => {
+      const issues = await DM.loadJSON('issues');
+      const editions = await DM.loadJSON('editions');
+      const latest = editions[0]?.issue || 1;
+      let n = parseInt(DM.qs('n'), 10);
+      if (isNaN(n)) n = latest;
+      const issue = issues.find(i => i.issue === n) || issues[issues.length - 1];
+
+      document.title = `Issue ${issue.issue} — Dream Machine`;
+      document.getElementById('i-num').textContent = issue.issue;
+      document.getElementById('i-title').textContent = issue.title;
+      document.getElementById('i-date').textContent = DM.fmtDate(issue.date);
+
+      // Prev / next links
+      const prev = issues.find(i => i.issue === issue.issue - 1);
+      const next = issues.find(i => i.issue === issue.issue + 1);
+      const $prev = document.getElementById('prev-link');
+      const $next = document.getElementById('next-link');
+      if (prev) $prev.setAttribute('href', `issue.html?n=${prev.issue}`); else $prev.style.display = 'none';
+      if (next) $next.setAttribute('href', `issue.html?n=${next.issue}`); else $next.style.display = 'none';
+
+      // Spotlight
+      const $sp = document.getElementById('spotlight-wrap');
+      if (issue.tool_spotlight && issue.tool_spotlight.length) {
+        $sp.innerHTML = `
+          <section class="news-section">
+            <h2 class="news-section__heading">Tool <em>Spotlight</em></h2>
+            <ul class="news-list">
+              ${issue.tool_spotlight.map(item => renderItem(item)).join('')}
+            </ul>
+          </section>
+        `;
+      }
+
+      // Sections
+      const $sec = document.getElementById('sections-wrap');
+      $sec.innerHTML = issue.sections.map((s, i) => `
+        <section class="news-section" id="sec-${i}">
+          <h2 class="news-section__heading">${DM.escapeHTML(s.heading)}</h2>
+          <ul class="news-list">
+            ${s.items.map(item => renderItem(item)).join('')}
+          </ul>
+        </section>
+      `).join('');
+
+      // TOC
+      const $toc = document.getElementById('i-toc');
+      const toc = [];
+      if (issue.tool_spotlight && issue.tool_spotlight.length) {
+        toc.push({ href: '#spotlight-wrap', label: `Tool Spotlight (${issue.tool_spotlight.length})` });
+      }
+      issue.sections.forEach((s, i) => {
+        toc.push({ href: `#sec-${i}`, label: `${s.heading} (${s.items.length})` });
+      });
+      $toc.innerHTML = toc.map(t =>
+        `<a class="issue-toc__link" href="${t.href}">${DM.escapeHTML(t.label)}</a>`
+      ).join('');
+
+      function renderItem(item) {
+        const text = DM.escapeHTML(item.text);
+        if (item.url) {
+          return `<li><a href="${DM.escapeHTML(item.url)}" target="_blank" rel="noopener">${text}</a></li>`;
+        }
+        return `<li><span>${text}</span></li>`;
+      }
+    })();
+  </script>
+</body>
+</html>

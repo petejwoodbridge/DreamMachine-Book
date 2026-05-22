@@ -105,6 +105,24 @@ python Book/watch_book.py
 
 If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf)) or any prior edition from the table above.
 
+## The companion website
+
+The repo also ships a static website — **Dream Machine: A creative's guide to AI** — that turns the book's tool inventory and newsletter archive into a browsable, searchable toolkit. It lives in [site/](site/) and is regenerated automatically every time the book is rebuilt.
+
+Preview it locally:
+
+```
+python site/serve.py     # opens http://localhost:8765/site/
+```
+
+Rebuild only the site (without rebuilding the book PDF):
+
+```
+python site/build_site.py
+```
+
+The site mirrors the book's content into four entry points: **Toolkit** (the 550+ tool inventory from Chapter 16, with live search and faceted filtering), **Use Cases** (the Reader Paths persona stacks), **Issues &amp; Challenges** (the structural debates anchored to chapters) and a **Newsletter archive** of every issue.
+
 ## Get in touch
 
 The newsletter has only ever been as good as the community of creatives, technologists, union reps, academics, festival programmers, indie filmmakers, working musicians and audience members who have, week after week, sent in the things the editor would otherwise have missed. If you've got something we need to know about for the next edition, reach out via the [newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/) or [DreamLab](https://dreamlab.org.uk/).

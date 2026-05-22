@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Newsletter Archive — Dream Machine</title>
+  <meta name="description" content="Every Dream Machine newsletter issue, archived and readable in-browser. Refreshed each time a new edition ships." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="bg-layer"></div>
+  <div class="bg-grid"></div>
+  <div class="orb orb--pink"></div>
+  <div class="orb orb--cyan"></div>
+
+  <nav class="nav">
+    <div class="container nav__inner">
+      <a class="brand" href="index.html">
+        <span class="brand__mark">DREAM MACHINE</span>
+        <span class="brand__tag">A creative's guide to AI</span>
+      </a>
+      <div class="nav__links">
+        <a class="nav__link" href="tools.html">Toolkit</a>
+        <a class="nav__link" href="use-cases.html">Use Cases</a>
+        <a class="nav__link" href="issues.html">Issues</a>
+        <a class="nav__link" href="editions.html">Newsletter</a>
+        <a class="nav__link" href="book.html">Book</a>
+        <a class="nav__cta" href="book.html">Read the book</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="section section--tight" style="padding-top: 56px;">
+    <div class="container">
+      <span class="hero__eyebrow">Newsletter Archive</span>
+      <h1 class="section__title" style="margin-top: 14px;">
+        Every edition, <em>in order.</em>
+      </h1>
+      <p class="section__lede">
+        The full <strong id="ed-count">—</strong>-issue archive of <em>Dream Machine</em>,
+        ready to read. Latest at the top. Each issue ships fresh tool spotlights and
+        a weekly news scan across film, games, music and media.
+      </p>
+      <p style="margin-top:14px;">
+        <a class="btn btn--ghost btn--small"
+           href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/"
+           target="_blank" rel="noopener">
+          Subscribe on LinkedIn →
+        </a>
+      </p>
+    </div>
+  </header>
+
+  <section class="section" style="padding-top: 0;">
+    <div class="container">
+      <div class="editions" id="editions-grid"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__base">
+        <span>© 2026 Pete Woodbridge / DreamLab AI Collective.</span>
+        <span><a href="index.html">← Back to home</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script>
+    (async () => {
+      const editions = await DM.loadJSON('editions');
+      document.getElementById('ed-count').textContent = editions.length;
+      const latest = editions[0]?.issue;
+      const $g = document.getElementById('editions-grid');
+      $g.innerHTML = editions.map(e => `
+        <a class="edition-card ${e.issue === latest ? 'edition-card--latest' : ''}"
+           href="issue.html?n=${e.issue}">
+          <div class="edition-card__num">#${e.issue}</div>
+          <div class="edition-card__date">${DM.fmtDate(e.date) || ''}</div>
+          <div class="edition-card__counts">
+            <strong>${e.news_count}</strong> news items
+            · <strong>${e.spotlight_count}</strong> tool spotlights
+          </div>
+        </a>
+      `).join('');
+    })();
+  </script>
+</body>
+</html>

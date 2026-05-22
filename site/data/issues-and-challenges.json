@@ -1,0 +1,198 @@
+[
+  {
+    "slug": "sora-day",
+    "title": "The Day Sora Landed",
+    "chapter": "01_The_Day_Sora_Landed.md",
+    "blurb": "The Sept 2025 Sora 2 launch as the watershed moment that opens the period — and the first stress test of the new audience contract.",
+    "tags": [
+      "Film",
+      "Tools",
+      "Consumer"
+    ],
+    "accent": "pink",
+    "icon": "rocket"
+  },
+  {
+    "slug": "history-of-resistance",
+    "title": "A History of Resistance",
+    "chapter": "02_A_History_of_Resistance.md",
+    "blurb": "Every prior technological re-platforming of the creative industries — and the historical pattern this transition is inside.",
+    "tags": [
+      "Strategy"
+    ],
+    "accent": "cyan",
+    "icon": "compass"
+  },
+  {
+    "slug": "agency-continuum",
+    "title": "The Human–AI Agency Continuum",
+    "chapter": "03_The_Human_AI_Agency_Continuum.md",
+    "blurb": "A practitioner's framework for where a piece of creative work sits on the line from fully-human to fully-machine, and why that choice is now an explicit one.",
+    "tags": [
+      "Strategy",
+      "Craft"
+    ],
+    "accent": "purple",
+    "icon": "scale"
+  },
+  {
+    "slug": "dead-internet-living-web",
+    "title": "Dead Internet, Living Web",
+    "chapter": "04_Dead_Internet_Living_Web.md",
+    "blurb": "The split between the synthetic-content layer eating the public web and the human-verified layer being rebuilt underneath it.",
+    "tags": [
+      "Audience",
+      "Platforms"
+    ],
+    "accent": "pink",
+    "icon": "globe"
+  },
+  {
+    "slug": "slop-ceiling",
+    "title": "The Slop Ceiling",
+    "chapter": "05_The_Slop_Ceiling.md",
+    "blurb": "Why undifferentiated AI output asymptotes to a quality plateau the audience already discounts — and what sits above it.",
+    "tags": [
+      "Music",
+      "Audience"
+    ],
+    "accent": "cyan",
+    "icon": "ceiling"
+  },
+  {
+    "slug": "the-88-percent",
+    "title": "The 88% — The Copyright Crisis",
+    "chapter": "06_The_88_Percent.md",
+    "blurb": "The UK consultation, the Petrillo-template levy mechanism, and the rights-and-licensing fight that will define the legal layer of the transition.",
+    "tags": [
+      "Policy",
+      "Music",
+      "Legal"
+    ],
+    "accent": "purple",
+    "icon": "scale"
+  },
+  {
+    "slug": "studios-decide",
+    "title": "The Studios Decide",
+    "chapter": "07_The_Studios_Decide.md",
+    "blurb": "The four strategic positions the studios, labels and agencies have chosen between — and the trap the legacy industries built for themselves.",
+    "tags": [
+      "Strategy",
+      "Film",
+      "TV"
+    ],
+    "accent": "cyan",
+    "icon": "building"
+  },
+  {
+    "slug": "worlds-not-pictures",
+    "title": "Worlds, Not Pictures",
+    "chapter": "08_Worlds_Not_Pictures.md",
+    "blurb": "World models replacing flat video as the default creative medium of the next decade — and the spatial pipeline that is already shipping.",
+    "tags": [
+      "Games",
+      "Immersive",
+      "Film"
+    ],
+    "accent": "pink",
+    "icon": "cube"
+  },
+  {
+    "slug": "ai-in-everything",
+    "title": "AI in Everything, Everywhere",
+    "chapter": "09_AI_In_Everything.md",
+    "blurb": "The absorption pattern: how the legacy creative-software vendors quietly became the dominant AI-creative platforms by burying capability inside the apps people already used.",
+    "tags": [
+      "Platforms",
+      "Tools"
+    ],
+    "accent": "cyan",
+    "icon": "layers"
+  },
+  {
+    "slug": "newly-possible",
+    "title": "What Is Newly Possible",
+    "chapter": "10_What_Is_Newly_Possible.md",
+    "blurb": "The new categories of creative work the transition has opened up — what you can build now that you literally could not in 2024.",
+    "tags": [
+      "Craft",
+      "Tools"
+    ],
+    "accent": "purple",
+    "icon": "spark"
+  },
+  {
+    "slug": "the-orchestrator",
+    "title": "The Orchestrator",
+    "chapter": "11_The_Orchestrator.md",
+    "blurb": "The new working role of the period — briefing, allocating, judging and integrating across an agent fleet — and the AI Literacy Premium.",
+    "tags": [
+      "Craft",
+      "Agents"
+    ],
+    "accent": "pink",
+    "icon": "bolt"
+  },
+  {
+    "slug": "authenticity-premium",
+    "title": "Authenticity as the New Scarcity",
+    "chapter": "12_Authenticity_New_Scarcity.md",
+    "blurb": "Why verifiably-human, verifiably-provenanced creative work commands a structural premium — and how the provenance stack is being built.",
+    "tags": [
+      "Provenance",
+      "Audience"
+    ],
+    "accent": "cyan",
+    "icon": "shield"
+  },
+  {
+    "slug": "coordination-collapse",
+    "title": "Coordination Collapse",
+    "chapter": "13_Coordination_Collapse.md",
+    "blurb": "Why traditional collective bargaining, industry standards and inter-studio coordination are failing under the speed of the transition — and what organisations should do.",
+    "tags": [
+      "Labour",
+      "Policy",
+      "Strategy"
+    ],
+    "accent": "purple",
+    "icon": "scale"
+  },
+  {
+    "slug": "new-jobs",
+    "title": "The New Jobs",
+    "chapter": "14_The_New_Jobs.md",
+    "blurb": "The labour-market evidence: which jobs are appearing, which are restructuring, which are vanishing, and the policy frame the data demands.",
+    "tags": [
+      "Labour",
+      "Policy"
+    ],
+    "accent": "pink",
+    "icon": "user"
+  },
+  {
+    "slug": "choosing-the-future",
+    "title": "Choosing the Future",
+    "chapter": "15_Choosing_the_Future.md",
+    "blurb": "The four principles the book argues for, and what working creatives should do on Monday morning.",
+    "tags": [
+      "Strategy",
+      "Craft"
+    ],
+    "accent": "cyan",
+    "icon": "compass"
+  },
+  {
+    "slug": "five-years",
+    "title": "Five Years Inside the Dream Machine",
+    "chapter": "17_Five_Years_Inside_the_Dream_Machine.md",
+    "blurb": "A speculative future-cast: what the creative economy looks like in 2031 if the current trajectory holds, and the off-ramps that are still available.",
+    "tags": [
+      "Strategy",
+      "Future"
+    ],
+    "accent": "purple",
+    "icon": "rocket"
+  }
+]

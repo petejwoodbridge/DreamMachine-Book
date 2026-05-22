@@ -1,0 +1,20 @@
+{
+  "title": "DREAM MACHINE",
+  "tagline": "A creative's guide to AI",
+  "edition_slug": "2026-05-21",
+  "edition_date": "21 May 2026",
+  "edition_pdf": "Book/build/Dream_Machine_2026-05-21.pdf",
+  "newsletter_url": "https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/",
+  "podcast_url": "https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk",
+  "studio_url": "https://dreamlab.org.uk/",
+  "github_url": "https://github.com/petejwoodbridge",
+  "totals": {
+    "tools": 550,
+    "categories": 18,
+    "issues": 30,
+    "use_cases": 6,
+    "challenges": 16,
+    "news_items": 58
+  },
+  "generated_at": "2026-05-22T09:04:29Z"
+}

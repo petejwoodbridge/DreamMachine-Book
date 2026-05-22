@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Foundation models / LLMs",
+    "slug": "foundation",
+    "layer": "Foundation",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "brain",
+    "count": 12
+  },
+  {
+    "name": "AI video models",
+    "slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "icon": "video",
+    "count": 42
+  },
+  {
+    "name": "AI image models / tools",
+    "slug": "image",
+    "layer": "Modality",
+    "disciplines": [
+      "Design",
+      "Marketing",
+      "Film",
+      "Animation"
+    ],
+    "icon": "image",
+    "count": 30
+  },
+  {
+    "name": "AI music / audio tools",
+    "slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "icon": "music",
+    "count": 61
+  },
+  {
+    "name": "3D, world models and spatial",
+    "slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "icon": "cube",
+    "count": 73
+  },
+  {
+    "name": "Voice, avatar, digital human",
+    "slug": "voice-avatar",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Music"
+    ],
+    "icon": "face",
+    "count": 19
+  },
+  {
+    "name": "Agent platforms and orchestration",
+    "slug": "agents",
+    "layer": "Agent",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "bolt",
+    "count": 37
+  },
+  {
+    "name": "Legacy creative software, AI-augmented",
+    "slug": "legacy",
+    "layer": "Legacy software",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "layers",
+    "count": 36
+  },
+  {
+    "name": "AI-native creative studios and apps",
+    "slug": "studios",
+    "layer": "Studios & apps",
+    "disciplines": [
+      "Film",
+      "Animation"
+    ],
+    "icon": "studio",
+    "count": 36
+  },
+  {
+    "name": "Games-development AI",
+    "slug": "games",
+    "layer": "Modality",
+    "disciplines": [
+      "Games"
+    ],
+    "icon": "joystick",
+    "count": 39
+  },
+  {
+    "name": "Marketing and advertising AI",
+    "slug": "marketing",
+    "layer": "Native",
+    "disciplines": [
+      "Marketing"
+    ],
+    "icon": "megaphone",
+    "count": 19
+  },
+  {
+    "name": "Open-source ecosystem and infrastructure",
+    "slug": "open-source",
+    "layer": "Open source",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "code",
+    "count": 15
+  },
+  {
+    "name": "ComfyUI ecosystem — nodes, extensions and workflows",
+    "slug": "comfyui",
+    "layer": "Open source",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "nodes",
+    "count": 45
+  },
+  {
+    "name": "LoRAs, fine-tuning and training",
+    "slug": "loras",
+    "layer": "Open source",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "spark",
+    "count": 16
+  },
+  {
+    "name": "Provenance, watermarking and detection",
+    "slug": "provenance",
+    "layer": "Infrastructure",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "shield",
+    "count": 8
+  },
+  {
+    "name": "Consumer surfaces and distribution platforms",
+    "slug": "consumer",
+    "layer": "Consumer",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "phone",
+    "count": 20
+  },
+  {
+    "name": "Studios, programmes, festivals and institutional infrastructure",
+    "slug": "institutions",
+    "layer": "Institutions",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "building",
+    "count": 23
+  },
+  {
+    "name": "Techniques, methods and recurring workflows",
+    "slug": "techniques",
+    "layer": "Technique",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "compass",
+    "count": 19
+  }
+]

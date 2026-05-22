@@ -58,7 +58,21 @@
       "Bash(python -c \"import fitz; print\\(fitz.__doc__.split\\('\\\\n'\\)[0]\\); d = fitz.open\\(r'd:\\\\VSCODE PROJECTS\\\\DreamMachine Book\\\\Book\\\\build\\\\Dream_Machine_2026-05-21.pdf'\\); print\\('pages:', d.page_count\\); print\\('size pt:', d[1].rect\\); d.close\\(\\)\")",
       "Bash(cp \"C:/Users/peter/Downloads/inside the dream machine \\(2\\).png\" \"d:/VSCODE PROJECTS/DreamMachine Book/Book/assets/cover.png\")",
       "Bash(cp \"C:/Users/peter/Downloads/inside the dream machine \\(3\\).png\" \"d:/VSCODE PROJECTS/DreamMachine Book/Book/assets/back_cover.png\")",
-      "Bash(python \"d:/VSCODE PROJECTS/DreamMachine Book/Book/update_covers.py\")"
+      "Bash(python \"d:/VSCODE PROJECTS/DreamMachine Book/Book/update_covers.py\")",
+      "Bash(gh api *)",
+      "PowerShell(gh api repos/petejwoodbridge/DreamLab-Website/contents/ --jq '.[].name')",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:dreamlab.org.uk)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(python site/build_site.py)",
+      "Bash(python site/serve.py)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code} %{url_effective}\\\\n\" http://localhost:8765/site/ http://localhost:8765/site/tools.html http://localhost:8765/site/use-cases.html http://localhost:8765/site/issues.html http://localhost:8765/site/editions.html http://localhost:8765/site/issue.html?n=30 http://localhost:8765/site/book.html http://localhost:8765/site/data/tools.json http://localhost:8765/site/data/site.json http://localhost:8765/site/data/issues.json http://localhost:8765/site/data/issues-and-challenges.json http://localhost:8765/site/data/use-cases.json http://localhost:8765/site/data/editions.json http://localhost:8765/site/data/categories.json http://localhost:8765/site/data/chapters.json http://localhost:8765/site/assets/styles.css http://localhost:8765/site/assets/tools.js http://localhost:8765/site/assets/app.js http://localhost:8765/site/assets/cover.png)",
+      "Bash(mkdir -p site/_preview)",
+      "Bash('/c/Program Files \\(x86\\)/Microsoft/Edge/Application/msedge.exe' --headless=new --disable-gpu --hide-scrollbars --window-size=1440,900 --virtual-time-budget=4000 --screenshot=__CMDSUB_OUTPUT__/site/_preview/__TRACKED_VAR__.png http://localhost:8765/site/__TRACKED_VAR__.html)",
+      "Bash('/c/Program Files \\(x86\\)/Microsoft/Edge/Application/msedge.exe' --headless=new --disable-gpu --hide-scrollbars --window-size=1440,900 --virtual-time-budget=4000 --screenshot=__CMDSUB_OUTPUT__/site/_preview/issue-30.png 'http://localhost:8765/site/issue.html?n=30')",
+      "Bash('/c/Program Files \\(x86\\)/Microsoft/Edge/Application/msedge.exe' --headless=new --disable-gpu --hide-scrollbars --window-size=1440,900 --virtual-time-budget=5000 --screenshot=__CMDSUB_OUTPUT__/site/_preview/book.png http://localhost:8765/site/book.html)",
+      "Bash('/c/Program Files \\(x86\\)/Microsoft/Edge/Application/msedge.exe' --headless=new --disable-gpu --hide-scrollbars --window-size=1440,900 --virtual-time-budget=5000 --screenshot=__CMDSUB_OUTPUT__/site/_preview/issue-30.png 'http://localhost:8765/site/issue.html?n=30')",
+      "Bash(wait)"
     ]
   }
 }

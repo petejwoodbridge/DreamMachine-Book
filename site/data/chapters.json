@@ -1,0 +1,198 @@
+[
+  {
+    "file": "00_Foreword.md",
+    "title": "Foreword",
+    "subtitle": "Welcome to the Dream Machine",
+    "path": "Book/00_Foreword.md",
+    "is_appendix": false
+  },
+  {
+    "file": "00a_Reader_Paths.md",
+    "title": "Reader paths",
+    "subtitle": "",
+    "path": "Book/00a_Reader_Paths.md",
+    "is_appendix": false
+  },
+  {
+    "file": "01_The_Day_Sora_Landed.md",
+    "title": "Chapter 1",
+    "subtitle": "The Day Sora Landed",
+    "path": "Book/01_The_Day_Sora_Landed.md",
+    "is_appendix": false
+  },
+  {
+    "file": "02_A_History_of_Resistance.md",
+    "title": "Chapter 2",
+    "subtitle": "A History of Resistance",
+    "path": "Book/02_A_History_of_Resistance.md",
+    "is_appendix": false
+  },
+  {
+    "file": "03_The_Human_AI_Agency_Continuum.md",
+    "title": "Chapter 3",
+    "subtitle": "The Human-AI Agency Continuum",
+    "path": "Book/03_The_Human_AI_Agency_Continuum.md",
+    "is_appendix": false
+  },
+  {
+    "file": "04_Dead_Internet_Living_Web.md",
+    "title": "Chapter 4",
+    "subtitle": "Dead Internet, Living Web",
+    "path": "Book/04_Dead_Internet_Living_Web.md",
+    "is_appendix": false
+  },
+  {
+    "file": "05_The_Slop_Ceiling.md",
+    "title": "Chapter 5",
+    "subtitle": "The Slop Ceiling",
+    "path": "Book/05_The_Slop_Ceiling.md",
+    "is_appendix": false
+  },
+  {
+    "file": "06_The_88_Percent.md",
+    "title": "Chapter 6",
+    "subtitle": "The 88%",
+    "path": "Book/06_The_88_Percent.md",
+    "is_appendix": false
+  },
+  {
+    "file": "07_The_Studios_Decide.md",
+    "title": "Chapter 7",
+    "subtitle": "The Studios Decide",
+    "path": "Book/07_The_Studios_Decide.md",
+    "is_appendix": false
+  },
+  {
+    "file": "08_Worlds_Not_Pictures.md",
+    "title": "Chapter 8",
+    "subtitle": "Worlds, Not Pictures",
+    "path": "Book/08_Worlds_Not_Pictures.md",
+    "is_appendix": false
+  },
+  {
+    "file": "09_AI_In_Everything.md",
+    "title": "Chapter 9",
+    "subtitle": "AI in Everything, Everywhere, All at Once",
+    "path": "Book/09_AI_In_Everything.md",
+    "is_appendix": false
+  },
+  {
+    "file": "10_What_Is_Newly_Possible.md",
+    "title": "Chapter 10",
+    "subtitle": "What is newly possible",
+    "path": "Book/10_What_Is_Newly_Possible.md",
+    "is_appendix": false
+  },
+  {
+    "file": "11_The_Orchestrator.md",
+    "title": "Chapter 11",
+    "subtitle": "The Orchestrator",
+    "path": "Book/11_The_Orchestrator.md",
+    "is_appendix": false
+  },
+  {
+    "file": "12_Authenticity_New_Scarcity.md",
+    "title": "Chapter 12",
+    "subtitle": "Authenticity as the New Scarcity",
+    "path": "Book/12_Authenticity_New_Scarcity.md",
+    "is_appendix": false
+  },
+  {
+    "file": "13_Coordination_Collapse.md",
+    "title": "Chapter 13",
+    "subtitle": "Coordination Collapse",
+    "path": "Book/13_Coordination_Collapse.md",
+    "is_appendix": false
+  },
+  {
+    "file": "14_The_New_Jobs.md",
+    "title": "Chapter 14",
+    "subtitle": "The New Jobs",
+    "path": "Book/14_The_New_Jobs.md",
+    "is_appendix": false
+  },
+  {
+    "file": "15_Choosing_the_Future.md",
+    "title": "Chapter 15",
+    "subtitle": "Choosing the Future",
+    "path": "Book/15_Choosing_the_Future.md",
+    "is_appendix": false
+  },
+  {
+    "file": "16_The_Tools.md",
+    "title": "Chapter 16",
+    "subtitle": "The Tools",
+    "path": "Book/16_The_Tools.md",
+    "is_appendix": false
+  },
+  {
+    "file": "17_Five_Years_Inside_the_Dream_Machine.md",
+    "title": "Chapter 17",
+    "subtitle": "Five Years Inside the Dream Machine",
+    "path": "Book/17_Five_Years_Inside_the_Dream_Machine.md",
+    "is_appendix": false
+  },
+  {
+    "file": "18_Epilogue.md",
+    "title": "Epilogue",
+    "subtitle": "A Letter from the Dream Machine",
+    "path": "Book/18_Epilogue.md",
+    "is_appendix": false
+  },
+  {
+    "file": "A1_Appendix_Quantitative_Anatomy.md",
+    "title": "Appendix A — A Quantitative Anatomy of Six Months",
+    "subtitle": "A1. Corpus shape",
+    "path": "Book/A1_Appendix_Quantitative_Anatomy.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A2_Glossary.md",
+    "title": "Appendix B — Glossary",
+    "subtitle": "",
+    "path": "Book/A2_Glossary.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A3_Bibliography_by_Topic.md",
+    "title": "Appendix C — Bibliography by Topic",
+    "subtitle": "I. The watershed week, September–October 2025",
+    "path": "Book/A3_Bibliography_by_Topic.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A4_Deep_Dive_Shadow_AI.md",
+    "title": "Appendix D — The Shadow AI Paradox in the Creative Industries",
+    "subtitle": "Page 1",
+    "path": "Book/A4_Deep_Dive_Shadow_AI.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A5_Deep_Dive_Adoption_Dynamics.md",
+    "title": "Appendix E — Dynamics of Generative AI Adoption in the Creative Industries",
+    "subtitle": "Page 1",
+    "path": "Book/A5_Deep_Dive_Adoption_Dynamics.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A6_Deep_Dive_AI_Stigma.md",
+    "title": "Appendix F — AI, Stigma, Privilege and the Democratisation of Creative Expression",
+    "subtitle": "Page 1",
+    "path": "Book/A6_Deep_Dive_AI_Stigma.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A7_Deep_Dive_AI_Intent.md",
+    "title": "Appendix G — The Age of Intent: Artistic Mastery and the Inversion of Value",
+    "subtitle": "Page 1",
+    "path": "Book/A7_Deep_Dive_AI_Intent.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A8_Source_Index.md",
+    "title": "Appendix H — The Dream Machine Source Index",
+    "subtitle": "1. AI Video — Models and Releases",
+    "path": "Book/A8_Source_Index.md",
+    "is_appendix": true
+  }
+]

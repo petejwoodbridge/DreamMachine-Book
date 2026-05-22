@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Book — Dream Machine</title>
+  <meta name="description" content="Dream Machine: The New Creative Economy. The book this site is built from — eighteen chapters and eight appendices, rebuilt every week from the newsletter." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="bg-layer"></div>
+  <div class="bg-grid"></div>
+  <div class="orb orb--pink"></div>
+  <div class="orb orb--cyan"></div>
+
+  <nav class="nav">
+    <div class="container nav__inner">
+      <a class="brand" href="index.html">
+        <span class="brand__mark">DREAM MACHINE</span>
+        <span class="brand__tag">A creative's guide to AI</span>
+      </a>
+      <div class="nav__links">
+        <a class="nav__link" href="tools.html">Toolkit</a>
+        <a class="nav__link" href="use-cases.html">Use Cases</a>
+        <a class="nav__link" href="issues.html">Issues</a>
+        <a class="nav__link" href="editions.html">Newsletter</a>
+        <a class="nav__link" href="book.html">Book</a>
+        <a class="nav__cta" id="cta-pdf" href="#">Read the PDF</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="section">
+    <div class="container">
+      <div class="book-hero">
+        <a class="book-hero__cover" id="cover-link" href="#">
+          <img src="assets/cover.png" alt="Dream Machine — The New Creative Economy" />
+        </a>
+        <div>
+          <div class="book-hero__meta">
+            A <em>living book</em> · Pete Woodbridge · DreamLab AI Collective ·
+            <span id="edition-meta">—</span>
+          </div>
+          <h1 class="book-hero__title">Dream Machine: <em>The New Creative Economy.</em></h1>
+          <p class="book-hero__blurb">
+            A practitioner's account of the year generative AI re-platformed the
+            creative industries — written from inside the work, week by week,
+            between October 2025 and May 2026.
+          </p>
+          <p class="book-hero__blurb">
+            Eighteen chapters and eight deep-dive appendices, roughly 160,000 words.
+            Each rebuild of the book ships as its own dated PDF, so earlier editions
+            stay readable alongside the current one. Rebuilt every time a new
+            newsletter issue lands.
+          </p>
+          <div class="hero__ctas">
+            <a class="btn btn--primary" id="pdf-link" href="#">📖 Read the latest PDF</a>
+            <a class="btn btn--ghost" href="#chapters">Chapter index ↓</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="section section--tight" id="chapters">
+    <div class="container">
+      <div class="section__head">
+        <div>
+          <h2 class="section__title">Chapters</h2>
+          <p class="section__lede">
+            Open the markdown source for any chapter, or
+            <a id="pdf-inline" href="#">grab the full PDF</a>.
+          </p>
+        </div>
+      </div>
+      <div class="chapter-list" id="chapter-list"></div>
+    </div>
+  </section>
+
+  <section class="section section--tight">
+    <div class="container">
+      <div class="section__head">
+        <div>
+          <h2 class="section__title">Appendices</h2>
+          <p class="section__lede">
+            Quantitative anatomy, glossary, bibliography, four deep-dives and the source index.
+          </p>
+        </div>
+      </div>
+      <div class="chapter-list" id="appendix-list"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__base">
+        <span>© 2026 Pete Woodbridge / DreamLab AI Collective. Dual-licensed MIT / Apache-2.0.</span>
+        <span><a href="index.html">← Back to home</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script>
+    (async () => {
+      const [chapters, meta] = await Promise.all([
+        DM.loadJSON('chapters'),
+        DM.loadJSON('site'),
+      ]);
+
+      // Wire PDF links
+      const pdfPath = meta.edition_pdf ? '../' + meta.edition_pdf : '#';
+      ['cover-link', 'pdf-link', 'cta-pdf', 'pdf-inline'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el && pdfPath !== '#') el.setAttribute('href', pdfPath);
+      });
+      document.getElementById('edition-meta').textContent =
+        meta.edition_date ? `Edition ${meta.edition_date}` : '';
+      const pdfBtn = document.getElementById('pdf-link');
+      if (pdfBtn && meta.edition_date) {
+        pdfBtn.textContent = `📖 Read the PDF · ${meta.edition_date}`;
+      }
+
+      // Split chapter list into the main chapters vs appendices
+      const main = chapters.filter(c => !c.is_appendix);
+      const apps = chapters.filter(c => c.is_appendix);
+
+      function row(c) {
+        // Friendly chapter labels: "Ch 01", "Ch 16", "App A2", "Foreword"
+        const stem = c.file.replace(/\.md$/, '');
+        const m = stem.match(/^(\d{2}[a-z]?)(?:_(.+))?$/);
+        let num;
+        if (c.file === '00_Foreword.md') num = 'Fwd';
+        else if (c.file === '00a_Reader_Paths.md') num = 'Paths';
+        else if (c.file === '18_Epilogue.md') num = 'Ep';
+        else if (m) num = 'Ch ' + m[1].replace(/^0+(?!$)/, '');
+        else if (stem.startsWith('A')) num = 'App ' + stem.match(/^A\d+/)[0].slice(1);
+        else num = stem.split('_')[0];
+        const label = c.subtitle || c.title || c.file;
+        return `
+          <a class="chapter-row" href="../${DM.escapeHTML(c.path)}" target="_blank" rel="noopener">
+            <span class="chapter-row__num">${DM.escapeHTML(num)}</span>
+            <span class="chapter-row__title">${DM.escapeHTML(label)}</span>
+          </a>
+        `;
+      }
+
+      document.getElementById('chapter-list').innerHTML = main.map(row).join('');
+      document.getElementById('appendix-list').innerHTML = apps.map(row).join('');
+    })();
+  </script>
+</body>
+</html>

@@ -559,6 +559,24 @@ def render_pdf(md: str, toc_entries: list[tuple[str, str, str]]) -> None:
         except FileNotFoundError: pass
 
 
+def rebuild_site() -> None:
+    """Refresh the static-site data catalogs (tools/issues/use-cases/etc).
+
+    The site lives under ../site/ and is regenerated from the same markdown
+    sources the book is built from, so each new edition picks up the latest
+    tool inventory, newsletter issues and chapter titles automatically.
+    Silently skipped if site/build_site.py is missing.
+    """
+    site_builder = ROOT.parent / "site" / "build_site.py"
+    if not site_builder.exists():
+        return
+    print(">> Refreshing site data...")
+    try:
+        subprocess.run([sys.executable, str(site_builder)], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"   site refresh failed ({e}); continuing", file=sys.stderr)
+
+
 def main() -> int:
     print(">> Assembling manuscript...")
     md, toc_entries = assemble()
@@ -572,6 +590,8 @@ def main() -> int:
     print(">> Rendering PDF (two-pass for TOC page numbers)...")
     render_pdf(md, toc_entries)
     print(f"   {OUT_PDF}")
+
+    rebuild_site()
 
     if OUT_PDF.exists():
         size_mb = OUT_PDF.stat().st_size / (1024 * 1024)

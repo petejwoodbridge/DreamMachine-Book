@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Toolkit — Dream Machine</title>
+  <meta name="description" content="550+ AI tools, models and platforms for creative work — searchable, filterable, sorted by category, layer and discipline." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="bg-layer"></div>
+  <div class="bg-grid"></div>
+  <div class="orb orb--pink"></div>
+  <div class="orb orb--cyan"></div>
+
+  <nav class="nav">
+    <div class="container nav__inner">
+      <a class="brand" href="index.html">
+        <span class="brand__mark">DREAM MACHINE</span>
+        <span class="brand__tag">A creative's guide to AI</span>
+      </a>
+      <div class="nav__links">
+        <a class="nav__link" href="tools.html">Toolkit</a>
+        <a class="nav__link" href="use-cases.html">Use Cases</a>
+        <a class="nav__link" href="issues.html">Issues</a>
+        <a class="nav__link" href="editions.html">Newsletter</a>
+        <a class="nav__link" href="book.html">Book</a>
+        <a class="nav__cta" href="book.html">Read the book</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="section section--tight" style="padding-top: 56px;">
+    <div class="container">
+      <span class="hero__eyebrow">The Toolkit</span>
+      <h1 class="section__title" style="margin-top: 14px;">
+        Every tool, model and platform — <em>sorted.</em>
+      </h1>
+      <p class="section__lede" style="max-width: 760px;">
+        The full Chapter 16 reference inventory: <strong id="t-total">—</strong> tools across
+        <strong id="t-cats">—</strong> categories. Search by name, filter by category, layer or
+        discipline. Click an issue pill on any card to jump to the newsletter where it was covered.
+      </p>
+    </div>
+  </header>
+
+  <section class="section" style="padding-top: 0;">
+    <div class="container">
+      <div class="toolkit-layout">
+        <aside class="facets" id="facets">
+          <div class="facets__group">
+            <div class="facets__heading">Category</div>
+            <div id="facet-cats"></div>
+          </div>
+          <div class="facets__group">
+            <div class="facets__heading">Stack layer</div>
+            <div id="facet-layers"></div>
+          </div>
+          <div class="facets__group">
+            <div class="facets__heading">Discipline</div>
+            <div id="facet-disciplines"></div>
+          </div>
+        </aside>
+
+        <main>
+          <div class="search">
+            <span class="search__icon">⌕</span>
+            <input
+              id="search-input"
+              class="search__input"
+              type="search"
+              placeholder="Search 550+ tools — try ‘video’, ‘open source’, ‘Adobe’, ‘music’…"
+              autocomplete="off"
+              autocorrect="off"
+              spellcheck="false"
+            />
+          </div>
+
+          <div class="toolbar">
+            <div class="toolbar__count">
+              Showing <strong id="result-count">—</strong> of <strong id="total-count">—</strong> tools
+            </div>
+            <div class="chips" id="active-chips"></div>
+          </div>
+
+          <div class="tool-grid" id="tool-grid"></div>
+          <div class="empty-state" id="empty" hidden>
+            <h3>No tools match.</h3>
+            <p>Try clearing a filter or searching for a different keyword.</p>
+            <button class="btn btn--ghost btn--small" id="clear-all" style="margin-top: 16px;">Clear all filters</button>
+          </div>
+        </main>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__base">
+        <span>© 2026 Pete Woodbridge / DreamLab AI Collective.</span>
+        <span><a href="index.html">← Back to home</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/tools.js"></script>
+</body>
+</html>
