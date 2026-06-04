@@ -254,19 +254,20 @@ def build_dedication_html() -> str:
 
 # --- Front matter (HTML, no Pandoc parsing) -------------------------------
 
-def build_static_front_matter() -> str:
+def build_static_front_matter(kdp: bool = False) -> str:
     """Title page, half-title, blurb, epigraph — pure HTML, no markdown."""
     parts = []
 
-    # Half-title page
-    parts.append(
-        f'<div class="half-title-page">'
-        f'<h1 class="half-title">{TITLE}</h1>'
-        f'<p class="half-title-url">'
-        f'<a href="https://dreamlab.org.uk">dreamlab.org.uk</a>'
-        f'</p>'
-        f'</div>'
-    )
+    # Half-title page — omitted from KDP interior (no blank verso needed)
+    if not kdp:
+        parts.append(
+            f'<div class="half-title-page">'
+            f'<h1 class="half-title">{TITLE}</h1>'
+            f'<p class="half-title-url">'
+            f'<a href="https://dreamlab.org.uk">dreamlab.org.uk</a>'
+            f'</p>'
+            f'</div>'
+        )
 
     # Title page
     parts.append(
@@ -276,6 +277,9 @@ def build_static_front_matter() -> str:
         f'<p class="book-author">{AUTHOR}</p>'
         f'<p class="book-edition-date">{DATE}</p>'
         f'<p class="book-imprint">DreamLab AI Collective</p>'
+        f'<p class="book-imprint-url">'
+        f'<a href="https://dreamlab.org.uk">dreamlab.org.uk</a>'
+        f'</p>'
         f'</div>'
     )
 
@@ -582,7 +586,8 @@ COVER_SHELL = """<!DOCTYPE html>
 
 def render_content_html(md_text: str,
                         toc_entries: list[tuple[str, str, str]],
-                        page_numbers: dict[str, int] | None = None) -> None:
+                        page_numbers: dict[str, int] | None = None,
+                        kdp: bool = False) -> None:
     OUT_MD.write_text(md_text, encoding="utf-8")
     css = ASSETS / "book.css"
 
@@ -605,7 +610,7 @@ def render_content_html(md_text: str,
     page = CONTENT_SHELL.format(
         title=TITLE,
         css_uri=css.resolve().as_uri(),
-        static_front=build_static_front_matter(),
+        static_front=build_static_front_matter(kdp=kdp),
         toc=build_toc(toc_entries, page_numbers),
         body=body_html,
     )
@@ -674,7 +679,7 @@ def render_pdf(md: str, toc_entries: list[tuple[str, str, str]]) -> None:
     body_cache = BUILD / "_body.html"
     try: body_cache.unlink()
     except FileNotFoundError: pass
-    render_content_html(md, toc_entries, kdp_pages)
+    render_content_html(md, toc_entries, kdp_pages, kdp=True)
     edge_print(OUT_HTML, KDP_CONTENT_PDF)
 
     # 5. Merge front cover + content + back cover for the consumer edition.
