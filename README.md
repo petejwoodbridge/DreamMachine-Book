@@ -2,7 +2,7 @@
 
 ### *Artificial Intelligence and the Next Creative Economy*
 
-A practitioner's account of the year generative AI re-platformed the creative industries — written from inside the work, week by week, between October 2025 and May 2026.
+A practitioner's account of the year generative AI re-platformed the creative industries — written from inside the work, week by week, between October 2025 and June 2026.
 
 <p align="center">
   <a href="Book/build/Dream_Machine.pdf">
@@ -28,7 +28,7 @@ Each rebuild of the book ships as its own dated PDF, so earlier editions stay re
 
 ## A living book
 
-This is not a static manuscript. *Dream Machine* is a **living book**, rebuilt weekly from the [*Dream Machine* newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/) and its evolving research archive. Each week a new newsletter issue ships, the corresponding chapters are updated, footnotes are added, predictions are checked against the moment, and the PDF is re-rendered.
+This is not a static manuscript. *Dream Machine* is a **living book**, rebuilt from the [*Dream Machine* newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/) and its evolving research archive. Each time a new newsletter issue ships, the corresponding chapters are updated, footnotes are added, predictions are checked against the moment, and the PDF is re-rendered.
 
 If you've read it once, the version you read next month will be different — sometimes by paragraphs, occasionally by chapters. The book is a snapshot of a transition in motion. That is, in part, the point.
 
@@ -42,11 +42,11 @@ Written by [Pete Woodbridge](https://dreamlab.org.uk/) — creative technologist
 
 ## What's in it
 
-Eighteen chapters and eight deep-dive appendices, ~160,000 words, covering:
+Seventeen chapters, an epilogue and twelve deep-dive appendices — ~240,000 words across 580 pages, covering:
 
 - The Tilly Norwood week and the launch of Sora 2
 - The Human–AI Agency Continuum (a practitioner's framework)
-- The Dead Internet / Living Web split
+- The Dead Internet / Living Web split and the C2PA provenance stack
 - The Slop Ceiling and the Authenticity Premium
 - The UK's 88% copyright consultation and the Petrillo-template levy mechanism
 - Four strategic positions the studios are choosing between
@@ -54,7 +54,8 @@ Eighteen chapters and eight deep-dive appendices, ~160,000 words, covering:
 - The Orchestrator role and the AI Literacy Premium
 - The Age of the *Why* — the chess-grandmaster strategy applied to creative work
 - A five-year speculative future-cast (Chapter 17)
-- A complete inventory of every significant tool, platform and model from the period
+- A complete inventory of 570+ tools, platforms and models from the period
+- Deep-dive appendices on shadow AI, adoption dynamics, AI stigma, creative intent, the process trap, coordination collapse, the programmable brand and more
 
 See the full table of contents in the [Foreword](Book/00_Foreword.md).
 
@@ -62,20 +63,21 @@ See the full table of contents in the [Foreword](Book/00_Foreword.md).
 
 ```
 Book/
-├── 00_Foreword.md ... 18_Epilogue.md     # The chapters
-├── A1_…md ... A8_…md                     # The deep-dive appendices
+├── 00_Foreword.md ... 18_Epilogue.md     # 17 chapters + epilogue
+├── A1_…md ... A12_…md                    # 12 deep-dive appendices
+├── Z1_About.md                           # About the author
 ├── assets/
 │   ├── cover.png, back_cover.png         # Cover art
 │   └── book.css                          # Book typography
 ├── build/
 │   └── Dream_Machine_YYYY-MM-DD.pdf      # Dated edition (one per rebuild)
+│   └── Dream_Machine.pdf                 # Always-current alias
 ├── build_book.py                         # The build pipeline
 └── watch_book.py                         # Auto-rebuild on file change
 
-Dream Machine MD/                         # Newsletter issue archives
+Dream Machine MD/                         # Newsletter issue archives (Issues 1–32)
 Dream Machine PDFs/                       # Newsletter PDF archives
 Deep Dive MD/                             # Deep-dive research source material
-Research/                                 # Underlying research notes
 ```
 
 ## Building the book
@@ -122,7 +124,7 @@ Rebuild only the site (without rebuilding the book PDF):
 python site/build_site.py
 ```
 
-The site mirrors the book's content into four entry points: **Toolkit** (the 550+ tool inventory from Chapter 16, with live search and faceted filtering), **Use Cases** (the Reader Paths persona stacks), **Issues &amp; Challenges** (the structural debates anchored to chapters) and a **Newsletter archive** of every issue.
+The site mirrors the book's content into four entry points: **Toolkit** (the 570+ tool inventory from Chapter 16, with live search and faceted filtering), **Use Cases** (the Reader Paths persona stacks), **Issues & Challenges** (the structural debates anchored to chapters) and a **Newsletter archive** of every issue.
 
 ## Get in touch
 
