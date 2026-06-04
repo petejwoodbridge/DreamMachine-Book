@@ -97,7 +97,7 @@ BACKMATTER_FILES = [
 ]
 
 TITLE = "Dream Machine"
-SUBTITLE = "The New Creative Economy"
+SUBTITLE = "artificial intelligence and the next creative economy"
 AUTHOR = "Pete Woodbridge"
 PLACE = "DreamLab, the North West, UK"
 DATE = "4 June 2026"
@@ -257,17 +257,6 @@ def build_dedication_html() -> str:
 def build_static_front_matter(kdp: bool = False) -> str:
     """Title page, half-title, blurb, epigraph — pure HTML, no markdown."""
     parts = []
-
-    # Half-title page — omitted from KDP interior (no blank verso needed)
-    if not kdp:
-        parts.append(
-            f'<div class="half-title-page">'
-            f'<h1 class="half-title">{TITLE}</h1>'
-            f'<p class="half-title-url">'
-            f'<a href="https://dreamlab.org.uk">dreamlab.org.uk</a>'
-            f'</p>'
-            f'</div>'
-        )
 
     # Title page
     parts.append(
