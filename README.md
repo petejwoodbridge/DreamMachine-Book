@@ -1,17 +1,17 @@
 # Dream Machine
 
-### *The New Creative Economy*
+### *Artificial Intelligence and the Next Creative Economy*
 
 A practitioner's account of the year generative AI re-platformed the creative industries — written from inside the work, week by week, between October 2025 and May 2026.
 
 <p align="center">
-  <a href="Book/build/Dream_Machine_2026-05-21.pdf">
-    <img src="Book/assets/cover.png" alt="Dream Machine — The New Creative Economy" width="320"/>
+  <a href="Book/build/Dream_Machine.pdf">
+    <img src="Book/assets/cover.png" alt="Dream Machine — Artificial Intelligence and the Next Creative Economy" width="320"/>
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="Book/build/Dream_Machine_2026-05-21.pdf">📖 Read the latest PDF (21 May 2026) →</a></strong>
+  <strong><a href="Book/build/Dream_Machine.pdf">📖 Read the latest PDF →</a></strong>
 </p>
 
 ### Editions
@@ -20,7 +20,8 @@ Each rebuild of the book ships as its own dated PDF, so earlier editions stay re
 
 | Edition | Newsletter span | PDF |
 |---|---|---|
-| **21 May 2026** *(current)* | Issues 1–30 | [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf) |
+| **4 June 2026** *(current)* | Issues 1–32 | [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf) |
+| 21 May 2026 | Issues 1–30 | [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf) |
 | 14 May 2026 | Issues 1–29 | [Dream_Machine_2026-05-14.pdf](Book/build/Dream_Machine_2026-05-14.pdf) |
 
 ---
@@ -103,7 +104,7 @@ python Book/watch_book.py
 
 ## Reading the book without building it
 
-If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf)) or any prior edition from the table above.
+If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf)) or any prior edition from the table above.
 
 ## The companion website
 
