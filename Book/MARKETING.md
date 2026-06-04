@@ -1,6 +1,6 @@
 # Dream Machine
 
-## *artificial intelligence and the next creative economy*
+## *Artificial Intelligence and the Next Creative Economy*
 
 ### Marketing & cover copy
 
@@ -149,7 +149,7 @@ He lives and works in the North West of England.
 
 ## Suggested cover treatment notes
 
-**Title typography:** *Dream Machine* in a contemporary serif (Mrs Eaves, GT Sectra, Tiempos) — the typographic register of cultural-history non-fiction rather than tech-business. Subtitle *artificial intelligence and the next creative economy* in a lighter weight beneath.
+**Title typography:** *Dream Machine* in a contemporary serif (Mrs Eaves, GT Sectra, Tiempos) — the typographic register of cultural-history non-fiction rather than tech-business. Subtitle *Artificial Intelligence and the Next Creative Economy* in a lighter weight beneath.
 
 **Cover image direction:** The book's argument lives in the tension between human and machine. A cover that captures that tension — a human figure or hand in conversation with a machine-form, or an iconic creative-industry artefact (clapperboard, microphone, tablet) presented in a way that suggests both familiarity and dislocation — would carry the proposition. Avoid: glowing-blue-AI-circuitry cliché, robot hands, anything that looks like 2023-era AI book marketing.
 

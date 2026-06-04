@@ -97,7 +97,7 @@ BACKMATTER_FILES = [
 ]
 
 TITLE = "Dream Machine"
-SUBTITLE = "artificial intelligence and the next creative economy"
+SUBTITLE = "Artificial Intelligence and the Next Creative Economy"
 AUTHOR = "Pete Woodbridge"
 PLACE = "DreamLab, the North West, UK"
 DATE = "4 June 2026"
