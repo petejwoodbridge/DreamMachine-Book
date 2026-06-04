@@ -495,10 +495,10 @@ Role Focus Average Salary Trend
 ## Page 14
 
 (Est. 2025)
-⬆
+↑
 Creative Director Intent, Vision, $145,000 - Rising
 Strategy, Curation $250,000+
-⬆
+↑
 VP of Marketing Strategy, Brand $250,000 Rising
 Voice
 ↔
@@ -507,7 +507,7 @@ Copywriter Text Generation $57,000 - $71,000 Stagnant/Risk
 ↔
 Graphic Designer Image Generation $66,000 Stagnant/Risk
 (Execution)
-⬆
+↑
 AI Specialist Orchestration, $100 - $200 / hr High Demand
 Integration
 Works cited

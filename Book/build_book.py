@@ -594,6 +594,11 @@ def render_content_html(md_text: str,
             "--no-highlight",
         ]
         subprocess.run(cmd, check=True)
+        # Strip Pandoc footnote-back arrows (↩︎ = U+21A9 + U+FE0E) — meaningless
+        # in print and cause KDP to flag unsupported fonts (SegoeUISymbol).
+        raw = body_html_file.read_text(encoding="utf-8")
+        raw = raw.replace("↩︎", "").replace("↩", "")
+        body_html_file.write_text(raw, encoding="utf-8")
     body_html = body_html_file.read_text(encoding="utf-8")
 
     page = CONTENT_SHELL.format(

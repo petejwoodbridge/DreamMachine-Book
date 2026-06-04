@@ -7,9 +7,9 @@
 
 @page {
   size: 6in 9in;
-  /* Slightly tighter margins to give more room to the larger body font
-     while staying inside KDP's safe area. */
-  margin: 0.75in 0.7in 0.85in 0.7in;
+  /* KDP requires >= 0.75in gutter for books >= 301 pages.
+     Set all side margins to 0.75in to meet that requirement. */
+  margin: 0.75in 0.75in 0.85in 0.75in;
 
   @top-left {
     content: string(book-title);
