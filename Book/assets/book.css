@@ -316,33 +316,29 @@ section.footnotes hr { display: none; }
 .book-author {
   font-size: 14pt;
   margin: 0 0 0.3em 0;
-  padding-left: 3in;
   letter-spacing: 0.05em;
-  text-align: left;
+  text-align: center;
 }
 .book-edition-date {
   font-size: 11pt;
   font-style: italic;
   color: #555;
   margin: 0 0 0.6em 0;
-  padding-left: 3in;
   letter-spacing: 0.04em;
-  text-align: left;
+  text-align: center;
 }
 .book-imprint {
   font-size: 10pt;
   font-style: italic;
   color: #555;
   margin: 0;
-  padding-left: 3in;
-  text-align: left;
+  text-align: center;
 }
 .book-imprint-url {
   font-size: 10pt;
   color: #555;
   margin: 0.1em 0 0 0;
-  padding-left: 3in;
-  text-align: left;
+  text-align: center;
 }
 .book-imprint-url a {
   color: #555;
