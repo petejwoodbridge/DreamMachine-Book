@@ -1,6 +1,6 @@
 # Citation Index
 
-*Dream Machine: The New Creative Economy*
+*Dream Machine: Artificial Intelligence and the Next Creative Economy*
 
 All footnoted sources, organised by chapter. Every claim of substance in the manuscript is anchored to one of these references.
 
