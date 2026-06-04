@@ -296,7 +296,6 @@ section.footnotes hr { display: none; }
   page: front-blank;
   page-break-before: always;
   page-break-after: always;
-  text-align: center;
   padding-top: 1.8in;
 }
 .book-title {
@@ -304,6 +303,7 @@ section.footnotes hr { display: none; }
   font-weight: 400;
   margin: 0 0 0.4em 0;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .book-subtitle {
   font-size: 14pt;
@@ -311,28 +311,38 @@ section.footnotes hr { display: none; }
   font-style: italic;
   color: #444;
   margin: 0 0 3in 0;
+  text-align: center;
 }
 .book-author {
   font-size: 14pt;
   margin: 0 0 0.3em 0;
+  padding-left: 3in;
   letter-spacing: 0.05em;
+  text-align: left;
 }
 .book-edition-date {
   font-size: 11pt;
   font-style: italic;
   color: #555;
   margin: 0 0 0.6em 0;
+  padding-left: 3in;
   letter-spacing: 0.04em;
+  text-align: left;
 }
 .book-imprint {
   font-size: 10pt;
   font-style: italic;
   color: #555;
+  margin: 0;
+  padding-left: 3in;
+  text-align: left;
 }
 .book-imprint-url {
   font-size: 10pt;
   color: #555;
   margin: 0.1em 0 0 0;
+  padding-left: 3in;
+  text-align: left;
 }
 .book-imprint-url a {
   color: #555;
