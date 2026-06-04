@@ -1,8 +1,8 @@
 # Appendix H — The Dream Machine Source Index
 
-*A thematic catalogue of significant sources surfaced across the 29 issues of* Dream Machine *(October 2025 – May 2026).*
+*A thematic catalogue of significant sources surfaced across the 32 issues of* Dream Machine *(October 2025 – June 2026).*
 
-This index is a navigational tool, not an exhaustive list. The full *Dream Machine* archive contains nearly three thousand individual hyperlinks across its twenty-nine issues, the great majority of which are primary-source links to industry coverage, research reports, official announcements, court filings, technical demos, creator showcases, and platform releases.
+This index is a navigational tool, not an exhaustive list. The full *Dream Machine* archive contains nearly three thousand individual hyperlinks across its thirty-two issues, the great majority of which are primary-source links to industry coverage, research reports, official announcements, court filings, technical demos, creator showcases, and platform releases.
 
 What follows below is the thematic catalogue of the *significant* sources — the ones the book itself draws on, the ones a working creative or researcher tracking a specific topic would want as a starting point, and the ones that, taken together, define the public record of creative AI as it stood in the period this book covers. Within each theme, entries are organised chronologically by issue number. The format is:
 
@@ -39,6 +39,10 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 14]` **LTX-2 Lip Sync** — native audio-driven dialogue — https://x.com/ltx_model/status/2011101440706806051
 - `[Issue 15]` **Runway Gen-4.5 Image to Video** — broad rollout — https://www.linkedin.com/posts/runwayml_introducing-image-to-video-for-gen-45-the-activity-7419856988186238976-ZJU2
 - `[Issue 15]` **Veo 3.1 in YouTube Shorts and Create app** — distribution-layer integration — https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/
+- `[Issue 31]` **Runway Aleph 2.0** — single-frame edit propagated across the video clip — June 2026
+- `[Issue 31]` **Alibaba WonderClip** — all-in-one AI video creation platform — June 2026
+- `[Issue 31]` **Sony Vid-CamEdit** — post-capture camera trajectory editing keeping scenes spatially coherent across viewpoint changes — June 2026
+- `[Issue 31]` **Nvidia PiD (Pixel Diffusion Decoder)** — new image/video decoder — June 2026
 
 ## 2. AI Image — Models and Tools
 
@@ -88,6 +92,14 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 14]` **UMG slams AI slop** — exponential growth on streaming — https://musically.com/2026/01/09/umg-boss-slams-exponential-growth-of-ai-slop-on-streaming-services/
 - `[Issue 15]` **Sienna Rose** — viral mystery AI singer (BBC investigation) — https://www.bbc.co.uk/news/articles/cq6v83gq66eo
 - `[Issue 16]` **800 Creatives Sign Declaration** — *Stealing Our Work Is Not Innovation* — https://www.digitalmusicnews.com/2026/01/22/stealing-isnt-innovation/
+- `[Issue 31]` **ElevenLabs Music v2** — next-generation generative music model — June 2026
+- `[Issue 31]` **Stable Audio 3.0** — open-weight model family on fully licensed data, foundation for the open audio community — June 2026
+- `[Issue 31]` **Apple Music: AI <1% of plays** — clean platform-level confirmation that audience-chosen listening time has remained almost entirely human-authored — June 2026
+- `[Issue 31]` **Spotify + UMG: AI covers/remixes as Premium add-on** — landmark licensed AI-music deal — June 2026
+- `[Issue 31]` **Daniel Ek defends AI music** — "better than slop" framing — June 2026
+- `[Issue 31]` **Tonada (Sweden)** — AI music for retailers; B2B-aligned synthetic background music — June 2026
+- `[Issue 31]` **Spotify NotebookLM-style Personalised Audio app** — competing with Google's NotebookLM podcasts — June 2026
+- `[Issue 31]` **Musician uses AI as Parkinson's affects ability to play guitar** — accessibility case for AI in music creation — June 2026
 
 ## 4. AI 3D / World Models / Spatial
 
@@ -111,6 +123,8 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 22]` **Luma UNI-1** — combined world generation + reasoning — *Dream Machine* Editor's Pick
 - `[Issue 25]` **Spark 2.0** — open-source 100M-splat browser streaming
 - `[Issue 27]` **Vista4D** (Netflix + Eyeline) — live action to navigable 4D point clouds
+- `[Issue 31]` **TripoAI Project Eden** — persistent multiplayer world model decoupling world state from visual rendering — June 2026
+- `[Issue 31]` **AI-Enhanced LiDAR** — generative-AI-augmented LiDAR capture pipeline — June 2026
 
 ## 5. Voice, Avatars, Digital Humans
 
@@ -131,6 +145,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 13]` **Qwen3 TTS** — voice design and cloning — https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign
 - `[Issue 16]` **Tilly Norwood Doubles Down** — AI as "more ethical" performance, urging actors to create avatars — https://variety.com/2026/digital/news/tilly-norwood-creator-tells-actors-to-create-ai-avatars-1236638940/
 - `[Issue 23]` **Death threats against Eline Van der Velden** — cultural-extreme response
+- `[Issue 31]` **Ozzy Osbourne AI avatar** — estate-led posthumous "live on as an AI avatar that talks with fans" — June 2026
 
 ## 6. Agent Platforms / Orchestration
 
@@ -264,6 +279,15 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 14]` **UMG slams AI slop** — *op. cit.*
 - `[Issue 16]` **Wixen $50M lawsuit against Meta** — https://www.musicbusinessworldwide.com/wixen-files-50m-copyright-suit-against-meta-claims-tech-giant-wants-to-replace-songwriters-with-ai/
 - `[Issue 17]` **UMG $3B suit against Anthropic** — *Dream Machine* coverage
+- `[Issue 31]` **Spotify + Universal Music Group landmark AI covers/remixes deal** — Premium add-on; the first major streamer × major-label licensed AI-music product — June 2026
+- `[Deep Dive №14 — 4 Jun 2026]` **Spotify–UMG three Cs framework** — *consent / credit / compensation* contract architecture; *Verified by Spotify* badge; opt-in catalogue; new royalty stream; deal's prehistory in UMG settlement with Udio (Oct 2025) — <https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/>
+- `[Deep Dive №14 — 4 Jun 2026]` **Hasbro Sixth Wall + CharacterOS — Behavioural Licensing** — 12 characters; runtime governance layer; talent-participation pay-out; 13+/enterprise focus — <https://www.businesswire.com/news/home/20260603297922/en/>
+- `[Deep Dive №14 — 4 Jun 2026]` **Disney–OpenAI deal — corrected record** — announced 11 Dec 2025, never executed; no formal agreement signed, no money changed hands; Sora wind-down announced 24 Mar 2026; framework survived platform's death as reference contract architecture — <https://www.ropesgray.com/en/insights/viewpoints/the-deal-that-wasnt-what-disney-and-openai-teach-us-about-strategic-investments>
+- `[Deep Dive №14 — 4 Jun 2026]` **Grimes / Elf.tech (GrimesAI)** — ~50% master-royalty split with creators; ~15,000 tracks generated; commons-with-royalty-hook model — <https://killthedj.com/how-artists-lend-their-ai-voices-to-creators-fans/>
+- `[Deep Dive №14 — 4 Jun 2026]` **Holly Herndon / Holly+ DAO** — collective governance for commercial-use decisions; *Have I Been Trained?* (Spawning) consent-layer tooling
+- `[Deep Dive №14 — 4 Jun 2026]` **ElevenLabs heritage voices (with CMG Worldwide)** — Judy Garland, James Dean, Burt Reynolds, Laurence Olivier; Iconic Marketplace expansion to Stan Lee estate and Michael Caine — <https://www.cbsnews.com/news/ai-voices-dead-celebrities-judy-garland-james-dean-burt-reynolds/>
+- `[Deep Dive №14 — 4 Jun 2026]` **Meta celebrity chatbot anti-pattern (2023)** — Snoop Dogg, Kendall Jenner, MrBeast and others reportedly paid up to ~$5m each for closed, platform-controlled personas — <https://english.elpais.com/technology/2023-11-13/from-paris-hilton-to-snoop-dogg-meta-to-launch-speaking-ai-chatbots-played-by-celebrities.html>
+- `[Deep Dive №14 — 4 Jun 2026]` **Suno + Amazon Alexa+ integration** — *create-to-consume* demand floor; on-the-fly personalised songs via voice request — <https://www.billboard.com/pro/amazon-partners-ai-music-company-suno-alexa/>
 
 ## 13. Copyright, Policy and Regulation
 
@@ -275,6 +299,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 21]` **UK DSIT Final Copyright Report** — walked-back position
 - `[Issue 28]` **Academy "You must be human to win" rule** — 2026 awards
 - `[Issue 29]` **Cannes AI Disclosure Standard** — industry coordination
+- `[Issue 32]` **Lisa Nandy: Government "got it wrong" on AI and creative copyright** — Culture Secretary's admission at SXSW London (1 June 2026) that the opt-out model was a mistake; no decisions on next steps — https://www.screendaily.com/news/we-got-it-wrong-says-uk-culture-secretary-lisa-nandy-of-government-misstep-on-ai-and-copyright-strategy/5217330.article
 
 ## 14. Unions and Labour
 
@@ -298,6 +323,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **YouTube CEO: managing AI slop on priority list 2026** — Digital Music News — https://www.digitalmusicnews.com/2026/01/22/youtube-ceo-ai-slop-2026-comments/
 - `[Issue 16]` **Bain & Co — "People still want the radio star"** — https://www.bain.com/insights/in-an-ai-age-people-still-want-the-radio-star/
 - `[Issue 25–28]` **Deezer April 2026 data — 44% / 3%** — newsroom release — https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/
+- `[Issue 31]` **Apple Music: AI <1% of plays** — clean platform-level confirmation — June 2026
+- `[Issue 31]` **Daniel Ek defends AI music: "better than slop"** — Spotify CEO framing — June 2026
+- `[Issue 31]` **Epidemic Sound *Future of the Creator Economy Report 2026*** — 94% of creators use AI; 89% feel pressure to use AI; 75% believe human-created content will become premium; survey of 3,000 professional creators — June 2026
 
 ## 16. Provenance, Watermarking, Detection
 
@@ -308,6 +336,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 13]` **Instagram head AI verification** — WebProNews — https://www.webpronews.com/instagram-head-warns-ai-images-erode-trust-calls-for-verification-standards/
 - `[Issue 18]` **Deezer licenses its AI-music detection tool** — *Dream Machine* coverage
 - `[Issue 29]` **YouTube false-positive: Tiny Grandma stop-motion** — flagged as AI
+- `[Issue 31]` **YouTube auto-labels AI videos** — platform-default disclosure regime — June 2026
+- `[Issue 31]` **LinkedIn limits reach of AI-generated content** — distribution-side enforcement — June 2026
+- `[Issue 31]` **TikTok AI moderation false positives** — wrongly punished independent filmmakers — June 2026
 
 ## 17. Workplace AI Adoption / Shadow AI / Workforce Research
 
@@ -330,6 +361,10 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **McKinsey AI for film and TV** — https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future
 - `[Issue 16]` **PRS for Music AI Survey 2026** — https://www.prsformusic.com/m-magazine/news/prs-for-music-ai-survey-2026
 - `[Issue 24]` **OpenAI public-policy on disruption** — robot tax, 4-day workweek, wealth funds
+- `[Issue 31]` **Epidemic Sound *Future of the Creator Economy Report 2026*** — 94% of creators use AI; 89% feel pressure; 75% premium-human-content thesis — *Musically* coverage — June 2026
+- `[Issue 31]` **Coordination Collapse research report (O'Hare / DreamLab AI Consulting)** — April 2026; preserved as Appendix K
+- `[Issue 31]` **The Process Trap** — generative abundance and the equivocation of the creative; preserved as Appendix J
+- `[Issue 31]` **The Doomer Mistake** — empirical rebuttal of the AI-driven civilizational-collapse case; preserved as Appendix I
 
 ## 18. Advertising and Brand AI
 
@@ -375,8 +410,13 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 25]` **Indonesia's Legenda Bertuah** — first AI-animated series
 - `[Issue 27]` **Korin AI — Africa-trained, Africa-built** — launch
 - `[Issue 27]` **Latin American AI film festival wave** — *Dream Machine* coverage
-
-## 21. Education, Training, Literacy
+- `[Issue 31]` **Astana AI Film Festival ($1M prize fund)** — Kazakhstan AI film festival opens submissions — June 2026
+- `[Issue 31]` **Tribeca: first fully AI-generated film** — set to premiere — June 2026
+- `[Issue 31]` **Gareth Edwards (Star Wars director) in favour of AI** — *"like a billionaire on acid"* — June 2026
+- `[Issue 32]` **Martin Scorsese backs Black Forest Labs (FLUX)** — advisor role, using AI for storyboarding; triggered Boots Riley and del Toro backlash — https://variety.com/2026/film/news/martin-scorsese-supports-ai-company-storyboard-movies-1236765037/
+- `[Issue 32]` ***Dreams of Violets* world premiere at Tribeca** — first fully AI-generated feature accepted by a major festival; cost $2,000; directed by Ash Koosha (Fountain 0); uses Kling AI, Claude, Gemini — https://variety.com/2026/film/festivals/tribeca-festival-ai-film-dreams-of-violets-fountain-0-1236759724/
+- `[Issue 32]` **Amazon AI Creators Fund + Punky Duck instant cancellation** — AI animated series commissioned and killed within 48 hours after audience derision; Jorge Gutierrez dropped out — https://futurism.com/artificial-intelligence/amazon-ai-generated-series-canceled
+- `[Issue 32]` **NVIDIA Cosmos 3** — omnimodal world model; text, images, video, audio, actions; best open-source T2I and I2V per Artificial Analysis — https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai
 
 - `[Issue 1]` **UCL, RCA, Brandtech Centre for Creative AI launch** — Broadcast Now — https://www.broadcastnow.co.uk/broadcasters/alex-mahon-joins-stellar-ai-creative-summit-line-up/5209227.article
 - `[Issue 11]` **Lovable for classrooms** — https://lovable.dev/classroom
@@ -412,6 +452,9 @@ For the complete primary-source archive — every link, in full, in original pub
 
 - `[Issue 1]` **AI bubble 17× dotcom** — PC Gamer — https://www.pcgamer.com/software/ai/fabulous-news-everyone-market-analyst-says-the-ai-bubble-is-17x-bigger-than-the-dotcom-goldrush-and-4x-larger-than-the-subprime-bubble-that-caused-the-2008-crash/
 - `[Issue 2]` **Suno $2.45B valuation** — *op. cit.*
+- `[Issue 32]` **Suno $400M raise at $5.4B valuation** — $300M ARR, 2M+ subscribers; WMG settled; UMG/Sony in active litigation — https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/
+- `[Issue 32]` **Tripo AI raises nearly $200M** — 3D world model, Project Eden — https://finance.yahoo.com/sectors/technology/articles/tripo-ai-raises-nearly-200-164700546.html
+- `[Issue 32]` **Roblox acquires Morpheus AI** — video world models for Roblox Reality vision — https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision
 - `[Issue 4]` **AdsGency $12M seed** — *op. cit.*
 - `[Issue 5]` **Sifted — Synthesia rejects $3B Adobe** — https://sifted.eu/articles/synthesia-acquisition-offer
 - `[Issue 14]` **Kartel / Reilly leadership** — *op. cit.*
@@ -429,7 +472,7 @@ For the complete primary-source archive — every link, in full, in original pub
 
 This thematic index covers the *significant* sources across the *Dream Machine* archive, organised by topic. For specific research, follow the bracketed Issue numbers back to the canonical issue file in `Dream Machine MD/`. Each issue file ends with the section "All embedded URLs (in document order)" which lists every URL the issue carried, including local navigation links, profile pages and platform housekeeping links that are not reproduced here.
 
-The newsletter is a continuous publication. The index above reflects the state of the archive at the time of book publication (May 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
+The newsletter is a continuous publication. The index above reflects the state of the archive at the time of book publication (June 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
 
 For deeper analytical treatment of the data this index points to, see the deep-dive appendices:
 - [Appendix D: The Shadow AI Paradox](A4_Deep_Dive_Shadow_AI.md)

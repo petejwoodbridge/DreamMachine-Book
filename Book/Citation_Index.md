@@ -17,7 +17,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **4.** OpenAI, "Sora 2 is here," announcement page, 30 September 2025. <https://openai.com/index/sora-2/>. The model launched alongside an invite-only iOS app of the same name in the U.S. and Canada. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) carried the launch alongside contemporaneous coverage from NBC News and *The Guardian* on the model's first copyright and safety incidents.
 
-**5.** *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[29](../Dream%20Machine%20MD/29.md), October 2025 – May 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
+**5.** *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[32](../Dream%20Machine%20MD/32.md), October 2025 – June 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
 
 **6.** DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>. Referenced from [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md) onward.
 
@@ -64,7 +64,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **12.** [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md), "Editor's Pick"; further launch context in NBC News, "OpenAI's Sora 2: a major leap in AI video and audio." <https://www.nbcnews.com/tech/tech-news/openai-sora-2-app-video-chatgpt-creation-rcna234973>.
 
-**13.** LinkedIn News aggregation: "Sora Tops 1 Million Downloads in 5 Days." <https://www.linkedin.com/news/story/sora-tops-1m-downloads-in-5-days-6684988/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
+**13.** LinkedIn News aggregation: "Sora Tops 1 Million Downloads in 5 Days." <https://www.linkedin.com/news/story/sora-tops-1m-downloads-in-5-days-6684988/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md). A historical note for the reader: the Sora consumer app and the broader Sora platform did not survive 2026. OpenAI announced a staged wind-down of Sora on **24 March 2026** — consumer app and website ending late April, developer API closing late September — with peak revenue reportedly at around $540,000 per month against operating costs in the billions, and the compute reallocated toward higher-margin coding and enterprise products. The Disney–OpenAI licensing announcement of 11 December 2025 (referenced in [Chapter 7](07_The_Studios_Decide.md) and [Appendix C](A3_Bibliography_by_Topic.md)) was never executed; no formal agreement was signed and no money changed hands. The contractual framework underneath that deal — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against. The full deal-architecture analysis is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md). The argument the rest of this chapter is making about the Sora 2 launch week — the cultural rupture, the audience arrival in the AI debate, the parasocial-character / working-actor market collision — survives the platform's death intact; the *moment* matters whether or not the *vendor* persists.
 
 **14.** *The Guardian*, "OpenAI Sora 2 violence racism." <https://www.theguardian.com/us-news/2025/oct/04/openai-sora-violence-racism>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
@@ -322,8 +322,22 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **45.** *MusicTech*, "Jack Antonoff brands AI music makers as 'godless whores'." <https://musictech.com/news/industry/jack-antonoff-ai-music-makers-godless-whores/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**45a.** Apple Music platform statement, June 2026: AI-generated songs make up less than 1% of plays on the platform. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**45b.** Spotify–Universal Music Group landmark deal allowing Spotify Premium subscribers to create AI covers and remixes of UMG-catalogue tracks as a paid Premium add-on, June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**45c.** Spotify CEO Daniel Ek defending the platform's move to AI music as "better than 'slop'," June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**45d.** Swedish startup Tonada — AI music for retailers (June 2026). [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**45e.** *Hollywood Reporter*, "Amazon Orders Three Animated Series Using Generative AI." <https://www.hollywoodreporter.com/tv/tv-news/amazon-orders-three-animated-series-generative-ai-1236606219/>. *Variety*, "Jorge Gutierrez Drops Out of Amazon MGM AI-Generated Series After Backlash." <https://variety.com/2026/tv/news/jorge-gutierrez-drops-out-amazon-mgm-ai-generated-series-backlash-1236762285/>. *Futurism*, "Amazon AI-Generated Series Canceled." <https://futurism.com/artificial-intelligence/amazon-ai-generated-series-canceled>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
+
+**45f.** Guillermo del Toro, subtweet responding to Amazon AI Creators Fund announcement, May/June 2026. Coverage in *Dream Machine* Issue 32. Cross-reference: del Toro's "rather die" statement in [Chapter 7](07_The_Studios_Decide.md), §"Position Three: We are not doing this."
+
 
 ## Chapter 6 — The 88%
+
+**40.** *Screen Daily*, "We got it wrong says UK Culture Secretary Lisa Nandy of government misstep on AI and copyright strategy," 1 June 2026. <https://www.screendaily.com/news/we-got-it-wrong-says-uk-culture-secretary-lisa-nandy-of-government-misstep-on-ai-and-copyright-strategy/5217330.article>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
 
 **1.** UK Department for Science, Innovation and Technology, *Statement of Progress on Copyright and AI*, 15 December 2025. <https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act>. [*Dream Machine* Issue 12](../Dream%20Machine%20MD/12.md), "Editor's Pick: 88% of Creators Said 'No'." 18 December 2025.
 
@@ -401,6 +415,12 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **37.** *Musically*, "BPI sets out transparency and sovereignty demands to secure 'AI licensing boom'." <https://musically.com/2026/05/19/bpi-transparency-sovereignty-ai-licensing-boom/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**37a.** Spotify and Universal Music Group, "Landmark Licensing Agreements for Fan-Made Covers and Remixes," 21 May 2026. Spotify Newsroom: <https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/>. *TechCrunch*: <https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/>. *Medianama*: <https://www.medianama.com/2026/05/223-spotify-umg-fans-create-licensed-ai-covers-remixes/>. *Dream Machine* Issue 31. Detailed treatment of the three-Cs framework, the deal's prehistory in the UMG settlement with Udio (October 2025), the *Verified by Spotify* badge, and the broader analysis in [Appendix L](A12_Deep_Dive_Programmable_Brand.md).
+
+**37b.** Hasbro, "Hasbro Launches Sixth Wall, a New AI Studio," BusinessWire press release, 3 June 2026: <https://www.businesswire.com/news/home/20260603297922/en/>. *The Wrap*: <https://www.thewrap.com/industry-news/business/hasbro-ai-studio-sixth-wall-launch/>. *Screen Daily*: <https://www.screendaily.com/news/hasbro-launches-subsidiary-ai-studio-sixth-wall-to-exploit-ip/5217380.article>. CharacterOS runtime governance layer; talent-participation pay-out structure for original performers; initial 12-character catalogue; 13+/enterprise focus. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md). Cross-reference in [Chapter 7](07_The_Studios_Decide.md) §"Position Five: Own the rails."
+
+**37c.** *Dream Machine* Deep Dive №14, *The Programmable Brand: How AI Is Reshaping IP Licensing in the Generative Economy*, 4 June 2026. Preserved in full as [Appendix L](A12_Deep_Dive_Programmable_Brand.md). The deep dive's *three Cs* framework draws on the Spotify–UMG licensing agreements; the five-model comparison covers Hasbro/Sixth Wall (Behavioural Licensing), Spotify/UMG (platform-embedded remixing), Disney/OpenAI (the framework that survived the platform's collapse — see footnote ^3a in [Chapter 7](07_The_Studios_Decide.md)), the independent-artist commons-and-DAO models (Grimes/Elf.tech with a ~50% master-royalty split; Holly Herndon / Holly+ with DAO governance; ElevenLabs heritage voices via CMG Worldwide; Meta's 2023 celebrity-chatbot programme as the closed-static anti-pattern), and Suno/Alexa as the *create-to-consume* demand floor. The underlying economic argument draws on Coase (1937), Williamson, and Barney's VRIN resource-based view; the appendix's load-bearing claim is that AI *relocates* rather than *abolishes* transaction costs — collapsing search and negotiation while raising the cost of monitoring and enforcement, and pushing the durable value into the governance layer.
+
 **38.** *MusicTech*, "Tamber is an 'ethically trained' AI tool to aid the creative process – and you can use arm gestures to control it." <https://musictech.com/news/gear/tamber-ai-ethically-trained-arm-gestures/>. Tamber product page: <https://tamber.ai/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 **39.** *Variety*, "Is 'AI Resistance' Setting the Music Sector Back? WMG's Robert Kyncl Sees 'An Incredible Value Creation Opportunity,' But Warns 'We Cannot Wait the Way the Industry Did 25 Years Ago'." <https://variety.com/2026/music/news/wmg-robert-kyncl-ai-resistance-1236748901/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
@@ -412,7 +432,11 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **2.** *Futurism*, "Lionsgate's Attempt to Create Movies Using AI Has Crumbled Into Disaster." <https://futurism.com/artificial-intelligence/lionsgate-movies-ai>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
-**3.** *The Guardian*, "Disney to invest $1bn in OpenAI, allowing characters in Sora video tool." <https://www.theguardian.com/business/2025/dec/11/disney-open-ai-sora-video-deal>. [*Dream Machine* Issue 11](../Dream%20Machine%20MD/11.md).
+**3.** *The Guardian*, "Disney to invest $1bn in OpenAI, allowing characters in Sora video tool." <https://www.theguardian.com/business/2025/dec/11/disney-open-ai-sora-video-deal>. [*Dream Machine* Issue 11](../Dream%20Machine%20MD/11.md). The announcement was widely treated at the time as a completed, operative template; on the corrected record set out in [Appendix L](A12_Deep_Dive_Programmable_Brand.md), no formal agreement was ever signed and no money changed hands.
+
+**3a.** OpenAI staged Sora wind-down announced 24 March 2026: consumer app and website to end in late April 2026; developer API to close in late September 2026. Disney exited the partnership with reportedly as little as thirty minutes' notice. *Ropes & Gray*, "The Deal That Wasn't: What Disney and OpenAI Teach Us About Strategic Investments." <https://www.ropesgray.com/en/insights/viewpoints/the-deal-that-wasnt-what-disney-and-openai-teach-us-about-strategic-investments>. *TheStreet* / *AOL* (Hollywood Reporter source): <https://www.thestreet.com/technology/openai-is-shutting-down-sora-and-the-disney-deal-is-off>. *Tech-Insider*: <https://tech-insider.org/openai-sora-shutdown-disney-deal-ai-video-2026/>. Peak Sora revenue reported at roughly $540k/month against operating costs in the billions; OpenAI reallocated compute toward higher-margin coding and enterprise products. Coverage in [*Dream Machine* Issue 22](../Dream%20Machine%20MD/22.md).
+
+**3b.** *Dream Machine* Deep Dive №14, *The Programmable Brand*, 4 June 2026. Preserved in full as [Appendix L](A12_Deep_Dive_Programmable_Brand.md).
 
 **4.** PYMNTS, "Retention Is Name of the Game for Netflix's AI Strategy." <https://www.pymnts.com/subscription-commerce/2026/retention-is-name-of-the-game-for-netflixs-ai-strategy/>. [*Dream Machine* Issue 15](../Dream%20Machine%20MD/15.md).
 
@@ -517,6 +541,18 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **52.** *Variety*, "Is AI Basically Like Special Effects? Peter Jackson Seems to Think So." <https://variety.com/2026/film/news/peter-jackson-ai-special-effects-1236748120/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 **53.** *PC Gamer*, "Take-Two's CEO says AI's not in the business of making hits, 'datasets by their very nature are backward looking', but that doesn't mean AI can't be 'super helpful'." <https://www.pcgamer.com/games/take-two-ceo-ai-not-making-hits-backward-looking/>. *Business Insider*, "The CEO behind Grand Theft Auto says he's pro AI — but the technology can't make an original hit." <https://www.businessinsider.com/take-two-ceo-strauss-zelnick-ai-original-hits-2026-5>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**54a.** Hasbro launches Sixth Wall, a new AI studio, with the CharacterOS governance layer underneath it, 3 June 2026. BusinessWire press release: <https://www.businesswire.com/news/home/20260603297922/en/>. *The Wrap*, "Hasbro AI Studio Sixth Wall Launch": <https://www.thewrap.com/industry-news/business/hasbro-ai-studio-sixth-wall-launch/>. *Screen Daily*: <https://www.screendaily.com/news/hasbro-launches-subsidiary-ai-studio-sixth-wall-to-exploit-ip/5217380.article>. *BriefGlance* analysis (FTC inquiries into AI companions, Sixth Wall's stated 13+/enterprise focus): <https://briefglance.com/articles/hasbros-sixth-wall-taming-the-ai-wild-west-with-behavioral-licensing>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md). CEO Roberta Thomson; CharacterOS encodes character canon, voice, personality, lore and safety limits at runtime; talent-participation pay-out structure for the original performers; initial 12-character catalogue; pilot grew out of an internal generative-AI Ouija-board experiment that logged hundreds of thousands of player interactions in its first few days.
+
+**54b.** Spotify and Universal Music Group announce landmark linked recorded-music and publishing licensing agreements for fan-made AI covers and remixes at Spotify Investor Day, 21 May 2026. Spotify Newsroom: <https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/>. *TechCrunch*: <https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/>. *Medianama*: <https://www.medianama.com/2026/05/223-spotify-umg-fans-create-licensed-ai-covers-remixes/>. Three-pillar *consent / credit / compensation* framework; opt-in catalogue; Premium add-on; new royalty stream; UMG settlement with Udio in October 2025 is the architectural ancestor. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md). Cross-reference in [Chapter 5](05_The_Slop_Ceiling.md) and [Chapter 6](06_The_88_Percent.md).
+
+**5a.** Amazon AI Creators Fund launch and the Punky Duck cancellation. *Hollywood Reporter*: <https://www.hollywoodreporter.com/tv/tv-news/amazon-orders-three-animated-series-generative-ai-1236606219/>. *Variety*: <https://variety.com/2026/tv/news/jorge-gutierrez-drops-out-amazon-mgm-ai-generated-series-backlash-1236762285/>. *Futurism*: <https://futurism.com/artificial-intelligence/amazon-ai-generated-series-canceled>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md). Cross-reference: [Chapter 5 §"The pushback"](05_The_Slop_Ceiling.md) for the audience-enforcement analysis.
+
+**55.** *Variety*, "Tribeca Festival AI Film 'Dreams of Violets' by Fountain 0." <https://variety.com/2026/film/festivals/tribeca-festival-ai-film-dreams-of-violets-fountain-0-1236759724/>. Director Ash Koosha; producer Fountain 0; 75-minute docudrama; subject: 2026 Iran protests; cost $2,000; production time: 3 months; tools: Kling AI (video), Anthropic Claude (editing), Google Gemini (research). [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
+
+**56.** The broader festival-circuit context: the *Dreams of Violets* Tribeca selection follows the *Lily* ($1M Dubai AI Film Award, January 2026) and *Humans in the Loop* (Film Independent Sloan Distribution Grant, November 2025) as part of the accumulating festival recognition of AI-native feature and short-film work — but *Dreams of Violets* is the first Tier 1 festival selection for a feature-length, fully-AI-generated work.
+
+**57.** *Variety*, "Martin Scorsese Supports AI Company, Endorses AI for Storyboarding." <https://variety.com/2026/film/news/martin-scorsese-supports-ai-company-storyboard-movies-1236765037/>. Scorsese becomes advisor to Black Forest Labs (FLUX model); endorses AI storyboarding; Boots Riley and Guillermo del Toro respond critically. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
 
 
 ## Chapter 8 — Worlds, Not Pictures
@@ -747,6 +783,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 ## Chapter 12 — Authenticity as the New Scarcity
 
+**33a.** *Variety*, "AI Music Suno Funding Round $400 Million $5.4 Billion Valuation." <https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/>. *TechCrunch*, "Still Facing Copyright Lawsuits, AI Music Generator Suno Raises Another $400M." <https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
+
+**33b.** Warner Music Group settled its copyright litigation against Suno and signed a licensing partnership; Universal Music Group and Sony Music remain in active litigation as of June 2026. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md). For the structural context of the WMG settlement-as-licensing-table move, see [Chapter 6 §"The three Cs"](06_The_88_Percent.md): *the lawsuits were never the destination; they were leverage to force a licensing table into existence.*
+
 **1.** [*Dream Machine* Issue 29](../Dream%20Machine%20MD/29.md) reportage of Tiny Grandma stop-motion content being wrongly flagged as AI by YouTube's automated detection, May 2026.
 
 **2.** [*Dream Machine* Issue 23](../Dream%20Machine%20MD/23.md), April 2026, reporting death threats against Eline Van der Velden following Tilly Norwood's continuing public role.
@@ -809,7 +849,17 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **31.** *Bloomberg*, "Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'." <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**31a.** Estate of Ozzy Osbourne announces the late artist will "live on as an AI avatar that talks with fans," June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
 **32.** *The Drum*, "David Beckham Designs 'Henchester United' Chicken Coop in Lenovo Ad." <https://www.thedrum.com/news/2026/05/18/david-beckham-henchester-united-chicken-coop-lenovo-ai-ad>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**32a.** YouTube announces automatic labelling of AI-generated videos, June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**32b.** LinkedIn announces it will limit the reach of AI-generated content on its feed, June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**32c.** Hasbro's Sixth Wall launch and the CharacterOS governance layer, 3 June 2026. BusinessWire: <https://www.businesswire.com/news/home/20260603297922/en/>. *The Wrap*: <https://www.thewrap.com/industry-news/business/hasbro-ai-studio-sixth-wall-launch/>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md). Cross-reference [Chapter 7 §"Position Five"](07_The_Studios_Decide.md) and [Chapter 6 §"The three Cs"](06_The_88_Percent.md).
+
+**32d.** Spotify–Universal Music Group landmark licensing agreements, 21 May 2026. Spotify Newsroom: <https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/>. *TechCrunch*: <https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md) and footnote ^37a in [Chapter 6](06_The_88_Percent.md).
 
 
 ## Chapter 13 — Coordination Collapse
@@ -903,6 +953,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **44.** Quantic Foundry consumer-AI-in-gaming survey, 2025. Summarised in [*Dynamics of Generative AI Adoption*](A5_Deep_Dive_Adoption_Dynamics.md), §"The Video Game Industry."
 
 **45.** Game Developers Conference *State of the Game Industry* surveys, 2024–2026, sentiment vs. usage trend. Reported in [*Dynamics of Generative AI Adoption*](A5_Deep_Dive_Adoption_Dynamics.md), §"The Video Game Industry."
+
+**46.** O'Hare, J. (2026). *The Coordination Collapse: How AI Is Dissolving the Information Tax That Created Hierarchy — And What Replaces It.* DreamLab AI Consulting Ltd, April 2026. Preserved in full as [Appendix K](A11_Deep_Dive_Coordination_Collapse.md). The report draws on Dell'Acqua et al.'s preregistered Boston Consulting Group experiment with 758 consultants, Mollick's *secret cyborgs* coinage, Edmondson and Lei's psychological-safety findings, the IBM *Cost of a Data Breach Report 2025*, the Epoch AI / Ipsos KnowledgePanel survey of March 2026, and the CyberArk *hidden org chart* analysis.
+
+**46a.** Epidemic Sound, *Future of the Creator Economy Report 2026* (survey of 3,000 professional creators across UK and US, June 2026); *Musically* commentary on the report and creator attitudes towards AI. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md), Editor's Pick, June 2026.
 
 
 ## Chapter 14 — The New Jobs
@@ -998,6 +1052,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **45.** CNBC Africa, "How AI is changing the landscape of the music industry in Africa." <https://www.cnbcafrica.com/2025/how-ai-is-changing-the-landscape-of-the-music-industry-in-africa>. [*Dream Machine* Issue 5](../Dream%20Machine%20MD/5.md). Korin AI launch, May 2026 — *op. cit.*
 
 **46.** *PocketGamer.biz*, "Shift Up CEO says AI is key to competing with China's game industry scale." <https://www.pocketgamer.biz/shift-up-ceo-says-ai-is-key-to-competing-with-chinas-game-industry-scale/>. [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
+
+**47.** The doomer frame is set out at length in OpenAI's spring 2026 policy paper on the "social contract for the intelligence age" (covered in [*Dream Machine* Issue 24](../Dream%20Machine%20MD/24.md)) and in Daniel Susskind's *A World Without Work*. The full empirical rebuttal — including the Stanford Digital Economy Lab's *Canaries in the Coal Mine?* findings (Brynjolfsson, Chandar & Chen, 2025), Brynjolfsson, Li & Raymond's *Generative AI at Work* (QJE, 2025; n = 5,179 agents), Acemoglu's *Simple Macroeconomics of AI* (Economic Policy, 2025), the Dallas Fed's labour analyses, the St. Louis Fed's AI-and-GDP tracking, the 2026 Stanford AI Index, and the 230-year history of identical predictions — is laid out in [Appendix I: The Doomer Mistake](A9_Deep_Dive_Doomer_Mistake.md). The deep dive is the analytical antibody to the policy framing this section is pushing back against.
 
 
 ## Chapter 15 — Choosing the Future
@@ -1133,6 +1189,6 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 ## Summary
 
-- **Total footnotes**: 535
-- **Unique primary-source URLs cited**: 339
-- **Source corpus**: 30 editions of *Dream Machine | Creative AI* (October 2025 – May 2026)
+- **Total footnotes**: 563
+- **Unique primary-source URLs cited**: 357
+- **Source corpus**: 32 editions of *Dream Machine | Creative AI* (October 2025 – June 2026)

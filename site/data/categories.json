@@ -19,7 +19,7 @@
       "Animation"
     ],
     "icon": "video",
-    "count": 42
+    "count": 46
   },
   {
     "name": "AI image models / tools",
@@ -32,7 +32,7 @@
       "Animation"
     ],
     "icon": "image",
-    "count": 30
+    "count": 31
   },
   {
     "name": "AI music / audio tools",
@@ -55,7 +55,7 @@
       "Immersive"
     ],
     "icon": "cube",
-    "count": 73
+    "count": 79
   },
   {
     "name": "Voice, avatar, digital human",
@@ -87,7 +87,7 @@
       "All"
     ],
     "icon": "layers",
-    "count": 36
+    "count": 38
   },
   {
     "name": "AI-native creative studios and apps",
@@ -108,7 +108,7 @@
       "Games"
     ],
     "icon": "joystick",
-    "count": 39
+    "count": 40
   },
   {
     "name": "Marketing and advertising AI",
@@ -149,6 +149,16 @@
     ],
     "icon": "spark",
     "count": 16
+  },
+  {
+    "name": "IP licensing, governance and behavioural-licence platforms",
+    "slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "All"
+    ],
+    "icon": "dot",
+    "count": 8
   },
   {
     "name": "Provenance, watermarking and detection",

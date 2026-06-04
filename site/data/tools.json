@@ -40,9 +40,7 @@
     "url": "https://www.skills.google/paths/118/course_templates/554?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy26q2-googlecloud-web-ai-in_feed-no-brand-global&utm_content=-&utm_term=-&linkId=61692172",
     "parent": null,
     "vendor": "Anthropic",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "claude / claude code / claude apps / claude skills anthropic the writers' and developers' favoured second; strong long-context performance; the agentic coding environment that underlies sony's 49-agent / 72-skill stack; claude for legal launched may 2026. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
@@ -174,9 +172,7 @@
     "url": null,
     "parent": null,
     "vendor": "Microsoft",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "phi / phi mini microsoft lightweight foundation models. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
@@ -302,8 +298,8 @@
     "_s": "veo 3 / veo 3.1 / veo 3.1 ingredients to video / veo 3.1 lite google deepmind the working filmmaker's preferred model for cinematic control; ingredients to video shipped to youtube shorts and youtube create; veo 3.1 lite is the lower-cost text- and image-to-video tier. ai video models modality film marketing animation"
   },
   {
-    "name": "Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising",
-    "blurb": "the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency.",
+    "name": "Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising / Aleph 2.0",
+    "blurb": "the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency. **Aleph 2.0** (June 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -316,7 +312,7 @@
     "parent": null,
     "vendor": "Runway",
     "issues": [],
-    "_s": "runway gen-4 / gen-4.5 / gen-4.5 image-to-video / workflows / story panels / characters api / ad concepter / apps for advertising runway the most-integrated commercial ai-video stack; story panels generate three-panel storyboards from a single image; characters api ships real-time intelligent avatars; the vera rubin-powered real-time model runs <100 ms latency. ai video models modality film marketing animation"
+    "_s": "runway gen-4 / gen-4.5 / gen-4.5 image-to-video / workflows / story panels / characters api / ad concepter / apps for advertising / aleph 2.0 runway the most-integrated commercial ai-video stack; story panels generate three-panel storyboards from a single image; characters api ships real-time intelligent avatars; the vera rubin-powered real-time model runs <100 ms latency. **aleph 2.0** (june 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped. ai video models modality film marketing animation"
   },
   {
     "name": "Kling / Kling 2.5 Turbo / Kling O1 / Kling 2.6 / Kling 3.0 / Kling X-Dub / Kling Motion Control 3.0",
@@ -332,9 +328,7 @@
     "url": "https://kling.ai/document-api/apiReference/skill",
     "parent": null,
     "vendor": "Kuaishou",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "kling / kling 2.5 turbo / kling o1 / kling 2.6 / kling 3.0 / kling x-dub / kling motion control 3.0 kuaishou strong on physics and trajectory control; 3.0 adds multi-shot control, multilingual audio and 4k image generation; x-dub is the context-rich visual dubbing variant. ai video models modality film marketing animation"
   },
   {
@@ -423,8 +417,8 @@
     "_s": "seedance 2.0 / seedream 4 / seedream 4.5 bytedance image-to-video and finished-video models, integrated into capcut / dreamina and freepik; per-second cost fell below $0.14 by march 2026. ai video models modality film marketing animation"
   },
   {
-    "name": "Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control",
-    "blurb": "social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months; Shots produces multiple storyboard images from a single shot.",
+    "name": "Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin",
+    "blurb": "social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months; Shots produces multiple storyboard images from a single shot; the Adobe Premiere Pro and After Effects plugins (June 2026) bring Higgsfield generation directly into the professional editorial workflow.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -437,7 +431,24 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "higgsfield / higgsfield sketch-to-video / higgsfield popcorn / higgsfield relight / higgsfield shots / wan camera control  social-media-marketer video platform; $80m raised at $1.3b valuation, $200m revenue in nine months; shots produces multiple storyboard images from a single shot. ai video models modality film marketing animation"
+    "_s": "higgsfield / higgsfield sketch-to-video / higgsfield popcorn / higgsfield relight / higgsfield shots / wan camera control / higgsfield adobe premiere plugin / higgsfield after effects plugin  social-media-marketer video platform; $80m raised at $1.3b valuation, $200m revenue in nine months; shots produces multiple storyboard images from a single shot; the adobe premiere pro and after effects plugins (june 2026) bring higgsfield generation directly into the professional editorial workflow. ai video models modality film marketing animation"
+  },
+  {
+    "name": "Bernini",
+    "blurb": "AI video generation and editing framework; a complementary video-editing layer to ByteDance's Seedance generation stack.",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "ByteDance",
+    "issues": [],
+    "_s": "bernini bytedance ai video generation and editing framework; a complementary video-editing layer to bytedance's seedance generation stack. ai video models modality film marketing animation"
   },
   {
     "name": "LTX-2 / LTX-2.3 / LTX-2.3 Colorizer / LTX-HDR / LTX Studio / LTX-2 Audio-to-Video / LTX-2 Lip Sync / LTX-2 Real-Time",
@@ -470,9 +481,7 @@
     "url": "https://odyssey.ml/introducing-odyssey-2",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "odyssey 2  real-time interactive video generation. ai video models modality film marketing animation"
   },
   {
@@ -574,9 +583,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "time-to-move  motion control for generated video. ai video models modality film marketing animation"
   },
   {
@@ -865,9 +872,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "netflix void  object removal from video with physics-interaction removal. ai video models modality film marketing animation"
   },
   {
@@ -986,10 +991,59 @@
     "url": "https://sites.google.com/view/gaussian-vrm",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "google m2svid  monocular-to-stereo video conversion. ai video models modality film marketing animation"
+  },
+  {
+    "name": "Alibaba WonderClip",
+    "blurb": "all-in-one AI video creation platform from Alibaba Cloud (June 2026).",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "alibaba wonderclip  all-in-one ai video creation platform from alibaba cloud (june 2026). ai video models modality film marketing animation"
+  },
+  {
+    "name": "Sony Vid-CamEdit",
+    "blurb": "post-capture camera trajectory editing; keeps scenes spatially coherent across large viewpoint changes (June 2026).",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "sony vid-camedit  post-capture camera trajectory editing; keeps scenes spatially coherent across large viewpoint changes (june 2026). ai video models modality film marketing animation"
+  },
+  {
+    "name": "Nvidia PiD (Pixel Diffusion Decoder)",
+    "blurb": "image / video decoder; new entry from Nvidia (June 2026).",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": "https://research.nvidia.com/labs/adlr/MF/",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "nvidia pid (pixel diffusion decoder)  image / video decoder; new entry from nvidia (june 2026). ai video models modality film marketing animation"
   },
   {
     "name": "Midjourney / Midjourney V8.1",
@@ -1064,8 +1118,8 @@
     "_s": "imagen 3 / nano banana / nano banana pro / nano banana 2 google most-integrated image model in the consumer toolchain; photoshop and unreal engine plugins; nano banana pro ships professional capabilities at lightning speed. ai image models / tools modality design marketing film animation"
   },
   {
-    "name": "Stable Diffusion / Stable Diffusion 3",
-    "blurb": "the foundational open-source image model.",
+    "name": "Stable Diffusion / Stable Diffusion 3 / Stable-Layers",
+    "blurb": "the foundational open-source image model; **Stable-Layers** (June 2026) splits generated images into editable compositional layers — a structural shift from regeneration to post-generation editing.",
     "category": "AI image models / tools",
     "category_slug": "image",
     "layer": "Modality",
@@ -1079,7 +1133,25 @@
     "parent": null,
     "vendor": "Stability AI",
     "issues": [],
-    "_s": "stable diffusion / stable diffusion 3 stability ai the foundational open-source image model. ai image models / tools modality design marketing film animation"
+    "_s": "stable diffusion / stable diffusion 3 / stable-layers stability ai the foundational open-source image model; **stable-layers** (june 2026) splits generated images into editable compositional layers — a structural shift from regeneration to post-generation editing. ai image models / tools modality design marketing film animation"
+  },
+  {
+    "name": "Ideogram 4.0",
+    "blurb": "fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every Ideogram plan and via API.",
+    "category": "AI image models / tools",
+    "category_slug": "image",
+    "layer": "Modality",
+    "disciplines": [
+      "Design",
+      "Marketing",
+      "Film",
+      "Animation"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "ideogram 4.0  fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every ideogram plan and via api. ai image models / tools modality design marketing film animation"
   },
   {
     "name": "Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers",
@@ -1240,9 +1312,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "canva  design platform with \"creative operating system.\" ai image models / tools modality design marketing film animation"
   },
   {
@@ -1535,7 +1605,7 @@
   },
   {
     "name": "Suno / Suno Studio / Suno 5.5",
-    "blurb": "the dominant prompt-to-track generative music platform; $250M raised at $2.45B valuation; Suno Studio is the \"world's first generative audio workstation\"; 5.5 adds Voices.",
+    "blurb": "the dominant prompt-to-track generative music platform; $400M raised at $5.4B valuation (June 2026), $300M ARR, 2M+ subscribers; Warner Music Group settled its lawsuit and signed a licensing partnership; UMG and Sony remain in active litigation; Suno Studio is the \"world's first generative audio workstation\"; 5.5 adds Voices.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -1545,10 +1615,8 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
-    "_s": "suno / suno studio / suno 5.5  the dominant prompt-to-track generative music platform; $250m raised at $2.45b valuation; suno studio is the \"world's first generative audio workstation\"; 5.5 adds voices. ai music / audio tools modality music"
+    "issues": [],
+    "_s": "suno / suno studio / suno 5.5  the dominant prompt-to-track generative music platform; $400m raised at $5.4b valuation (june 2026), $300m arr, 2m+ subscribers; warner music group settled its lawsuit and signed a licensing partnership; umg and sony remain in active litigation; suno studio is the \"world's first generative audio workstation\"; 5.5 adds voices. ai music / audio tools modality music"
   },
   {
     "name": "Udio",
@@ -1562,9 +1630,7 @@
     "url": "https://www.udio.com/blog/a-new-era",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "udio  prompt-to-music; partnered with universal music group; indie-label licensing via merlin. ai music / audio tools modality music"
   },
   {
@@ -1583,8 +1649,8 @@
     "_s": "mureka / music agent studio  six specialised ai agents covering songwriting, arrangement and production. ai music / audio tools modality music"
   },
   {
-    "name": "ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer",
-    "blurb": "the dominant voice/audio synthesis stack; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas.",
+    "name": "ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2",
+    "blurb": "the dominant voice/audio synthesis stack; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -1595,7 +1661,7 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "elevenlabs / elevenlabs v3 / scribe v2 realtime / elevenmusic / elevencreative / elevenlabs flows / elevenagents expressive mode / elevenlabs voice changer  the dominant voice/audio synthesis stack; $500m arr; blackrock + nvidia backed; scribe v2 transcribes in 150 ms across 90+ languages; elevenmusic is the discovery/creation/earning marketplace; flows is the node-based creative canvas. ai music / audio tools modality music"
+    "_s": "elevenlabs / elevenlabs v3 / scribe v2 realtime / elevenmusic / elevencreative / elevenlabs flows / elevenagents expressive mode / elevenlabs voice changer / elevenlabs music v2 / elevenlabs dubbing v2  the dominant voice/audio synthesis stack; $500m arr; blackrock + nvidia backed; scribe v2 transcribes in 150 ms across 90+ languages; elevenmusic is the discovery/creation/earning marketplace; flows is the node-based creative canvas; **music v2** (june 2026) is the next-generation generative-music model; **dubbing v2** (june 2026) is the next-generation dubbing model. elevenlabs also partnered with hasbro's sixth wall ai studio in june 2026, providing the voice layer for hasbro's behavioral licensing / characteros programme — enabling licensed ai voices for transformers, mr. potato head, peppa pig and more. ai music / audio tools modality music"
   },
   {
     "name": "iZotope Ozone 12 / Stem EQ",
@@ -1643,8 +1709,8 @@
     "_s": "riffusion  spectrogram-based music generation. ai music / audio tools modality music"
   },
   {
-    "name": "Stable Audio 2.5",
-    "blurb": "generative audio.",
+    "name": "Stable Audio 2.5 / Stable Audio 3.0",
+    "blurb": "generative audio. **Stable Audio 3.0** (May–June 2026) is an open-weight model family trained on fully licensed data, designed as the foundation for what the open audio community builds next; ships in ComfyUI for tracks up to about six minutes.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -1654,10 +1720,8 @@
     "url": null,
     "parent": null,
     "vendor": "Stability AI",
-    "issues": [
-      30
-    ],
-    "_s": "stable audio 2.5 stability ai generative audio. ai music / audio tools modality music"
+    "issues": [],
+    "_s": "stable audio 2.5 / stable audio 3.0 stability ai generative audio. **stable audio 3.0** (may–june 2026) is an open-weight model family trained on fully licensed data, designed as the foundation for what the open audio community builds next; ships in comfyui for tracks up to about six minutes. ai music / audio tools modality music"
   },
   {
     "name": "MusicGPT",
@@ -1701,9 +1765,7 @@
     "url": null,
     "parent": null,
     "vendor": "Musixmatch",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "music lens musixmatch catalog-intelligence agent. ai music / audio tools modality music"
   },
   {
@@ -1763,9 +1825,7 @@
     "url": "https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "spotify dj / spotify ai / spotify ai prompted playlists / spotify ai transparency beta / personal podcasts on spotify  playlist personalisation, voluntary ai disclosure beta, agent-created podcasts. ai music / audio tools modality music"
   },
   {
@@ -1930,9 +1990,7 @@
     "url": "https://fish.audio/app/text-to-speech/?modelId=8ef4a238714b45718ce04243307c57a7",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "fish audio s1 / fish audio s2  text-to-speech; s2 ships expressive tts with emotional control (6× cheaper than elevenlabs at s1). ai music / audio tools modality music"
   },
   {
@@ -2004,12 +2062,10 @@
     "disciplines": [
       "Music"
     ],
-    "url": "https://mirelo.ai/sfx-1-6",
+    "url": null,
     "parent": null,
     "vendor": "Berlin",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "mirelo berlin automatic sound-effect generation for video. ai music / audio tools modality music"
   },
   {
@@ -2066,12 +2122,10 @@
     "disciplines": [
       "Music"
     ],
-    "url": "https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head",
+    "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "apple logic pro ai  synth player and personal music-theory expert; chord-progression generation. ai music / audio tools modality music"
   },
   {
@@ -2083,7 +2137,7 @@
     "disciplines": [
       "Music"
     ],
-    "url": "https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head",
+    "url": null,
     "parent": null,
     "vendor": null,
     "issues": [],
@@ -2266,9 +2320,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "smol-audio  local audio model notebooks and scripts. ai music / audio tools modality music"
   },
   {
@@ -2358,9 +2410,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "music mogul ai  tour-booking automation. ai music / audio tools modality music"
   },
   {
@@ -2685,6 +2735,96 @@
     "_s": "moonlake  $28m-seeded world model platform now in beta for games and simulations. 3d, world models and spatial modality games film animation immersive"
   },
   {
+    "name": "Project Eden",
+    "blurb": "persistent, multiplayer world model (June 2026) that fundamentally breaks from existing paradigms by *decoupling the underlying world state from visual rendering*; the most ambitious state-vs-rendering separation in the world-model layer at the time of writing. TripoAI raised nearly $200M in June 2026 to advance this work.",
+    "category": "3D, world models and spatial",
+    "category_slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "TripoAI",
+    "issues": [],
+    "_s": "project eden tripoai persistent, multiplayer world model (june 2026) that fundamentally breaks from existing paradigms by *decoupling the underlying world state from visual rendering*; the most ambitious state-vs-rendering separation in the world-model layer at the time of writing. tripoai raised nearly $200m in june 2026 to advance this work. 3d, world models and spatial modality games film animation immersive"
+  },
+  {
+    "name": "TripoSplat",
+    "blurb": "single 2D image to high-quality 3D Gaussians; open-source under the MIT license.",
+    "category": "3D, world models and spatial",
+    "category_slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Tripo",
+    "issues": [],
+    "_s": "triposplat tripo single 2d image to high-quality 3d gaussians; open-source under the mit license. 3d, world models and spatial modality games film animation immersive"
+  },
+  {
+    "name": "NVIDIA Cosmos 3",
+    "blurb": "omnimodal world model (released May 31, 2026) that connects understanding, generation, simulation and action through a shared architecture moving fluidly across text, images, video, audio and actions; Two-Tower Mixture-of-Transformers design; ranked best open-source T2I and I2V models by Artificial Analysis; explicitly targets robotics, autonomous vehicles and warehouse monitoring. The most significant NVIDIA world-model release in the period.",
+    "category": "3D, world models and spatial",
+    "category_slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "url": "https://research.nvidia.com/labs/adlr/MF/",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "nvidia cosmos 3  omnimodal world model (released may 31, 2026) that connects understanding, generation, simulation and action through a shared architecture moving fluidly across text, images, video, audio and actions; two-tower mixture-of-transformers design; ranked best open-source t2i and i2v models by artificial analysis; explicitly targets robotics, autonomous vehicles and warehouse monitoring. the most significant nvidia world-model release in the period. 3d, world models and spatial modality games film animation immersive"
+  },
+  {
+    "name": "NVIDIA FlashDreams",
+    "blurb": "open-source world model from NVIDIA, released June 2026.",
+    "category": "3D, world models and spatial",
+    "category_slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "url": "https://research.nvidia.com/labs/adlr/MF/",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "nvidia flashdreams  open-source world model from nvidia, released june 2026. 3d, world models and spatial modality games film animation immersive"
+  },
+  {
+    "name": "PaGeR",
+    "blurb": "AI model for 360° scene geometry reconstruction.",
+    "category": "3D, world models and spatial",
+    "category_slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Google & Meta",
+    "issues": [],
+    "_s": "pager google & meta ai model for 360° scene geometry reconstruction. 3d, world models and spatial modality games film animation immersive"
+  },
+  {
     "name": "NVIDIA Lyra 2.0",
     "blurb": "explorable generative 3D worlds.",
     "category": "3D, world models and spatial",
@@ -2951,9 +3091,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "m-xr pbr model  4k pbr material maps for 3d assets. 3d, world models and spatial modality games film animation immersive"
   },
   {
@@ -3004,7 +3142,7 @@
       "Animation",
       "Immersive"
     ],
-    "url": "https://flow.google/",
+    "url": null,
     "parent": null,
     "vendor": null,
     "issues": [],
@@ -3115,9 +3253,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "one-to-all animation  alignment-free character animation and image pose transfer. 3d, world models and spatial modality games film animation immersive"
   },
   {
@@ -3153,9 +3289,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "move ai  motion capture. 3d, world models and spatial modality games film animation immersive"
   },
   {
@@ -3332,12 +3466,10 @@
       "Animation",
       "Immersive"
     ],
-    "url": "https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head",
+    "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "apple sharp / lito  photorealistic 3d view synthesis from a single image in under a second; lito is the surface light-field tokenisation method. 3d, world models and spatial modality games film animation immersive"
   },
   {
@@ -3481,9 +3613,7 @@
     "url": null,
     "parent": null,
     "vendor": "4DV.ai",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "animated gaussian splats 4dv.ai 4d gaussian-splat animation. 3d, world models and spatial modality games film animation immersive"
   },
   {
@@ -3534,7 +3664,7 @@
       "Animation",
       "Immersive"
     ],
-    "url": "https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head",
+    "url": null,
     "parent": null,
     "vendor": null,
     "issues": [],
@@ -3557,6 +3687,24 @@
     "vendor": null,
     "issues": [],
     "_s": "common sense machines  converts 2d images into 3d digital assets (google acquisition). 3d, world models and spatial modality games film animation immersive"
+  },
+  {
+    "name": "AI-Enhanced LiDAR",
+    "blurb": "generative-AI-augmented LiDAR capture pipeline (June 2026) for scanning and reconstruction work in spatial production.",
+    "category": "3D, world models and spatial",
+    "category_slug": "3d-world",
+    "layer": "Modality",
+    "disciplines": [
+      "Games",
+      "Film",
+      "Animation",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "ai-enhanced lidar  generative-ai-augmented lidar capture pipeline (june 2026) for scanning and reconstruction work in spatial production. 3d, world models and spatial modality games film animation immersive"
   },
   {
     "name": "NVIDIA Omniverse Fixer",
@@ -3810,8 +3958,8 @@
     "_s": "synthesia  ai avatar platform; $4b valuation; rejected $3b adobe offer. voice, avatar, digital human modality film marketing music"
   },
   {
-    "name": "Heygen / Heygen Video Agent / Heygen Motion Designer / LiveAvatar / Heygen Elements / Heygen CLI",
-    "blurb": "AI-avatar and end-to-end video generation; LiveAvatar is hyper-realistic real-time interactive; Elements builds scenes from reusable components; CLI ships videos from the command line.",
+    "name": "Heygen / Heygen Video Agent / Heygen Motion Designer / LiveAvatar / Heygen Elements / Heygen CLI / HyperFrames",
+    "blurb": "AI-avatar and end-to-end video generation; LiveAvatar is hyper-realistic real-time interactive; Elements builds scenes from reusable components; CLI ships videos from the command line; **HyperFrames** (June 2026) is an open-source framework for turning HTML, CSS, media and seekable animations into deterministic MP4 videos — bringing deterministic video export to web-stack creative workflows.",
     "category": "Voice, avatar, digital human",
     "category_slug": "voice-avatar",
     "layer": "Modality",
@@ -3824,7 +3972,7 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "heygen / heygen video agent / heygen motion designer / liveavatar / heygen elements / heygen cli  ai-avatar and end-to-end video generation; liveavatar is hyper-realistic real-time interactive; elements builds scenes from reusable components; cli ships videos from the command line. voice, avatar, digital human modality film marketing music"
+    "_s": "heygen / heygen video agent / heygen motion designer / liveavatar / heygen elements / heygen cli / hyperframes  ai-avatar and end-to-end video generation; liveavatar is hyper-realistic real-time interactive; elements builds scenes from reusable components; cli ships videos from the command line; **hyperframes** (june 2026) is an open-source framework for turning html, css, media and seekable animations into deterministic mp4 videos — bringing deterministic video export to web-stack creative workflows. voice, avatar, digital human modality film marketing music"
   },
   {
     "name": "Hedra / Hedra Audio Tags / Hedra Elements",
@@ -3857,9 +4005,7 @@
     "url": null,
     "parent": null,
     "vendor": "Alibaba",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "live avatar alibaba streaming real-time audio-driven avatar generation with infinite length. voice, avatar, digital human modality film marketing music"
   },
   {
@@ -4155,12 +4301,10 @@
       "Marketing",
       "Immersive"
     ],
-    "url": "https://www.anthropic.com/news/claude-comfyui-partner-node",
+    "url": "https://www.skills.google/paths/118/course_templates/554?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy26q2-googlecloud-web-ai-in_feed-no-brand-global&utm_content=-&utm_term=-&linkId=61692172",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "anthropic claude apps / claude skills / claude code / claude design / claude for legal / anthropic academy  interactive claude in workplace tools; the skills framework powers sony's 49-agent / 72-skill game-development stack; claude design ships prototypes/slides/one-pagers; anthropic academy is free claude code training. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
   {
@@ -4182,9 +4326,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "claude code game studios  49-agent, 72-skill coordinated ai game-development team. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
   {
@@ -4426,9 +4568,7 @@
     "url": "https://unity.com/features/ai",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "unity official mcp / unity mcp  unity editor control via mcp protocol. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
   {
@@ -4714,9 +4854,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "atlas ai agents  game-production pipeline agents. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
   {
@@ -4892,9 +5030,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "amazon creative agent  agentic ai generating professional-quality ads. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
   {
@@ -4960,9 +5096,7 @@
     "url": "https://news.adobe.com/news/2025/10/adobe-max-2025-express-ai-assistant",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "adobe creative cloud  photoshop, premiere pro, after effects, illustrator, express, acrobat, plus the express ai assistant, the premiere object mask, the photoshop generative-fill, selection and rotate object tools, the photoshop ai assistant public beta, and illustrator turntable. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
@@ -5270,9 +5404,7 @@
     "url": null,
     "parent": "Adobe Sneaks 2025–26",
     "vendor": "Adobe Research",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "edit-by-track adobe research generative video motion editing with 3d point tracks. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
@@ -5357,7 +5489,7 @@
       "Marketing",
       "Immersive"
     ],
-    "url": "https://flow.google/",
+    "url": null,
     "parent": null,
     "vendor": null,
     "issues": [],
@@ -5409,7 +5541,7 @@
   },
   {
     "name": "Blender / Blender MCP / Blender Buddy",
-    "blurb": "open-source 3D; Anthropic Foundation patronage; MCP enables Claude control.",
+    "blurb": "open-source 3D; Anthropic Foundation patronage; MCP enables Claude control; NVIDIA DLSS 4.5 Ray Reconstruction added to Blender 5.3 as a viewport denoiser.",
     "category": "Legacy creative software, AI-augmented",
     "category_slug": "legacy",
     "layer": "Legacy software",
@@ -5427,7 +5559,51 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "blender / blender mcp / blender buddy  open-source 3d; anthropic foundation patronage; mcp enables claude control. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
+    "_s": "blender / blender mcp / blender buddy  open-source 3d; anthropic foundation patronage; mcp enables claude control; nvidia dlss 4.5 ray reconstruction added to blender 5.3 as a viewport denoiser. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Vlo",
+    "blurb": "free, local, open-source video editor with ComfyUI-backed generative AI features; the open-source equivalent of the AI-native NLE.",
+    "category": "Legacy creative software, AI-augmented",
+    "category_slug": "legacy",
+    "layer": "Legacy software",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "vlo  free, local, open-source video editor with comfyui-backed generative ai features; the open-source equivalent of the ai-native nle. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Motionfly Editor",
+    "blurb": "AI-native video editor positioned as \"Cursor for video editing\" — bringing the code-editor / AI-pair model into the video-editing workflow.",
+    "category": "Legacy creative software, AI-augmented",
+    "category_slug": "legacy",
+    "layer": "Legacy software",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "motionfly editor  ai-native video editor positioned as \"cursor for video editing\" — bringing the code-editor / ai-pair model into the video-editing workflow. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
     "name": "DaVinci Resolve",
@@ -5492,9 +5668,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "pro tools  audio editorial with ai features; claude integration in ableton. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
@@ -5513,7 +5687,7 @@
       "Marketing",
       "Immersive"
     ],
-    "url": "https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head",
+    "url": null,
     "parent": null,
     "vendor": null,
     "issues": [],
@@ -5768,9 +5942,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "wonder studios  ai-native film studio; $12m raise; wonder film festival. ai-native creative studios and apps studios & apps film animation"
   },
   {
@@ -5962,9 +6134,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "lkdn ai production  node-based ai filmmaking. ai-native creative studios and apps studios & apps film animation"
   },
   {
@@ -5996,9 +6166,7 @@
     "url": null,
     "parent": null,
     "vendor": "MrBeast alumni",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "palo creators mrbeast alumni ai for viral video creation. ai-native creative studios and apps studios & apps film animation"
   },
   {
@@ -6238,9 +6406,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "luma production studio + wonder project  feature collaboration. ai-native creative studios and apps studios & apps film animation"
   },
   {
@@ -6400,7 +6566,7 @@
   },
   {
     "name": "Roblox AI Tools / Roblox AI Assistant / Roblox Reality / Metain",
-    "blurb": "creator-facing AI for game development; Reality is Roblox's productised AI assistant; Metain is the prompt-to-Roblox-Studio interface.",
+    "blurb": "creator-facing AI for game development; Reality is Roblox's productised AI assistant; Metain is the prompt-to-Roblox-Studio interface. In June 2026, Roblox acquired **Morpheus AI Inc.**, an AI lab building video world models using *Self Forcing* (converting offline video models into fast, autoregressive, interactive engines), to accelerate the Roblox Reality video-model vision.",
     "category": "Games-development AI",
     "category_slug": "games",
     "layer": "Modality",
@@ -6411,7 +6577,7 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "roblox ai tools / roblox ai assistant / roblox reality / metain  creator-facing ai for game development; reality is roblox's productised ai assistant; metain is the prompt-to-roblox-studio interface. games-development ai modality games"
+    "_s": "roblox ai tools / roblox ai assistant / roblox reality / metain  creator-facing ai for game development; reality is roblox's productised ai assistant; metain is the prompt-to-roblox-studio interface. in june 2026, roblox acquired **morpheus ai inc.**, an ai lab building video world models using *self forcing* (converting offline video models into fast, autoregressive, interactive engines), to accelerate the roblox reality video-model vision. games-development ai modality games"
   },
   {
     "name": "Epic xAI Studio",
@@ -6425,9 +6591,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "epic xai studio  elon-musk-affiliated game-dev ai. games-development ai modality games"
   },
   {
@@ -6472,9 +6636,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "halo studios  ai woven into the production pipeline. games-development ai modality games"
   },
   {
@@ -6534,9 +6696,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "sett  ai agents for game marketing. games-development ai modality games"
   },
   {
@@ -6645,6 +6805,21 @@
     "_s": "gamebyte  ai-powered game creation platform; $1m raise. games-development ai modality games"
   },
   {
+    "name": "Sorcerox Game Creation Suite",
+    "blurb": "prompt-driven game creation toolkit (June 2026); positioned as a *\"build any game you can imagine\"* general-purpose creation surface.",
+    "category": "Games-development AI",
+    "category_slug": "games",
+    "layer": "Modality",
+    "disciplines": [
+      "Games"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "sorcerox game creation suite  prompt-driven game creation toolkit (june 2026); positioned as a *\"build any game you can imagine\"* general-purpose creation surface. games-development ai modality games"
+  },
+  {
     "name": "Studio Atelico Bobium Brawlers",
     "blurb": "AI-based iOS game with pro-human approach.",
     "category": "Games-development AI",
@@ -6686,9 +6861,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "helika ai publishing engine  ai publishing engine for game studios. games-development ai modality games"
   },
   {
@@ -6703,9 +6876,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "xbox game studios \"git gud\" ai  xbox patent for ai tech that plays games for you. games-development ai modality games"
   },
   {
@@ -6870,9 +7041,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "origin lab  game-world ai training data; $8m raise. games-development ai modality games"
   },
   {
@@ -6932,9 +7101,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "wpp open pro  agency-wide ai marketing platform. marketing and advertising ai native marketing"
   },
   {
@@ -7114,9 +7281,7 @@
     "url": "https://sites.google.com/view/gaussian-vrm",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "google demand gen  ai-powered image tools for the ad platform. marketing and advertising ai native marketing"
   },
   {
@@ -7131,9 +7296,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "amazon dsp  ai one-stop-shop advertising infrastructure. marketing and advertising ai native marketing"
   },
   {
@@ -7148,9 +7311,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "amazon creative agent  agentic ad creator. marketing and advertising ai native marketing"
   },
   {
@@ -7232,9 +7393,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "comfyui  node-based ai workflow editor; the operating system of the open-source creative ai ecosystem; $17m raise (october 2025), $500m valuation (may 2026). open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
   {
@@ -7542,9 +7701,7 @@
     "url": "https://openai.com/index/sora-2/",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "openai gym / gym retro / arc  research benchmarks (referenced in the games-ai literature). open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
   {
@@ -7610,9 +7767,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "comfyui music tools  professional-grade music-processing node pack. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -7634,9 +7789,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "comfyui hy-motion1 plugin  tencent hy-motion implementation. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -7878,9 +8031,7 @@
     "url": "https://qwen.ai/blog?id=qwen-image-2512",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "qwen-ai compositing  qwen-driven compositing workflow. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -7902,9 +8053,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "street view url parser  google street view ingestion. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -7970,9 +8119,7 @@
     "url": "https://kling.ai/document-api/apiReference/skill",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "kling 3.0 comfyui node  kling 3.0 partner node. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -7994,9 +8141,7 @@
     "url": "https://kling.ai/document-api/apiReference/skill",
     "parent": null,
     "vendor": "ComfyUI",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "kling video 2.6 motion control comfyui kling motion control inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8018,9 +8163,7 @@
     "url": "https://kling.ai/document-api/apiReference/skill",
     "parent": null,
     "vendor": "ComfyUI",
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "kling motion control 3.0 comfyui the v3 motion control variant. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8086,9 +8229,7 @@
     "url": "https://ltx.io/model/ltx-2-3",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "ltx-2 comfyui audio-to-video  audio-driven video inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8132,9 +8273,7 @@
     "url": "https://elevenlabs.io/blog/mozart-ai",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "elevenlabs comfyui partner nodes  elevenlabs inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8156,9 +8295,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "luma uni-1 comfyui partner node  uni-1 inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8378,9 +8515,7 @@
     "url": "https://qwen.ai/blog?id=qwen-image-2512",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "gaussian splats + qwen edit workflow  explore 2d images and generate new camera views. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8424,9 +8559,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "comfyui simple mode  share and iterate complex workflows more easily. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8448,9 +8581,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "comfyui cloud (private models)  private model hosting inside comfyui cloud. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8560,9 +8691,7 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "creative control using comfyui on nvidia rtx  nvidia's official comfyui/rtx tutorial series. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -8716,9 +8845,7 @@
     "url": "https://qwen.ai/blog?id=qwen-image-2512",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "qwen-image-edit 2511 gaussian splash 3d camera motion  3d gaussian-splat motion control. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
   {
@@ -8872,9 +8999,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "gaussian splats repair lora  klein-9b lora for repairing 3d views and geometry. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
   {
@@ -8920,6 +9045,182 @@
     "vendor": null,
     "issues": [],
     "_s": "music finetunes in elevencreative  stylistically consistent vocal and instrument generation. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Hasbro Sixth Wall / CharacterOS",
+    "blurb": "in-house AI studio launched 3 June 2026 to license the *behaviour* of Hasbro characters (Optimus Prime, Megatron, Cobra Commander, the *Clue* cast) under a runtime governance layer that encodes canon, voice, personality, lore and safety limits; B2B programmatic licence with a talent-participation pay-out structure for original performers; initial 12-character catalogue; 13+/enterprise focus.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "hasbro sixth wall / characteros  in-house ai studio launched 3 june 2026 to license the *behaviour* of hasbro characters (optimus prime, megatron, cobra commander, the *clue* cast) under a runtime governance layer that encodes canon, voice, personality, lore and safety limits; b2b programmatic licence with a talent-participation pay-out structure for original performers; initial 12-character catalogue; 13+/enterprise focus. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Verified by Spotify / Spotify–UMG fan-remix product",
+    "blurb": "Spotify's *Verified by Spotify* badge and the opt-in catalogue infrastructure underneath the May 2026 Spotify–Universal Music Group landmark licensing agreement for fan-made AI covers and remixes; *consent / credit / compensation* framework; paid Premium add-on; new royalty stream to artists and songwriters.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": "https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "verified by spotify / spotify–umg fan-remix product  spotify's *verified by spotify* badge and the opt-in catalogue infrastructure underneath the may 2026 spotify–universal music group landmark licensing agreement for fan-made ai covers and remixes; *consent / credit / compensation* framework; paid premium add-on; new royalty stream to artists and songwriters. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Disney–OpenAI licensing framework (announced 11 December 2025; never executed)",
+    "blurb": "the $1bn licensing announcement that became the reference contract architecture for legacy-IP × frontier-AI deals despite the deal itself collapsing when OpenAI shut down Sora on 24 March 2026. IP-not-training, talent-voice-and-likeness excluded, jointly-governed steering committee, equity-and-warrants structure. The framework survived the platform's death.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": "https://openai.com/index/sora-2/",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "disney–openai licensing framework (announced 11 december 2025; never executed)  the $1bn licensing announcement that became the reference contract architecture for legacy-ip × frontier-ai deals despite the deal itself collapsing when openai shut down sora on 24 march 2026. ip-not-training, talent-voice-and-likeness excluded, jointly-governed steering committee, equity-and-warrants structure. the framework survived the platform's death. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Elf.tech / GrimesAI",
+    "blurb": "Grimes's open-voice platform; upload your vocal, get back a synthesised GrimesAI performance, release commercially with a ~50% master-royalty split; analogised by her team to fan-fiction and fan-art cultures; ~15,000 tracks generated under the licence.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": "https://tech.co/news/gen-z-most-likely-use-ai-boss",
+    "parent": null,
+    "vendor": "CreateSafe, Triniti API",
+    "issues": [],
+    "_s": "elf.tech / grimesai createsafe, triniti api grimes's open-voice platform; upload your vocal, get back a synthesised grimesai performance, release commercially with a ~50% master-royalty split; analogised by her team to fan-fiction and fan-art cultures; ~15,000 tracks generated under the licence. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Holly+ / Holly Herndon DAO",
+    "blurb": "public digital twin of the artist's voice wrapped in collective DAO governance for commercial-use decisions and the distribution of proceeds; paired with the *Have I Been Trained?* (Spawning) consent-layer tooling.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "holly+ / holly herndon dao  public digital twin of the artist's voice wrapped in collective dao governance for commercial-use decisions and the distribution of proceeds; paired with the *have i been trained?* (spawning) consent-layer tooling. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "ElevenLabs Heritage Voices / Iconic Marketplace (with CMG Worldwide and partners)",
+    "blurb": "heritage-voice licensing pipeline confined to a single text-to-speech Reader app, walled off from the general voice-cloning database; voices include Judy Garland, James Dean, Burt Reynolds, Laurence Olivier, the Stan Lee estate and Michael Caine.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": "https://elevenlabs.io/blog/mozart-ai",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "elevenlabs heritage voices / iconic marketplace (with cmg worldwide and partners)  heritage-voice licensing pipeline confined to a single text-to-speech reader app, walled off from the general voice-cloning database; voices include judy garland, james dean, burt reynolds, laurence olivier, the stan lee estate and michael caine. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Meta Celebrity Chatbots (2023)",
+    "blurb": "the closed-static likeness-rental anti-pattern referenced for contrast in [Appendix L](A12_Deep_Dive_Programmable_Brand.md): high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": "A12_Deep_Dive_Programmable_Brand.md",
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "meta celebrity chatbots (2023)  the closed-static likeness-rental anti-pattern referenced for contrast in [appendix l](a12_deep_dive_programmable_brand.md): high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
+  },
+  {
+    "name": "Cannes AI Disclosure Standard",
+    "blurb": "industry-coordination labelling standard for production-side AI use; the inter-industry analogue of the per-platform governance layers above.",
+    "category": "IP licensing, governance and behavioural-licence platforms",
+    "category_slug": "ip-licensing-governance-and-behavioural-licence-platforms",
+    "layer": "Other",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [],
+    "_s": "cannes ai disclosure standard  industry-coordination labelling standard for production-side ai use; the inter-industry analogue of the per-platform governance layers above. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
   },
   {
     "name": "C2PA",
@@ -9028,9 +9329,7 @@
     "url": "https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "spotify ai transparency beta  voluntary disclosure feature. provenance, watermarking and detection infrastructure film tv music games animation design marketing immersive"
   },
   {
@@ -9404,9 +9703,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "sweden's official music chart  banned ai-generated entries. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
   {
@@ -9494,9 +9791,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "netflix  ai in production (de-aging, plates, retention engine, ben affleck studio acquisition). consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
   {
@@ -9518,9 +9813,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "disney+  user-generated ai content features. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
   {
@@ -9564,9 +9857,7 @@
     "url": "https://festival.sundance.org/program/film/6932f9b4bd8651819060f65c?utm_source=chatgpt.com",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "sundance ai literacy initiative  google-funded $2m creator-training programme; sundance collab learning, story forum, ignite day. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
   {
@@ -9676,9 +9967,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "cannes ai disclosure standard / cannes lions  industry coordination for ai labelling; luma dream brief $1m prize. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
   {
@@ -9898,9 +10187,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "splice + umg  sample library; ai-music tools partnership. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
   {
@@ -9922,9 +10209,7 @@
     "url": "https://stability.ai/learning-hub/stability-seconds-create-a-soundtrack-with-stable-audio-25?utm_source=linkedin&utm_medium=social&utm_campaign=SS+Stable+Audio+2.5",
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "stability ai + universal music / stability ai + warner music  alliance and deal on the ai-music side. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
   {
@@ -10009,7 +10294,7 @@
       "Marketing",
       "Immersive"
     ],
-    "url": "https://www.anthropic.com/news/claude-comfyui-partner-node",
+    "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
     "parent": null,
     "vendor": null,
     "issues": [],
@@ -10144,9 +10429,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "motion control nodes / time-to-move  frame- and segment-level motion controls in generated video. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -10300,9 +10583,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "camera control / multi-angle generation  wan camera control, shotverse, ati, multiple angle camera control node. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -10346,9 +10627,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "audio-reactive generation  audio reactive node pack and the lalal-api / ace-step pipelines. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -10370,9 +10649,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "real-time generation pipelines  krea realtime, motionstream, decart lucy 2.0, xmax x1, phoenix-4, ltx-2.3 real-time on scope; the *interactive-generation* category that emerged in q1 2026. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -10482,9 +10759,7 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [
-      30
-    ],
+    "issues": [],
     "_s": "brief-first, generate-second  the workflow practice the book argues for in chapter 11 (and chapter 16's *toolchain in layers* section below). techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   }
 ]

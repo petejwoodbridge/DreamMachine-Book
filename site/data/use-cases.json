@@ -20,7 +20,7 @@
     "slug": "if-you-run-a-studio-agency-label-or-production-company",
     "icon": "building",
     "accent": "cyan",
-    "body": "Read the Foreword, then Chapter 7 (The Studios Decide) — particularly the section *The trap the legacy industries built for themselves* — then Chapter 13 (Coordination Collapse) — particularly the section *What organisations should do.* Then read Chapter 9 (AI in Everything, Everywhere, All at Once) for the platform-economics frame, Chapter 10 (What is Newly Possible) for the new business categories, and Chapter 14 (The New Jobs) for the labour-market restructuring evidence. Chapter 15 is the closing argument. Chapter 16 (The Tools) is the practical inventory.",
+    "body": "Read the Foreword, then Chapter 7 (The Studios Decide) — particularly the section *The trap the legacy industries built for themselves* — then Chapter 13 (Coordination Collapse) — particularly the section *What organisations should do.* Then read Chapter 9 (AI in Everything, Everywhere, All at Once) for the platform-economics frame, Chapter 10 (What is Newly Possible) for the new business categories, and Chapter 14 (The New Jobs) for the labour-market restructuring evidence. Chapter 15 is the closing argument. Chapter 16 (The Tools) is the practical inventory. For the deeper organisational-design treatment that Chapter 13 rests on — the 2,000-year history of hierarchy as information-routing protocol, the jagged frontier, the vigilance problem, the three competing post-hierarchical models and a 90-day implementation roadmap — read Appendix K (The Coordination Collapse).",
     "chapters": [
       "Foreword",
       "Chapter 7 (The Studios Decide)",
@@ -29,7 +29,8 @@
       "Chapter 10 (What is Newly Possible)",
       "Chapter 14 (The New Jobs)",
       "Chapter 15",
-      "Chapter 16 (The Tools)"
+      "Chapter 16 (The Tools)",
+      "Appendix K (The Coordination Collapse)"
     ]
   },
   {
@@ -67,13 +68,41 @@
     "slug": "if-you-are-working-in-or-covering-film-tv-or-games",
     "icon": "film",
     "accent": "cyan",
-    "body": "Read Chapter 1 (The Day Sora Landed) for the watershed scene-setter, Chapter 7 (The Studios Decide) for the strategic map of how the industry has positioned itself, Chapter 8 (Worlds, Not Pictures) for what is coming next, Chapter 11 (The Orchestrator) for what it means for working roles, and Chapter 14 (The New Jobs) for the labour-market data.",
+    "body": "Read Chapter 1 (The Day Sora Landed) for the watershed scene-setter, Chapter 7 (The Studios Decide) for the strategic map of how the industry has positioned itself, Chapter 8 (Worlds, Not Pictures) for what is coming next, Chapter 11 (The Orchestrator) for what it means for working roles, and Chapter 14 (The New Jobs) for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read Appendix J (The Process Trap).",
     "chapters": [
       "Chapter 1 (The Day Sora Landed)",
       "Chapter 7 (The Studios Decide)",
       "Chapter 8 (Worlds, Not Pictures)",
       "Chapter 11 (The Orchestrator)",
-      "Chapter 14 (The New Jobs)"
+      "Chapter 14 (The New Jobs)",
+      "Appendix J (The Process Trap)"
+    ]
+  },
+  {
+    "headline": "If you want the empirical case against the AI-doomer policy framing",
+    "slug": "if-you-want-the-empirical-case-against-the-ai-doomer-policy-",
+    "icon": "scale",
+    "accent": "purple",
+    "body": "Read the Foreword, Chapter 14 (The New Jobs) for the labour-market reading the book settles on, and then Appendix I (The Doomer Mistake) for the long-form rebuttal — the Stanford Digital Economy Lab data, Brynjolfsson's worker-level studies, Acemoglu's macroeconomic modelling, and the 230-year track record of identical predictions that have been wrong every time they have been asserted with confidence. Appendix E (Adoption Dynamics) and Appendix D (Shadow AI) are the supporting evidence base.",
+    "chapters": [
+      "Foreword",
+      "Chapter 14 (The New Jobs)",
+      "Appendix I (The Doomer Mistake)",
+      "Appendix E (Adoption Dynamics)",
+      "Appendix D (Shadow AI)"
+    ]
+  },
+  {
+    "headline": "If you are working in (or covering) IP, licensing, brand strategy or legal architecture",
+    "slug": "if-you-are-working-in-or-covering-ip-licensing-brand-strateg",
+    "icon": "spark",
+    "accent": "pink",
+    "body": "Read Chapter 6 (The 88%) for the political mandate the licensing-side conversation rests on, then Chapter 7 (The Studios Decide) — particularly the new *Position Five: Own the rails* section on Hasbro's Sixth Wall, the CharacterOS governance layer and the corrected record on the Disney–OpenAI deal that never executed — and then Chapter 12 (Authenticity as the New Scarcity) for the provenance and disclosure infrastructure that the IP layer sits inside. Appendix L (The Programmable Brand) is the long-form treatment: the *three Cs* (consent, credit, compensation) framework, the five-licensing-model comparison, the Coase / Williamson / Barney economic foundations, and the conceptual move from *IP as asset* to *IP as environment*.",
+    "chapters": [
+      "Chapter 6 (The 88%)",
+      "Chapter 7 (The Studios Decide)",
+      "Chapter 12 (Authenticity as the New Scarcity)",
+      "Appendix L (The Programmable Brand)"
     ]
   },
   {

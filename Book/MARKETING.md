@@ -33,7 +33,7 @@
 
 In the eight months between October 2025 and May 2026, the global creative industries lived through their most consequential transition in a century. Generative AI moved from contested experimental category to default operating layer. Hollywood studios announced and unwound AI strategies in a single news cycle. The UK government received 11,500 responses to a copyright consultation and 88% of them said the same thing. Almost 800 working creatives signed a declaration whose title was *Stealing Our Work Is Not Innovation*. Bandcamp banned AI music. Sundance launched an AI literacy initiative. SAG-AFTRA bargained the Tilly Tax. Deezer reported that 44% of new music uploads were AI-generated — and that those tracks captured no more than 3% of streams.
 
-*Dream Machine* is the only book written from inside this transition. Pete Woodbridge, creative technologist and head of the UK's DreamLab AI Collective, spent every week of those eight months running a fifty-person AI-augmented studio, writing the weekly *Dream Machine* newsletter that became the field's reference record, and developing the analytical frameworks — the Human–AI Agency Continuum, the Slop Ceiling, the Four Positions, the Authenticity Premium, the Year of the Orchestrator — that have moved into the wider industry conversation.
+*Dream Machine* is the only book written from inside this transition. Pete Woodbridge, creative technologist and head of the UK's DreamLab AI Collective, spent every week of those eight months running a ~50-person AI-augmented studio, writing the weekly *Dream Machine* newsletter that became the field's reference record, and developing the analytical frameworks — the Human–AI Agency Continuum, the Slop Ceiling, the Four Positions, the Authenticity Premium, the Year of the Orchestrator — that have moved into the wider industry conversation.
 
 Across sixteen chapters and eight appendices, drawing on several thousand cited sources, the book lays out what really happened, what the audience and the unions and the studios actually decided, and what the four principles — *Agency, Attribution, Access, Audience* — of a humane creative economy require working creatives to do on Monday morning. It is a history of the moment, a manifesto for the next decade, and an operating manual for the practitioner trying to do good work inside the most disruptive technological transition since the arrival of the moving image.
 
@@ -84,9 +84,9 @@ The argument the book has been building toward, across each chapter, is that **w
 
 ## Author bio (long)
 
-**Pete Woodbridge** is a creative technologist and the founder of **DreamLab AI Collective**, a fifty-person creative studio based in the North West of England working across film, games, immersive and AI-augmented production. The studio has been a closed-beta partner for World Labs' Marble since October 2025, has senior team carrying Emmy and BAFTA credits, and works with clients across the UK and internationally.
+**Pete Woodbridge** is a creative technologist and the founder of **DreamLab AI Collective**, a ~50-person creative studio based in the North West of England working across film, games, immersive and AI-augmented production. The studio has been a closed-beta partner for World Labs' Marble since October 2025, has senior team carrying Emmy and BAFTA credits, and works with clients across the UK and internationally.
 
-Through the period this book covers, Woodbridge wrote the *Dream Machine* newsletter — twenty-nine weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives. The newsletter became the field's reference record of the AI transition in the creative industries.
+Through the period this book covers, Woodbridge wrote the *Dream Machine* newsletter — thirty-two weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives. The newsletter became the field's reference record of the AI transition in the creative industries.
 
 Woodbridge holds twenty years of experience in virtual production, immersive, experiential and R&D media. He speaks regularly at industry conferences in the UK, Europe and the US, and his analytical frameworks — the Human–AI Agency Continuum, the Slop Ceiling, the Four Positions, the Year of the Orchestrator, the Four Principles of a humane creative economy — have moved into wider industry use through the period the book documents.
 
@@ -94,7 +94,7 @@ He lives and works in the North West of England.
 
 ## Author bio (short, 50 words)
 
-**Pete Woodbridge** is a creative technologist and founder of DreamLab AI Collective, a UK-based AI-augmented creative studio. He writes the *Dream Machine* newsletter — twenty-nine weekly issues read by working creatives across film, music, games, advertising and broadcast — and has spent twenty years in virtual production, immersive and experiential media.
+**Pete Woodbridge** is a creative technologist and founder of DreamLab AI Collective, a UK-based AI-augmented creative studio. He writes the *Dream Machine* newsletter — thirty-two weekly issues read by working creatives across film, music, games, advertising and broadcast — and has spent twenty years in virtual production, immersive and experiential media.
 
 ---
 

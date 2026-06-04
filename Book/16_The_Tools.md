@@ -12,7 +12,7 @@ I have written it last on purpose. Read in this order, the tools sit inside the 
 
 That format is, in 2026, the most reliable way to misunderstand what is happening.
 
-A note on the date stamp. Everything in this chapter is current to May 2026. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned. The point is not that the specific tools matter. The point is the *shape* of the toolchain — what categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
+A note on the date stamp. Everything in this chapter is current to June 2026 — the May 2026 cut of the catalogue, with the Issue 31 (June 2026) additions to the video, music, world-model, agent and games-engine layers folded in where they fit. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned. The point is not that the specific tools matter. The point is the *shape* of the toolchain — what categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
 
 ### How to think about the toolchain
 
@@ -40,9 +40,9 @@ With that frame, the inventory.
 
 ### Video
 
-The video layer changed faster than any other modality between October 2025 and May 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
+The video layer changed faster than any other modality between October 2025 and June 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
 
-**Sora 2** (OpenAI) is the model that opened the period this book covers. Its September 2025 launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter 1 is about.[^1] The iOS app launched alongside it hit a million downloads in five days[^2] and is the consumer-facing edge of the AI video market. For professional production, Sora 2 is impressive on isolated single-clip generation and remains the model most cited in the mainstream press, but most working filmmakers I know use it less than its cultural prominence would suggest.
+**Sora 2** (OpenAI) is the model that opened the period this book covers. Its September 2025 launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter 1 is about.[^1] The iOS app launched alongside it hit a million downloads in five days.[^2] By March 2026, however, the platform was shutting down. OpenAI announced a staged wind-down on **24 March 2026** — consumer app and website ending late April, developer API closing late September — with peak revenue reportedly at around $540k per month against operating costs in the billions, and compute reallocated toward higher-margin coding and enterprise products.[^2a] The Disney–OpenAI $1bn licensing announcement of 11 December 2025 was never executed; no formal agreement was signed and no money changed hands. The contractual *framework* underneath that deal — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against; the deep treatment of that architecture and the broader IP-economics shift it sits inside is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md). For working filmmakers in mid-2026, the practical implication of the Sora collapse is that the *consumer-facing edge* of the AI-video market has rotated to ByteDance's CapCut/Dreamina/Seedance stack, to the YouTube Shorts integrations of Veo 3.1, and to the Sora app's various TikTok-and-Reels-shaped successors. The professional pipeline never depended on Sora 2 in the first place — most working filmmakers I know used it less than its cultural prominence suggested — and so on the production side the collapse changes less than the headlines implied.
 
 **Veo 3.1** (Google DeepMind), released in mid-October 2025, is the model the professional filmmaking community has, on average, gravitated toward — for narrative coherence, controllable camera composition, cinematic lighting vocabulary and sound integration.[^3] Sora 2 wins on raw physics in single clips; Veo 3.1 wins on the kind of sustained directorial control most actual production pipelines need.
 
@@ -179,7 +179,7 @@ I do not, finally, use AI tools to produce work in the disciplines where my own 
 
 ### The complete toolchain: a categorised reference
 
-This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that *Dream Machine* tracked across its 29 issues, from October 2025 to May 2026. Some are dominant; some are niche; some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is *what existed*, in this period, in the creative-AI toolchain — so that the *shape* of the field is on the record.
+This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that *Dream Machine* tracked across its 32 issues, from October 2025 to June 2026. Some are dominant; some are niche; some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is *what existed*, in this period, in the creative-AI toolchain — so that the *shape* of the field is on the record.
 
 A word on the list's grain. I have tried to err on the side of inclusion. Where a single company ships multiple closely-related products — Adobe's *Sneaks* portfolio, the Runway Gen-4.5 family, the Qwen-Edit LoRA series — I have grouped them under the parent entry but called out the constituent tools, because in this period each constituent shipped to working creatives separately and changed at its own cadence. Where a tool was a one-issue demo I could not later verify, I have still listed it; that the demo existed *at all* is part of the field's history. Where a tool's name conflicts with another (there are at least three things called "Wonder" in the period the book covers) I have annotated.
 
@@ -204,14 +204,15 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 
 - **Sora / Sora 2** (OpenAI) — the model that opened the period; physical realism, audio integration, multi-shot world-state persistence; iOS app hit 1M downloads in 5 days; Sora 2 Character Creation surfaced on fal in March 2026.
 - **Veo 3 / Veo 3.1 / Veo 3.1 Ingredients to Video / Veo 3.1 Lite** (Google DeepMind) — the working filmmaker's preferred model for cinematic control; Ingredients to Video shipped to YouTube Shorts and YouTube Create; Veo 3.1 Lite is the lower-cost text- and image-to-video tier.
-- **Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising** (Runway) — the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency.
+- **Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising / Aleph 2.0** (Runway) — the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency. **Aleph 2.0** (June 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped.
 - **Kling / Kling 2.5 Turbo / Kling O1 / Kling 2.6 / Kling 3.0 / Kling X-Dub / Kling Motion Control 3.0** (Kuaishou) — strong on physics and trajectory control; 3.0 adds multi-shot control, multilingual audio and 4K image generation; X-Dub is the context-rich visual dubbing variant.
 - **Pika 2.0 / PikaStream 1.0** — iteration-speed-focused video generation; PikaStream brings AI agents into live video calls.
 - **Luma Dream Machine / UNI-1 / UNI-1.1 / Ray3 Modify / Luma Dream Brief** — Luma's video, world-and-reasoning, and modification stack; UNI-1.1 ships with prompt enhancement and built-in research; Dream Brief is the $1M Cannes Lions competition.
 - **Wan 2.2 / Wan 2.5 / Wan 2.6** (Alibaba Qwen) — camera-controlled video generation; 2.6 adds character reference and multishot capabilities.
 - **Hunyuan Video / Hunyuan Image-to-Video** (Tencent) — open-source video model.
 - **Seedance 2.0 / SeeDream 4 / SeeDream 4.5** (ByteDance) — image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026.
-- **Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control** — social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months; Shots produces multiple storyboard images from a single shot.
+- **Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin** — social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months; Shots produces multiple storyboard images from a single shot; the Adobe Premiere Pro and After Effects plugins (June 2026) bring Higgsfield generation directly into the professional editorial workflow.
+- **Bernini** (ByteDance) — AI video generation and editing framework; a complementary video-editing layer to ByteDance's Seedance generation stack.
 - **LTX-2 / LTX-2.3 / LTX-2.3 Colorizer / LTX-HDR / LTX Studio / LTX-2 Audio-to-Video / LTX-2 Lip Sync / LTX-2 Real-Time** — open-source video generation with audio sync; LTX-2.3 is high-resolution, fast, cinematic with native lip-sync; LTX HDR (beta) ships HDR processing.
 - **Odyssey 2** — real-time interactive video generation.
 - **Vidi 2** (ByteDance) — multimodal video understanding and creation.
@@ -244,6 +245,9 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Omnia** — AI-native browser video editor.
 - **NVIDIA RTX Video Super Resolution** — upscaling node with ComfyUI integration.
 - **Google M2SVid** — monocular-to-stereo video conversion.
+- **Alibaba WonderClip** — all-in-one AI video creation platform from Alibaba Cloud (June 2026).
+- **Sony Vid-CamEdit** — post-capture camera trajectory editing; keeps scenes spatially coherent across large viewpoint changes (June 2026).
+- **Nvidia PiD (Pixel Diffusion Decoder)** — image / video decoder; new entry from Nvidia (June 2026).
 
 #### AI image models / tools
 
@@ -251,7 +255,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **FLUX / FLUX 2 / FLUX 2 Max / FLUX.2 [klein]** (Black Forest Labs) — open-weight, fine-control, the open-source default through 2025–26; klein is the 4B-parameter lightweight model.
 - **Adobe Firefly / Firefly Image Model 5 / Firefly Foundry / Firefly Boards / Firefly Precision Flow** — Image Model 5, Foundry (custom corporate training), Firefly Boards (moodboards), Precision Flow (granular AI editing control, beta); 45% of Creative Cloud users active, 22B+ assets generated by April 2025.
 - **Imagen 3 / Nano Banana / Nano Banana Pro / Nano Banana 2** (Google) — most-integrated image model in the consumer toolchain; Photoshop and Unreal Engine plugins; Nano Banana Pro ships professional capabilities at lightning speed.
-- **Stable Diffusion / Stable Diffusion 3** (Stability AI) — the foundational open-source image model.
+- **Stable Diffusion / Stable Diffusion 3 / Stable-Layers** (Stability AI) — the foundational open-source image model; **Stable-Layers** (June 2026) splits generated images into editable compositional layers — a structural shift from regeneration to post-generation editing.
+- **Ideogram 4.0** — fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every Ideogram plan and via API.
 - **Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers** — real-time AI image generation, now open-source; Realtime Edit takes complex instructions in real time; the LoRA Trainers cover Qwen-2512 and Z-Image.
 - **Qwen-Image-2512 / Qwen-Image-Edit-2511 / Qwen 2511 Time Travel / Qwen-Edit 2509** — the dominant open-source image-editing model family; constituent LoRAs (relighting, multi-angle, time-travel, AnyPose) discussed in the LoRAs section below.
 - **ChatGPT Images / ChatGPT Images 2.0** — image generation integrated with Adobe Express, Photoshop and Acrobat; 2.0 ships thinking-level intelligence.
@@ -280,14 +285,14 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 
 #### AI music / audio tools
 
-- **Suno / Suno Studio / Suno 5.5** — the dominant prompt-to-track generative music platform; $250M raised at $2.45B valuation; Suno Studio is the "world's first generative audio workstation"; 5.5 adds Voices.
+- **Suno / Suno Studio / Suno 5.5** — the dominant prompt-to-track generative music platform; $400M raised at $5.4B valuation (June 2026), $300M ARR, 2M+ subscribers; Warner Music Group settled its lawsuit and signed a licensing partnership; UMG and Sony remain in active litigation; Suno Studio is the "world's first generative audio workstation"; 5.5 adds Voices.
 - **Udio** — prompt-to-music; partnered with Universal Music Group; indie-label licensing via Merlin.
 - **Mureka / Music Agent Studio** — six specialised AI agents covering songwriting, arrangement and production.
-- **ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer** — the dominant voice/audio synthesis stack; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas.
+- **ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2** — the dominant voice/audio synthesis stack; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.
 - **iZotope Ozone 12 / Stem EQ** — AI-assisted mixing and mastering.
 - **LANDR** — AI mastering and distribution.
 - **Riffusion** — spectrogram-based music generation.
-- **Stable Audio 2.5** (Stability AI) — generative audio.
+- **Stable Audio 2.5 / Stable Audio 3.0** (Stability AI) — generative audio. **Stable Audio 3.0** (May–June 2026) is an open-weight model family trained on fully licensed data, designed as the foundation for what the open audio community builds next; ships in ComfyUI for tracks up to about six minutes.
 - **MusicGPT** — local music generation.
 - **ACE Studio / ACE Studio 2.0 (TIMEDOMAIN) / ACE Studio Video-to-Music / ACE-Step 1.5 / ACE-Step 1.5 XL** — all-in-one AI music studio; video-to-music for visuals; ACE-Step generates full songs in under 10 seconds on <4 GB VRAM.
 - **Music Lens** (Musixmatch) — catalog-intelligence agent.
@@ -356,6 +361,11 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **AMD Micro-World** — AMD's entry into world models.
 - **LingBot-World** — free/open-source world model on Wan 2.2; real-time interaction at 16 fps.
 - **Moonlake** — $28M-seeded world model platform now in beta for games and simulations.
+- **Project Eden** (TripoAI) — persistent, multiplayer world model (June 2026) that fundamentally breaks from existing paradigms by *decoupling the underlying world state from visual rendering*; the most ambitious state-vs-rendering separation in the world-model layer at the time of writing. TripoAI raised nearly $200M in June 2026 to advance this work.
+- **TripoSplat** (Tripo) — single 2D image to high-quality 3D Gaussians; open-source under the MIT license.
+- **NVIDIA Cosmos 3** — omnimodal world model (released May 31, 2026) that connects understanding, generation, simulation and action through a shared architecture moving fluidly across text, images, video, audio and actions; Two-Tower Mixture-of-Transformers design; ranked best open-source T2I and I2V models by Artificial Analysis; explicitly targets robotics, autonomous vehicles and warehouse monitoring. The most significant NVIDIA world-model release in the period.
+- **NVIDIA FlashDreams** — open-source world model from NVIDIA, released June 2026.
+- **PaGeR** (Google & Meta) — AI model for 360° scene geometry reconstruction.
 - **NVIDIA Lyra 2.0** — explorable generative 3D worlds.
 - **NVPanoptix-3D** (NVIDIA) — single-image 3D indoor-scene reconstruction.
 - **Kimodo** (NVIDIA) — kinematic motion-diffusion model trained on 700 hours of mocap.
@@ -404,6 +414,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Hyperscape / Hyperscape Capture** (Meta) — Gaussian-splat capture on Quest.
 - **Apple Vision Pro Personas** — Gaussian-splatting consumer feature.
 - **Common Sense Machines** — converts 2D images into 3D digital assets (Google acquisition).
+- **AI-Enhanced LiDAR** — generative-AI-augmented LiDAR capture pipeline (June 2026) for scanning and reconstruction work in spatial production.
 - **NVIDIA Omniverse Fixer** — rendering-artefact removal for Gaussians.
 - **DecartAI / Decart LSD v2 / Decart Lucy 2.0** — real-time world transformation by voice; LSD v2 is real-time video-to-video; Lucy 2.0 is realtime world editing at 1080p/30fps.
 - **VoxeloAI** — 3D creation for e-commerce.
@@ -421,7 +432,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 #### Voice, avatar, digital human
 
 - **Synthesia** — AI avatar platform; $4B valuation; rejected $3B Adobe offer.
-- **Heygen / Heygen Video Agent / Heygen Motion Designer / LiveAvatar / Heygen Elements / Heygen CLI** — AI-avatar and end-to-end video generation; LiveAvatar is hyper-realistic real-time interactive; Elements builds scenes from reusable components; CLI ships videos from the command line.
+- **Heygen / Heygen Video Agent / Heygen Motion Designer / LiveAvatar / Heygen Elements / Heygen CLI / HyperFrames** — AI-avatar and end-to-end video generation; LiveAvatar is hyper-realistic real-time interactive; Elements builds scenes from reusable components; CLI ships videos from the command line; **HyperFrames** (June 2026) is an open-source framework for turning HTML, CSS, media and seekable animations into deterministic MP4 videos — bringing deterministic video export to web-stack creative workflows.
 - **Hedra / Hedra Audio Tags / Hedra Elements** — digital-human creation; Audio Tags assign precise emotions to audio.
 - **Live Avatar** (Alibaba) — streaming real-time audio-driven avatar generation with infinite length.
 - **Avatar Forcing** — real-time interactive head-avatar generation for natural conversation.
@@ -503,7 +514,9 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Autodesk Maya / Autodesk Flow Studio / Autodesk Wonder 3D / Autodesk Flow Studio Rigging** — motion capture, 3D animation, generative 3D and neural rigging.
 - **Foundry / Nuke / Nano Banana × Nuke** — AI-augmented VFX; Weta FX / AWS collaboration; the Nuke node connecting Nano Banana through fal's API.
 - **SideFX Houdini** — procedural modelling with AI integration.
-- **Blender / Blender MCP / Blender Buddy** — open-source 3D; Anthropic Foundation patronage; MCP enables Claude control.
+- **Blender / Blender MCP / Blender Buddy** — open-source 3D; Anthropic Foundation patronage; MCP enables Claude control; NVIDIA DLSS 4.5 Ray Reconstruction added to Blender 5.3 as a viewport denoiser.
+- **Vlo** — free, local, open-source video editor with ComfyUI-backed generative AI features; the open-source equivalent of the AI-native NLE.
+- **Motionfly Editor** — AI-native video editor positioned as "Cursor for video editing" — bringing the code-editor / AI-pair model into the video-editing workflow.
 - **DaVinci Resolve** (Blackmagic) — colour and editorial with AI features.
 - **Avid Media Composer / Avid + Google Cloud** — professional editorial; Pro Tools agentic AI in the Google Cloud partnership.
 - **Pro Tools** — audio editorial with AI features; Claude integration in Ableton.
@@ -565,7 +578,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **CHORD** (Ubisoft La Forge) — open-sourced end-to-end PBR material generation.
 - **Ubisoft Teammates** — voice AI for in-game team communication.
 - **YouTube Playables Builder** (Gemini 3) — text-to-game prompt-to-playable web app.
-- **Roblox AI Tools / Roblox AI Assistant / Roblox Reality / Metain** — creator-facing AI for game development; Reality is Roblox's productised AI assistant; Metain is the prompt-to-Roblox-Studio interface.
+- **Roblox AI Tools / Roblox AI Assistant / Roblox Reality / Metain** — creator-facing AI for game development; Reality is Roblox's productised AI assistant; Metain is the prompt-to-Roblox-Studio interface. In June 2026, Roblox acquired **Morpheus AI Inc.**, an AI lab building video world models using *Self Forcing* (converting offline video models into fast, autoregressive, interactive engines), to accelerate the Roblox Reality video-model vision.
 - **Epic xAI Studio** — Elon-Musk-affiliated game-dev AI.
 - **General Intuition** — spatial-reasoning research lab.
 - **ReBlink ARBO** — AI-powered strategy battler.
@@ -581,6 +594,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **StarBerry Games / Merge Mayor** — AI-all-in game studio.
 - **Astrocade** — interactive entertainment platform; $56M Series B.
 - **GameByte** — AI-powered game creation platform; $1M raise.
+- **Sorcerox Game Creation Suite** — prompt-driven game creation toolkit (June 2026); positioned as a *"build any game you can imagine"* general-purpose creation surface.
 - **Studio Atelico Bobium Brawlers** — AI-based iOS game with pro-human approach.
 - **Bitmagic** — AI-created version of classic Civilization.
 - **Helika AI Publishing Engine** — AI publishing engine for game studios.
@@ -706,6 +720,19 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Gaussian Splats Repair LoRA** — Klein-9b LoRA for repairing 3D views and geometry.
 - **LTX 2.3 Colorizer (LoRA)** — black-and-white footage colorisation.
 - **Music Finetunes in ElevenCreative** — stylistically consistent vocal and instrument generation.
+
+#### IP licensing, governance and behavioural-licence platforms
+
+*The contract-and-governance layer that emerged through 2025–26. The deep analytical treatment of how these models work — the* three Cs *of consent, credit, compensation; the five-model comparison; the corrected Disney–OpenAI record; the transaction-cost reframe — is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md).*
+
+- **Hasbro Sixth Wall / CharacterOS** — in-house AI studio launched 3 June 2026 to license the *behaviour* of Hasbro characters (Optimus Prime, Megatron, Cobra Commander, the *Clue* cast) under a runtime governance layer that encodes canon, voice, personality, lore and safety limits; B2B programmatic licence with a talent-participation pay-out structure for original performers; initial 12-character catalogue; 13+/enterprise focus.
+- **Verified by Spotify / Spotify–UMG fan-remix product** — Spotify's *Verified by Spotify* badge and the opt-in catalogue infrastructure underneath the May 2026 Spotify–Universal Music Group landmark licensing agreement for fan-made AI covers and remixes; *consent / credit / compensation* framework; paid Premium add-on; new royalty stream to artists and songwriters.
+- **Disney–OpenAI licensing framework (announced 11 December 2025; never executed)** — the $1bn licensing announcement that became the reference contract architecture for legacy-IP × frontier-AI deals despite the deal itself collapsing when OpenAI shut down Sora on 24 March 2026. IP-not-training, talent-voice-and-likeness excluded, jointly-governed steering committee, equity-and-warrants structure. The framework survived the platform's death.
+- **Elf.tech / GrimesAI** (CreateSafe, Triniti API) — Grimes's open-voice platform; upload your vocal, get back a synthesised GrimesAI performance, release commercially with a ~50% master-royalty split; analogised by her team to fan-fiction and fan-art cultures; ~15,000 tracks generated under the licence.
+- **Holly+ / Holly Herndon DAO** — public digital twin of the artist's voice wrapped in collective DAO governance for commercial-use decisions and the distribution of proceeds; paired with the *Have I Been Trained?* (Spawning) consent-layer tooling.
+- **ElevenLabs Heritage Voices / Iconic Marketplace (with CMG Worldwide and partners)** — heritage-voice licensing pipeline confined to a single text-to-speech Reader app, walled off from the general voice-cloning database; voices include Judy Garland, James Dean, Burt Reynolds, Laurence Olivier, the Stan Lee estate and Michael Caine.
+- **Meta Celebrity Chatbots (2023)** — the closed-static likeness-rental anti-pattern referenced for contrast in [Appendix L](A12_Deep_Dive_Programmable_Brand.md): high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community.
+- **Cannes AI Disclosure Standard** — industry-coordination labelling standard for production-side AI use; the inter-industry analogue of the per-platform governance layers above.
 
 #### Provenance, watermarking and detection
 
