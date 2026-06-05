@@ -3,204 +3,985 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dream Machine — A creative's guide to AI</title>
-  <meta name="description" content="The ultimate toolkit for creatives working with AI. 550+ tools, use-cases, issues and a weekly newsletter — by Pete Woodbridge and DreamLab AI Collective." />
-  <link rel="stylesheet" href="assets/styles.css" />
+  <title>Dream Machine — The Next Creative Economy</title>
+  <meta name="description" content="A practitioner's account of the year generative AI re-platformed the creative industries. 17 chapters, 12 appendices, ~240,000 words. By Pete Woodbridge / DreamLab AI Collective." />
+  <meta property="og:title" content="Dream Machine — The Next Creative Economy" />
+  <meta property="og:description" content="A practitioner's account of the year generative AI re-platformed the creative industries." />
+  <meta property="og:image" content="assets/cover.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ── Tokens ─────────────────────────────────────────────── */
+    :root {
+      --lime:    #c8ff66;
+      --lime-dk: #a8e040;
+      --mag:     #ff33cc;
+      --cyan:    #00ccff;
+      --dark:    #0d0d0d;
+      --mid:     #1a1a1a;
+      --card:    #141414;
+      --muted:   #888;
+      --white:   #ffffff;
+      --r:       12px;
+    }
+
+    /* ── Reset ──────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Space Grotesk', system-ui, sans-serif;
+      background: var(--dark);
+      color: var(--white);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    img { display: block; max-width: 100%; }
+    a { color: inherit; text-decoration: none; }
+
+    /* ── Layout ─────────────────────────────────────────────── */
+    .wrap {
+      max-width: 1160px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    /* ── Nav ────────────────────────────────────────────────── */
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(13,13,13,0.88);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(200,255,102,0.15);
+    }
+    .nav__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 60px;
+      gap: 1rem;
+    }
+    .nav__brand {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      color: var(--lime);
+      text-transform: uppercase;
+    }
+    .nav__links {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+    }
+    .nav__links a {
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: rgba(255,255,255,0.7);
+      transition: color 0.2s;
+    }
+    .nav__links a:hover { color: var(--lime); }
+    .nav__cta {
+      background: var(--mag);
+      color: var(--dark) !important;
+      font-weight: 700 !important;
+      padding: 0.45rem 1.1rem;
+      border-radius: 6px;
+      transition: background 0.2s !important;
+    }
+    .nav__cta:hover { background: var(--lime) !important; }
+
+    /* ── Hero ───────────────────────────────────────────────── */
+    .hero {
+      background: var(--lime);
+      padding: 5rem 0 4rem;
+      overflow: hidden;
+      position: relative;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 60% 80% at 70% 50%, rgba(0,204,255,0.18) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero__inner {
+      display: grid;
+      grid-template-columns: 1fr 340px;
+      gap: 4rem;
+      align-items: center;
+    }
+    .hero__eyebrow {
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--dark);
+      background: rgba(0,0,0,0.12);
+      padding: 0.3rem 0.8rem;
+      border-radius: 4px;
+      margin-bottom: 1.5rem;
+    }
+    .hero__title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(2.8rem, 6vw, 5.2rem);
+      font-weight: 900;
+      line-height: 1.0;
+      text-transform: lowercase;
+      color: var(--mag);
+      text-shadow:
+        4px 4px 0 var(--cyan),
+        8px 8px 0 rgba(0,204,255,0.25);
+      margin-bottom: 1.25rem;
+    }
+    .hero__sub {
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--dark);
+      max-width: 52ch;
+      margin-bottom: 0.5rem;
+      opacity: 0.85;
+    }
+    .hero__subtitle {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(0.7rem, 1.2vw, 0.85rem);
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dark);
+      opacity: 0.7;
+      margin-bottom: 2rem;
+    }
+    .hero__ctas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 2rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      padding: 0.75rem 1.6rem;
+      border-radius: 8px;
+      transition: transform 0.15s, box-shadow 0.15s;
+      cursor: pointer;
+    }
+    .btn:hover { transform: translateY(-2px); }
+    .btn--mag {
+      background: var(--mag);
+      color: var(--dark);
+      box-shadow: 4px 4px 0 var(--dark);
+    }
+    .btn--mag:hover { box-shadow: 6px 6px 0 var(--dark); }
+    .btn--dark {
+      background: var(--dark);
+      color: var(--lime);
+      box-shadow: 4px 4px 0 rgba(0,0,0,0.5);
+      border: 2px solid var(--dark);
+    }
+    .btn--dark:hover { box-shadow: 6px 6px 0 rgba(0,0,0,0.4); }
+    .btn--outline {
+      background: transparent;
+      color: var(--dark);
+      border: 2px solid var(--dark);
+      box-shadow: 4px 4px 0 rgba(0,0,0,0.15);
+    }
+    .btn--outline:hover { background: rgba(0,0,0,0.07); box-shadow: 6px 6px 0 rgba(0,0,0,0.12); }
+    .hero__cover {
+      border-radius: var(--r);
+      box-shadow:
+        8px 8px 0 var(--mag),
+        16px 16px 0 var(--cyan),
+        24px 24px 40px rgba(0,0,0,0.3);
+      width: 100%;
+      max-width: 320px;
+      margin-left: auto;
+    }
+
+    /* ── Stats bar ──────────────────────────────────────────── */
+    .stats-bar {
+      background: var(--dark);
+      padding: 1.75rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .stats-bar__inner {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+      text-align: center;
+    }
+    .stat__num {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 900;
+      color: var(--lime);
+      line-height: 1;
+    }
+    .stat__label {
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 0.3rem;
+    }
+
+    /* ── Section base ───────────────────────────────────────── */
+    .section { padding: 5rem 0; }
+    .section--lime { background: var(--lime); color: var(--dark); }
+    .section--dark { background: var(--dark); }
+    .section--mid  { background: var(--mid); }
+    .section__label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--mag);
+      margin-bottom: 0.75rem;
+    }
+    .section--lime .section__label { color: var(--dark); opacity: 0.5; }
+    .section__title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.6rem, 3.5vw, 2.8rem);
+      font-weight: 900;
+      line-height: 1.1;
+      margin-bottom: 1rem;
+    }
+    .section--lime .section__title { color: var(--dark); }
+    .section__lede {
+      font-size: 1.05rem;
+      max-width: 60ch;
+      opacity: 0.7;
+      margin-bottom: 3rem;
+    }
+    .section--lime .section__lede { opacity: 0.75; color: var(--dark); }
+
+    /* ── Who it's for ───────────────────────────────────────── */
+    .audience-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.25rem;
+    }
+    .audience-card {
+      background: var(--dark);
+      border-radius: var(--r);
+      padding: 2rem;
+      border: 1px solid rgba(0,0,0,0.15);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+    }
+    .audience-card__icon {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    .audience-card__title {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--lime);
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .audience-card p {
+      font-size: 0.9rem;
+      line-height: 1.65;
+      color: rgba(255,255,255,0.7);
+    }
+
+    /* ── Chapter grid ───────────────────────────────────────── */
+    .chapters-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+    .chapter-card {
+      background: var(--card);
+      border-radius: var(--r);
+      padding: 1.5rem 1.5rem 1.75rem;
+      border: 1px solid rgba(255,255,255,0.05);
+      transition: border-color 0.2s, transform 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+    .chapter-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--mag), var(--cyan));
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .chapter-card:hover {
+      border-color: rgba(255,51,204,0.3);
+      transform: translateY(-2px);
+    }
+    .chapter-card:hover::before { opacity: 1; }
+    .chapter-card__num {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.7rem;
+      font-weight: 900;
+      letter-spacing: 0.15em;
+      color: var(--mag);
+      text-transform: uppercase;
+      margin-bottom: 0.6rem;
+    }
+    .chapter-card__title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 0.6rem;
+      line-height: 1.3;
+    }
+    .chapter-card__desc {
+      font-size: 0.83rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* ── Appendices ─────────────────────────────────────────── */
+    .appendix-list {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.75rem;
+    }
+    .appendix-item {
+      display: flex;
+      gap: 0.75rem;
+      align-items: flex-start;
+      padding: 1rem 1.25rem;
+      background: rgba(0,0,0,0.15);
+      border-radius: 8px;
+      border: 1px solid rgba(0,0,0,0.2);
+    }
+    .appendix-item__letter {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.75rem;
+      font-weight: 900;
+      color: var(--dark);
+      opacity: 0.5;
+      flex-shrink: 0;
+      padding-top: 1px;
+      min-width: 1.2rem;
+    }
+    .appendix-item__text { font-size: 0.88rem; color: var(--dark); line-height: 1.5; }
+    .appendix-item__text strong { font-weight: 700; display: block; margin-bottom: 0.15rem; }
+    .appendix-item__text span { opacity: 0.65; font-size: 0.82rem; }
+
+    /* ── Get the book ───────────────────────────────────────── */
+    .get-book {
+      background: var(--lime);
+      padding: 5rem 0;
+    }
+    .get-book__inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 3rem;
+      align-items: start;
+    }
+    .get-book__title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      font-weight: 900;
+      color: var(--dark);
+      line-height: 1.05;
+      margin-bottom: 1rem;
+    }
+    .get-book__title span {
+      color: var(--mag);
+      text-shadow: 3px 3px 0 var(--cyan);
+    }
+    .get-book__copy {
+      font-size: 1rem;
+      color: var(--dark);
+      opacity: 0.75;
+      max-width: 50ch;
+      margin-bottom: 2rem;
+    }
+    .get-book__options { display: flex; flex-direction: column; gap: 1rem; }
+    .option-card {
+      background: var(--dark);
+      color: var(--white);
+      border-radius: var(--r);
+      padding: 1.5rem 1.75rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      transition: transform 0.15s, box-shadow 0.15s;
+      box-shadow: 6px 6px 0 rgba(0,0,0,0.2);
+    }
+    .option-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 8px 8px 0 rgba(0,0,0,0.15);
+    }
+    .option-card--mag {
+      background: var(--mag);
+      color: var(--dark);
+      box-shadow: 6px 6px 0 var(--dark);
+    }
+    .option-card--mag:hover { box-shadow: 8px 8px 0 var(--dark); }
+    .option-card--cyan {
+      background: var(--cyan);
+      color: var(--dark);
+      box-shadow: 6px 6px 0 var(--dark);
+    }
+    .option-card--cyan:hover { box-shadow: 8px 8px 0 var(--dark); }
+    .option-card__label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      opacity: 0.55;
+      margin-bottom: 0.2rem;
+    }
+    .option-card__title {
+      font-family: 'Orbitron', monospace;
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+    .option-card__arrow {
+      font-size: 1.4rem;
+      flex-shrink: 0;
+      opacity: 0.6;
+    }
+
+    /* ── Author ─────────────────────────────────────────────── */
+    .author {
+      background: var(--mid);
+      padding: 4.5rem 0;
+      border-top: 1px solid rgba(255,255,255,0.06);
+    }
+    .author__inner {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 3rem;
+      align-items: start;
+    }
+    .author__badge {
+      background: var(--card);
+      border-radius: var(--r);
+      padding: 2rem;
+      text-align: center;
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+    .author__name {
+      font-family: 'Orbitron', monospace;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--lime);
+      margin-bottom: 0.3rem;
+    }
+    .author__role {
+      font-size: 0.82rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+    .author__studio {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.4rem 1rem;
+      background: var(--mag);
+      color: var(--dark);
+      font-size: 0.78rem;
+      font-weight: 700;
+      border-radius: 5px;
+      letter-spacing: 0.06em;
+    }
+    .author__bio {
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.7);
+      line-height: 1.75;
+    }
+    .author__bio p + p { margin-top: 0.9rem; }
+    .author__bio a { color: var(--lime); text-decoration: underline; text-underline-offset: 3px; }
+
+    /* ── Newsletter strip ───────────────────────────────────── */
+    .newsletter-strip {
+      background: var(--mag);
+      padding: 3rem 0;
+    }
+    .newsletter-strip__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+    .newsletter-strip__title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+      font-weight: 900;
+      color: var(--dark);
+    }
+    .newsletter-strip__sub {
+      font-size: 0.9rem;
+      color: var(--dark);
+      opacity: 0.65;
+      margin-top: 0.3rem;
+    }
+    .btn--white {
+      background: var(--white);
+      color: var(--dark);
+      box-shadow: 4px 4px 0 rgba(0,0,0,0.2);
+      flex-shrink: 0;
+    }
+    .btn--white:hover { box-shadow: 6px 6px 0 rgba(0,0,0,0.15); }
+
+    /* ── Footer ─────────────────────────────────────────────── */
+    .footer {
+      background: #080808;
+      padding: 2.5rem 0;
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+    .footer__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .footer__brand {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--lime);
+      letter-spacing: 0.14em;
+    }
+    .footer__links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .footer__links a {
+      font-size: 0.82rem;
+      color: var(--muted);
+      transition: color 0.2s;
+    }
+    .footer__links a:hover { color: var(--white); }
+    .footer__copy { font-size: 0.78rem; color: var(--muted); }
+
+    /* ── Responsive ─────────────────────────────────────────── */
+    @media (max-width: 900px) {
+      .hero__inner { grid-template-columns: 1fr; }
+      .hero__cover { max-width: 240px; margin: 0 auto; }
+      .audience-grid { grid-template-columns: 1fr; }
+      .chapters-grid { grid-template-columns: 1fr 1fr; }
+      .appendix-list { grid-template-columns: 1fr 1fr; }
+      .get-book__inner { grid-template-columns: 1fr; }
+      .author__inner { grid-template-columns: 1fr; }
+      .stats-bar__inner { grid-template-columns: repeat(2, 1fr); }
+      .newsletter-strip__inner { flex-direction: column; align-items: flex-start; }
+    }
+    @media (max-width: 600px) {
+      .chapters-grid { grid-template-columns: 1fr; }
+      .appendix-list { grid-template-columns: 1fr; }
+      .nav__links { display: none; }
+      .stats-bar__inner { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
 </head>
 <body>
-  <div class="bg-layer"></div>
-  <div class="bg-grid"></div>
-  <div class="orb orb--pink"></div>
-  <div class="orb orb--cyan"></div>
 
+  <!-- ── Nav ──────────────────────────────────────────────── -->
   <nav class="nav">
-    <div class="container nav__inner">
-      <a class="brand" href="index.html">
-        <span class="brand__mark">DREAM MACHINE</span>
-        <span class="brand__tag">A creative's guide to AI</span>
-      </a>
+    <div class="wrap nav__inner">
+      <a class="nav__brand" href="#top">Dream Machine</a>
       <div class="nav__links">
-        <a class="nav__link" href="tools.html">Toolkit</a>
-        <a class="nav__link" href="use-cases.html">Use Cases</a>
-        <a class="nav__link" href="issues.html">Issues</a>
-        <a class="nav__link" href="editions.html">Newsletter</a>
-        <a class="nav__link" href="graph.html">Graph</a>
-        <a class="nav__link" href="book.html">Book</a>
-        <a class="nav__cta" href="book.html">Read the book</a>
+        <a href="#who">Who it's for</a>
+        <a href="#chapters">Chapters</a>
+        <a href="#get">Get the book</a>
+        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <a class="nav__cta" href="#get">Get the book →</a>
       </div>
     </div>
   </nav>
 
-  <header class="hero">
-    <div class="container">
-      <span class="hero__eyebrow">Edition <span id="edition-date">May 2026</span> · Issues 1–30</span>
-      <h1 class="hero__title">The creative's <em>guide to AI</em>.</h1>
-      <p class="hero__sub">
-        A practitioner's toolkit and field guide for AI in the creative industries —
-        film, music, games, design, marketing. Built from one year inside the work,
-        rebuilt every time a new newsletter ships.
+  <!-- ── Hero ─────────────────────────────────────────────── -->
+  <section class="hero" id="top">
+    <div class="wrap hero__inner">
+      <div>
+        <span class="hero__eyebrow">June 2026 Edition &nbsp;·&nbsp; Issues 1–32 &nbsp;·&nbsp; Pete Woodbridge</span>
+        <h1 class="hero__title">dream<br>machine</h1>
+        <p class="hero__subtitle">The Next Creative Economy</p>
+        <p class="hero__sub">
+          A practitioner's account of the year generative AI re-platformed the creative industries —
+          written from inside the work, week by week, between October 2025 and June 2026.
+        </p>
+        <div class="hero__ctas">
+          <a class="btn btn--mag"
+             href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf"
+             target="_blank" rel="noopener">
+            📖 Read free (PDF)
+          </a>
+          <a class="btn btn--dark" href="#get">
+            Buy in print →
+          </a>
+          <a class="btn btn--outline" href="#chapters">
+            See all chapters
+          </a>
+        </div>
+      </div>
+      <div>
+        <img class="hero__cover" src="assets/cover.png" alt="Dream Machine book cover" />
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Stats ────────────────────────────────────────────── -->
+  <div class="stats-bar">
+    <div class="wrap stats-bar__inner">
+      <div>
+        <div class="stat__num">580+</div>
+        <div class="stat__label">Pages</div>
+      </div>
+      <div>
+        <div class="stat__num">240k</div>
+        <div class="stat__label">Words</div>
+      </div>
+      <div>
+        <div class="stat__num">570+</div>
+        <div class="stat__label">Tools catalogued</div>
+      </div>
+      <div>
+        <div class="stat__num">32</div>
+        <div class="stat__label">Newsletter issues</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── The pitch ────────────────────────────────────────── -->
+  <section class="section section--dark">
+    <div class="wrap">
+      <p class="section__label">What this book is</p>
+      <h2 class="section__title" style="max-width:18ch;">
+        The creative economy is being re-platformed.<br>
+        <span style="color:var(--lime);">Right now. This year.</span>
+      </h2>
+      <p class="section__lede">
+        Not the internet of 1995 or the mobile phone of 2007 — faster, deeper, more thorough.
+        The <em>How</em> of professional creative work is becoming a utility.
+        When the <em>How</em> becomes a utility, the <em>Why</em> — taste, intent, authenticity —
+        is the only thing left with commercial leverage.
       </p>
-      <div class="hero__ctas">
-        <a class="btn btn--primary" href="tools.html">Browse the toolkit →</a>
-        <a class="btn btn--ghost" href="book.html">Read the book</a>
-      </div>
-
-      <div class="stats reveal">
-        <div class="stats__cell">
-          <div class="stats__num" id="stat-tools">—</div>
-          <div class="stats__label">Tools catalogued</div>
-        </div>
-        <div class="stats__cell">
-          <div class="stats__num" id="stat-issues">—</div>
-          <div class="stats__label">Newsletter issues</div>
-        </div>
-        <div class="stats__cell">
-          <div class="stats__num" id="stat-news">—</div>
-          <div class="stats__label">News items tracked</div>
-        </div>
-        <div class="stats__cell">
-          <div class="stats__num" id="stat-challenges">—</div>
-          <div class="stats__label">Issues &amp; challenges</div>
-        </div>
-      </div>
+      <p class="section__lede" style="margin-bottom:0;">
+        The choices being made right now, by studios, unions, governments, toolmakers,
+        and individual creatives at their kitchen tables, will set the terms for the next decade.
+        This book is here to help you make those choices on better information than you
+        would otherwise have.
+      </p>
     </div>
-  </header>
+  </section>
 
-  <section class="section">
-    <div class="container">
-      <div class="section__head">
-        <div>
-          <h2 class="section__title">Four ways <em>into the work.</em></h2>
-          <p class="section__lede">
-            The Dream Machine catalogue is large on purpose. Start where you are.
-          </p>
+  <!-- ── Who it's for ─────────────────────────────────────── -->
+  <section class="section section--lime" id="who">
+    <div class="wrap">
+      <p class="section__label">Who it's for</p>
+      <h2 class="section__title">Three audiences.<br>One argument.</h2>
+      <p class="section__lede">
+        The book has a Reader Paths guide with seven routes through the material depending on who you are.
+      </p>
+      <div class="audience-grid">
+        <div class="audience-card">
+          <div class="audience-card__icon">🎨</div>
+          <div class="audience-card__title">Working Creatives</div>
+          <p>Writers, directors, songwriters, games designers, photographers, illustrators, editors, producers, agency creatives, indie filmmakers, students and senior practitioners trying to figure out what creative life looks like in 2026 and beyond. The book gives you frameworks for making decisions under uncertainty, not a tools guide you'll need to throw away in three months.</p>
         </div>
-      </div>
-
-      <div class="pillars">
-        <a class="pillar reveal" href="tools.html">
-          <div class="pillar__num">01 · Toolkit</div>
-          <div class="pillar__title">Every tool, sorted</div>
-          <p class="pillar__desc">
-            550+ tools, models, platforms and plugins from Chapter 16's reference inventory.
-            Browse by category, layer, discipline. Live search. Filter the noise out.
-          </p>
-          <span class="pillar__cta">Enter the toolkit →</span>
-        </a>
-
-        <a class="pillar reveal" href="use-cases.html">
-          <div class="pillar__num">02 · Use Cases</div>
-          <div class="pillar__title">If you're a…</div>
-          <p class="pillar__desc">
-            Working musician? Studio exec? Policy wonk? Pick the path that
-            matches your week — and get the tools, chapters and reading
-            curated for the role you're actually in.
-          </p>
-          <span class="pillar__cta">Find your path →</span>
-        </a>
-
-        <a class="pillar reveal" href="issues.html">
-          <div class="pillar__num">03 · Issues</div>
-          <div class="pillar__title">The structural debates</div>
-          <p class="pillar__desc">
-            The Slop Ceiling. The 88%. Dead Internet / Living Web.
-            Coordination Collapse. The arguments under the headlines — what's
-            actually changing in the creative economy and why.
-          </p>
-          <span class="pillar__cta">Read the arguments →</span>
-        </a>
-
-        <a class="pillar reveal" href="editions.html">
-          <div class="pillar__num">04 · Newsletter</div>
-          <div class="pillar__title">Every edition</div>
-          <p class="pillar__desc">
-            All 30 issues archived and readable. Tool spotlights, news by
-            sector, the cultural-and-legal weather report — refreshed every
-            time a new edition ships.
-          </p>
-          <span class="pillar__cta">Open the archive →</span>
-        </a>
+        <div class="audience-card">
+          <div class="audience-card__icon">🏢</div>
+          <div class="audience-card__title">Studio &amp; Label Leadership</div>
+          <p>Executives at studios, agencies, labels and production companies making organisational decisions about AI integration in a year when the cost of getting it wrong is the next decade of cultural authority. Chapter 7 maps the five strategic positions; Chapter 13 explains why so many organisations are discovering their AI strategy and their structure are fighting each other.</p>
+        </div>
+        <div class="audience-card">
+          <div class="audience-card__icon">⚖️</div>
+          <div class="audience-card__title">Policy, Union &amp; Platform People</div>
+          <p>The people deciding the rails the next decade of creative work will run on. The 88% turned up to the UK copyright consultation. The Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract — these are the decisions the book is here to inform, anchored in the evidence from Chapter 6 through Chapter 15.</p>
+        </div>
       </div>
     </div>
   </section>
 
-  <section class="section section--tight">
-    <div class="container">
-      <div class="book-hero">
-        <a class="book-hero__cover" id="book-cover-link" href="book.html">
-          <img src="assets/cover.png" alt="Dream Machine — The New Creative Economy" />
-        </a>
-        <div>
-          <div class="book-hero__meta">A living book · Pete Woodbridge · DreamLab AI Collective</div>
-          <h2 class="book-hero__title">Dream Machine: <em>The New Creative Economy</em>.</h2>
-          <p class="book-hero__blurb">
-            Eighteen chapters and eight deep-dive appendices, ~160,000 words, written
-            from inside the work between October 2025 and May 2026. The book this site
-            is built from. Read it straight through, or pick a reader path.
-          </p>
-          <div class="hero__ctas">
-            <a class="btn btn--primary" id="pdf-cta" href="book.html">📖 Read the PDF</a>
-            <a class="btn btn--ghost" href="book.html">Chapter index</a>
+  <!-- ── Chapters ──────────────────────────────────────────── -->
+  <section class="section section--dark" id="chapters">
+    <div class="wrap">
+      <p class="section__label">The book</p>
+      <h2 class="section__title">17 chapters.<br><span style="color:var(--mag);">One year. The whole picture.</span></h2>
+      <p class="section__lede">
+        Foreword, seventeen chapters, an Epilogue, and twelve deep-dive appendices.
+        Read straight through or pick a reader path.
+      </p>
+
+      <div class="chapters-grid">
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Foreword</div>
+          <div class="chapter-card__title">Welcome to the Dream Machine</div>
+          <p class="chapter-card__desc">The book's origin: the Tilly Norwood week, Sora 2, and the sentence that started it all — <em>"It's time to take AI seriously."</em> Who is writing, and why.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 1</div>
+          <div class="chapter-card__title">The Day Sora Landed</div>
+          <p class="chapter-card__desc">A synthetic actress on the Zurich Film Festival stage and a new AI video model in the same week. The unions respond. The before-and-after that organises everything that follows.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 2</div>
+          <div class="chapter-card__title">A History of Resistance</div>
+          <p class="chapter-card__desc">Photography, cinema, recorded sound, digital audio, CGI: the same argument has been made every generation and lost every time. The 1839–2025 pattern — and why this time is genuinely different in two important ways.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 3</div>
+          <div class="chapter-card__title">The Human–AI Agency Continuum</div>
+          <p class="chapter-card__desc">The book's foundational practitioner framework: a spectrum from full automation to full human control with eight named positions. Why staying on the high-agency end is a strategic choice, not just an ethical one.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 4</div>
+          <div class="chapter-card__title">Dead Internet, Living Web</div>
+          <p class="chapter-card__desc">Synthetic content is flooding every platform simultaneously. The C2PA provenance stack, the disclosure debate, and why the answer to "what's real?" matters more for creative economics than for AI ethics.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 5</div>
+          <div class="chapter-card__title">The Slop Ceiling</div>
+          <p class="chapter-card__desc">The audience has started voting. Undifferentiated AI output is hitting a ceiling defined by human attention and taste. The Authenticity Premium: why the market is moving toward work that can prove a human had a reason to make it.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 6</div>
+          <div class="chapter-card__title">The 88%</div>
+          <p class="chapter-card__desc">11,500 responses to the UK copyright consultation. 88% demanded licensing in every case. The political watershed. The Petrillo-template levy mechanism: what the musicians' union achieved in 1942 and why it's the closest precedent for what the creative industries need now.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 7</div>
+          <div class="chapter-card__title">The Studios Decide</div>
+          <p class="chapter-card__desc">Five strategic positions: Replace, Augment, Automate, Hold, and Own the Rails. The trap legacy industries built for themselves. Hasbro's Sixth Wall, the CharacterOS governance layer, and the corrected record on the Disney–OpenAI deal that never executed.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 8</div>
+          <div class="chapter-card__title">Worlds, Not Pictures</div>
+          <p class="chapter-card__desc">The spatial turn. World Labs' Marble and the shift from flat video to 3D-navigable environments as the default creative medium. What it means for storytelling, production, and the creative roles that video has sustained for a century.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 9</div>
+          <div class="chapter-card__title">AI in Everything</div>
+          <p class="chapter-card__desc">The platform layer. Adobe's "AI in everything, everywhere, all at once." The economics of platform concentration: why the toolchain is collapsing into a small number of integrated suites and what that means for independent makers.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 10</div>
+          <div class="chapter-card__title">What is Newly Possible</div>
+          <p class="chapter-card__desc">Six categories of creative work that were not economically viable before 2024 and are now. The finite-attention ceiling: why new supply cannot simply create new demand, and what this implies for studios betting on volume.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 11</div>
+          <div class="chapter-card__title">The Orchestrator</div>
+          <p class="chapter-card__desc">The working creative's new role: directing AI systems rather than executing technical steps. The Year of the Orchestrator — why it requires the same skills creative direction has always required, plus a new literacy layer.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 12</div>
+          <div class="chapter-card__title">Authenticity as the New Scarcity</div>
+          <p class="chapter-card__desc">The provenance economy. How scarcity migrates from execution (which AI has commoditised) to intent (which it cannot). The Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract as the institutional architecture of what comes next.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 13</div>
+          <div class="chapter-card__title">Coordination Collapse</div>
+          <p class="chapter-card__desc">What happens when AI adoption outpaces organisational structure. Shadow AI: the gap between what organisations officially permit and what employees are actually doing. The Consumption Gap. What organisations should do — and what most are doing instead.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 14</div>
+          <div class="chapter-card__title">The New Jobs</div>
+          <p class="chapter-card__desc">Labour-market restructuring argued from the data, not the doomer or booster script. The AI Literacy Premium. The Apprenticeship Gap: how the junior entry routes that have always trained the next generation are closing before replacements are open.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 15</div>
+          <div class="chapter-card__title">Choosing the Future</div>
+          <p class="chapter-card__desc">The four principles: <em>Agency, Attribution, Access, Audience.</em> The assistive-amplifier conviction. The Age of the Why. The chess-grandmaster frame: what happens to the grandmaster when Deep Blue wins — and why it's the spine of the book's strategic argument.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 16</div>
+          <div class="chapter-card__title">The Tools</div>
+          <p class="chapter-card__desc">A complete, categorised inventory of 570+ tools, platforms and models from October 2025 – June 2026. Organised by creative discipline and workflow stage. The most comprehensive single catalogue of the period's toolchain.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Chapter 17</div>
+          <div class="chapter-card__title">Five Years Inside the Dream Machine</div>
+          <p class="chapter-card__desc">A speculative five-year future-cast argued directly from the book's frameworks. Not prediction for its own sake — a test of whether the analytical frames hold up when pushed into the future.</p>
+        </div>
+
+        <div class="chapter-card">
+          <div class="chapter-card__num">Epilogue</div>
+          <div class="chapter-card__title">A Letter to 2030</div>
+          <p class="chapter-card__desc">The book closes where it started: a practitioner speaking plainly to the people who will inherit the creative economy the choices of 2025–26 are building right now.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Appendices ────────────────────────────────────────── -->
+  <section class="section section--lime">
+    <div class="wrap">
+      <p class="section__label">Go deeper</p>
+      <h2 class="section__title">12 deep-dive appendices.</h2>
+      <p class="section__lede">Extended evidence, data, and long-form analysis behind the book's core arguments.</p>
+      <div class="appendix-list">
+        <div class="appendix-item">
+          <div class="appendix-item__letter">A</div>
+          <div class="appendix-item__text"><strong>Quantitative Anatomy</strong><span>The data behind the book's empirical claims</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">B</div>
+          <div class="appendix-item__text"><strong>Glossary</strong><span>Every term of art, including the book's own frameworks</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">C</div>
+          <div class="appendix-item__text"><strong>Bibliography by Topic</strong><span>Curated reading, organised by chapter theme</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">D</div>
+          <div class="appendix-item__text"><strong>The Shadow AI Paradox</strong><span>Covert adoption, corporate hypocrisy, and displacement evidence</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">E</div>
+          <div class="appendix-item__text"><strong>Dynamics of AI Adoption</strong><span>The consumption-gap evidence base</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">F</div>
+          <div class="appendix-item__text"><strong>AI, Stigma, Privilege</strong><span>The class question: who AI democratises, and for whom</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">G</div>
+          <div class="appendix-item__text"><strong>The Age of Intent</strong><span>The philosophical spine: what authorship means when execution is automated</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">H</div>
+          <div class="appendix-item__text"><strong>The Dream Machine Source Index</strong><span>Thematic catalogue of every significant source across all 32 issues</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">I</div>
+          <div class="appendix-item__text"><strong>The Doomer Mistake</strong><span>Long-form rebuttal of the AI-eliminates-creative-jobs framing, from Stanford Digital Economy Lab through 230 years of identical wrong predictions</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">J</div>
+          <div class="appendix-item__text"><strong>The Process Trap</strong><span>Why the <em>creative / creatives</em> equivocation collapses under generative abundance</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">K</div>
+          <div class="appendix-item__text"><strong>Coordination Collapse (extended)</strong><span>2,000-year history of hierarchy; three post-hierarchical models; 90-day roadmap</span></div>
+        </div>
+        <div class="appendix-item">
+          <div class="appendix-item__letter">L</div>
+          <div class="appendix-item__text"><strong>The Programmable Brand</strong><span>From IP-as-asset to IP-as-environment: the three-Cs framework and five licensing-model comparison</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Get the book ──────────────────────────────────────── -->
+  <section class="get-book" id="get">
+    <div class="wrap get-book__inner">
+      <div>
+        <p class="section__label" style="color:rgba(0,0,0,0.45);">Get it</p>
+        <h2 class="get-book__title">Read it.<br><span>Own it.</span></h2>
+        <p class="get-book__copy">
+          The PDF is free, forever. The living book updates every time a new newsletter edition ships —
+          the unversioned PDF is always current. Print edition available on Amazon KDP.
+        </p>
+      </div>
+      <div class="get-book__options">
+        <a class="option-card option-card--mag"
+           href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf"
+           target="_blank" rel="noopener">
+          <div>
+            <div class="option-card__label">Free · Always current</div>
+            <div class="option-card__title">📖 Read the PDF</div>
           </div>
-        </div>
+          <div class="option-card__arrow">↗</div>
+        </a>
+        <!-- TODO: replace href="#" with your Amazon KDP URL, e.g. https://www.amazon.co.uk/dp/YOURASIN -->
+        <a class="option-card option-card--dark"
+           href="#"
+           target="_blank" rel="noopener">
+          <div>
+            <div class="option-card__label">Print edition · Amazon KDP</div>
+            <div class="option-card__title">🖨 Buy in print</div>
+          </div>
+          <div class="option-card__arrow">↗</div>
+        </a>
+        <a class="option-card option-card--cyan"
+           href="https://github.com/petejwoodbridge/DreamMachine-Book"
+           target="_blank" rel="noopener">
+          <div>
+            <div class="option-card__label">Open source · MIT / Apache-2.0</div>
+            <div class="option-card__title">⭐ View on GitHub</div>
+          </div>
+          <div class="option-card__arrow">↗</div>
+        </a>
       </div>
     </div>
   </section>
 
+  <!-- ── Newsletter ────────────────────────────────────────── -->
+  <div class="newsletter-strip">
+    <div class="wrap newsletter-strip__inner">
+      <div>
+        <div class="newsletter-strip__title">The weekly newsletter that built this book.</div>
+        <div class="newsletter-strip__sub">3,800 subscribers · 32 issues · New edition every week</div>
+      </div>
+      <a class="btn btn--white"
+         href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/"
+         target="_blank" rel="noopener">
+        Subscribe on LinkedIn →
+      </a>
+    </div>
+  </div>
+
+  <!-- ── Author ────────────────────────────────────────────── -->
+  <section class="author">
+    <div class="wrap author__inner">
+      <div class="author__badge">
+        <div class="author__name">Pete Woodbridge</div>
+        <div class="author__role">Creative Technologist · Innovation Director<br>Founder, DreamLab AI Collective</div>
+        <a class="author__studio" href="https://dreamlab.org.uk/" target="_blank" rel="noopener">dreamlab.org.uk</a>
+      </div>
+      <div class="author__bio">
+        <p>Pete Woodbridge is a Creative Technologist and Innovation Director working across AI, immersive, interactive and experiential tech, real-time production and next-generation storytelling — across film, games, interactive and immersive experiences.</p>
+        <p>He has worked with partners including Intel, Google, McLaren, ITV, Sony, Aardman, Red Bull, IBM, BBC, NBC, Crytek, Apple, MediaCityUK, Saatchi &amp; Saatchi and Universal. He has developed innovation and investment programmes for the UK creative industries including the <strong>£3.2 million Innovation Accelerator (Innovate UK)</strong> at MediaCity and the <strong>£7.2 million MusicFutures programme (UKRI / AHRC)</strong> in Liverpool.</p>
+        <p><a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab AI Collective</a> — the studio the book is written from — is a network of ~50 deep-tech specialists across labs in Manchester, Liverpool, Cumbria and London, operating since January 2024. The studio has supported 100+ businesses, delivered 35+ collaborative projects, and helped channel approximately £2.7 million of investment into partner organisations.</p>
+        <p>The <em>Dream Machine</em> newsletter has been running weekly since October 2025. The podcast is available on <a href="https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk" target="_blank" rel="noopener">Spotify</a>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Footer ────────────────────────────────────────────── -->
   <footer class="footer">
-    <div class="container">
-      <div class="footer__grid">
-        <div>
-          <div class="brand"><span class="brand__mark">DREAM MACHINE</span></div>
-          <p style="margin-top:14px;max-width:42ch;">
-            A creative's guide to AI. Built and curated by
-            <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab AI Collective</a>,
-            a studio of artists and creative technologists in the North West, UK.
-          </p>
-        </div>
-        <div>
-          <div class="footer__head">Navigate</div>
-          <a href="tools.html">Toolkit</a>
-          <a href="use-cases.html">Use Cases</a>
-          <a href="issues.html">Issues</a>
-          <a href="editions.html">Newsletter</a>
-          <a href="book.html">Book</a>
-        </div>
-        <div>
-          <div class="footer__head">Read &amp; listen</div>
-          <a href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/" target="_blank" rel="noopener">Newsletter (LinkedIn)</a>
-          <a href="https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk" target="_blank" rel="noopener">Podcast (Spotify)</a>
-          <a href="book.html">The book (PDF)</a>
-        </div>
-        <div>
-          <div class="footer__head">Studio</div>
-          <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab AI Collective</a>
-          <a href="https://github.com/petejwoodbridge" target="_blank" rel="noopener">GitHub</a>
-        </div>
+    <div class="wrap footer__inner">
+      <div class="footer__brand">DREAM MACHINE</div>
+      <div class="footer__links">
+        <a href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/" target="_blank" rel="noopener">Newsletter</a>
+        <a href="https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk" target="_blank" rel="noopener">Podcast</a>
+        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <a href="https://github.com/petejwoodbridge/DreamMachine-Book" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf" target="_blank" rel="noopener">Download PDF</a>
       </div>
-      <div class="footer__base">
-        <span>© 2026 Pete Woodbridge / DreamLab AI Collective.</span>
-        <span>Dual-licensed MIT / Apache-2.0</span>
-      </div>
+      <div class="footer__copy">© 2026 Pete Woodbridge / DreamLab AI Collective. MIT / Apache-2.0.</div>
     </div>
   </footer>
 
-  <script src="assets/app.js"></script>
-  <script>
-    (async () => {
-      const meta = await DM.loadJSON('site');
-      document.getElementById('edition-date').textContent = meta.edition_date || '';
-      document.getElementById('stat-tools').textContent = meta.totals.tools.toLocaleString();
-      document.getElementById('stat-issues').textContent = meta.totals.issues;
-      document.getElementById('stat-news').textContent = meta.totals.news_items.toLocaleString();
-      document.getElementById('stat-challenges').textContent = meta.totals.challenges;
-      if (meta.edition_pdf) {
-        const cta = document.getElementById('pdf-cta');
-        cta.setAttribute('href', '../' + meta.edition_pdf);
-        cta.textContent = `📖 Read the PDF (${meta.edition_date})`;
-        document.getElementById('book-cover-link').setAttribute('href', '../' + meta.edition_pdf);
-      }
-    })();
-  </script>
 </body>
 </html>
