@@ -10,36 +10,52 @@
   <meta property="og:image" content="assets/cover.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>
-    /* ── Tokens ─────────────────────────────────────────────── */
     :root {
-      --lime:    #c8ff66;
-      --lime-dk: #a8e040;
-      --mag:     #ff33cc;
-      --cyan:    #00ccff;
-      --dark:    #0d0d0d;
-      --mid:     #1a1a1a;
-      --card:    #141414;
-      --muted:   #888;
-      --white:   #ffffff;
-      --r:       12px;
+      --lime:   #c8ff66;
+      --lime2:  #b8f044;
+      --mag:    #ff33cc;
+      --cyan:   #00ccff;
+      --ink:    #1a2600;
+      --ink2:   #0d1500;
+      --mid:    #2a3c00;
+      --r:      0px;
     }
 
-    /* ── Reset ──────────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
+
     body {
       font-family: 'Space Grotesk', system-ui, sans-serif;
-      background: var(--dark);
-      color: var(--white);
+      background: var(--lime);
+      color: var(--ink);
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
+      image-rendering: pixelated;
     }
-    img { display: block; max-width: 100%; }
+
+    /* scanlines */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 9999;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,0.04) 3px,
+        rgba(0,0,0,0.04) 4px
+      );
+    }
+
+    img { display: block; max-width: 100%; image-rendering: auto; }
     a { color: inherit; text-decoration: none; }
 
-    /* ── Layout ─────────────────────────────────────────────── */
+    .px { font-family: 'Press Start 2P', monospace; }
+
     .wrap {
       max-width: 1160px;
       margin: 0 auto;
@@ -51,109 +67,108 @@
       position: sticky;
       top: 0;
       z-index: 100;
-      background: rgba(13,13,13,0.88);
-      backdrop-filter: blur(12px);
-      border-bottom: 1px solid rgba(200,255,102,0.15);
+      background: var(--ink);
+      border-bottom: 3px solid var(--mag);
     }
     .nav__inner {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      height: 60px;
+      height: 64px;
       gap: 1rem;
     }
     .nav__brand {
-      font-family: 'Orbitron', monospace;
-      font-size: 1.15rem;
-      font-weight: 900;
-      letter-spacing: 0.12em;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 1.05rem;
       color: var(--mag);
-      text-transform: uppercase;
-      text-shadow: 2px 2px 0 var(--cyan);
+      text-shadow: 3px 3px 0 var(--cyan);
+      letter-spacing: 0.05em;
+      line-height: 1.4;
     }
-    .nav__links {
-      display: flex;
-      align-items: center;
-      gap: 1.5rem;
-    }
+    .nav__links { display: flex; align-items: center; gap: 1.5rem; }
     .nav__links a {
-      font-size: 0.85rem;
-      font-weight: 500;
-      color: rgba(255,255,255,0.7);
-      transition: color 0.2s;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: rgba(200,255,102,0.7);
+      transition: color 0.15s;
+      letter-spacing: 0.04em;
     }
     .nav__links a:hover { color: var(--lime); }
     .nav__cta {
-      background: var(--mag);
-      color: var(--dark) !important;
-      font-weight: 700 !important;
-      padding: 0.45rem 1.1rem;
-      border-radius: 6px;
-      transition: background 0.2s !important;
+      background: var(--mag) !important;
+      color: var(--ink) !important;
+      font-family: 'Press Start 2P', monospace !important;
+      font-size: 0.6rem !important;
+      padding: 0.5rem 1rem;
+      border: none;
+      box-shadow: 3px 3px 0 var(--ink2);
+      transition: box-shadow 0.1s !important;
     }
-    .nav__cta:hover { background: var(--lime) !important; }
+    .nav__cta:hover { box-shadow: 5px 5px 0 var(--ink2) !important; }
 
     /* ── Hero ───────────────────────────────────────────────── */
     .hero {
       background: var(--lime);
       padding: 5rem 0 4rem;
-      overflow: hidden;
+      border-bottom: 3px solid var(--ink);
       position: relative;
+      overflow: hidden;
     }
+    /* pixel grid texture on hero */
     .hero::before {
       content: '';
       position: absolute;
       inset: 0;
-      background: radial-gradient(ellipse 60% 80% at 70% 50%, rgba(0,204,255,0.18) 0%, transparent 70%);
+      background-image:
+        linear-gradient(rgba(26,38,0,0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(26,38,0,0.06) 1px, transparent 1px);
+      background-size: 8px 8px;
       pointer-events: none;
     }
     .hero__inner {
       display: grid;
-      grid-template-columns: 1fr 340px;
+      grid-template-columns: 1fr 320px;
       gap: 4rem;
       align-items: center;
+      position: relative;
     }
     .hero__eyebrow {
       display: inline-block;
-      font-size: 0.8rem;
-      font-weight: 700;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      color: var(--dark);
-      background: rgba(0,0,0,0.12);
-      padding: 0.3rem 0.8rem;
-      border-radius: 4px;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.55rem;
+      letter-spacing: 0.1em;
+      color: var(--ink);
+      background: rgba(26,38,0,0.12);
+      border: 2px solid var(--ink);
+      padding: 0.4rem 0.8rem;
       margin-bottom: 1.5rem;
     }
     .hero__title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(2.8rem, 6vw, 5.2rem);
-      font-weight: 900;
-      line-height: 1.0;
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(2.2rem, 5vw, 4.2rem);
+      line-height: 1.35;
       text-transform: lowercase;
       color: var(--mag);
       text-shadow:
         4px 4px 0 var(--cyan),
-        8px 8px 0 rgba(0,204,255,0.25);
+        8px 8px 0 rgba(0,204,255,0.2);
+      margin-bottom: 1rem;
+    }
+    .hero__subtitle {
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(0.55rem, 1vw, 0.7rem);
+      letter-spacing: 0.08em;
+      color: var(--ink);
+      opacity: 0.65;
       margin-bottom: 1.25rem;
+      line-height: 1.8;
     }
     .hero__sub {
       font-size: 1rem;
-      font-weight: 400;
-      color: var(--dark);
-      max-width: 52ch;
-      margin-bottom: 0.5rem;
-      opacity: 0.85;
-    }
-    .hero__subtitle {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(0.7rem, 1.2vw, 0.85rem);
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--dark);
-      opacity: 0.7;
-      margin-bottom: 2rem;
+      color: var(--ink);
+      max-width: 50ch;
+      opacity: 0.8;
+      margin-bottom: 0;
     }
     .hero__ctas {
       display: flex;
@@ -164,52 +179,38 @@
     .btn {
       display: inline-flex;
       align-items: center;
-      gap: 0.4rem;
-      font-family: 'Space Grotesk', sans-serif;
-      font-size: 0.95rem;
-      font-weight: 700;
-      padding: 0.75rem 1.6rem;
-      border-radius: 8px;
-      transition: transform 0.15s, box-shadow 0.15s;
+      gap: 0.5rem;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.6rem;
+      padding: 0.75rem 1.4rem;
+      border: 2px solid var(--ink);
       cursor: pointer;
+      transition: box-shadow 0.1s, transform 0.1s;
+      line-height: 1.4;
+      letter-spacing: 0.04em;
     }
-    .btn:hover { transform: translateY(-2px); }
-    .btn--mag {
-      background: var(--mag);
-      color: var(--dark);
-      box-shadow: 4px 4px 0 var(--dark);
-    }
-    .btn--mag:hover { box-shadow: 6px 6px 0 var(--dark); }
-    .btn--dark {
-      background: var(--dark);
-      color: var(--lime);
-      box-shadow: 4px 4px 0 rgba(0,0,0,0.5);
-      border: 2px solid var(--dark);
-    }
-    .btn--dark:hover { box-shadow: 6px 6px 0 rgba(0,0,0,0.4); }
-    .btn--outline {
-      background: transparent;
-      color: var(--dark);
-      border: 2px solid var(--dark);
-      box-shadow: 4px 4px 0 rgba(0,0,0,0.15);
-    }
-    .btn--outline:hover { background: rgba(0,0,0,0.07); box-shadow: 6px 6px 0 rgba(0,0,0,0.12); }
+    .btn:hover { transform: translate(-2px, -2px); }
+    .btn--mag  { background: var(--mag);  color: var(--ink); box-shadow: 4px 4px 0 var(--ink); }
+    .btn--mag:hover  { box-shadow: 6px 6px 0 var(--ink); }
+    .btn--dark { background: var(--ink);  color: var(--lime); box-shadow: 4px 4px 0 rgba(26,38,0,0.4); }
+    .btn--dark:hover { box-shadow: 6px 6px 0 rgba(26,38,0,0.4); }
+    .btn--lime { background: var(--lime); color: var(--ink); box-shadow: 4px 4px 0 var(--ink); }
+    .btn--lime:hover { box-shadow: 6px 6px 0 var(--ink); }
     .hero__cover {
-      border-radius: var(--r);
+      border: 4px solid var(--ink);
       box-shadow:
         8px 8px 0 var(--mag),
-        16px 16px 0 var(--cyan),
-        24px 24px 40px rgba(0,0,0,0.3);
+        16px 16px 0 var(--cyan);
       width: 100%;
-      max-width: 320px;
+      max-width: 280px;
       margin-left: auto;
     }
 
     /* ── Stats bar ──────────────────────────────────────────── */
     .stats-bar {
-      background: var(--dark);
-      padding: 1.75rem 0;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
+      background: var(--ink);
+      padding: 2rem 0;
+      border-bottom: 3px solid var(--mag);
     }
     .stats-bar__inner {
       display: grid;
@@ -218,168 +219,163 @@
       text-align: center;
     }
     .stat__num {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(1.6rem, 3vw, 2.4rem);
-      font-weight: 900;
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(1.2rem, 2.5vw, 2rem);
       color: var(--lime);
       line-height: 1;
+      text-shadow: 2px 2px 0 var(--mag);
     }
     .stat__label {
-      font-size: 0.78rem;
-      font-weight: 500;
-      color: var(--muted);
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.5rem;
+      color: rgba(200,255,102,0.5);
       text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin-top: 0.3rem;
+      letter-spacing: 0.1em;
+      margin-top: 0.6rem;
+      line-height: 1.6;
     }
 
-    /* ── Section base ───────────────────────────────────────── */
+    /* ── Sections ───────────────────────────────────────────── */
     .section { padding: 5rem 0; }
-    .section--lime { background: var(--lime); color: var(--dark); }
-    .section--dark { background: var(--dark); }
-    .section--mid  { background: var(--mid); }
+    .section--lime  { background: var(--lime);  color: var(--ink); }
+    .section--lime2 { background: var(--lime2); color: var(--ink); }
+    .section--ink   { background: var(--ink);   color: var(--lime); }
+    .section--mag   { background: var(--mag);   color: var(--ink); }
+    .section--cyan  { background: var(--cyan);  color: var(--ink); }
+    /* pixel grid on dark sections */
+    .section--ink {
+      background-image:
+        linear-gradient(rgba(200,255,102,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(200,255,102,0.03) 1px, transparent 1px);
+      background-size: 8px 8px;
+      background-color: var(--ink);
+    }
+
     .section__label {
-      font-size: 0.75rem;
-      font-weight: 700;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.55rem;
       letter-spacing: 0.2em;
       text-transform: uppercase;
       color: var(--mag);
-      margin-bottom: 0.75rem;
-    }
-    .section--lime .section__label { color: var(--dark); opacity: 0.5; }
-    .section__title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(1.6rem, 3.5vw, 2.8rem);
-      font-weight: 900;
-      line-height: 1.1;
       margin-bottom: 1rem;
+      line-height: 1.6;
     }
-    .section--lime .section__title { color: var(--dark); }
-    .section__lede {
-      font-size: 1.05rem;
-      max-width: 60ch;
-      opacity: 0.7;
-      margin-bottom: 3rem;
-    }
-    .section--lime .section__lede { opacity: 0.75; color: var(--dark); }
+    .section--lime  .section__label,
+    .section--lime2 .section__label { color: rgba(26,38,0,0.45); }
+    .section--cyan  .section__label { color: var(--ink); opacity: 0.5; }
+    .section--mag   .section__label { color: var(--ink); opacity: 0.45; }
 
-    /* ── Who it's for ───────────────────────────────────────── */
+    .section__title {
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(0.9rem, 2.2vw, 1.5rem);
+      line-height: 1.6;
+      margin-bottom: 1.25rem;
+    }
+    .section--ink .section__title { color: var(--lime); }
+    .section__lede {
+      font-size: 1rem;
+      max-width: 60ch;
+      opacity: 0.75;
+      margin-bottom: 3rem;
+      line-height: 1.7;
+    }
+
+    /* ── Audience cards ─────────────────────────────────────── */
     .audience-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 1.25rem;
+      gap: 1rem;
     }
     .audience-card {
-      background: var(--dark);
-      border-radius: var(--r);
-      padding: 2rem;
-      border: 1px solid rgba(0,0,0,0.15);
-      box-shadow: 0 4px 20px rgba(0,0,0,0.12);
-    }
-    .audience-card__icon {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-    }
-    .audience-card__title {
-      font-family: 'Orbitron', monospace;
-      font-size: 0.95rem;
-      font-weight: 700;
+      background: var(--ink);
       color: var(--lime);
-      margin-bottom: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
+      border: 3px solid var(--ink);
+      padding: 2rem;
+      box-shadow: 6px 6px 0 var(--ink2);
+      transition: box-shadow 0.1s, transform 0.1s;
+    }
+    .audience-card:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--ink2); }
+    .audience-card__icon { margin-bottom: 1.25rem; }
+    .audience-card__title {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.65rem;
+      color: var(--mag);
+      margin-bottom: 0.85rem;
+      line-height: 1.6;
+      letter-spacing: 0.04em;
     }
     .audience-card p {
-      font-size: 0.9rem;
-      line-height: 1.65;
-      color: rgba(255,255,255,0.7);
+      font-size: 0.88rem;
+      color: rgba(200,255,102,0.7);
+      line-height: 1.7;
     }
 
     /* ── Chapter grid ───────────────────────────────────────── */
     .chapters-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 1rem;
+      gap: 3px;
+      border: 3px solid rgba(200,255,102,0.15);
     }
     .chapter-card {
-      background: var(--card);
-      border-radius: var(--r);
-      padding: 1.5rem 1.5rem 1.75rem;
-      border: 1px solid rgba(255,255,255,0.05);
-      transition: border-color 0.2s, transform 0.2s;
+      background: var(--ink2);
+      padding: 1.4rem 1.5rem 1.6rem;
+      border: 1px solid rgba(200,255,102,0.08);
+      transition: background 0.15s;
       position: relative;
-      overflow: hidden;
     }
-    .chapter-card::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 2px;
-      background: linear-gradient(90deg, var(--mag), var(--cyan));
-      opacity: 0;
-      transition: opacity 0.2s;
-    }
-    .chapter-card:hover {
-      border-color: rgba(255,51,204,0.3);
-      transform: translateY(-2px);
-    }
-    .chapter-card:hover::before { opacity: 1; }
+    .chapter-card:hover { background: var(--mid); }
     .chapter-card__num {
-      font-family: 'Orbitron', monospace;
-      font-size: 0.7rem;
-      font-weight: 900;
-      letter-spacing: 0.15em;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.55rem;
       color: var(--mag);
-      text-transform: uppercase;
+      letter-spacing: 0.12em;
       margin-bottom: 0.6rem;
+      line-height: 1.6;
     }
     .chapter-card__title {
-      font-size: 1rem;
+      font-size: 0.95rem;
       font-weight: 700;
-      color: var(--white);
-      margin-bottom: 0.6rem;
-      line-height: 1.3;
+      color: var(--lime);
+      margin-bottom: 0.55rem;
+      line-height: 1.35;
     }
     .chapter-card__desc {
-      font-size: 0.83rem;
-      color: var(--muted);
-      line-height: 1.6;
+      font-size: 0.8rem;
+      color: rgba(200,255,102,0.5);
+      line-height: 1.65;
     }
 
     /* ── Appendices ─────────────────────────────────────────── */
     .appendix-list {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 0.75rem;
+      gap: 4px;
     }
     .appendix-item {
       display: flex;
       gap: 0.75rem;
       align-items: flex-start;
-      padding: 1rem 1.25rem;
-      background: rgba(0,0,0,0.15);
-      border-radius: 8px;
-      border: 1px solid rgba(0,0,0,0.2);
+      padding: 0.9rem 1.1rem;
+      background: rgba(26,38,0,0.12);
+      border: 2px solid rgba(26,38,0,0.18);
+      transition: background 0.15s;
     }
+    .appendix-item:hover { background: rgba(26,38,0,0.2); }
     .appendix-item__letter {
-      font-family: 'Orbitron', monospace;
-      font-size: 0.75rem;
-      font-weight: 900;
-      color: var(--dark);
-      opacity: 0.5;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.6rem;
+      color: var(--ink);
+      opacity: 0.4;
       flex-shrink: 0;
-      padding-top: 1px;
-      min-width: 1.2rem;
+      padding-top: 2px;
     }
-    .appendix-item__text { font-size: 0.88rem; color: var(--dark); line-height: 1.5; }
+    .appendix-item__text { font-size: 0.85rem; color: var(--ink); line-height: 1.5; }
     .appendix-item__text strong { font-weight: 700; display: block; margin-bottom: 0.15rem; }
-    .appendix-item__text span { opacity: 0.65; font-size: 0.82rem; }
+    .appendix-item__text span { opacity: 0.6; font-size: 0.78rem; }
 
     /* ── Get the book ───────────────────────────────────────── */
-    .get-book {
-      background: var(--lime);
-      padding: 5rem 0;
-    }
+    .get-book { background: var(--mag); padding: 5rem 0; }
     .get-book__inner {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -387,187 +383,123 @@
       align-items: start;
     }
     .get-book__title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(2rem, 4vw, 3.2rem);
-      font-weight: 900;
-      color: var(--dark);
-      line-height: 1.05;
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(1rem, 2.5vw, 1.8rem);
+      color: var(--ink);
+      line-height: 1.6;
       margin-bottom: 1rem;
     }
-    .get-book__title span {
-      color: var(--mag);
-      text-shadow: 3px 3px 0 var(--cyan);
-    }
+    .get-book__title span { color: var(--ink); text-shadow: 3px 3px 0 var(--cyan); }
     .get-book__copy {
-      font-size: 1rem;
-      color: var(--dark);
+      font-size: 0.95rem;
+      color: var(--ink);
       opacity: 0.75;
-      max-width: 50ch;
-      margin-bottom: 2rem;
+      max-width: 48ch;
+      margin-bottom: 0;
     }
-    .get-book__options { display: flex; flex-direction: column; gap: 1rem; }
+    .get-book__options { display: flex; flex-direction: column; gap: 0.75rem; }
     .option-card {
-      background: var(--dark);
-      color: var(--white);
-      border-radius: var(--r);
-      padding: 1.5rem 1.75rem;
+      background: var(--ink);
+      color: var(--lime);
+      border: none;
+      padding: 1.4rem 1.75rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 1rem;
-      transition: transform 0.15s, box-shadow 0.15s;
-      box-shadow: 6px 6px 0 rgba(0,0,0,0.2);
+      box-shadow: 5px 5px 0 var(--ink2);
+      transition: box-shadow 0.1s, transform 0.1s;
     }
-    .option-card:hover {
-      transform: translateY(-2px);
-      box-shadow: 8px 8px 0 rgba(0,0,0,0.15);
-    }
-    .option-card--mag {
-      background: var(--mag);
-      color: var(--dark);
-      box-shadow: 6px 6px 0 var(--dark);
-    }
-    .option-card--mag:hover { box-shadow: 8px 8px 0 var(--dark); }
-    .option-card--cyan {
-      background: var(--cyan);
-      color: var(--dark);
-      box-shadow: 6px 6px 0 var(--dark);
-    }
-    .option-card--cyan:hover { box-shadow: 8px 8px 0 var(--dark); }
+    .option-card:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--ink2); }
+    .option-card--lime { background: var(--lime); color: var(--ink); box-shadow: 5px 5px 0 var(--ink); }
+    .option-card--lime:hover { box-shadow: 7px 7px 0 var(--ink); }
+    .option-card--cyan { background: var(--cyan); color: var(--ink); box-shadow: 5px 5px 0 var(--ink); }
+    .option-card--cyan:hover { box-shadow: 7px 7px 0 var(--ink); }
     .option-card__label {
-      font-size: 0.72rem;
-      font-weight: 700;
-      letter-spacing: 0.15em;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.5rem;
+      letter-spacing: 0.1em;
       text-transform: uppercase;
       opacity: 0.55;
-      margin-bottom: 0.2rem;
+      margin-bottom: 0.3rem;
+      line-height: 1.6;
     }
+    .option-card--lime .option-card__label,
+    .option-card--cyan .option-card__label { opacity: 0.5; }
     .option-card__title {
-      font-family: 'Orbitron', monospace;
-      font-size: 1rem;
-      font-weight: 700;
-      line-height: 1.2;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.7rem;
+      line-height: 1.5;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
     }
-    .option-card__arrow {
-      font-size: 1.4rem;
-      flex-shrink: 0;
-      opacity: 0.6;
-    }
+    .option-card__arrow { font-size: 1.2rem; opacity: 0.5; flex-shrink: 0; }
 
     /* ── Author ─────────────────────────────────────────────── */
-    .author {
-      background: var(--mid);
-      padding: 4.5rem 0;
-      border-top: 1px solid rgba(255,255,255,0.06);
-    }
+    .author { background: var(--ink); padding: 4.5rem 0; border-top: 3px solid var(--lime); }
     .author__inner {
       display: grid;
-      grid-template-columns: 1fr 2fr;
+      grid-template-columns: 240px 1fr;
       gap: 3rem;
       align-items: start;
     }
     .author__badge {
-      background: var(--card);
-      border-radius: var(--r);
-      padding: 2rem;
+      background: var(--ink2);
+      border: 3px solid var(--lime);
+      padding: 1.75rem;
       text-align: center;
-      border: 1px solid rgba(255,255,255,0.06);
+      box-shadow: 5px 5px 0 var(--mid);
     }
     .author__name {
-      font-family: 'Orbitron', monospace;
-      font-size: 1rem;
-      font-weight: 700;
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.7rem;
       color: var(--lime);
-      margin-bottom: 0.3rem;
+      margin-bottom: 0.5rem;
+      line-height: 1.6;
     }
-    .author__role {
-      font-size: 0.82rem;
-      color: var(--muted);
-      line-height: 1.5;
-    }
+    .author__role { font-size: 0.8rem; color: rgba(200,255,102,0.6); line-height: 1.6; }
     .author__studio {
       display: inline-block;
       margin-top: 1rem;
-      padding: 0.4rem 1rem;
+      padding: 0.4rem 0.9rem;
       background: var(--mag);
-      color: var(--dark);
-      font-size: 0.78rem;
-      font-weight: 700;
-      border-radius: 5px;
-      letter-spacing: 0.06em;
+      color: var(--ink);
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.55rem;
+      box-shadow: 3px 3px 0 var(--ink2);
+      letter-spacing: 0.04em;
     }
-    .author__bio {
-      font-size: 0.95rem;
-      color: rgba(255,255,255,0.7);
-      line-height: 1.75;
-    }
+    .author__bio { font-size: 0.92rem; color: rgba(200,255,102,0.7); line-height: 1.8; }
     .author__bio p + p { margin-top: 0.9rem; }
     .author__bio a { color: var(--lime); text-decoration: underline; text-underline-offset: 3px; }
 
     /* ── Newsletter strip ───────────────────────────────────── */
-    .newsletter-strip {
-      background: var(--mag);
-      padding: 3rem 0;
-    }
-    .newsletter-strip__inner {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 2rem;
-    }
+    .newsletter-strip { background: var(--cyan); padding: 3rem 0; border-top: 3px solid var(--ink); border-bottom: 3px solid var(--ink); }
+    .newsletter-strip__inner { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
     .newsletter-strip__title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(1.1rem, 2.5vw, 1.6rem);
-      font-weight: 900;
-      color: var(--dark);
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(0.65rem, 1.4vw, 0.9rem);
+      color: var(--ink);
+      line-height: 1.7;
     }
-    .newsletter-strip__sub {
-      font-size: 0.9rem;
-      color: var(--dark);
-      opacity: 0.65;
-      margin-top: 0.3rem;
-    }
-    .btn--white {
-      background: var(--white);
-      color: var(--dark);
-      box-shadow: 4px 4px 0 rgba(0,0,0,0.2);
-      flex-shrink: 0;
-    }
-    .btn--white:hover { box-shadow: 6px 6px 0 rgba(0,0,0,0.15); }
+    .newsletter-strip__sub { font-size: 0.88rem; color: var(--ink); opacity: 0.6; margin-top: 0.4rem; }
+    .btn--ink { background: var(--ink); color: var(--lime); box-shadow: 4px 4px 0 rgba(26,38,0,0.5); flex-shrink: 0; }
+    .btn--ink:hover { box-shadow: 6px 6px 0 rgba(26,38,0,0.4); }
 
     /* ── Footer ─────────────────────────────────────────────── */
-    .footer {
-      background: #080808;
-      padding: 2.5rem 0;
-      border-top: 1px solid rgba(255,255,255,0.05);
-    }
-    .footer__inner {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 1.5rem;
-      flex-wrap: wrap;
-    }
-    .footer__brand {
-      font-family: 'Orbitron', monospace;
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--lime);
-      letter-spacing: 0.14em;
-    }
+    .footer { background: var(--ink2); padding: 2.5rem 0; border-top: 3px solid var(--lime); }
+    .footer__inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; }
+    .footer__brand { font-family: 'Press Start 2P', monospace; font-size: 0.65rem; color: var(--mag); text-shadow: 2px 2px 0 var(--cyan); }
     .footer__links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
-    .footer__links a {
-      font-size: 0.82rem;
-      color: var(--muted);
-      transition: color 0.2s;
-    }
-    .footer__links a:hover { color: var(--white); }
-    .footer__copy { font-size: 0.78rem; color: var(--muted); }
+    .footer__links a { font-size: 0.78rem; color: rgba(200,255,102,0.5); transition: color 0.15s; }
+    .footer__links a:hover { color: var(--lime); }
+    .footer__copy { font-size: 0.72rem; color: rgba(200,255,102,0.35); }
 
     /* ── Responsive ─────────────────────────────────────────── */
     @media (max-width: 900px) {
       .hero__inner { grid-template-columns: 1fr; }
-      .hero__cover { max-width: 240px; margin: 0 auto; }
+      .hero__cover { max-width: 220px; }
       .audience-grid { grid-template-columns: 1fr; }
       .chapters-grid { grid-template-columns: 1fr 1fr; }
       .appendix-list { grid-template-columns: 1fr 1fr; }
@@ -580,7 +512,6 @@
       .chapters-grid { grid-template-columns: 1fr; }
       .appendix-list { grid-template-columns: 1fr; }
       .nav__links { display: none; }
-      .stats-bar__inner { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
@@ -593,8 +524,9 @@
       <div class="nav__links">
         <a href="#who">Who it's for</a>
         <a href="#chapters">Chapters</a>
+        <a href="editions.html">Editions</a>
         <a href="#get">Get the book</a>
-        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab ↗</a>
         <a class="nav__cta" href="#get">Get the book →</a>
       </div>
     </div>
@@ -604,7 +536,7 @@
   <section class="hero" id="top">
     <div class="wrap hero__inner">
       <div>
-        <span class="hero__eyebrow">June 2026 Edition &nbsp;·&nbsp; Issues 1–32 &nbsp;·&nbsp; Pete Woodbridge</span>
+        <span class="hero__eyebrow">June 2026 · Issues 1–32 · Pete Woodbridge</span>
         <h1 class="hero__title">dream<br>machine</h1>
         <p class="hero__subtitle">Artificial Intelligence and the Next Creative Economy</p>
         <p class="hero__sub">
@@ -614,15 +546,9 @@
         <div class="hero__ctas">
           <a class="btn btn--mag"
              href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf"
-             target="_blank" rel="noopener">
-            📖 Read free (PDF)
-          </a>
-          <a class="btn btn--dark" href="#get">
-            Buy in print →
-          </a>
-          <a class="btn btn--outline" href="#chapters">
-            See all chapters
-          </a>
+             target="_blank" rel="noopener">📖 Read free (PDF)</a>
+          <a class="btn btn--dark" href="#get">Buy in print →</a>
+          <a class="btn btn--lime" href="#chapters">See all chapters</a>
         </div>
       </div>
       <div>
@@ -634,33 +560,18 @@
   <!-- ── Stats ────────────────────────────────────────────── -->
   <div class="stats-bar">
     <div class="wrap stats-bar__inner">
-      <div>
-        <div class="stat__num">580+</div>
-        <div class="stat__label">Pages</div>
-      </div>
-      <div>
-        <div class="stat__num">240k</div>
-        <div class="stat__label">Words</div>
-      </div>
-      <div>
-        <div class="stat__num">570+</div>
-        <div class="stat__label">Tools catalogued</div>
-      </div>
-      <div>
-        <div class="stat__num">32</div>
-        <div class="stat__label">Newsletter issues</div>
-      </div>
+      <div><div class="stat__num">580+</div><div class="stat__label">Pages</div></div>
+      <div><div class="stat__num">240k</div><div class="stat__label">Words</div></div>
+      <div><div class="stat__num">570+</div><div class="stat__label">Tools catalogued</div></div>
+      <div><div class="stat__num">32</div><div class="stat__label">Issues</div></div>
     </div>
   </div>
 
-  <!-- ── The pitch ────────────────────────────────────────── -->
-  <section class="section section--dark">
+  <!-- ── Pitch ────────────────────────────────────────────── -->
+  <section class="section section--lime2">
     <div class="wrap">
       <p class="section__label">What this book is</p>
-      <h2 class="section__title" style="max-width:18ch;">
-        The creative economy is being re-platformed.<br>
-        <span style="color:var(--lime);">Right now. This year.</span>
-      </h2>
+      <h2 class="section__title">The creative economy<br>is being re-platformed.<br><span style="color:var(--mag)">Right now.</span></h2>
       <p class="section__lede">
         Not the internet of 1995 or the mobile phone of 2007 — faster, deeper, more thorough.
         The <em>How</em> of professional creative work is becoming a utility.
@@ -670,8 +581,7 @@
       <p class="section__lede" style="margin-bottom:0;">
         The choices being made right now, by studios, unions, governments, toolmakers,
         and individual creatives at their kitchen tables, will set the terms for the next decade.
-        This book is here to help you make those choices on better information than you
-        would otherwise have.
+        This book is here to help you make those choices on better information.
       </p>
     </div>
   </section>
@@ -681,149 +591,178 @@
     <div class="wrap">
       <p class="section__label">Who it's for</p>
       <h2 class="section__title">Three audiences.<br>One argument.</h2>
-      <p class="section__lede">
-        The book has a Reader Paths guide with seven routes through the material depending on who you are.
-      </p>
+      <p class="section__lede">Seven different reader paths through the material depending on who you are.</p>
       <div class="audience-grid">
+
         <div class="audience-card">
-          <div class="audience-card__icon">🎨</div>
+          <div class="audience-card__icon">
+            <!-- Pixel art palette + brush -->
+            <svg viewBox="0 0 16 16" width="48" height="48" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+              <rect x="2" y="0" width="6" height="1" fill="#c8ff66"/>
+              <rect x="1" y="1" width="1" height="6" fill="#c8ff66"/>
+              <rect x="8" y="1" width="1" height="6" fill="#c8ff66"/>
+              <rect x="2" y="7" width="4" height="1" fill="#c8ff66"/>
+              <rect x="6" y="6" width="1" height="2" fill="#c8ff66"/>
+              <rect x="7" y="7" width="2" height="1" fill="#c8ff66"/>
+              <rect x="2" y="2" width="2" height="2" fill="#ff33cc"/>
+              <rect x="5" y="2" width="2" height="2" fill="#00ccff"/>
+              <rect x="2" y="5" width="2" height="1" fill="#c8ff66"/>
+              <rect x="5" y="5" width="2" height="1" fill="#ffffff"/>
+              <rect x="11" y="0" width="2" height="9" fill="#a8e040"/>
+              <rect x="11" y="9" width="2" height="3" fill="#ff33cc"/>
+              <rect x="12" y="12" width="1" height="1" fill="#00ccff"/>
+            </svg>
+          </div>
           <div class="audience-card__title">Working Creatives</div>
-          <p>Writers, directors, songwriters, games designers, photographers, illustrators, editors, producers, agency creatives, indie filmmakers, students and senior practitioners trying to figure out what creative life looks like in 2026 and beyond. The book gives you frameworks for making decisions under uncertainty, not a tools guide you'll need to throw away in three months.</p>
+          <p>Writers, directors, songwriters, games designers, photographers, illustrators, editors, producers, indie filmmakers, students. The book gives you frameworks for making decisions under uncertainty — not a tools guide you'll throw away in three months.</p>
         </div>
+
         <div class="audience-card">
-          <div class="audience-card__icon">🏢</div>
+          <div class="audience-card__icon">
+            <!-- Pixel art building -->
+            <svg viewBox="0 0 16 16" width="48" height="48" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+              <rect x="2" y="0" width="12" height="1" fill="#ff33cc"/>
+              <rect x="2" y="0" width="1" height="15" fill="#c8ff66"/>
+              <rect x="13" y="0" width="1" height="15" fill="#c8ff66"/>
+              <rect x="2" y="15" width="12" height="1" fill="#c8ff66"/>
+              <rect x="4" y="2" width="2" height="2" fill="#00ccff"/>
+              <rect x="8" y="2" width="2" height="2" fill="#00ccff"/>
+              <rect x="11" y="2" width="2" height="2" fill="#00ccff"/>
+              <rect x="4" y="6" width="2" height="2" fill="#00ccff"/>
+              <rect x="8" y="6" width="2" height="2" fill="#00ccff"/>
+              <rect x="11" y="6" width="2" height="2" fill="#00ccff"/>
+              <rect x="6" y="10" width="4" height="5" fill="#ff33cc"/>
+              <rect x="7" y="11" width="1" height="1" fill="#1a2600"/>
+            </svg>
+          </div>
           <div class="audience-card__title">Studio &amp; Label Leadership</div>
-          <p>Executives at studios, agencies, labels and production companies making organisational decisions about AI integration in a year when the cost of getting it wrong is the next decade of cultural authority. Chapter 7 maps the five strategic positions; Chapter 13 explains why so many organisations are discovering their AI strategy and their structure are fighting each other.</p>
+          <p>Executives at studios, agencies, labels and production companies. Chapter 7 maps five strategic positions. Chapter 13 explains why so many organisations discover their AI strategy and their structure are fighting each other.</p>
         </div>
+
         <div class="audience-card">
-          <div class="audience-card__icon">⚖️</div>
-          <div class="audience-card__title">Policy, Union &amp; Platform People</div>
-          <p>The people deciding the rails the next decade of creative work will run on. The 88% turned up to the UK copyright consultation. The Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract — these are the decisions the book is here to inform, anchored in the evidence from Chapter 6 through Chapter 15.</p>
+          <div class="audience-card__icon">
+            <!-- Pixel art scales -->
+            <svg viewBox="0 0 16 16" width="48" height="48" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+              <rect x="7" y="0" width="2" height="2" fill="#ff33cc"/>
+              <rect x="1" y="3" width="14" height="2" fill="#ff33cc"/>
+              <rect x="7" y="2" width="2" height="9" fill="#c8ff66"/>
+              <rect x="2" y="5" width="1" height="4" fill="#c8ff66"/>
+              <rect x="4" y="5" width="1" height="4" fill="#c8ff66"/>
+              <rect x="2" y="9" width="3" height="1" fill="#00ccff"/>
+              <rect x="11" y="5" width="1" height="4" fill="#c8ff66"/>
+              <rect x="13" y="5" width="1" height="4" fill="#c8ff66"/>
+              <rect x="11" y="9" width="3" height="1" fill="#00ccff"/>
+              <rect x="5" y="11" width="6" height="1" fill="#c8ff66"/>
+              <rect x="6" y="12" width="4" height="2" fill="#c8ff66"/>
+            </svg>
+          </div>
+          <div class="audience-card__title">Policy, Union &amp; Platform</div>
+          <p>The people deciding the rails the next decade of creative work will run on. The 88% turned up to the UK copyright consultation. The Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract — these are the decisions the book is here to inform.</p>
         </div>
+
       </div>
     </div>
   </section>
 
   <!-- ── Chapters ──────────────────────────────────────────── -->
-  <section class="section section--dark" id="chapters">
+  <section class="section section--ink" id="chapters">
     <div class="wrap">
       <p class="section__label">The book</p>
-      <h2 class="section__title">17 chapters.<br><span style="color:var(--mag);">One year. The whole picture.</span></h2>
-      <p class="section__lede">
-        Foreword, seventeen chapters, an Epilogue, and twelve deep-dive appendices.
-        Read straight through or pick a reader path.
-      </p>
+      <h2 class="section__title">17 chapters. One year.<br><span style="color:var(--mag)">The whole picture.</span></h2>
+      <p class="section__lede" style="color:rgba(200,255,102,0.6)">Foreword, seventeen chapters, an Epilogue, and twelve deep-dive appendices. Read straight through or pick a reader path.</p>
 
       <div class="chapters-grid">
 
         <div class="chapter-card">
           <div class="chapter-card__num">Foreword</div>
           <div class="chapter-card__title">Welcome to the Dream Machine</div>
-          <p class="chapter-card__desc">The book's origin: the Tilly Norwood week, Sora 2, and the sentence that started it all — <em>"It's time to take AI seriously."</em> Who is writing, and why.</p>
+          <p class="chapter-card__desc">The Tilly Norwood week, Sora 2, and the sentence that started it all: <em>"It's time to take AI seriously."</em> Who is writing, and why.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 1</div>
           <div class="chapter-card__title">The Day Sora Landed</div>
-          <p class="chapter-card__desc">A synthetic actress on the Zurich Film Festival stage and a new AI video model in the same week. The unions respond. The before-and-after that organises everything that follows.</p>
+          <p class="chapter-card__desc">A synthetic actress on the Zurich Film Festival stage and an AI video model in the same week. The unions respond. The before-and-after the rest of the book is organised around.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 2</div>
           <div class="chapter-card__title">A History of Resistance</div>
-          <p class="chapter-card__desc">Photography, cinema, recorded sound, digital audio, CGI: the same argument has been made every generation and lost every time. The 1839–2025 pattern — and why this time is genuinely different in two important ways.</p>
+          <p class="chapter-card__desc">Photography, cinema, recorded sound, digital audio, CGI: the same argument every generation, lost every time. The 1839–2025 pattern — and why this time is genuinely different in two important ways.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 3</div>
           <div class="chapter-card__title">The Human–AI Agency Continuum</div>
-          <p class="chapter-card__desc">The book's foundational practitioner framework: a spectrum from full automation to full human control with eight named positions. Why staying on the high-agency end is a strategic choice, not just an ethical one.</p>
+          <p class="chapter-card__desc">The book's foundational practitioner framework: a spectrum from full automation to full human control with eight named positions. Why staying high-agency is a strategic choice, not just an ethical one.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 4</div>
           <div class="chapter-card__title">Dead Internet, Living Web</div>
-          <p class="chapter-card__desc">Synthetic content is flooding every platform simultaneously. The C2PA provenance stack, the disclosure debate, and why the answer to "what's real?" matters more for creative economics than for AI ethics.</p>
+          <p class="chapter-card__desc">Synthetic content flooding every platform simultaneously. The C2PA provenance stack, the disclosure debate, and why "what's real?" matters more for creative economics than for AI ethics.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 5</div>
           <div class="chapter-card__title">The Slop Ceiling</div>
-          <p class="chapter-card__desc">The audience has started voting. Undifferentiated AI output is hitting a ceiling defined by human attention and taste. The Authenticity Premium: why the market is moving toward work that can prove a human had a reason to make it.</p>
+          <p class="chapter-card__desc">The audience has started voting. Undifferentiated AI output is hitting a ceiling. The Authenticity Premium: why the market is moving toward work that can prove a human had a reason to make it.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 6</div>
           <div class="chapter-card__title">The 88%</div>
-          <p class="chapter-card__desc">11,500 responses to the UK copyright consultation. 88% demanded licensing in every case. The political watershed. The Petrillo-template levy mechanism: what the musicians' union achieved in 1942 and why it's the closest precedent for what the creative industries need now.</p>
+          <p class="chapter-card__desc">11,500 responses to the UK copyright consultation. 88% demanded licensing in every case. The political watershed. The Petrillo-template levy mechanism — what the musicians' union achieved in 1942 and why it's the closest precedent for now.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 7</div>
           <div class="chapter-card__title">The Studios Decide</div>
-          <p class="chapter-card__desc">Five strategic positions: Replace, Augment, Automate, Hold, and Own the Rails. The trap legacy industries built for themselves. Hasbro's Sixth Wall, the CharacterOS governance layer, and the corrected record on the Disney–OpenAI deal that never executed.</p>
+          <p class="chapter-card__desc">Five strategic positions: Replace, Augment, Automate, Hold, and Own the Rails. The trap legacy industries built for themselves. Hasbro's Sixth Wall, the CharacterOS governance layer.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 8</div>
           <div class="chapter-card__title">Worlds, Not Pictures</div>
-          <p class="chapter-card__desc">The spatial turn. World Labs' Marble and the shift from flat video to 3D-navigable environments as the default creative medium. What it means for storytelling, production, and the creative roles that video has sustained for a century.</p>
+          <p class="chapter-card__desc">The spatial turn. World Labs' Marble and the shift from flat video to 3D-navigable environments as the default creative medium. What it means for storytelling and the creative roles video has sustained for a century.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 9</div>
           <div class="chapter-card__title">AI in Everything</div>
-          <p class="chapter-card__desc">The platform layer. Adobe's "AI in everything, everywhere, all at once." The economics of platform concentration: why the toolchain is collapsing into a small number of integrated suites and what that means for independent makers.</p>
+          <p class="chapter-card__desc">The platform layer. Adobe's "AI in everything, everywhere, all at once." The economics of platform concentration — why the toolchain is collapsing into a small number of integrated suites.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 10</div>
           <div class="chapter-card__title">What is Newly Possible</div>
-          <p class="chapter-card__desc">Six categories of creative work that were not economically viable before 2024 and are now. The finite-attention ceiling: why new supply cannot simply create new demand, and what this implies for studios betting on volume.</p>
+          <p class="chapter-card__desc">Six categories of creative work that weren't economically viable before 2024 and are now. The finite-attention ceiling: why new supply cannot simply create new demand.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 11</div>
           <div class="chapter-card__title">The Orchestrator</div>
-          <p class="chapter-card__desc">The working creative's new role: directing AI systems rather than executing technical steps. The Year of the Orchestrator — why it requires the same skills creative direction has always required, plus a new literacy layer.</p>
+          <p class="chapter-card__desc">The working creative's new role: directing AI systems rather than executing technical steps. The Year of the Orchestrator — why it requires the same skills creative direction always required, plus a new literacy layer.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 12</div>
           <div class="chapter-card__title">Authenticity as the New Scarcity</div>
-          <p class="chapter-card__desc">The provenance economy. How scarcity migrates from execution (which AI has commoditised) to intent (which it cannot). The Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract as the institutional architecture of what comes next.</p>
+          <p class="chapter-card__desc">The provenance economy. How scarcity migrates from execution (AI has commoditised it) to intent (which it cannot). The Cannes Disclosure Standard, Academy rule, SAG-AFTRA contract.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 13</div>
           <div class="chapter-card__title">Coordination Collapse</div>
-          <p class="chapter-card__desc">What happens when AI adoption outpaces organisational structure. Shadow AI: the gap between what organisations officially permit and what employees are actually doing. The Consumption Gap. What organisations should do — and what most are doing instead.</p>
+          <p class="chapter-card__desc">What happens when AI adoption outpaces organisational structure. Shadow AI. The Consumption Gap. What organisations should do — and what most are doing instead.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 14</div>
           <div class="chapter-card__title">The New Jobs</div>
-          <p class="chapter-card__desc">Labour-market restructuring argued from the data, not the doomer or booster script. The AI Literacy Premium. The Apprenticeship Gap: how the junior entry routes that have always trained the next generation are closing before replacements are open.</p>
+          <p class="chapter-card__desc">Labour-market restructuring argued from the data. The AI Literacy Premium. The Apprenticeship Gap: how junior entry routes are closing before replacements open.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 15</div>
           <div class="chapter-card__title">Choosing the Future</div>
-          <p class="chapter-card__desc">The four principles: <em>Agency, Attribution, Access, Audience.</em> The assistive-amplifier conviction. The Age of the Why. The chess-grandmaster frame: what happens to the grandmaster when Deep Blue wins — and why it's the spine of the book's strategic argument.</p>
+          <p class="chapter-card__desc">Four principles: <em>Agency, Attribution, Access, Audience.</em> The assistive-amplifier conviction. The Age of the Why. The chess-grandmaster frame — the spine of the book's strategic argument.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 16</div>
           <div class="chapter-card__title">The Tools</div>
-          <p class="chapter-card__desc">A complete, categorised inventory of 570+ tools, platforms and models from October 2025 – June 2026. Organised by creative discipline and workflow stage. The most comprehensive single catalogue of the period's toolchain.</p>
+          <p class="chapter-card__desc">Complete, categorised inventory of 570+ tools, platforms and models from October 2025 – June 2026. Organised by creative discipline and workflow stage.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 17</div>
           <div class="chapter-card__title">Five Years Inside the Dream Machine</div>
-          <p class="chapter-card__desc">A speculative five-year future-cast argued directly from the book's frameworks. Not prediction for its own sake — a test of whether the analytical frames hold up when pushed into the future.</p>
+          <p class="chapter-card__desc">A speculative five-year future-cast argued directly from the book's frameworks — a test of whether the analytical frames hold up when pushed forward.</p>
         </div>
-
         <div class="chapter-card">
           <div class="chapter-card__num">Epilogue</div>
           <div class="chapter-card__title">A Letter to 2030</div>
@@ -841,54 +780,18 @@
       <h2 class="section__title">12 deep-dive appendices.</h2>
       <p class="section__lede">Extended evidence, data, and long-form analysis behind the book's core arguments.</p>
       <div class="appendix-list">
-        <div class="appendix-item">
-          <div class="appendix-item__letter">A</div>
-          <div class="appendix-item__text"><strong>Quantitative Anatomy</strong><span>The data behind the book's empirical claims</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">B</div>
-          <div class="appendix-item__text"><strong>Glossary</strong><span>Every term of art, including the book's own frameworks</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">C</div>
-          <div class="appendix-item__text"><strong>Bibliography by Topic</strong><span>Curated reading, organised by chapter theme</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">D</div>
-          <div class="appendix-item__text"><strong>The Shadow AI Paradox</strong><span>Covert adoption, corporate hypocrisy, and displacement evidence</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">E</div>
-          <div class="appendix-item__text"><strong>Dynamics of AI Adoption</strong><span>The consumption-gap evidence base</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">F</div>
-          <div class="appendix-item__text"><strong>AI, Stigma, Privilege</strong><span>The class question: who AI democratises, and for whom</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">G</div>
-          <div class="appendix-item__text"><strong>The Age of Intent</strong><span>The philosophical spine: what authorship means when execution is automated</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">H</div>
-          <div class="appendix-item__text"><strong>The Dream Machine Source Index</strong><span>Thematic catalogue of every significant source across all 32 issues</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">I</div>
-          <div class="appendix-item__text"><strong>The Doomer Mistake</strong><span>Long-form rebuttal of the AI-eliminates-creative-jobs framing, from Stanford Digital Economy Lab through 230 years of identical wrong predictions</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">J</div>
-          <div class="appendix-item__text"><strong>The Process Trap</strong><span>Why the <em>creative / creatives</em> equivocation collapses under generative abundance</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">K</div>
-          <div class="appendix-item__text"><strong>Coordination Collapse (extended)</strong><span>2,000-year history of hierarchy; three post-hierarchical models; 90-day roadmap</span></div>
-        </div>
-        <div class="appendix-item">
-          <div class="appendix-item__letter">L</div>
-          <div class="appendix-item__text"><strong>The Programmable Brand</strong><span>From IP-as-asset to IP-as-environment: the three-Cs framework and five licensing-model comparison</span></div>
-        </div>
+        <div class="appendix-item"><div class="appendix-item__letter">A</div><div class="appendix-item__text"><strong>Quantitative Anatomy</strong><span>The data behind the book's empirical claims</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">B</div><div class="appendix-item__text"><strong>Glossary</strong><span>Every term of art and framework defined</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">C</div><div class="appendix-item__text"><strong>Bibliography by Topic</strong><span>Curated reading, organised by chapter theme</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">D</div><div class="appendix-item__text"><strong>The Shadow AI Paradox</strong><span>Covert adoption, corporate hypocrisy, displacement evidence</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">E</div><div class="appendix-item__text"><strong>Dynamics of AI Adoption</strong><span>The consumption-gap evidence base</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">F</div><div class="appendix-item__text"><strong>AI, Stigma, Privilege</strong><span>The class question: who AI democratises, and for whom</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">G</div><div class="appendix-item__text"><strong>The Age of Intent</strong><span>What authorship means when execution is automated</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">H</div><div class="appendix-item__text"><strong>Dream Machine Source Index</strong><span>Thematic catalogue of all significant sources, all 32 issues</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">I</div><div class="appendix-item__text"><strong>The Doomer Mistake</strong><span>Long-form rebuttal from Stanford Digital Economy Lab through 230 years of identical wrong predictions</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">J</div><div class="appendix-item__text"><strong>The Process Trap</strong><span>Why <em>creative / creatives</em> collapses under generative abundance</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">K</div><div class="appendix-item__text"><strong>Coordination Collapse (extended)</strong><span>2,000-year history of hierarchy; three post-hierarchical models; 90-day roadmap</span></div></div>
+        <div class="appendix-item"><div class="appendix-item__letter">L</div><div class="appendix-item__text"><strong>The Programmable Brand</strong><span>IP-as-environment: three-Cs framework and five licensing-model comparison</span></div></div>
       </div>
     </div>
   </section>
@@ -897,30 +800,50 @@
   <section class="get-book" id="get">
     <div class="wrap get-book__inner">
       <div>
-        <p class="section__label" style="color:rgba(0,0,0,0.45);">Get it</p>
+        <p class="section__label" style="color:rgba(26,38,0,0.4)">Get it</p>
         <h2 class="get-book__title">Read it.<br><span>Own it.</span></h2>
-        <p class="get-book__copy">
-          The PDF is free, forever. The living book updates every time a new newsletter edition ships —
-          the unversioned PDF is always current. Print edition available on Amazon KDP.
-        </p>
+        <p class="get-book__copy">The PDF is free, forever. The living book updates every time a new newsletter edition ships. Print edition available on Amazon KDP.</p>
       </div>
       <div class="get-book__options">
-        <a class="option-card option-card--mag"
+        <a class="option-card option-card--lime"
            href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf"
            target="_blank" rel="noopener">
           <div>
             <div class="option-card__label">Free · Always current</div>
-            <div class="option-card__title">📖 Read the PDF</div>
+            <div class="option-card__title">
+              <!-- pixel book icon -->
+              <svg viewBox="0 0 12 12" width="20" height="20" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;flex-shrink:0">
+                <rect x="1" y="0" width="4" height="12" fill="#1a2600"/>
+                <rect x="6" y="0" width="5" height="12" fill="#1a2600"/>
+                <rect x="5" y="0" width="1" height="12" fill="#ff33cc"/>
+                <rect x="2" y="3" width="2" height="1" fill="#c8ff66"/>
+                <rect x="2" y="5" width="2" height="1" fill="#c8ff66"/>
+                <rect x="7" y="3" width="3" height="1" fill="#c8ff66"/>
+                <rect x="7" y="5" width="3" height="1" fill="#c8ff66"/>
+              </svg>
+              Read the PDF
+            </div>
           </div>
           <div class="option-card__arrow">↗</div>
         </a>
-        <!-- TODO: replace href="#" with your Amazon KDP URL, e.g. https://www.amazon.co.uk/dp/YOURASIN -->
-        <a class="option-card option-card--dark"
+        <!-- TODO: replace href="#" with your Amazon KDP URL -->
+        <a class="option-card"
            href="#"
            target="_blank" rel="noopener">
           <div>
             <div class="option-card__label">Print edition · Amazon KDP</div>
-            <div class="option-card__title">🖨 Buy in print</div>
+            <div class="option-card__title">
+              <!-- pixel printer icon -->
+              <svg viewBox="0 0 12 12" width="20" height="20" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;flex-shrink:0">
+                <rect x="3" y="0" width="6" height="3" fill="#c8ff66"/>
+                <rect x="1" y="3" width="10" height="5" fill="#a8e040"/>
+                <rect x="2" y="5" width="8" height="1" fill="#1a2600"/>
+                <rect x="8" y="4" width="2" height="1" fill="#ff33cc"/>
+                <rect x="3" y="8" width="6" height="4" fill="#c8ff66"/>
+                <rect x="4" y="9" width="4" height="1" fill="#1a2600"/>
+              </svg>
+              Buy in print
+            </div>
           </div>
           <div class="option-card__arrow">↗</div>
         </a>
@@ -929,7 +852,20 @@
            target="_blank" rel="noopener">
           <div>
             <div class="option-card__label">Open source · MIT / Apache-2.0</div>
-            <div class="option-card__title">⭐ View on GitHub</div>
+            <div class="option-card__title">
+              <!-- pixel star icon -->
+              <svg viewBox="0 0 12 12" width="20" height="20" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;flex-shrink:0">
+                <rect x="5" y="0" width="2" height="3" fill="#1a2600"/>
+                <rect x="3" y="3" width="6" height="1" fill="#1a2600"/>
+                <rect x="0" y="4" width="12" height="3" fill="#1a2600"/>
+                <rect x="1" y="7" width="10" height="1" fill="#1a2600"/>
+                <rect x="2" y="8" width="3" height="1" fill="#1a2600"/>
+                <rect x="7" y="8" width="3" height="1" fill="#1a2600"/>
+                <rect x="2" y="9" width="2" height="2" fill="#1a2600"/>
+                <rect x="8" y="9" width="2" height="2" fill="#1a2600"/>
+              </svg>
+              View on GitHub
+            </div>
           </div>
           <div class="option-card__arrow">↗</div>
         </a>
@@ -942,13 +878,14 @@
     <div class="wrap newsletter-strip__inner">
       <div>
         <div class="newsletter-strip__title">The weekly newsletter that built this book.</div>
-        <div class="newsletter-strip__sub">3,800 subscribers · 32 issues · New edition every week</div>
+        <div class="newsletter-strip__sub">3,800 subscribers · 32 issues · new edition every week</div>
       </div>
-      <a class="btn btn--white"
-         href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/"
-         target="_blank" rel="noopener">
-        Subscribe on LinkedIn →
-      </a>
+      <div style="display:flex;gap:0.75rem;flex-wrap:wrap">
+        <a class="btn btn--ink"
+           href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/"
+           target="_blank" rel="noopener">Subscribe →</a>
+        <a class="btn btn--ink" href="editions.html">Browse editions →</a>
+      </div>
     </div>
   </div>
 
@@ -957,14 +894,14 @@
     <div class="wrap author__inner">
       <div class="author__badge">
         <div class="author__name">Pete Woodbridge</div>
-        <div class="author__role">Creative Technologist · Innovation Director<br>Founder, DreamLab AI Collective</div>
+        <div class="author__role">Creative Technologist<br>Innovation Director<br>Founder, DreamLab AI Collective</div>
         <a class="author__studio" href="https://dreamlab.org.uk/" target="_blank" rel="noopener">dreamlab.org.uk</a>
       </div>
       <div class="author__bio">
         <p>Pete Woodbridge is a Creative Technologist and Innovation Director working across AI, immersive, interactive and experiential tech, real-time production and next-generation storytelling — across film, games, interactive and immersive experiences.</p>
-        <p>He has worked with partners including Intel, Google, McLaren, ITV, Sony, Aardman, Red Bull, IBM, BBC, NBC, Crytek, Apple, MediaCityUK, Saatchi &amp; Saatchi and Universal. He has developed innovation and investment programmes for the UK creative industries including the <strong>£3.2 million Innovation Accelerator (Innovate UK)</strong> at MediaCity and the <strong>£7.2 million MusicFutures programme (UKRI / AHRC)</strong> in Liverpool.</p>
-        <p><a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab AI Collective</a> — the studio the book is written from — is a network of ~50 deep-tech specialists across labs in Manchester, Liverpool, Cumbria and London, operating since January 2024. The studio has supported 100+ businesses, delivered 35+ collaborative projects, and helped channel approximately £2.7 million of investment into partner organisations.</p>
-        <p>The <em>Dream Machine</em> newsletter has been running weekly since October 2025. The podcast is available on <a href="https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk" target="_blank" rel="noopener">Spotify</a>.</p>
+        <p>He has worked with Intel, Google, McLaren, ITV, Sony, Aardman, Red Bull, IBM, BBC, NBC, Crytek, Apple, MediaCityUK, Saatchi &amp; Saatchi and Universal. Innovation programmes include the <strong>£3.2 million Innovation Accelerator (Innovate UK)</strong> at MediaCity and the <strong>£7.2 million MusicFutures programme (UKRI / AHRC)</strong> in Liverpool.</p>
+        <p><a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab AI Collective</a> is a network of ~50 deep-tech specialists across Manchester, Liverpool, Cumbria and London. The studio has supported 100+ businesses, delivered 35+ projects, and helped channel ~£2.7 million of investment into partner organisations.</p>
+        <p>The <em>Dream Machine</em> podcast is on <a href="https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk" target="_blank" rel="noopener">Spotify</a>.</p>
       </div>
     </div>
   </section>
@@ -975,12 +912,12 @@
       <div class="footer__brand">DREAM MACHINE</div>
       <div class="footer__links">
         <a href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/" target="_blank" rel="noopener">Newsletter</a>
+        <a href="editions.html">Editions</a>
         <a href="https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk" target="_blank" rel="noopener">Podcast</a>
         <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
         <a href="https://github.com/petejwoodbridge/DreamMachine-Book" target="_blank" rel="noopener">GitHub</a>
-        <a href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf" target="_blank" rel="noopener">Download PDF</a>
       </div>
-      <div class="footer__copy">© 2026 Pete Woodbridge / DreamLab AI Collective. MIT / Apache-2.0.</div>
+      <div class="footer__copy">© 2026 Pete Woodbridge / DreamLab AI Collective.</div>
     </div>
   </footer>
 

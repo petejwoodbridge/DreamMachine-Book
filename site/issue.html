@@ -4,137 +4,661 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Issue — Dream Machine</title>
-  <link rel="stylesheet" href="assets/styles.css" />
+  <meta name="description" content="Dream Machine newsletter issue reading list." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --lime:  #c8ff66;
+      --lime2: #b8f044;
+      --mag:   #ff33cc;
+      --cyan:  #00ccff;
+      --ink:   #1a2600;
+      --ink2:  #0d1500;
+      --mid:   #2a3c00;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Space Grotesk', system-ui, sans-serif;
+      background: var(--ink2);
+      color: var(--lime);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+    body::after {
+      content: '';
+      position: fixed; inset: 0;
+      pointer-events: none; z-index: 9999;
+      background: repeating-linear-gradient(
+        0deg, transparent 0px, transparent 3px,
+        rgba(0,0,0,0.04) 3px, rgba(0,0,0,0.04) 4px
+      );
+    }
+    .px { font-family: 'Press Start 2P', monospace; }
+    a { color: inherit; text-decoration: none; }
+    img { display: block; max-width: 100%; }
+
+    .wrap { max-width: 1140px; margin: 0 auto; padding: 0 1.5rem; }
+
+    /* ── Nav ── */
+    .nav {
+      position: sticky; top: 0; z-index: 100;
+      background: var(--ink2);
+      border-bottom: 3px solid var(--mag);
+    }
+    .nav__inner {
+      display: flex; align-items: center; justify-content: space-between;
+      height: 64px; gap: 1rem;
+    }
+    .nav__brand {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.9rem; color: var(--mag);
+      text-shadow: 3px 3px 0 var(--cyan);
+      letter-spacing: 0.05em; line-height: 1.4;
+      white-space: nowrap;
+    }
+    .nav__links { display: flex; align-items: center; gap: 1.25rem; }
+    .nav__links a {
+      font-size: 0.7rem; font-weight: 600;
+      color: rgba(200,255,102,0.65);
+      transition: color 0.15s; letter-spacing: 0.04em;
+    }
+    .nav__links a:hover { color: var(--lime); }
+    .nav__cta {
+      background: var(--mag);
+      color: var(--ink);
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.5rem;
+      padding: 0.5rem 0.9rem;
+      box-shadow: 3px 3px 0 var(--ink);
+      transition: box-shadow 0.1s;
+    }
+    .nav__cta:hover { box-shadow: 5px 5px 0 var(--ink); }
+
+    /* ── Issue header ── */
+    .issue-header {
+      background: var(--ink);
+      border-bottom: 3px solid var(--lime);
+      padding: 3rem 0 2.5rem;
+      background-image:
+        linear-gradient(rgba(200,255,102,0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(200,255,102,0.025) 1px, transparent 1px);
+      background-size: 8px 8px;
+      background-color: var(--ink);
+    }
+    .issue-header__inner {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 2rem;
+      align-items: start;
+    }
+    .issue-num {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.55rem; letter-spacing: 0.2em;
+      color: var(--mag); margin-bottom: 0.75rem;
+      display: flex; align-items: center; gap: 0.75rem;
+    }
+    .issue-num::before {
+      content: '';
+      display: inline-block;
+      width: 8px; height: 8px;
+      background: var(--mag);
+      box-shadow: 0 0 0 2px var(--ink), 0 0 0 4px var(--mag);
+    }
+    .issue-title {
+      font-family: 'Press Start 2P', monospace;
+      font-size: clamp(0.85rem, 2.2vw, 1.45rem);
+      line-height: 1.6;
+      color: var(--lime);
+      margin-bottom: 0.75rem;
+    }
+    .issue-date {
+      font-size: 0.8rem;
+      color: rgba(200,255,102,0.45);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+    }
+    .issue-nav { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+    .px-btn {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.5rem;
+      padding: 0.5rem 0.9rem;
+      border: 2px solid var(--lime);
+      color: var(--lime);
+      background: transparent;
+      cursor: pointer;
+      letter-spacing: 0.04em;
+      transition: background 0.1s, color 0.1s;
+      box-shadow: 2px 2px 0 rgba(200,255,102,0.2);
+    }
+    .px-btn:hover { background: var(--lime); color: var(--ink); }
+    .px-btn--mag {
+      border-color: var(--mag); color: var(--mag);
+      box-shadow: 2px 2px 0 rgba(255,51,204,0.2);
+    }
+    .px-btn--mag:hover { background: var(--mag); color: var(--ink); }
+    .px-btn--dim { opacity: 0.3; pointer-events: none; }
+
+    /* ── Stats row ── */
+    .issue-stats {
+      display: flex; gap: 1.5rem; flex-wrap: wrap;
+      padding: 1.25rem 0 0;
+      border-top: 1px solid rgba(200,255,102,0.1);
+      margin-top: 1.25rem;
+    }
+    .issue-stat__num {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 1rem; color: var(--lime);
+      text-shadow: 2px 2px 0 var(--mag);
+      display: block;
+    }
+    .issue-stat__label {
+      font-size: 0.7rem;
+      color: rgba(200,255,102,0.45);
+      letter-spacing: 0.06em;
+    }
+
+    /* ── Side panel ── */
+    .issue-body {
+      display: grid;
+      grid-template-columns: 1fr 240px;
+      gap: 2rem;
+      align-items: start;
+      padding: 2.5rem 0 4rem;
+    }
+    @media (max-width: 800px) {
+      .issue-body { grid-template-columns: 1fr; }
+      .issue-aside { order: -1; }
+      .issue-header__inner { grid-template-columns: 1fr; }
+      .nav__links { gap: 0.6rem; }
+      .nav__cta { display: none; }
+    }
+
+    /* ── Filter tabs ── */
+    .filter-bar {
+      display: flex; gap: 0.4rem; flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+    .filter-tab {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.45rem;
+      padding: 0.4rem 0.8rem;
+      border: 2px solid rgba(200,255,102,0.3);
+      color: rgba(200,255,102,0.5);
+      background: transparent;
+      cursor: pointer;
+      letter-spacing: 0.04em;
+      transition: all 0.1s;
+    }
+    .filter-tab:hover, .filter-tab.active {
+      border-color: var(--lime); color: var(--lime);
+      background: rgba(200,255,102,0.07);
+    }
+    .filter-tab.active {
+      background: var(--lime); color: var(--ink);
+    }
+
+    /* ── Link cards ── */
+    .link-group { margin-bottom: 2.5rem; }
+    .link-group__heading {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.5rem;
+      letter-spacing: 0.2em;
+      color: var(--mag);
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid rgba(255,51,204,0.25);
+      display: flex; align-items: center; gap: 0.5rem;
+    }
+    .link-group__heading span {
+      color: rgba(200,255,102,0.3);
+      font-size: 0.45rem;
+    }
+
+    .link-list { display: flex; flex-direction: column; gap: 3px; }
+
+    .link-card {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 0.75rem;
+      align-items: center;
+      padding: 0.7rem 0.9rem;
+      background: rgba(200,255,102,0.04);
+      border: 1px solid rgba(200,255,102,0.08);
+      transition: background 0.1s, border-color 0.1s;
+      text-decoration: none;
+      color: var(--lime);
+    }
+    .link-card:hover {
+      background: rgba(200,255,102,0.09);
+      border-color: rgba(200,255,102,0.2);
+      color: var(--lime);
+    }
+    .link-card--li {
+      background: rgba(0,204,255,0.03);
+      border-color: rgba(0,204,255,0.08);
+    }
+    .link-card--li:hover {
+      background: rgba(0,204,255,0.07);
+      border-color: rgba(0,204,255,0.2);
+    }
+
+    .link-card__domain {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.4rem;
+      letter-spacing: 0.04em;
+      color: var(--ink);
+      background: var(--lime);
+      padding: 0.2rem 0.45rem;
+      white-space: nowrap;
+      flex-shrink: 0;
+      align-self: flex-start;
+      margin-top: 2px;
+    }
+    .link-card--li .link-card__domain {
+      background: var(--cyan);
+    }
+    .link-card__text {
+      font-size: 0.82rem;
+      line-height: 1.45;
+      color: rgba(200,255,102,0.85);
+      min-width: 0;
+    }
+    .link-card__path {
+      font-size: 0.68rem;
+      color: rgba(200,255,102,0.35);
+      display: block;
+      margin-top: 0.15rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .link-card--li .link-card__text { color: rgba(0,204,255,0.85); }
+    .link-card--li .link-card__path { color: rgba(0,204,255,0.3); }
+    .link-card__arrow {
+      font-size: 0.75rem;
+      opacity: 0.3;
+      flex-shrink: 0;
+      transition: opacity 0.1s;
+    }
+    .link-card:hover .link-card__arrow { opacity: 0.7; }
+
+    /* ── Sidebar ── */
+    .issue-aside {
+      position: sticky;
+      top: 80px;
+    }
+    .aside-box {
+      background: var(--ink);
+      border: 2px solid rgba(200,255,102,0.15);
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+      box-shadow: 4px 4px 0 var(--ink2);
+    }
+    .aside-box__heading {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.45rem;
+      letter-spacing: 0.15em;
+      color: var(--mag);
+      margin-bottom: 0.9rem;
+    }
+    .domain-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 0.35rem 0;
+      border-bottom: 1px solid rgba(200,255,102,0.07);
+      cursor: pointer;
+      transition: color 0.1s;
+    }
+    .domain-row:last-child { border-bottom: none; }
+    .domain-row:hover { color: var(--lime2); }
+    .domain-row__name { font-size: 0.72rem; color: rgba(200,255,102,0.65); }
+    .domain-row__count {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.4rem;
+      color: var(--mag);
+      background: rgba(255,51,204,0.1);
+      padding: 0.2rem 0.45rem;
+    }
+
+    /* ── Empty state ── */
+    .empty-state {
+      text-align: center;
+      padding: 3rem;
+      color: rgba(200,255,102,0.3);
+    }
+    .empty-state .px { font-size: 0.6rem; line-height: 2; }
+
+    /* ── Footer ── */
+    .footer {
+      background: var(--ink2);
+      border-top: 3px solid var(--lime);
+      padding: 2rem 0;
+    }
+    .footer__inner {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 1rem; flex-wrap: wrap;
+    }
+    .footer__brand {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.6rem; color: var(--mag);
+      text-shadow: 2px 2px 0 var(--cyan);
+    }
+    .footer__copy { font-size: 0.7rem; color: rgba(200,255,102,0.3); }
+    .footer__link { color: rgba(200,255,102,0.45); font-size: 0.72rem; }
+    .footer__link:hover { color: var(--lime); }
+  </style>
 </head>
 <body>
-  <div class="bg-layer"></div>
-  <div class="bg-grid"></div>
-  <div class="orb orb--pink"></div>
-  <div class="orb orb--cyan"></div>
 
   <nav class="nav">
-    <div class="container nav__inner">
-      <a class="brand" href="index.html">
-        <span class="brand__mark">DREAM MACHINE</span>
-        <span class="brand__tag">A creative's guide to AI</span>
-      </a>
+    <div class="wrap nav__inner">
+      <a class="nav__brand" href="index.html">DREAM MACHINE</a>
       <div class="nav__links">
-        <a class="nav__link" href="tools.html">Toolkit</a>
-        <a class="nav__link" href="use-cases.html">Use Cases</a>
-        <a class="nav__link" href="issues.html">Issues</a>
-        <a class="nav__link" href="editions.html">Newsletter</a>
-        <a class="nav__link" href="graph.html">Graph</a>
-        <a class="nav__link" href="book.html">Book</a>
+        <a href="tools.html">Toolkit</a>
+        <a href="use-cases.html">Use Cases</a>
+        <a href="issues.html">Issues</a>
+        <a href="editions.html">Newsletter</a>
+        <a href="graph.html">Graph</a>
+        <a href="book.html">Book</a>
         <a class="nav__cta" href="book.html">Read the book</a>
       </div>
     </div>
   </nav>
 
-  <section class="section">
-    <div class="container">
-      <div class="issue-reader">
-        <article id="issue-body">
-          <div class="issue-reader__header">
-            <div class="issue-reader__num">Issue <span id="i-num">—</span></div>
-            <h1 class="issue-reader__title" id="i-title">Loading…</h1>
-            <div class="issue-reader__date" id="i-date"></div>
-            <div style="margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap;">
-              <a id="prev-link" class="btn btn--ghost btn--small">← Previous</a>
-              <a href="editions.html" class="btn btn--ghost btn--small">All editions</a>
-              <a id="next-link" class="btn btn--ghost btn--small">Next →</a>
-            </div>
+  <header class="issue-header">
+    <div class="wrap">
+      <div class="issue-header__inner">
+        <div>
+          <div class="issue-num px" id="i-num">ISSUE —</div>
+          <h1 class="issue-title" id="i-title">Loading…</h1>
+          <div class="issue-date px" id="i-date"></div>
+          <div class="issue-nav" id="i-nav">
+            <a id="prev-btn" class="px-btn">← PREV</a>
+            <a href="editions.html" class="px-btn">ALL EDITIONS</a>
+            <a id="next-btn" class="px-btn">NEXT →</a>
+            <a id="li-btn" class="px-btn px-btn--mag" target="_blank" rel="noopener"
+               href="https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/">
+              LINKEDIN ↗
+            </a>
           </div>
-
-          <div id="spotlight-wrap"></div>
-          <div id="sections-wrap"></div>
-        </article>
-
-        <aside class="issue-reader__aside">
-          <div class="issue-toc">
-            <div class="issue-toc__heading">In this issue</div>
-            <div id="i-toc"></div>
-          </div>
-        </aside>
+          <div class="issue-stats" id="i-stats"></div>
+        </div>
       </div>
     </div>
-  </section>
+  </header>
+
+  <div class="wrap issue-body">
+    <main>
+      <div class="filter-bar" id="filter-bar">
+        <button class="filter-tab active" data-filter="all">ALL LINKS</button>
+        <button class="filter-tab" data-filter="ext">EXTERNAL</button>
+        <button class="filter-tab" data-filter="li">LINKEDIN</button>
+      </div>
+      <div id="links-output"></div>
+    </main>
+    <aside class="issue-aside">
+      <div class="aside-box" id="domain-box">
+        <div class="aside-box__heading">SOURCES</div>
+        <div id="domain-list"></div>
+      </div>
+      <div class="aside-box">
+        <div class="aside-box__heading">NAVIGATE</div>
+        <div style="display:flex;flex-direction:column;gap:0.5rem;margin-top:0.25rem;">
+          <a id="aside-prev" class="px-btn" style="text-align:center;">← PREV ISSUE</a>
+          <a id="aside-next" class="px-btn" style="text-align:center;">NEXT ISSUE →</a>
+        </div>
+      </div>
+    </aside>
+  </div>
 
   <footer class="footer">
-    <div class="container">
-      <div class="footer__base">
-        <span>© 2026 Pete Woodbridge / DreamLab AI Collective.</span>
-        <span><a href="editions.html">← All editions</a></span>
-      </div>
+    <div class="wrap footer__inner">
+      <span class="footer__brand">DREAM MACHINE</span>
+      <a href="editions.html" class="footer__link">← All editions</a>
+      <span class="footer__copy">© 2026 Pete Woodbridge / DreamLab AI Collective.</span>
     </div>
   </footer>
 
   <script src="assets/app.js"></script>
   <script>
     (async () => {
-      const issues = await DM.loadJSON('issues');
+      const issues   = await DM.loadJSON('issues');
       const editions = await DM.loadJSON('editions');
-      const latest = editions[0]?.issue || 1;
+      const latest   = editions[0]?.issue || 1;
+
       let n = parseInt(DM.qs('n'), 10);
       if (isNaN(n)) n = latest;
       const issue = issues.find(i => i.issue === n) || issues[issues.length - 1];
+      const prev  = issues.find(i => i.issue === issue.issue - 1);
+      const next  = issues.find(i => i.issue === issue.issue + 1);
 
+      // Header
       document.title = `Issue ${issue.issue} — Dream Machine`;
-      document.getElementById('i-num').textContent = issue.issue;
-      document.getElementById('i-title').textContent = issue.title;
-      document.getElementById('i-date').textContent = DM.fmtDate(issue.date);
+      document.getElementById('i-num').textContent  = `ISSUE ${issue.issue}`;
+      document.getElementById('i-title').textContent = issue.title.replace(/^Dream Machine — /, '');
+      document.getElementById('i-date').textContent  = DM.fmtDate(issue.date).toUpperCase();
 
-      // Prev / next links
-      const prev = issues.find(i => i.issue === issue.issue - 1);
-      const next = issues.find(i => i.issue === issue.issue + 1);
-      const $prev = document.getElementById('prev-link');
-      const $next = document.getElementById('next-link');
-      if (prev) $prev.setAttribute('href', `issue.html?n=${prev.issue}`); else $prev.style.display = 'none';
-      if (next) $next.setAttribute('href', `issue.html?n=${next.issue}`); else $next.style.display = 'none';
+      // Prev / next
+      const $prev = document.getElementById('prev-btn');
+      const $next = document.getElementById('next-btn');
+      if (prev) $prev.setAttribute('href', `issue.html?n=${prev.issue}`);
+      else $prev.classList.add('px-btn--dim');
+      if (next) $next.setAttribute('href', `issue.html?n=${next.issue}`);
+      else $next.classList.add('px-btn--dim');
 
-      // Spotlight
-      const $sp = document.getElementById('spotlight-wrap');
-      if (issue.tool_spotlight && issue.tool_spotlight.length) {
-        $sp.innerHTML = `
-          <section class="news-section">
-            <h2 class="news-section__heading">Tool <em>Spotlight</em></h2>
-            <ul class="news-list">
-              ${issue.tool_spotlight.map(item => renderItem(item)).join('')}
-            </ul>
-          </section>
-        `;
+      const $ap = document.getElementById('aside-prev');
+      const $an = document.getElementById('aside-next');
+      if (prev) $ap.setAttribute('href', `issue.html?n=${prev.issue}`);
+      else { $ap.classList.add('px-btn--dim'); $ap.removeAttribute('href'); }
+      if (next) $an.setAttribute('href', `issue.html?n=${next.issue}`);
+      else { $an.classList.add('px-btn--dim'); $an.removeAttribute('href'); }
+
+      // Filter LinkedIn nav/UI URLs, keep content URLs
+      const LI_NAV = ['/feed/', '/mynetwork/', '/jobs/', '/messaging/',
+                      '/notifications/', '/campaignmanager/', '/analytics/',
+                      '/article/edit/'];
+      function isUseful(url) {
+        if (!url.startsWith('http')) return false;
+        try {
+          const u = new URL(url);
+          if (u.hostname.includes('linkedin.com')) {
+            const p = u.pathname;
+            if (LI_NAV.some(n => p.startsWith(n))) return false;
+            if (p === '/' || p === '') return false;
+            if (/^\/(feed|mynetwork|jobs|messaging|notifications)(\?|$)/.test(p)) return false;
+          }
+          return true;
+        } catch(e) { return false; }
+      }
+      function isExternal(url) {
+        try { return !new URL(url).hostname.includes('linkedin.com'); }
+        catch(e) { return false; }
+      }
+      function getDomain(url) {
+        try { return new URL(url).hostname.replace(/^www\./, ''); }
+        catch(e) { return url; }
+      }
+      function makeTitle(url) {
+        try {
+          const u = new URL(url);
+          const parts = u.pathname.replace(/\/$/, '').split('/').filter(Boolean);
+          if (!parts.length) return u.hostname;
+          const slug = parts[parts.length - 1];
+          return slug
+            .replace(/[-_]/g, ' ')
+            .replace(/\.\w+$/, '')
+            .replace(/\b\w/g, c => c.toUpperCase())
+            .slice(0, 90) || u.hostname;
+        } catch(e) { return url; }
+      }
+      function makePath(url) {
+        try {
+          const u = new URL(url);
+          const p = u.pathname.length > 55
+            ? u.pathname.slice(0, 55) + '…'
+            : u.pathname;
+          return u.hostname + p;
+        } catch(e) { return url; }
       }
 
-      // Sections
-      const $sec = document.getElementById('sections-wrap');
-      $sec.innerHTML = issue.sections.map((s, i) => `
-        <section class="news-section" id="sec-${i}">
-          <h2 class="news-section__heading">${DM.escapeHTML(s.heading)}</h2>
-          <ul class="news-list">
-            ${s.items.map(item => renderItem(item)).join('')}
-          </ul>
-        </section>
-      `).join('');
+      const allFiltered = (issue.all_urls || []).filter(isUseful);
+      const extUrls = allFiltered.filter(isExternal);
+      const liUrls  = allFiltered.filter(u => !isExternal(u));
 
-      // TOC
-      const $toc = document.getElementById('i-toc');
-      const toc = [];
-      if (issue.tool_spotlight && issue.tool_spotlight.length) {
-        toc.push({ href: '#spotlight-wrap', label: `Tool Spotlight (${issue.tool_spotlight.length})` });
-      }
-      issue.sections.forEach((s, i) => {
-        toc.push({ href: `#sec-${i}`, label: `${s.heading} (${s.items.length})` });
+      // Stats
+      document.getElementById('i-stats').innerHTML = `
+        <div><span class="issue-stat__num">${extUrls.length}</span><span class="issue-stat__label"> External sources</span></div>
+        <div><span class="issue-stat__num">${liUrls.length}</span><span class="issue-stat__label"> LinkedIn posts</span></div>
+        <div><span class="issue-stat__num">${allFiltered.length}</span><span class="issue-stat__label"> Total links</span></div>
+      `;
+
+      // Domain breakdown
+      const domainCounts = {};
+      extUrls.forEach(u => {
+        const d = getDomain(u);
+        domainCounts[d] = (domainCounts[d] || 0) + 1;
       });
-      $toc.innerHTML = toc.map(t =>
-        `<a class="issue-toc__link" href="${t.href}">${DM.escapeHTML(t.label)}</a>`
-      ).join('');
+      const topDomains = Object.entries(domainCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 12);
+      document.getElementById('domain-list').innerHTML = topDomains.length
+        ? topDomains.map(([d, c]) => `
+            <div class="domain-row">
+              <span class="domain-row__name">${d}</span>
+              <span class="domain-row__count">${c}</span>
+            </div>`).join('')
+        : '<div style="font-size:0.72rem;color:rgba(200,255,102,0.3)">No external links</div>';
 
-      function renderItem(item) {
-        const text = DM.escapeHTML(item.text);
-        if (item.url) {
-          return `<li><a href="${DM.escapeHTML(item.url)}" target="_blank" rel="noopener">${text}</a></li>`;
+      // Render links
+      function renderLinks(filter) {
+        let ext = extUrls, li = liUrls;
+        if (filter === 'ext') li = [];
+        if (filter === 'li')  ext = [];
+
+        const $out = document.getElementById('links-output');
+
+        if (!ext.length && !li.length) {
+          $out.innerHTML = `<div class="empty-state"><p class="px">NO LINKS FOUND</p><p style="margin-top:1rem;font-size:0.8rem">This issue has no filtered URLs.</p></div>`;
+          return;
         }
-        return `<li><span>${text}</span></li>`;
+
+        let html = '';
+
+        if (ext.length) {
+          html += `<div class="link-group">
+            <div class="link-group__heading">
+              EXTERNAL SOURCES <span>(${ext.length})</span>
+            </div>
+            <div class="link-list">
+              ${ext.map(url => `
+                <a class="link-card" href="${escH(url)}" target="_blank" rel="noopener">
+                  <span class="link-card__domain">${escH(getDomain(url))}</span>
+                  <span>
+                    <span class="link-card__text">${escH(makeTitle(url))}</span>
+                    <span class="link-card__path">${escH(makePath(url))}</span>
+                  </span>
+                  <span class="link-card__arrow">↗</span>
+                </a>`).join('')}
+            </div>
+          </div>`;
+        }
+
+        if (li.length) {
+          html += `<div class="link-group">
+            <div class="link-group__heading" style="color:var(--cyan);border-color:rgba(0,204,255,0.25)">
+              LINKEDIN POSTS <span style="color:rgba(0,204,255,0.35)">(${li.length})</span>
+            </div>
+            <div class="link-list">
+              ${li.map(url => `
+                <a class="link-card link-card--li" href="${escH(url)}" target="_blank" rel="noopener">
+                  <span class="link-card__domain">linkedin</span>
+                  <span>
+                    <span class="link-card__text">${escH(makeTitle(url))}</span>
+                    <span class="link-card__path">${escH(makePath(url))}</span>
+                  </span>
+                  <span class="link-card__arrow">↗</span>
+                </a>`).join('')}
+            </div>
+          </div>`;
+        }
+
+        $out.innerHTML = html;
       }
+
+      function escH(s) {
+        return String(s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;');
+      }
+
+      // Filter tabs
+      let currentFilter = 'all';
+      document.getElementById('filter-bar').addEventListener('click', e => {
+        const tab = e.target.closest('.filter-tab');
+        if (!tab) return;
+        document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        currentFilter = tab.dataset.filter;
+        renderLinks(currentFilter);
+      });
+
+      // Also handle structured sections if present (future-proofing)
+      if (issue.sections && issue.sections.length) {
+        // Show sections alongside links — prepend them
+        const $out = document.getElementById('links-output');
+        const secHtml = issue.sections.map((s, i) => `
+          <div class="link-group">
+            <div class="link-group__heading">${escH(s.heading)} <span>(${s.items.length})</span></div>
+            <div class="link-list">
+              ${s.items.map(item => item.url
+                ? `<a class="link-card" href="${escH(item.url)}" target="_blank" rel="noopener">
+                     <span class="link-card__domain">${escH(getDomain(item.url))}</span>
+                     <span><span class="link-card__text">${escH(item.text)}</span></span>
+                     <span class="link-card__arrow">↗</span>
+                   </a>`
+                : `<div class="link-card" style="pointer-events:none">
+                     <span class="link-card__domain" style="background:var(--mid);color:var(--lime)">NOTE</span>
+                     <span><span class="link-card__text">${escH(item.text)}</span></span>
+                     <span></span>
+                   </div>`
+              ).join('')}
+            </div>
+          </div>`).join('');
+        const spotHtml = (issue.tool_spotlight && issue.tool_spotlight.length) ? `
+          <div class="link-group">
+            <div class="link-group__heading" style="color:var(--lime2)">TOOL SPOTLIGHT <span>(${issue.tool_spotlight.length})</span></div>
+            <div class="link-list">
+              ${issue.tool_spotlight.map(item => item.url
+                ? `<a class="link-card" href="${escH(item.url)}" target="_blank" rel="noopener">
+                     <span class="link-card__domain">${escH(getDomain(item.url))}</span>
+                     <span><span class="link-card__text">${escH(item.text)}</span></span>
+                     <span class="link-card__arrow">↗</span>
+                   </a>`
+                : `<div class="link-card" style="pointer-events:none">
+                     <span class="link-card__domain" style="background:var(--lime2);color:var(--ink)">TOOL</span>
+                     <span><span class="link-card__text">${escH(item.text)}</span></span>
+                     <span></span>
+                   </div>`
+              ).join('')}
+            </div>
+          </div>` : '';
+
+        // Hide filter bar and show structured content + raw links
+        document.getElementById('filter-bar').style.display = 'none';
+        $out.innerHTML = spotHtml + secHtml;
+        // Also add unstructured links at bottom
+        renderLinks('all');
+        return;
+      }
+
+      renderLinks('all');
     })();
   </script>
 </body>
