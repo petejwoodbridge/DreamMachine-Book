@@ -42,7 +42,7 @@ If you've read it once, the version you read next month will be different — so
 - **[Dream Machine podcast](https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk?si=0566baf9826242c0)** — long-form conversations on the same material.
 - **[DreamLab AI Collective](https://dreamlab.org.uk/)** — the ~50-person deep-tech studio in the North West of England where the work is done.
 
-Written by [Pete Woodbridge](https://dreamlab.org.uk/) — creative technologist, Innovation Director, founder of DreamLab AI Collective.
+Written by [Pete Woodbridge](https://dreamlab.org.uk/) — creative technologist, Innovation Director, founder of DreamLab AI Collective. With contributions from **Dr John O'Hare** and members of the **DreamLab Collective**.
 
 ---
 
