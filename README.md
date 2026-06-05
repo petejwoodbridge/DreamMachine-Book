@@ -12,6 +12,8 @@ A practitioner's account of the year generative AI re-platformed the creative in
 
 <p align="center">
   <strong><a href="Book/build/Dream_Machine.pdf">📖 Read the latest PDF →</a></strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <strong><a href="https://petejwoodbridge.github.io/DreamMachine-Book/">🌐 Browse the companion site →</a></strong>
 </p>
 
 ### Editions
@@ -176,6 +178,8 @@ python Book/watch_book.py
 If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf)) or any prior edition from the table above.
 
 ## The companion website
+
+**Live at: [petejwoodbridge.github.io/DreamMachine-Book](https://petejwoodbridge.github.io/DreamMachine-Book/)**
 
 The repo also ships a static website — **Dream Machine: A creative's guide to AI** — that turns the book's tool inventory and newsletter archive into a browsable, searchable toolkit. It lives in [site/](site/) and is regenerated automatically every time the book is rebuilt.
 
