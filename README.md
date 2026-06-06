@@ -1,4 +1,4 @@
-# Dream Machine
+﻿# Dream Machine
 
 ### *Artificial Intelligence and the Next Creative Economy*
 
@@ -13,7 +13,7 @@ A practitioner's account of the year generative AI re-platformed the creative in
 <p align="center">
   <strong><a href="Book/build/Dream_Machine.pdf">📖 Read the latest PDF →</a></strong>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <strong><a href="https://www.amazon.com/dp/B0H44ZSGP2">🛒 Buy in print on Amazon →</a></strong>
+  <strong><a href="https://www.amazon.co.uk/dp/B0H44ZSGP2">🛒 Buy in print on Amazon →</a></strong>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <strong><a href="https://petejwoodbridge.github.io/DreamMachine-Book/">🌐 Browse the companion site →</a></strong>
 </p>

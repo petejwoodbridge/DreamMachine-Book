@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Creative Toolkit — dream machine</title>
+  <meta name="description" content="The world's best AI toolkit for creatives. 550+ tools organised by craft — video, music, image, 3D, voice, games and more. Includes prompting guides." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <style>
+    /* ═══════════════════════════════════════════════════════
+       TOKENS — matching root index.html exactly
+       ═══════════════════════════════════════════════════════ */
+    :root {
+      --lime:    #c8ff66;
+      --lime-dk: #a8e040;
+      --mag:     #ff33cc;
+      --cyan:    #00ccff;
+      --dark:    #0d0d0d;
+      --mid:     #1a1a1a;
+      --card:    #141414;
+      --muted:   #888;
+      --white:   #ffffff;
+      --r:       12px;
+    }
+
+    /* ── Reset ─────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Space Grotesk', system-ui, sans-serif;
+      background: var(--dark);
+      color: var(--white);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+    img { display: block; max-width: 100%; }
+    a { color: inherit; text-decoration: none; }
+    button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+
+    /* ── Layout ─────────────────────────────────────────────── */
+    .wrap {
+      max-width: 1160px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    /* nav comes from assets/styles.css */
+
+    /* ── Section base ───────────────────────────────────────── */
+    .section { padding: 4.5rem 0; }
+    .section--dark { background: var(--dark); }
+    .section--mid  { background: var(--mid); }
+    .section--lime { background: var(--lime); color: var(--dark); }
+    .section__label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--mag);
+      margin-bottom: 0.75rem;
+    }
+    .section--lime .section__label { color: var(--dark); opacity: 0.5; }
+    .section__title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.8rem, 4vw, 3.2rem);
+      font-weight: 900;
+      line-height: 1.05;
+      letter-spacing: -0.01em;
+      margin-bottom: 1rem;
+    }
+    .section--lime .section__title { color: var(--dark); }
+    .section__lede {
+      font-size: 1rem;
+      max-width: 60ch;
+      opacity: 0.65;
+      margin-bottom: 2.5rem;
+      line-height: 1.7;
+    }
+    .section--lime .section__lede { opacity: 0.7; color: var(--dark); }
+
+    /* ── Stats bar ──────────────────────────────────────────── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+      padding: 2rem 0 0.5rem;
+    }
+    @media (max-width: 600px) { .stats-bar { grid-template-columns: repeat(2, 1fr); } }
+    .stat { text-align: center; }
+    .stat__num {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.4rem, 2.5vw, 2rem);
+      font-weight: 900;
+      color: var(--lime);
+      line-height: 1;
+    }
+    .stat__label {
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 0.3rem;
+    }
+
+    /* ── WIP notice ─────────────────────────────────────────── */
+    .wip-notice {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      margin: 1rem 0 0.5rem;
+      background: rgba(255,51,204,0.08);
+      border: 1px solid rgba(255,51,204,0.35);
+      color: var(--mag);
+      font-size: 0.8rem; font-weight: 600;
+      padding: 0.45rem 1rem;
+      border-radius: 4px;
+      letter-spacing: 0.03em;
+    }
+
+    /* ── Search ─────────────────────────────────────────────── */
+    .search-wrap {
+      position: relative;
+      margin-bottom: 2.5rem;
+    }
+    .search-input {
+      width: 100%;
+      padding: 0.9rem 1.5rem 0.9rem 3.25rem;
+      background: var(--card);
+      border: 2px solid rgba(255,255,255,0.08);
+      border-radius: var(--r);
+      color: var(--white);
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s;
+      -webkit-appearance: none;
+    }
+    .search-input:focus { border-color: var(--mag); }
+    .search-input::placeholder { color: var(--muted); }
+    .search-icon {
+      position: absolute;
+      left: 1.1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.15rem;
+      color: var(--muted);
+      pointer-events: none;
+    }
+
+    /* ── Category grid ──────────────────────────────────────── */
+    .cat-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+    .cat-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 0.85rem;
+      margin-bottom: 3.5rem;
+    }
+    @media (max-width: 1000px) { .cat-grid { grid-template-columns: repeat(4, 1fr); } }
+    @media (max-width: 740px)  { .cat-grid { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 500px)  { .cat-grid { grid-template-columns: repeat(2, 1fr); } }
+
+    .cat-tile {
+      background: var(--card);
+      border-radius: var(--r);
+      padding: 1.25rem 1rem 1rem;
+      border: 1px solid rgba(255,255,255,0.05);
+      transition: border-color 0.2s, transform 0.2s;
+      position: relative;
+      overflow: hidden;
+      cursor: pointer;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+    .cat-tile::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--mag), var(--cyan));
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .cat-tile:hover { border-color: rgba(255,51,204,0.3); transform: translateY(-2px); }
+    .cat-tile:hover::before { opacity: 1; }
+    .cat-tile.is-active { border-color: var(--lime); }
+    .cat-tile.is-active::before { background: var(--lime); opacity: 1; }
+    .cat-tile__emoji { font-size: 1.5rem; line-height: 1; }
+    .cat-tile__name {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--white);
+      line-height: 1.25;
+    }
+    .cat-tile.is-active .cat-tile__name { color: var(--lime); }
+    .cat-tile__count { font-size: 0.68rem; color: var(--muted); font-weight: 600; }
+    .cat-tile.is-active .cat-tile__count { color: var(--lime-dk); }
+
+    /* ── Toolbar ────────────────────────────────────────────── */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1.25rem;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .toolbar__count {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-right: auto;
+    }
+    .toolbar__count strong { color: rgba(255,255,255,0.75); }
+
+    /* ── Chips ──────────────────────────────────────────────── */
+    .chips { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 0.3rem 0.85rem;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      background: rgba(255,51,204,0.12);
+      border: 1px solid rgba(255,51,204,0.3);
+      color: var(--mag);
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .chip:hover { background: rgba(255,51,204,0.22); }
+    .chip__x { opacity: 0.7; }
+    .chip--clear {
+      background: rgba(255,255,255,0.04);
+      border-color: rgba(255,255,255,0.1);
+      color: var(--muted);
+    }
+    .chip--clear:hover { color: var(--white); background: rgba(255,255,255,0.08); }
+
+    /* ── Tool grid ──────────────────────────────────────────── */
+    .tool-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1rem;
+    }
+    @media (max-width: 680px) { .tool-grid { grid-template-columns: 1fr; } }
+
+    .tk-card {
+      --cat-accent: #ff33cc;
+      background: var(--card);
+      border-radius: var(--r);
+      padding: 1.4rem 1.4rem 1.2rem;
+      border: 1px solid rgba(255,255,255,0.05);
+      transition: border-color 0.2s, transform 0.2s;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+    .tk-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--mag), var(--cyan));
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .tk-card:hover { border-color: rgba(255,51,204,0.3); transform: translateY(-2px); }
+    .tk-card:hover::before { opacity: 1; }
+    .tk-card__head {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.6rem;
+    }
+    .tk-card__name {
+      font-size: 0.92rem;
+      font-weight: 700;
+      line-height: 1.25;
+      color: var(--white);
+      flex: 1;
+    }
+    .tk-card__vendor {
+      font-size: 0.67rem;
+      color: var(--muted);
+      background: rgba(255,255,255,0.05);
+      padding: 2px 8px;
+      border-radius: 5px;
+      border: 1px solid rgba(255,255,255,0.07);
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .tk-card__blurb {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.55;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      flex: 1;
+    }
+    .tk-card__foot {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-top: 0.2rem;
+    }
+    .tk-card__cat {
+      font-size: 0.67rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--cat-accent);
+      flex: 1;
+      opacity: 0.85;
+    }
+    .tk-card__link {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--mag) !important;
+      padding: 3px 10px;
+      border: 1px solid var(--mag);
+      border-radius: 5px;
+      transition: background 0.15s, color 0.15s;
+      opacity: 0.8;
+    }
+    .tk-card__link:hover { background: var(--mag); color: var(--dark) !important; opacity: 1; }
+    .tk-card__issues { display: flex; gap: 4px; flex-wrap: wrap; }
+    .tk-card__pill {
+      font-size: 0.63rem;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 5px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: var(--muted);
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+    }
+    .tk-card__pill:hover { background: var(--mag); color: var(--dark) !important; border-color: var(--mag); }
+
+    /* ── Empty state ────────────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 4rem 1.5rem;
+      color: var(--muted);
+    }
+    .empty-state h3 { color: rgba(255,255,255,0.6); margin-bottom: 0.5rem; }
+    .empty-state p  { font-size: 0.88rem; margin-bottom: 1.25rem; }
+    .btn-ghost {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.5rem 1.25rem;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: rgba(255,255,255,0.65);
+      cursor: pointer;
+      transition: border-color 0.2s, color 0.2s;
+      font-family: 'Space Grotesk', sans-serif;
+      background: none;
+    }
+    .btn-ghost:hover { border-color: var(--lime); color: var(--lime); }
+
+    /* ── Prompting Guides ───────────────────────────────────── */
+    .guides-eyebrow {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--dark);
+      opacity: 0.45;
+      margin-bottom: 0.75rem;
+    }
+    .guides-title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(1.6rem, 3.5vw, 2.8rem);
+      font-weight: 900;
+      line-height: 1.05;
+      color: var(--dark);
+      margin-bottom: 0.75rem;
+    }
+    .guides-title span { color: var(--mag); text-shadow: 3px 3px 0 var(--cyan); }
+    .guides-lede {
+      font-size: 1rem;
+      color: var(--dark);
+      opacity: 0.65;
+      max-width: 58ch;
+      margin-bottom: 2.5rem;
+      line-height: 1.7;
+    }
+    .guides-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1rem;
+    }
+    @media (max-width: 720px) { .guides-grid { grid-template-columns: 1fr; } }
+
+    .guide-card {
+      background: var(--dark);
+      border-radius: var(--r);
+      padding: 1.75rem;
+      border: 1px solid rgba(0,0,0,0.12);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .guide-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 6px 6px 0 rgba(0,0,0,0.25);
+    }
+    .guide-card__head { display: flex; align-items: flex-start; gap: 1rem; }
+    .guide-card__icon {
+      width: 50px;
+      height: 50px;
+      border-radius: 8px;
+      background: var(--mid);
+      border: 1px solid rgba(255,255,255,0.06);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.6rem;
+      flex-shrink: 0;
+    }
+    .guide-card__meta { flex: 1; min-width: 0; }
+    .guide-card__title {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.85rem;
+      font-weight: 900;
+      color: var(--white);
+      margin-bottom: 3px;
+      line-height: 1.2;
+    }
+    .guide-card__subtitle { font-size: 0.7rem; color: var(--cyan); font-weight: 600; margin-bottom: 2px; }
+    .guide-card__level {
+      font-size: 0.67rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+    }
+    .guide-card__desc { font-size: 0.82rem; color: var(--muted); line-height: 1.6; }
+    .guide-card__tips {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+    .guide-card__tips li {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.65);
+      line-height: 1.55;
+      padding-left: 1.1rem;
+      position: relative;
+    }
+    .guide-card__tips li::before {
+      content: '→';
+      position: absolute;
+      left: 0;
+      color: var(--lime);
+      font-size: 0.75rem;
+      font-weight: 900;
+      top: 1px;
+    }
+    .guide-card__tags {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+      padding-top: 0.75rem;
+      border-top: 1px solid rgba(255,255,255,0.05);
+      margin-top: auto;
+    }
+    .guide-card__tag {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 3px 9px;
+      border-radius: 5px;
+      background: rgba(200,255,102,0.08);
+      border: 1px solid rgba(200,255,102,0.2);
+      color: var(--lime);
+    }
+
+    /* ── Footer ─────────────────────────────────────────────── */
+    .footer {
+      background: #080808;
+      padding: 2.5rem 0;
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+    .footer__inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .footer__brand {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--lime);
+      letter-spacing: 0.14em;
+    }
+    .footer__links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .footer__links a {
+      font-size: 0.82rem;
+      color: var(--muted);
+      transition: color 0.2s;
+    }
+    .footer__links a:hover { color: var(--white); }
+    .footer__copy { font-size: 0.78rem; color: var(--muted); }
+  </style>
+</head>
+<body>
+
+  <!-- ══════════ NAV ══════════ -->
+  <nav class="nav">
+    <div class="container nav__inner">
+      <a class="brand" href="../index.html">
+        <span class="brand__mark">dream machine</span>
+      </a>
+      <div class="nav__links">
+        <a class="nav__link" href="../index.html#who">Who's it for</a>
+        <a class="nav__link" href="../index.html#chapters">Chapters</a>
+        <a class="nav__link" href="../index.html#get">Get the Book</a>
+        <a class="nav__link" href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <div class="nav__drop">
+          <button class="nav__drop-btn">Toolkit <span class="nav__drop-arrow">▼</span></button>
+          <div class="nav__drop-menu">
+            <a class="nav__drop-item" href="toolkit.html">Creative Toolkit</a>
+            <a class="nav__drop-item" href="use-cases.html">Use Cases</a>
+            <a class="nav__drop-item" href="issues.html">Issues</a>
+            <a class="nav__drop-item" href="editions.html">Newsletter</a>
+            <a class="nav__drop-item" href="graph.html">Graph</a>
+          </div>
+        </div>
+        <a class="nav__cta" href="../index.html#get">Get the book →</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ══════════ HERO ══════════ -->
+  <section class="section section--dark" style="padding-bottom: 2rem;">
+    <div class="wrap">
+      <p class="section__label">Dream Machine · Creative Toolkit</p>
+      <h1 class="section__title">
+        The world's best AI toolkit<br>
+        <span style="color:var(--lime);">for curious creatives.</span>
+      </h1>
+      <p class="section__lede">
+        550+ tools organised by craft. Browse by what you make, search by what you need,
+        and master your workflow with our curated prompting guides.
+      </p>
+
+      <div class="wip-notice">🚧 Work in progress — check back soon for updates.</div>
+
+      <div class="search-wrap">
+        <span class="search-icon">⌕</span>
+        <input
+          id="tk-search"
+          class="search-input"
+          type="search"
+          placeholder="Search tools — try 'video', 'open source', 'Adobe', 'Suno', 'ComfyUI'…"
+          autocomplete="off"
+          autocorrect="off"
+          spellcheck="false"
+        />
+      </div>
+
+      <div class="stats-bar">
+        <div class="stat">
+          <div class="stat__num" id="stat-tools">—</div>
+          <div class="stat__label">Tools &amp; Platforms</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num" id="stat-cats">—</div>
+          <div class="stat__label">Categories</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num">32</div>
+          <div class="stat__label">Newsletter Issues</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num" id="stat-guides">—</div>
+          <div class="stat__label">Prompting Guides</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════ CATEGORY TILES ══════════ -->
+  <section class="section section--dark" style="padding-top: 2.5rem; padding-bottom: 0;">
+    <div class="wrap">
+      <div class="cat-label">Browse by craft</div>
+      <div class="cat-grid" id="cat-grid">
+        <!-- Rendered by toolkit.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════ TOOL RESULTS ══════════ -->
+  <section class="section section--dark" style="padding-top: 2.5rem;">
+    <div class="wrap">
+      <div class="toolbar">
+        <span class="toolbar__count">
+          Showing <strong id="result-count">—</strong> of <strong id="total-count">—</strong> tools
+        </span>
+        <div class="chips" id="active-chips"></div>
+      </div>
+
+      <div class="tool-grid" id="tool-grid"></div>
+
+      <div id="tk-empty" style="display:none;">
+        <div class="empty-state">
+          <h3>No tools found.</h3>
+          <p>Try a different keyword or clear your category filter.</p>
+          <button class="btn-ghost" id="clear-all">Clear all filters</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════ PROMPTING GUIDES ══════════ -->
+  <section class="section section--lime" id="guides">
+    <div class="wrap">
+      <div class="guides-eyebrow">Craft your prompts</div>
+      <h2 class="guides-title">
+        Prompting guides for<br>
+        <span>every creative discipline.</span>
+      </h2>
+      <p class="guides-lede">
+        Distilled from the Dream Machine book and 32 issues of the newsletter.
+        Practical techniques that separate intentional creative work from random generation.
+      </p>
+      <div class="guides-grid" id="guides-grid">
+        <!-- Rendered by toolkit.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════ FOOTER ══════════ -->
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <div class="footer__brand">dream machine</div>
+      <div class="footer__links">
+        <a href="../index.html">← Back to book</a>
+        <a href="use-cases.html">Use Cases</a>
+        <a href="issues.html">Issues</a>
+        <a href="editions.html">Newsletter</a>
+        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <a href="https://github.com/petejwoodbridge/DreamMachine-Book" target="_blank" rel="noopener">GitHub</a>
+      </div>
+      <div class="footer__copy">© 2026 Pete Woodbridge / DreamLab AI Collective.</div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/toolkit.js"></script>
+</body>
+</html>

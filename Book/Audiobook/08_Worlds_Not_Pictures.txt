@@ -1,0 +1,265 @@
+CHAPTER EIGHT
+
+Worlds, Not Pictures.
+
+[PAUSE]
+
+If you had asked me, in the autumn of twenty twenty-five, what the most important Artificial Intelligence — AI (Ay-Eye) — release of the year was going to be, I would have said something obvious. Sora Two (Sore-ah Two), or Veo Three Point One, or one of the music models, or one of the editor-class tools like Runway Gen Four Point Five or Adobe's new Firefly. Something that turned a prompt into a thing you could put on a screen.
+
+[PAUSE]
+
+Six months later, I don't think I would say any of those.
+
+[PAUSE]
+
+I think the most important release of the period this book covers was something that almost nobody outside of a relatively small community of practitioners noticed at the time, that produced no viral videos, that did not change the news cycle for a single day, and that I have come, over the course of the winter, to think of as the actual future of creative work. The public launch of Marble, by Fei-Fei Li's (Fay-Fay Lee's) company World Labs, in November twenty twenty-five.
+
+[PAUSE]
+
+[excited] Marble doesn't make videos. Marble makes worlds.
+
+[PAUSE]
+
+I want to spend this chapter on why that distinction is, in my view, the most strategically important one in creative AI right now, and why almost everything else in the toolchain — from generative video to AI music to the digital-human work in advertising — eventually has to be re-thought in its shadow.
+
+[LONG PAUSE]
+
+What a world model actually is.
+
+[PAUSE]
+
+The phrase "world model" sounds like a marketing term. It isn't, exactly. It is a category of AI system that researchers have been chasing for the better part of a decade, and that — as of late twenty twenty-five — finally started shipping as production-ready software.
+
+[PAUSE]
+
+A generative video model takes a prompt and produces a sequence of frames. The frames are coherent because the model has learned the statistical regularities of video. Things move smoothly, light behaves more or less correctly, faces stay faces. But the output is flat. It is a particular sequence of pixels. You cannot navigate it. You cannot move the camera. You cannot pick up the lamp on the table and look at the wall behind it.
+
+[PAUSE]
+
+A world model takes a prompt — or an image, or a video, or a rough 3D layout — and produces a navigable three-dimensional environment. You can move through it. You can change the camera angle. You can, depending on the model, walk around the table, look at the wall behind the lamp, and find that the wall continues to exist in a consistent way that the model didn't have to generate for you because it understood, structurally, that walls have backs.
+
+[PAUSE]
+
+The technical core, in the most common implementation, is Gaussian splatting — a representation where a scene is stored as a cloud of millions of tiny semi-transparent ellipsoids, each carrying colour and position information. The whole scene can be rendered in real time from any angle, because the system isn't drawing 2D pixels. It is rendering a structured 3D world. The output, in turn, can be exported as a splat file, as a mesh, or — if you want — as a flat video.
+
+[PAUSE]
+
+This is the part that took me, even as a working creative technologist, embarrassingly long to fully understand. Video is a projection of a world. A world is the more fundamental object. For two and a half years, the public-facing AI conversation has been about generating better projections. The actual capability landscape has been moving, in parallel, towards generating the worlds themselves.
+
+[PAUSE]
+
+[calm] [EMPHASIS] When the worlds become cheap to generate, the projections — the videos, the images, the renders — become outputs of the worlds, not the primary medium. The whole production stack inverts.
+
+[LONG PAUSE]
+
+Marble, from the inside.
+
+[PAUSE]
+
+DreamLab — the studio I run in the North West of the U.K. — has been a beta participant in Marble since October twenty twenty-five, in the months before its public release. I want to share what that experience actually felt like, because the technical description of a world model and the practitioner's experience of using one are different in ways that matter for understanding what is happening to the toolchain.
+
+[PAUSE]
+
+Imagine, for the sake of example, that I am working on a client project that needs a scene of a market square at dusk in a Mediterranean town. In the old pipeline — which is to say, the pipeline of twenty twenty-four and most of twenty twenty-five — that brief would translate into something like the following.
+
+[PAUSE]
+
+A concept artist would produce a moodboard. A 3D artist or a virtual-production house would build a CGI version of the square, populated with assets either bought from a marketplace or modelled bespoke. Lighting would be set up in Unreal or Maya. The whole scene would be rendered out as a video plate or used as a backdrop on an LED volume. If any change was required — can we move the camera left a bit, see what's on that side — the rebuild was non-trivial.
+
+[PAUSE]
+
+In Marble, the same brief unfolds differently. I type, or paste in a reference image, or upload a quick phone-shot panorama of an actual market square I visited last year. Marble generates a complete, navigable 3D environment of that square. It exists, persistently, as a file on my account. I can move my virtual camera anywhere in it. I can hand it to a director and say — walk through this and tell me where the camera lives. I can export the result as a Gaussian splat, drop it into Unreal Engine via SuperSplat or one of the other Gaussian-splat editors, and use it as the lit backdrop for an LED-volume shoot. I can also, if I just want a plate, render a flat video from a chosen camera move.
+
+[PAUSE]
+
+The economic implication is this. The cost of having "a place" — a navigable, lit, persistent environment with depth — has dropped, in twelve months, by something between one and two orders of magnitude. The thing that used to require a four-person team and a fortnight now requires a prompt and the time it takes a model to render.
+
+[PAUSE]
+
+[excited] This is not a marginal improvement to virtual production. It is a category change. The bottleneck of virtual production has, for the entire history of the discipline, been the cost and time of building the environment. When that bottleneck goes, what remains is exactly the human craft that the audience is paying for. Blocking, performance, direction, lighting design, story.
+
+[PAUSE]
+
+In Issue Eight of the newsletter, I noted that Sony Pictures had begun using Marble inside its virtual-production pipeline. The number the team quoted publicly was the one that should have made the front page of every trade publication. Forty times faster than the traditional workflow. If you sit inside the legacy economics of a virtual-production house — where building a single environment is a six-figure, multi-week proposition — that number is not an improvement. It is a re-platforming of the discipline. In Issue Twelve, Disney showed off a "three hundred thousand poses in an instant" demonstration that was conceptually similar — animation built on top of generative spatial infrastructure rather than against it. In Issue Twenty-Seven, Netflix and Eyeline released Vista4D, a system that converts live-action footage into navigable 4D point clouds. The pattern is the same across the studios. A quiet pipeline shift, not a marketing story, that takes the entire "building the environment" stage out of the critical path of production.
+
+[LONG PAUSE]
+
+The world-model race.
+
+[PAUSE]
+
+Marble was the first commercial product in this category, but it was not the only one. The autumn of twenty twenty-five and the spring of twenty twenty-six were essentially a foot-race between research labs to ship usable world models, and the pace of releases was so rapid that the Dream Machine readers' WhatsApp group routinely had three or four new ones to discuss per week.
+
+[PAUSE]
+
+Google DeepMind's Genie Three, named by Time as one of the best inventions of twenty twenty-five, generated playable 3D worlds at twenty-four frames per second from text prompts, with consistency held for several minutes — and in January twenty twenty-six was made publicly available to Google AI Ultra subscribers in the U.S. through a prototype web app called Project Genie. At Google I/O twenty twenty-six, Project Genie was extended with a Street View integration that lets users generate navigable simulations of real-world locations directly from Street View map data, collapsing the gap between the world that exists and the world that can be generated. Meta announced WorldGen in November twenty twenty-five, framed as research that could generate walkable 3D worlds from prompts like "medieval village town square." Tencent open-sourced HY World One Point Five, a real-time world model framework, in December twenty twenty-five, alongside the Hunyuan 3D Studio which integrated the company's art-grade 3D generative model 3D-PolyGen One Point Five. SpAItial launched ECHO, a spatial foundation model, in December twenty twenty-five. Stanford AI Lab and others released Wonderzoom in January twenty twenty-six, a multi-scale 3D world-generation model that let you "infinitely zoom into the details" of a generated environment. OpenArt launched its own world-generation product, Worlds, in March twenty twenty-six.
+
+[PAUSE]
+
+The May twenty twenty-six wave was the most aggressive yet. NVIDIA released SANA-WM, a two point six billion parameter open-source world model natively trained for sixty-second video generation with explicit camera control — the first open-weight world model at meaningful scale, and a development whose long-term implications for the open-source-AI-tooling argument I make in Chapter Sixteen are, in my view, substantial. Odyssey released Starchild-One, which it described as "the first ever real-time multimodal world model" — a system that doesn't just generate a world but understands and simulates it. Apple published Headsup, a large-scale, high-quality 3D Gaussian-head reconstruction pipeline built from multi-view captures of the kind a consumer iPhone can already produce — a continuation of the Apple-Personas-and-Gaussian-splat thread above. At the consumer end of the same wave, WorldLens VR rolled out an AI-powered Quest feature that adds subtle 3D depth to ordinary Google Street View environments, making the existing planetary-scale street-imagery dataset navigable in V.R.
+
+[PAUSE]
+
+The most ambitious of all of these — and the one I think hints most clearly at where the category is going — was Luma AI's UNI-One, launched in March twenty twenty-six with the framing. "When worlds become instant, the race shifts to better thinking." UNI-One was the first commercial release I am aware of that combined world-model generation with what Luma called "reasoning" — that is, the model didn't just generate a scene, it could plan, modify and iterate on the scene as a coherent agent. The pitch was that you would no longer have a fragmented pipeline of prompt to image to video to iterate. You would have a single unified creative system that thought before it created.
+
+[PAUSE]
+
+UNI-One is, in my view, the most important category announcement of the spring of twenty twenty-six, even if the product itself is still rough at the edges. It is the announcement that says — world models are not the end state. They are the substrate on which something else — reasoning-led generative creativity — gets built.
+
+[PAUSE]
+
+By May twenty twenty-six, you could find world-model capabilities embedded in the consumer tools as well. CapCut, the consumer-grade video editing app, integrated ByteDance's Seedance Two Point Zero via the Dreamina product, giving phone-users the ability to generate spatial scenes alongside flat video. Spark Two Point Zero, an open-source Gaussian-splat streaming framework, brought one-hundred-million-splat scenes to web browsers at interactive frame rates. Apple confirmed in October twenty twenty-five that its Personas feature on Vision Pro and other devices was powered by Gaussian splatting under the hood, making this — for the millions of Apple device owners who had used the feature without knowing what it was — the most-deployed Gaussian-splat technology in consumer hardware.
+
+[PAUSE]
+
+The category, in eight months, went from a research demo to a consumer feature.
+
+[LONG PAUSE]
+
+The games industry, again.
+
+[PAUSE]
+
+If world models are infrastructure, the industry that has been waiting for that infrastructure the longest is games.
+
+[PAUSE]
+
+The twenty twenty-four conversation in games about generative AI was, in significant part, about flat assets — concept art, textures, dialogue, music — and it was the conversation that produced most of the backlash. Call of Duty: Black Ops Seven's loading screens. Anno One Seventeen's placeholder art "slipping through" the review process. Fortnite's Chapter Eight controversy. The audience response, in every case, was visceral, and the studios learned, the hard way, that AI-generated 2D assets dropped into established franchises read to fans as a cost-cutting move, not a creative one.
+
+[PAUSE]
+
+The twenty twenty-five and twenty twenty-six conversation in games is different in kind, because the AI is now being aimed at the substrate of the game — the worlds, the systems, the NPCs, the procedural infrastructure — and the audience response is, so far, much more nuanced.
+
+[PAUSE]
+
+NVIDIA, in partnership with Stanford, released NitroGen in January twenty twenty-six — a "plays-any-game" AI trained on forty thousand hours of gameplay across more than one thousand games. The model wasn't being pitched as a way to replace games. It was being pitched as the foundation layer for a new generation of AI-aware game agents and procedural systems. Google DeepMind's SIMA Two, released in November twenty twenty-five, was an agent that could play, reason and learn alongside humans in virtual 3D environments. Ubisoft open-sourced its CHORD model in December twenty twenty-five, for end-to-end P.B.R. material generation, and ComfyUI (Comfy-You-Eye) nodes built on top of it within the same week. Ubisoft's Teammates — a voice AI tech demo first shown in November twenty twenty-five — promised a step-change in how NPCs would behave in next-generation titles. The team lead's hands-on framing, given to Video Games Chronicle, is the one I keep returning to. "It's a tool first. We've been working on it for more than two years now, and our conclusion is that it's a super cool tool, but it's still a tool." Still a tool. The whole AI-in-games debate, compressed into four words by the people inside Ubisoft who are actually building the thing.
+
+[PAUSE]
+
+The most interesting single release of the spring of twenty twenty-six was YouTube's Playables Builder, a closed-beta product launched in December twenty twenty-five that lets users create games with short text, video or image prompts, built on Gemini Three. The framing, when YouTube's product team described it publicly, was that every YouTube creator should have the ability to ship a playable game as easily as they currently ship a video. Within months, Unity announced an "AI Open Beta" — an in-editor AI suite that brought the same logic to the professional games-development pipeline.
+
+[PAUSE]
+
+Where this lands, in twenty twenty-seven and twenty twenty-eight, is the question I find the most strategically charged in the whole industry. If creating a playable, navigable world becomes a thing a YouTube creator can do in an afternoon, the boundary between games and video — which has been collapsing slowly for fifteen years, through platforms like Roblox and Fortnite and the proliferation of interactive content on social platforms — collapses fully. The next generation of creators will not think in terms of making a video or making a game. They will think in terms of making a thing, and the thing will, by default, be navigable.
+
+[LONG PAUSE]
+
+What this means for film.
+
+[PAUSE]
+
+I want to come back to film for a moment, because I think the consequences of world models for the film industry are bigger than the consequences for any other sector, and the least understood.
+
+[PAUSE]
+
+For the entire history of cinema, the discipline has been organised around a fundamental scarcity. The cost of building the location. Even when the location was real — a city street, a forest, a beach — capturing it required a crew, a lighting team, transport, permits, weather contingencies. When it wasn't real — when it was a sound stage, or a digital matte painting, or a CGI environment — the cost was, if anything, higher.
+
+[PAUSE]
+
+The entire industrial structure of cinema, from the location department to the gaffer's crew to the virtual-production house, exists because the place is expensive to make.
+
+[PAUSE]
+
+When the place becomes cheap — when a Marble-generated environment, exported as a splat, dropped into Unreal, lit interactively, can substitute for a two-hundred-thousand-dollar-per-day exterior shoot at almost any quality bar a hero shot — the industrial structure that organised cinema starts to look like the manuscript-copying scriptorium did in fourteen fifty. The thing that was the bottleneck is no longer the bottleneck.
+
+[PAUSE]
+
+What replaces it? My best guess, six months into the transition, is taste in places. If everyone can generate a market square, the value of choosing the right market square — the one with the texture, the light, the cultural specificity, the lived-in-ness that makes a scene feel like it belongs to a real human story — becomes the new scarce skill. The location scout becomes the world curator. The production designer becomes the spatial director. The cinematographer becomes — even more than they already are — the person whose job is to find the one camera move in a near-infinite navigable space that tells the story.
+
+[PAUSE]
+
+This is, I think, an upgrade for the craft, not a downgrade. It moves the human contribution to the part of the work that humans actually do well — judgement about what matters in a place — and offloads the part of the work that has been a manufacturing problem for a hundred years.
+
+[LONG PAUSE]
+
+The risk.
+
+[PAUSE]
+
+I want to flag the risk too, because I am trying — and I am sure I will not always succeed — to be honest about the downsides.
+
+[PAUSE]
+
+If world models become the substrate of creative work, the training data for those models becomes a question of enormous cultural consequence. A world model trained on, say, the visual archive of Hollywood will generate scenes that look like Hollywood. A world model trained on the photographic archive of Mumbai will generate scenes that look like Mumbai. The aesthetic monoculture that the early image-generation models produced — that vaguely Pixar-flavoured, vaguely Marvel-flavoured, vaguely YouTube-thumbnail look that you can recognise in a thousand twenty twenty-four AI outputs at a glance — is at risk of being amplified, not reduced, when the medium moves from images to navigable spaces.
+
+[PAUSE]
+
+The companies that own the largest world-model training datasets in twenty thirty will, in a real sense, own the visual language of the next generation of cinema, games and immersive media. If those datasets are biased — towards English, towards the global North, towards Hollywood production design, towards the architectural and cultural visual vocabulary of a small number of wealthy cities — the entire interior life of the next generation of creative work will reflect those biases.
+
+[PAUSE]
+
+This is not a hypothetical. We are seeing it now. The publicly available world models, in mid-twenty twenty-six, do a startlingly good job of generating "Mediterranean market square" and "American suburb" and "Tokyo street at night." They do a startlingly thin job of generating, say, "Lagos street at dusk during the rains" or "a contemporary Indigenous Australian community space" or "a Manchester terraced street in winter with the sodium lights coming on." The bias is in the training, and the training is in the assets, and the assets were in the corpus, and the corpus was English-internet-skewed.
+
+[PAUSE]
+
+If we want the next creative economy to look like the world rather than like the AI companies' biggest source datasets, the dataset question has to be a first-order design problem. Korin AI's late-twenty twenty-five launch — "trained with African datasets, built by Africans" — is the kind of intervention that is going to have to multiply. So is the African Tech, India and Singapore-led wave of culturally-specific AI cinema that the trade press started covering in Issues Twenty through Twenty-Seven. Diversity in training datasets, for the world-model era, is not a content-moderation question. It is a cultural infrastructure question.
+
+[LONG PAUSE]
+
+Six craft questions for the world-model era.
+
+[PAUSE]
+
+Before I make the big claim, I want to put six craft questions on the page that working creatives — directors, designers, art directors, cinematographers, sound designers, level designers — will, by my estimate, be wrestling with for the rest of the decade. They are the world-model-era equivalents of the craft questions the cinematographic era took fifty years to develop a vocabulary for. Where do you put the camera, how do you light the scene, how does the cut work, how does the sound do its work. The world-model era has, in twenty twenty-six, no settled vocabulary for any of them. The vocabulary will be built by the working creatives who notice the question first.
+
+[PAUSE]
+
+One. Where does the audience stand? The most-overlooked craft question of the navigable-space era. A film positions the camera. The camera positions the audience. A world model produces a navigable space. The question of where the audience enters the space, where they are invited to stand, what they are encouraged to look at, is no longer fixed by the cinematographer. It is fixed — if it is fixed at all — by the narrative scaffolding the orchestrator builds around the navigable space. Marble's October-twenty twenty-five update added explicit suggested-camera-pose primitives for exactly this reason. The craft question is which of those poses to specify and which to leave to the audience.
+
+[PAUSE]
+
+Two. How does the cut work in a navigable scene? The film cut depends on the audience being in a fixed position. The editor moves the camera between fixed positions in a way that the audience's eye follows. The navigable scene has, by default, no cut. The audience moves through it continuously. The craft question — for working directors and editors — is when to break the continuity, how to do so in a way the audience reads as deliberate rather than as a technical glitch, and what new grammar of transitions a navigable medium permits. Some early experiments in twenty twenty-five and twenty twenty-six have used spatial discontinuities — an audience walks through a door and emerges in a different space — and temporal discontinuities — the same space at different times — as cuts. None of these has yet stabilised into a shared grammar.
+
+[PAUSE]
+
+Three. How does performance survive the medium? A film performance is captured by a camera at a fixed angle and pace. A world-model performance — a synthetic actor performing inside a navigable scene — has to be authored such that the performance works from every angle and every speed at which the audience might encounter it. This is, for working performers and motion-capture supervisors, an entirely new craft challenge. The film-era cliché of the actor "playing to the camera" is, in the world-model era, replaced by playing to the spatial neighbourhood — knowing that the audience may be six feet away, may be inside the actor's eyeline, may be behind the actor's shoulder, may be looking at the actor from above. Volumetric capture — Vista4D's live-action 4D reconstruction, NVIDIA's D-Rex digital-human pipeline — is the technical answer. The performance answer — what acting means in a medium where there is no fourth wall — has not been worked out.
+
+[PAUSE]
+
+Four. What does sound design do in a navigable scene? A film sound mix is, for the most part, a fixed track timed to the picture cut. A navigable-scene sound mix has to follow the audience. Spatial-audio tooling — the SonicLab SPATAI pipeline, Dolby Atmos for V.R., the various Meta-and-Apple immersive-audio platforms — is the technical answer. The craft question is, again, what good spatial sound design looks like in a medium where the audience-author relationship has changed.
+
+[PAUSE]
+
+Five. What is the running-time of a navigable scene? A film has a fixed running time. A navigable scene does not. The audience could leave after thirty seconds or stay for two hours. The craft question for the working director is how to design the experience so that both extremes produce a satisfying piece of work. Games have, for fifty years, been grappling with this question — the Dark Souls answer (every player gets a different running time depending on skill and exploration) is different from the Outer Wilds answer (the running time is gated by narrative discovery) is different from the Telltale Games answer (the running time is broadly fixed across players). World-model cinema, in twenty twenty-six, has not yet settled on its equivalent.
+
+[PAUSE]
+
+Six. What is the single best moment of a navigable scene? Film has scenes — discrete units of dramatic action with a recognisable shape, a recognisable peak, a recognisable end. A navigable scene, by default, does not. The craft question for the working director is whether to design the navigable scene around a single peak moment, which the audience may or may not reach, or to design it as a texture, which the audience experiences at whatever density their navigation produces. The peak-moment design pulls the medium back toward film conventions. The texture design pushes it toward something more like architecture or landscape design. Different working directors will, on the historical pattern, settle on different answers. The grammar will, over a decade, stabilise into a working vocabulary the way the cinematic-cut grammar stabilised between nineteen oh three and nineteen twenty-five.
+
+[PAUSE]
+
+The six questions are not, in twenty twenty-six, theoretical problems. They are the questions the working spatial-cinema teams I have talked to — the Wonderzoom group at Stanford, the World Labs developer cohort, the early adopters at Sony Pictures and Eyeline — are wrestling with on Wednesday afternoons. They are also, on the historical pattern of Chapter Two, the questions whose answers will define what working creatives in the next decade are paid to do. The directors and designers who develop a working vocabulary for them first will, on the available evidence, become the named Walter Murchs of the spatial-cinema era. The ones who wait for the vocabulary to settle will, in retrospect, look like the editors who waited too long to learn Avid.
+
+[LONG PAUSE]
+
+The big claim.
+
+[PAUSE]
+
+Let me make the big claim, and then move on.
+
+[PAUSE]
+
+[calm] [EMPHASIS] I think — and this is the most non-obvious bet in this book — that the world model is the medium of the next twenty years of creative work, in the same way that the moving image was the medium of the twentieth century and the interactive screen was the medium of the first quarter of the twenty-first.
+
+[PAUSE]
+
+I think people who are working in flat-video, flat-image, flat-audio formats in twenty thirty will increasingly be working in a legacy format — still alive, still culturally valuable, still where the highest-end of the craft lives, the way live theatre or vinyl-record production still lives — while the dominant mode of creative work will be the production, curation, performance and distribution of navigable spaces.
+
+[PAUSE]
+
+I think the studios, platforms and tool companies that are quietly investing in world models now — World Labs, DeepMind, Meta, NVIDIA, Tencent, Luma, Apple — will be the ones that set the rails for the next two decades.
+
+[PAUSE]
+
+I think the audience, having developed the antibodies described in Chapter Five to slop-grade flat AI content, will eventually develop a parallel set of tastes for navigable content — and that the question of what makes a good AI world (rather than a good AI video) will be the central craft question of the late twenty-twenties.
+
+[PAUSE]
+
+And I think — most importantly for the next chapter — that the toolchain to make all of this is being built, right now, by a small number of platform companies who have started saying out loud that AI is going to be in everything, everywhere, all at once — and who are, while you are reading this paragraph, designing the rails on which the next creative economy will run.
+
+[LONG PAUSE]
+
+END OF CHAPTER
+
+[LONG PAUSE]

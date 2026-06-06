@@ -1,0 +1,533 @@
+CHAPTER SIX
+
+The Eighty-Eight Percent.
+
+[PAUSE]
+
+On the fifteenth of December, twenty twenty-five, the U.K. government quietly laid a document before Parliament that I think will be remembered, ten years from now, as a more important moment in the history of creative AI (Ay-Eye) than any single tool release in twenty twenty-five or twenty twenty-six.
+
+[PAUSE]
+
+The document was the Statement of Progress on Copyright and Artificial Intelligence, prepared by the Department for Science, Innovation and Technology — DSIT (D-Sit). It was a stocktaking report — not a final policy, not new legislation, not a decision. It was a "where we are" note, eleven months after the closing of one of the largest copyright consultations the United Kingdom has ever run.
+
+[PAUSE]
+
+The consultation had been open from the seventeenth of December, twenty twenty-four, to the twenty-fifth of February, twenty twenty-five. The government had proposed four options for how U.K. copyright law should treat AI training.
+
+[PAUSE]
+
+Option Zero. Do nothing.
+
+[PAUSE]
+
+Option One. Require AI companies to license copyrighted works for training in all cases.
+
+[PAUSE]
+
+Option Two. A narrower set of exceptions, with conditions.
+
+[PAUSE]
+
+Option Three — the government's preferred option — a broad text-and-data-mining exception with an opt-out for rightsholders.
+
+[PAUSE]
+
+Eleven and a half thousand people replied.
+
+[PAUSE]
+
+Of the ten thousand one hundred and twelve responses submitted through the government's Citizen Space online portal — the subset for which the government published quantitative breakdowns — eighty-eight percent supported Option One, licensing in all cases.
+
+[PAUSE]
+
+Seven percent supported Option Zero. Do nothing.
+
+[PAUSE]
+
+Three percent supported the government's preferred Option Three.
+
+[PAUSE]
+
+I want you to look at those numbers again, because they are the single most concrete thing this book has to offer in defence of the argument I will be making in the second half of it. That the creative economy is not waiting to be told what it thinks about AI.
+
+[PAUSE]
+
+Eighty-eight percent. In a country with no compulsory voting, no organised industry mobilisation comparable to the music or film unions' rapid responses to specific provocations, no celebrity-led campaign on the scale of the SAG-AFTRA (Sag-Aff-trah) strike. Eighty-eight percent of the people who took the time to write to their government about how their work should be used said — license it. Pay for it. Don't take it.
+
+[PAUSE]
+
+[calm] That number is the true watershed of the period this book covers. The Tilly Norwood week made it possible. The eighty-eight percent made it permanent.
+
+[PAUSE]
+
+This chapter is about how a global creative coalition — half informal, half deliberate, half union-led, half artist-led, half lawyer-led, all of it networked — went from a few scattered protest statements in October twenty twenty-five to a structural force in policy and law by May twenty twenty-six.
+
+[LONG PAUSE]
+
+Why eighty-eight percent.
+
+[PAUSE]
+
+It is easy, looking at a number that big, to assume it represents some kind of organised lobbying effort. To assume that the AI companies' opt-out proposal was so unpopular that the response was a coordinated push from a few large interest groups, who marshalled their members into the consultation.
+
+[PAUSE]
+
+The actual composition, as analysed in the December twenty twenty-five Statement of Progress, was mixed. There were submissions from creators in every major creative discipline — writers, musicians, filmmakers, photographers, illustrators, designers, journalists. There were submissions from professional bodies — the Society of Authors, the Association of Photographers, the Authors' Licensing and Collecting Society. There were submissions from individual citizens with no industry affiliation, who simply objected on principle to having their work — their LinkedIn posts, their family photos, their blogs — pulled into a training set without their consent.
+
+[PAUSE]
+
+There were submissions from the AI companies too. The progress report notes that the three percent who supported the government's preferred Option Three were, quote, "particularly concentrated among AI developers and large technology companies." This is — and I am being careful about how I phrase this, because the Statement of Progress is itself careful — not a description of a balanced industry view. It is a description of a public consultation in which the people most affected by the proposed policy said one thing, and the companies the policy was designed to enable said the opposite.
+
+[PAUSE]
+
+[calm] The eighty-eight percent is not a curiosity. It is a vote, in the most literal sense. The creators of the United Kingdom were given a structured chance to say what they wanted, and eighty-eight percent of them said the same thing.
+
+[PAUSE]
+
+The Society of Authors' submission, which I have read in full, made the underlying argument with the kind of clarity that the policy debate had been avoiding for two years. Quote. "If we are to see an end to the industrial-scale theft of writers' and other creators' work, and to protect the creators and creative industries of the future, then U.K. copyright needs to be enforced not weakened." That sentence — industrial-scale theft, enforced not weakened — set the rhetorical register that the next six months of the policy debate ran on.
+
+[LONG PAUSE]
+
+The pattern repeats.
+
+[PAUSE]
+
+I think a lot of the international coverage of the U.K. consultation has under-emphasised that the eighty-eight percent was not a U.K.-only phenomenon. It was the first formal expression of a pattern that was, in the same six months, repeating in every jurisdiction that gave its creators a meaningful chance to speak.
+
+[PAUSE]
+
+In Germany, the music rights society GEMA sued OpenAI (Open-Ay-Eye) in the Munich Regional Court over the training of Large Language Models, or L.L.M.s, on copyrighted music lyrics. In November twenty twenty-five, the court ruled for GEMA in a decision that intellectual-property lawyers across Europe — including Dr Barry Scannell, whose detailed LinkedIn breakdown of the ruling I have read more times than I will admit — described as a major precedent for European copyright law.
+
+[PAUSE]
+
+In the United States, a coalition of music rights organisations sued Suno, with the press release describing the action, in a phrase the litigators clearly knew would travel, as "the biggest theft in music history." Wixen Music Publishing filed a fifty million dollar copyright suit against Meta in January twenty twenty-six. Universal Music Group filed a three billion dollar suit against Anthropic (An-throp-ic). The Johnny Cash estate sued Coca-Cola under the ELVIS Act — Tennessee's new AI-impersonation law — for using a Cash sound-alike in a tribute-act advertisement. By the spring of twenty twenty-six, the litigation landscape was so dense that Music Business Worldwide was running weekly summary columns just to keep track of which cases were still active.
+
+[PAUSE]
+
+In the European Union, lawmakers tabled a bill in November twenty twenty-five seeking an E.U.-wide minimum age to access AI chatbots and social media, an early acknowledgement that the regulatory question was not just about copyright but about the wider integration of AI into the social fabric.
+
+[PAUSE]
+
+In the United States, the actors' union SAG-AFTRA, riding the wave of the Tilly Norwood backlash, opened negotiations in October twenty twenty-five that resulted by spring twenty twenty-six in significantly stronger AI protections in its next four-year contract — a deal that included new consent requirements, residuals, and what the trade press began calling, informally, the "Tilly Tax" on the use of AI actors.
+
+[PAUSE]
+
+In the United Kingdom, the U.K. actors' union Equity held a strike ballot in December twenty twenty-five over AI scanning of performers' likenesses. The result came back in a ninety-nine percent landslide in favour of industrial action. The ballot question itself, in its plain language, captured the substance of what was at stake. Quote. "Are you prepared to refuse to be digitally scanned on set to secure AI protections?" By January twenty twenty-six the union had secured what its general secretary called "an improved offer" from producers on AI protections in film and TV negotiations. In May twenty twenty-six, the broader AI Disclosure Standard for the film industry was launched at the Cannes Film Festival. In the same week, the British Phonographic Industry, or B.P.I., issued a formal set of transparency and sovereignty demands aimed at the music side of the same settlement — a structured industry position designed, in the B.P.I.'s own framing, to secure the "AI licensing boom" rather than leave it to bilateral negotiation between platforms and rights-holders one model at a time.
+
+[PAUSE]
+
+The pattern, in every jurisdiction and across every part of the creative economy, was the same. Where creators were given a procedural mechanism — a consultation, a strike ballot, a contract negotiation, a class action — they used it. They turned up in numbers. They voted, in their structured way, against the unconditional appropriation of their work. And they won enough of these procedural battles that, by the time the spring of twenty twenty-six arrived, the terms of engagement for AI in the creative industries had been substantially re-set in a six-month window.
+
+[LONG PAUSE]
+
+The first reversal.
+
+[PAUSE]
+
+The most surprising single event in the entire policy arc was the U.K. government's own reversal in spring twenty twenty-six.
+
+[PAUSE]
+
+The Statement of Progress in December had already softened the official position. Where the original consultation had proposed Option Three — the text-and-data-mining exception with opt-out — as the preferred outcome, the December update simply described the government as "working with fifty-plus experts from across music, film, games and AI to figure out what comes next." The opt-out language was gone.
+
+[PAUSE]
+
+By March twenty twenty-six, the position had reversed further. The government's final report on copyright and AI, laid before Parliament by the statutory deadline of the eighteenth of March twenty twenty-six, walked back the original preference for Option Three in favour of a much more cautious set of proposals that acknowledged the eighty-eight percent finding. Dream Machine Issue Twenty-One, dated the nineteenth of March twenty twenty-six, was the first edition where I noticed the change in tone in the government's own language. The framing had shifted from "how do we enable AI training" to "how do we protect creators."
+
+[PAUSE]
+
+I want to be precise about what this reversal means and what it doesn't.
+
+[PAUSE]
+
+It does not mean that the U.K. has banned AI training on copyrighted work, or that it has imposed a licensing-first regime by default. As of the time I am writing this — May twenty twenty-six — the legislative process is ongoing, and the eventual policy could land anywhere on a wide spectrum.
+
+[PAUSE]
+
+It does mean that eighty-eight percent of ten thousand one hundred and twelve people, plus a thousand-odd email submissions, plus a media cycle that ran for fourteen months, plus a parallel set of legal proceedings, plus a parallel set of platform and industry pushback, plus the active mobilisation of multiple professional bodies, was enough to change the position of a national government on one of the most economically significant technology-policy questions of the decade.
+
+[PAUSE]
+
+[calm] That is, in democratic terms, what working looks like.
+
+[LONG PAUSE]
+
+What the creators were actually saying.
+
+[PAUSE]
+
+The eighty-eight percent was a procedural answer to a procedural question. What were the substantive arguments behind it? I have read enough of the submissions, through the published summaries and through the secondary press coverage, to feel confident in summarising the three I see most often.
+
+[PAUSE]
+
+The first is the consent argument. This was the simplest and the most universal. That work made by a creator — a song, a book, a photograph — belongs to that creator in a way that is not fully captured by the existing copyright regime, and that the use of that work to train a machine learning model is a use that requires the creator's consent.
+
+[PAUSE]
+
+The argument is not new. The Berne Convention has, since eighteen eighty-six, treated authorship as a moral right in addition to an economic one. What is new is the scale of the use. A single AI training run can ingest the work of millions of human creators in a way that no single buyer, publisher, broadcaster or aggregator has ever done. The procedural mechanisms of copyright were designed for a world where uses were enumerable. They struggle in a world where the use is, in effect, the entire creative output of a generation, all at once.
+
+[PAUSE]
+
+The second is the attribution argument. This was the most operationally specific. That when AI systems produce derivative outputs based on training data, the creators whose work shaped those outputs should be identifiable, and where appropriate, compensated. Musical A.I., a startup that raised four point five million dollars in January twenty twenty-six on a "creative weight attribution" model, described the technical version of this as "calculating each input's actual contribution to a generative model's output, then licensing accordingly." The argument doesn't require AI training to stop. It requires it to show its workings.
+
+[PAUSE]
+
+The third is the economic argument. This was the most cynical and the most powerful. That AI systems trained on the unpaid labour of creators will eventually substitute for those creators in the market, and that the failure to license is therefore not just an ethical offence — it is an active transfer of wealth from a relatively diffuse group of working creatives to a relatively concentrated group of technology platforms and their shareholders.
+
+[PAUSE]
+
+The PRS for Music twenty twenty-six A.I. Survey found that four in five music creators worried about AI-generated music competing with human-created music in the streaming economy. The Edinburgh-based Centre for Creative AI at U.C.L. and R.C.A., launched in late twenty twenty-five, explicitly framed its mission around the "redistribution of value from machines back to the humans whose work made them possible." The U.S. artist trade body quoted in Complete Music Update in November twenty twenty-five was even blunter. "Artists must have creative control in AI deals or risk ending up with 'scraps'."
+
+[PAUSE]
+
+Stack those three arguments next to each other and you get a recognisable shape. It is the shape of every economic-rights argument creators have made, in every previous technological transition, going back to the Stationers' Company in seventeenth-century London. Don't print without permission. Don't broadcast without a fee. Don't sell our records without paying us. Don't sample without clearing. Don't stream without licensing. Don't train without consent.
+
+[PAUSE]
+
+The eighty-eight percent is the latest entry in a four-hundred-year sequence. What's new is the speed with which it has had to be expressed, and the scale of the use it is responding to.
+
+[LONG PAUSE]
+
+The artists' declaration.
+
+[PAUSE]
+
+In January twenty twenty-six, in parallel with the union negotiations and the lawsuits and the policy responses, nearly eight hundred working creatives — including high-profile names like Jason Aldean and OneRepublic — signed an open declaration with the line that gave the document its name. Stealing Our Work Is Not Innovation.
+
+[PAUSE]
+
+I want to spend a moment on this document because it is the cleanest expression I have found of the underlying argument, and because I think the line will be on a t-shirt within a year if it isn't already.
+
+[PAUSE]
+
+The declaration was not a legal document. It had no enforcement mechanism. It did not call for specific legislation. It was a cultural statement — a refusal of the framing under which the AI companies had been making their case.
+
+[PAUSE]
+
+The framing the AI companies had been using, repeatedly, in venues from technology conferences to court filings, was that training models on copyrighted material was a kind of technical inevitability — that machine learning required vast amounts of data, that the data could not practically be licensed at scale, and that therefore the use was, in a sense, outside the traditional consent-and-payment framework of copyright. It was — they argued — not really "use" in the sense the law had been built around. It was a new kind of activity that needed a new kind of rules.
+
+[PAUSE]
+
+[deadpan] The declaration's response, in a phrase, was. No, it's just stealing.
+
+[PAUSE]
+
+[EMPHASIS] This was a rhetorically devastating move. It collapsed the AI companies' carefully constructed framing — transformative use, fair use, technical necessity, innovation — into the oldest accusation in commerce, and made it stick. Stealing. Not because the signatories did not understand the technical arguments. They did. Because they had decided that the technical arguments were a cover for an underlying transfer of value that didn't deserve any other name.
+
+[PAUSE]
+
+Once you have that framing, the whole policy debate looks different. Should we allow innovation? becomes should we allow theft? The answers are not the same.
+
+[LONG PAUSE]
+
+The levy precedent. Why Petrillo matters here.
+
+[PAUSE]
+
+I want to take a long detour, because the eighty-eight percent — and the institutional response forming around it — is, on the historical reading I laid out in Chapter Two, a Petrillo-template moment that the trade press has, in the main, declined to recognise as such.
+
+[PAUSE]
+
+Let me state the template again, in its cleanest form, because the rest of this section relies on it.
+
+[PAUSE]
+
+When James Caesar Petrillo (Peh-trill-oh), the president of the American Federation of Musicians, took on the recording industry in nineteen forty-two and again in nineteen forty-eight — staging the recording bans that effectively shut down the entire commercial output of American recorded music for the better part of three years — the strategic move was not, in essence, prohibition. Petrillo was not trying to ban records. He was trying to tax records. The nineteen forty-two settlement created a per-record royalty paid into an A.F.M. unemployed-musicians fund. The nineteen forty-eight settlement, after the Taft-Hartley Act outlawed the nineteen forty-two structure, created the Music Performance Trust Fund under Section Three Hundred and Two — a jointly-administered labour-management fund, paid into by the labels and broadcasters, used to subsidise free live music performances by working musicians, distributing the productivity gain of the new recording technology to the displaced labour pool. The M.P.T.F. still exists. It still distributes payments today. It is, on a hundred years of evidence, the only form of institutional response to a creative-technology displacement that has worked at structural scale.
+
+[PAUSE]
+
+The four parts of the template, again.
+
+[PAUSE]
+
+One. The displacing technology is not banned. It is allowed to displace.
+
+[PAUSE]
+
+Two. The platform owner pays an ongoing per-unit tribute to the displaced labour pool.
+
+[PAUSE]
+
+Three. The tribute is collected centrally, by a joint labour-management body, not negotiated individual-by-individual.
+
+[PAUSE]
+
+Four. The tribute is paid out to subsidise the displaced creative practice itself — live music, in Petrillo's case — keeping it alive as a category even as the market for it shrinks.
+
+[PAUSE]
+
+I want to show how the eighty-eight percent — and the architecture of institutional response coalescing around it in spring twenty twenty-six — is, function by function, a reconstruction of the Petrillo template for the AI era.
+
+[PAUSE]
+
+One. None of the institutional responses I have catalogued in this chapter — the U.K. consultation's licensing-by-default proposal, the SAG-AFTRA Tilly Tax, the Stealing Our Work Is Not Innovation declaration, the GEMA ruling, the Cannes Disclosure Standard — is, in essence, a ban. The declaration's signatories are not asking for AI to be prohibited. The eighty-eight percent of U.K. respondents who wanted licensing-in-all-cases were not asking for AI training to be banned. They were asking for it to be licensed — which is, by definition, an acknowledgement that the underlying activity will continue. This matches Petrillo's first principle.
+
+[PAUSE]
+
+Two. What the eighty-eight percent, the GEMA ruling and the U.M.G. v. Anthropic settlement framework are collectively asking for is a per-output tribute from the AI platforms to the creative-labour pool whose work was used in training. The mechanism is, structurally, identical to the per-record royalty that Decca and Columbia agreed to pay A.F.M. in nineteen forty-four. The platform pays. The labour pool receives. The amount is calibrated to the volume of platform output. The mechanism is the Petrillo mechanism.
+
+[PAUSE]
+
+Three. The structural innovation of the Petrillo settlement — collection through a joint body rather than through individual-creator negotiation — is, in spring twenty twenty-six, only partially built for the AI era. The collective-licensing infrastructure for music — P.R.S., GEMA, A.S.C.A.P., B.M.I., S.I.A.E., J.A.S.R.A.C. and the related international bodies — has, in some cases, started negotiating directly with the AI platforms on the per-output structure. The Musical A.I. creative weight attribution infrastructure is a first attempt to build a technical layer underneath the joint-body political layer. The Cannes Disclosure Standard is an industry-coordination mechanism for the production-side disclosure that the collection mechanism rests on. None of this is finished. The joint bodies for visual artists, writers, games developers, photographers are at much earlier stages of development. The M.P.T.F.-equivalent fund-and-distribution mechanism does not yet exist for most of the creative industries. Building it is the institutional work of the next eighteen months.
+
+[PAUSE]
+
+Four. The final part of the template — paying the tribute out to subsidise the displaced practice — is the part the AI debate has, in my view, most under-thought. What does "subsidising the displaced practice" look like for AI-displaced creative work? For working musicians whose tracks are being competed-against by Suno outputs, it could look like funded performance opportunities, funded studio time, funded creative-development grants — the direct lineage of M.P.T.F. live-performance subsidies. For working illustrators whose work was used to train image models, it could look like commissioned-work grants, funded artist residencies, public-art-commission expansion. For working authors whose books were used to train L.L.M.s, it could look like Public Lending Right expansion, library-licensing funds, writer-in-residence programmes. The structural move is the same in each case. Take the productivity gain from the platform, redistribute it to the displaced practice, keep the practice alive as a category. This is what the eighty-eight percent is implicitly asking for, whether or not the consultation respondents would have phrased it that way.
+
+[PAUSE]
+
+I want to be honest about a complication that the Petrillo template hits at full speed in the AI era, because the book should not be glib about it.
+
+[PAUSE]
+
+The M.P.T.F. works partly because the relationship between recorded music — the displacing technology — and live music — the displaced practice — is one-to-one. The same musicians could, in nineteen forty-eight, do either thing. The Petrillo settlement was, structurally, paying the displaced version of the labour to subsidise the alternative version of the same labour.
+
+[PAUSE]
+
+The AI version of this relationship is many-to-many. The training data for a generative-image model is the lifetime output of thousands of working illustrators, photographers and visual artists, each of whom contributed an individually-tiny fraction of the model's competence. The output is generated — there is no clean per-image-licence-equivalent. The redistribution problem is, by structure, much harder than Petrillo's problem.
+
+[PAUSE]
+
+Two attempts to solve this are visible in twenty twenty-six.
+
+[PAUSE]
+
+The first is creative weight attribution — Musical A.I.'s framing, picked up by some of the C-2-P-A-adjacent technical standards groups — which proposes that AI platforms compute, for each output, the gradient-weighted contribution of each training-data input, and distribute a per-output royalty proportionally. The technical infrastructure for this is, in mid-twenty twenty-six, partially built. The economic infrastructure to handle the resulting micro-payments is, in mid-twenty twenty-six, not built. But the mechanism is the right one in principle. It preserves the one-to-many relationship that Petrillo could not directly handle, and translates it into a many-to-many redistribution mechanism.
+
+[PAUSE]
+
+The second is collective licensing at the publisher tier. The Stability AI and Universal Music alliance, the Splice and U.M.G. partnership, the various YouTube and Spotify catalogue-licensing deals operate by aggregating training-data permissions at the publisher and label level, with the per-creator distribution handled internally by the existing royalty infrastructure of those publishers. This works for commercially-published creative work where the publisher already has a contractual relationship with the creator. It works less well for independent and self-published creative work where there is no publisher to negotiate on the creator's behalf.
+
+[PAUSE]
+
+Both approaches will, in some hybrid form, be the architecture of the AI-era Petrillo settlement. The eighty-eight percent, the GEMA ruling, the SAG-AFTRA bargaining, the Cannes Disclosure Standard and the U.M.G. v. Anthropic litigation are the political pressure that is forcing the platforms to agree to some version of one or the other. The version that emerges over the next eighteen months will, on the historical pattern, define the next forty years of how creative-AI work is paid for.
+
+[PAUSE]
+
+If the working-creative cohort reading this is asking what specifically to push for, my answer is. The Petrillo template, applied to AI, collected through a joint body, distributed through a creative-weight-attribution mechanism layered on top of the existing collective-licensing infrastructure, used to subsidise the displaced creative practice as a category. That sentence is a mouthful. It is also the most-likely-to-work structural answer that the historical pattern points at. The eighty-eight percent is the political mandate for it. The institutional architecture is, in mid-twenty twenty-six, half-built. Finishing it is the work.
+
+[LONG PAUSE]
+
+The consent-trained alternative.
+
+[PAUSE]
+
+The eighty-eight percent is a demand-side fact. It tells you what creators want done about the training pipeline. There is a supply-side fact that I think the policy debate has been slow to absorb, and that working creatives reading this book should know about, because it is the practical refutation of the AI companies' core argument.
+
+[PAUSE]
+
+The AI companies, as I noted earlier in this chapter, have spent two years arguing that machine-learning models cannot practically be trained on licensed data at the scale they require. That the data volumes are too large, the licensing relationships too fragmented, the legal cost too high. That training on consent-acquired data is, in effect, a nice idea that does not survive contact with the engineering.
+
+[PAUSE]
+
+By spring twenty twenty-six, this argument was falsifiable, and had been falsified, by the existence of a category of foundation models that had been built — and were commercially successful — on exactly the consent-first basis the AI companies said was impossible.
+
+[PAUSE]
+
+The category, with the models I would name as its leading examples.
+
+[PAUSE]
+
+Adobe Firefly — Image Model Five, Firefly Video, Firefly Foundry — trained on Adobe Stock licensed content, openly licensed material, and public-domain work. Adobe Stock contributors are compensated through the Firefly bonus programme. By April twenty twenty-five, Firefly had generated twenty-two billion assets. By mid-twenty twenty-six it was the dominant enterprise generative-image tool, with forty-five percent plus Creative Cloud penetration.
+
+[PAUSE]
+
+Bria — image and video foundation models trained on a one-hundred-percent-licensed dataset assembled from partners including Getty Images, Alamy and a network of independent rights holders. Bria publishes a per-output attribution and royalty mechanism on which the broader creative-weight-attribution conversation has drawn.
+
+[PAUSE]
+
+Getty Images Generative AI — built with NVIDIA Picasso — trained exclusively on Getty's licensed library, with contributor royalties paid through Getty's existing rights infrastructure.
+
+[PAUSE]
+
+Moonvalley Marey — a generative-video model positioned explicitly as the "clean" alternative to Sora (Sore-ah) and Veo, trained on a licensed video dataset.
+
+[PAUSE]
+
+AIODE — a music-creation DAW trained on ethically-licensed audio, listed in the toolchain map in Chapter Sixteen.
+
+[PAUSE]
+
+Tamber — an ethically-trained AI music suite launched in May twenty twenty-six, controllable via arm gestures, positioned explicitly as a tool that moves with the musician rather than substituting for them.
+
+[PAUSE]
+
+And the Stability AI / Universal Music Group alliance, the Stability AI / Warner Music deal and the Splice / Universal Music partnership — data-alliance arrangements that build music models on rights-cleared catalogues, with the per-creator distribution handled through the labels' existing royalty infrastructure.
+
+[PAUSE]
+
+I am not claiming this category is perfect, or even, in every case, that its consent claims fully hold up to scrutiny. Adobe Firefly has faced criticism over the inclusion of AI-generated stock images in its training set. The per-creator economics on the Stability and U.M.G.-style deals are still being worked out. The point is not that these models are above critique. The point is that they exist, that they work commercially, and that their existence collapses the central technical-inevitability argument that the rest of the industry has been using to justify scraping.
+
+[LONG PAUSE]
+
+The three Cs. Consent, credit, compensation.
+
+[PAUSE]
+
+By the late spring of twenty twenty-six the licensing-side conversation had begun to settle on a three-word shorthand worth pulling out of the contract architecture and putting on the page, because it is the cleanest articulation I have seen of what the operative version of the eighty-eight-percent-mandate looks like inside an actual platform-and-label deal. The shorthand is consent, credit, compensation — the three Cs — and it was the explicit framing for the Spotify-Universal Music Group licensing agreements announced at Spotify's Investor Day on the twenty-first of May, twenty twenty-six, which let fans create AI covers and remixes of participating artists' songs as a paid Premium add-on, with revenue flowing back to the artists and songwriters whose work is reinterpreted.
+
+[PAUSE]
+
+The three Cs map cleanly onto the Petrillo template I described earlier in this chapter. Consent is the opt-in catalogue — only artists who actively agree have their work made available for remixing, which is the acknowledgement-that-the-underlying-activity-will-continue move that Petrillo's first principle requires. Credit is programmatic provenance — derivatives are linked to original metadata, and a "Verified by Spotify" badge steers attention and money toward sanctioned work, which is the central-joint-body-collection mechanism that Petrillo's third principle requires, with the platform doing the joint-body work that, in the recorded-music case in nineteen forty-eight, the A.F.M. did. Compensation is a new royalty stream layered on top of standard streaming, paid out to the artists and songwriters whose work is used — which is Petrillo's second and fourth principles, per-output tribute, paid into the displaced creative-labour pool, at the level of a streaming-product line.
+
+[PAUSE]
+
+The deal's prehistory is the part I want every working creative reading this to register. U.M.G. spent twenty twenty-four calling Suno and Udio's training data, quote, "infringement on an almost unimaginable scale." It settled with Udio in October twenty twenty-five and agreed to build a licensed product instead. The Spotify deal is the mature form of that turn — litigation converted into a revenue line. The market read it as a direct shot at Suno. Spotify's stock jumped on the day. [EMPHASIS] The lawsuits were never the destination. They were leverage to force a licensing table into existence. That sentence is, in my view, the right read on the eighty-eight percent, on GEMA, on U.M.G. v. Anthropic, on the Wixen suit, on the Stealing Our Work Is Not Innovation declaration and on every other piece of legal-and-political pressure I have catalogued in this chapter. The pressure produced the licensing table. The table is now being built. The three Cs are the contract pattern the table is using.
+
+[PAUSE]
+
+A second twenty twenty-six deal — the Hasbro Sixth Wall Behavioral Licensing launch on the third of June, twenty twenty-six — is the same architecture applied to characters rather than recordings, and is worth flagging here because it extends the consent leg in a direction the music settlement does not yet have to reach. Where U.M.G.'s opt-in catalogue grants permission for the song to be remixed, Hasbro's CharacterOS grants permission for the behaviour of a character — how Optimus Prime argues, how Megatron menaces — to be deployed inside third-party experiences, with the underlying voice performance compensated through a talent-participation structure to the original performers. On the three Cs, this is the most complete model in the field as of mid-twenty twenty-six. It is also where the sharpest critique sits, and the critique is worth marking. Participation is a compensation mechanism — it answers credit and compensation. It does not, by itself, settle consent in the deeper sense the actors' unions mean. Ongoing control over how a performance is used, and the right to refuse. A pay cheque is not a veto. The Sixth Wall model's long-term legitimacy will rest on contract terms the press releases don't yet disclose, and the SAG-AFTRA-shaped argument about N.I.L. rights is going to continue to be the live argument underneath every Behavioural-Licensing deal that follows.
+
+[PAUSE]
+
+For the deep analytical treatment of the three Cs across five emerging licensing models — Hasbro and Behavioural Licensing, Spotify and U.M.G. embedded remixing, Disney and OpenAI as cautionary tale, the independent-artist commons-and-D.A.O. models, and the Suno and Alexa create-to-consume demand floor — see Appendix L. The Programmable Brand.
+
+[LONG PAUSE]
+
+Indemnity as the receipt.
+
+[PAUSE]
+
+The clearest single signal that a model has done its upstream consent work is whether the company behind it is willing to indemnify its customers against copyright infringement claims arising from generated output.
+
+[PAUSE]
+
+The pattern, in the eighteen months to mid-twenty twenty-six.
+
+[PAUSE]
+
+Adobe offers I.P. (Intellectual Property) indemnification on Firefly enterprise outputs — Adobe will defend customers, and pay damages, if an enterprise generation is challenged on copyright grounds.
+
+[PAUSE]
+
+Microsoft announced its Copilot Copyright Commitment in September twenty twenty-three and extended it across the Copilot product family through twenty twenty-four and twenty twenty-five. Microsoft assumes the legal liability for commercial customers using Copilot outputs in good faith.
+
+[PAUSE]
+
+Google offers an indemnification commitment on Vertex AI and Workspace generative outputs.
+
+[PAUSE]
+
+I.B.M. offers an uncapped indemnity on watsonx-generated content for enterprise customers.
+
+[PAUSE]
+
+Notice which companies are on this list and which are not. The companies indemnifying their customers are, without exception, the companies that have invested most heavily in the upstream consent work — licensed data, contributor compensation, rights-cleared catalogues. The companies that have not indemnified their customers are, predominantly, the companies whose training-data position is most exposed.
+
+[PAUSE]
+
+This is not a coincidence. Indemnification is a receipt. It is the legal department of a two-hundred-billion-dollar company telling its commercial customers, in the most expensive language available — we have done the work. You can use this without being sued. The absence of an indemnity, conversely, is an instruction. It is the same legal department saying, the risk is yours. You carry it.
+
+[PAUSE]
+
+For working creatives, agencies and studios making procurement decisions in twenty twenty-six, the indemnity status of a tool is the single most useful one-question proxy for whether its training pipeline is built on the side of the eighty-eight percent or against it. Ask the vendor. If they cannot give you a written indemnity, you have your answer.
+
+[LONG PAUSE]
+
+The literacy problem.
+
+[PAUSE]
+
+None of this — the consent-trained category, the indemnity framework, the C-2-P-A provenance stack in Chapter Twelve, the legislative reversal earlier in this chapter — works without a corresponding investment in literacy. And the literacy gap, in mid-twenty twenty-six, is the place where I am most worried about the architecture failing.
+
+[PAUSE]
+
+Policy and infrastructure can constrain the supply side. They cannot, on their own, redirect the demand side. The question of whether a working illustrator chooses Firefly over Midjourney, whether a marketing team specifies Bria over a scraped open-source model in its agency brief, whether a record label's A and R department uses a Stability and U.M.G.-aligned tool rather than Suno for demo work, whether a film commissioner asks for Marey provenance on a generative-video shot, whether an audience member streams a SynthID-watermarked track over an unlabelled one — these are consumption questions. They sit downstream of every law and every standard. They are decided, ten thousand times a day, by people choosing tools and content from a menu, without anyone telling them what the choices on the menu actually mean.
+
+[PAUSE]
+
+Three things have to happen for the literacy layer to catch up with the infrastructure layer.
+
+[PAUSE]
+
+First. Working creatives need to know what the consent-trained category is, which tools are in it, and what an indemnity is for. This book is one attempt at that. The Sundance AI Literacy Initiative, training one hundred thousand plus artists in provenance practice on Google's funding, is another. The professional bodies — the Society of Authors, the A.I.G.A., Equity, the A.O.P., the M.P.G., the W.G.A. — have, by mid-twenty twenty-six, started shipping member guides. The work is early.
+
+[PAUSE]
+
+Second. The buyers of creative work — the brands, the agencies, the broadcasters, the platforms, the publishers — need to make ethically-trained models a specified requirement in their briefs and procurement contracts. A handful already have — the BBC, the A.P. wire service, the Cannes festival itself. The vast majority have not. The lever exists. It needs to be pulled.
+
+[PAUSE]
+
+Third. The audience needs the equivalent of a nutrition label. The Cannes Disclosure Standard, SynthID-in-Gemini, the YouTube AI-content disclosure rules, the proposed E.U. AI Act labelling obligations are early attempts at this. None of them yet add up to a consumer-facing signal as legible as the Fairtrade mark or the organic certification. Until they do — until an audience member streaming a song, watching a clip, or buying a print can tell at a glance whether the creative work in front of them was made with a tool that paid the people whose work it learned from — the consumption side of the equation will keep leaking. Provenance metadata sitting in a file header that no one reads is not, on its own, literacy.
+
+[PAUSE]
+
+I do not think this layer will get built by the AI companies. The incentive isn't there. I think it will get built — slowly, contentiously, in fits and starts — by the same coalition I am about to describe in the next section. By creators, their unions, their professional bodies, their buyers and their audiences, jointly insisting on a labelling regime that the platforms eventually have to honour because the market has organised itself around it.
+
+[PAUSE]
+
+The eighty-eight percent is the political mandate. The consent-trained models are the proof of supply. The indemnity framework is the legal receipt. The literacy infrastructure is the missing piece — and it is, on the evidence of the last six months, being built.
+
+[LONG PAUSE]
+
+Coalitions, not protests.
+
+[PAUSE]
+
+The thing I want creative people reading this to take from this chapter is not that protest works.
+
+[PAUSE]
+
+Protest works. We have seen it. The eighty-eight percent, the Equity ballot, the SAG-AFTRA contract, the artists' declaration, the GEMA ruling, the U.K. government's reversal — these are evidence that protest works.
+
+[PAUSE]
+
+What I want you to take is that coalition works.
+
+[PAUSE]
+
+What happened in these six months was not — or was not only — that individual creators got angry and shouted. What happened was that creators aligned themselves with adjacent groups whose interests they had not previously seen as aligned with theirs.
+
+[PAUSE]
+
+Working musicians aligned with photographers, who aligned with authors, who aligned with games developers, who aligned with screenwriters, who aligned with voice actors, who aligned with concept artists, who aligned with translators, who aligned with journalists. They aligned with their unions. They aligned with their professional bodies. They aligned, somewhat to everyone's surprise, with the major studios, who had spent twenty years suing them and now found themselves on the same side of a copyright argument against the same platform companies.
+
+[PAUSE]
+
+The major-label leadership read of the same coalition shifted, in the spring of twenty twenty-six, in a way that I think is worth registering carefully because the rhetoric is a useful weather-vane. Robert Kyncl, the chief executive of Warner Music Group, in a widely-quoted May twenty twenty-six interview, told the industry that "AI resistance" was actively setting the music sector back — that AI represented "an incredible value creation opportunity," and that the labels "cannot wait the way the industry did twenty-five years ago." Kyncl's invocation of the Napster moment was deliberate. The argument was that the labels' twenty-five-year pattern of suing first, integrating second had cost them, in net, the bulk of the streaming-era surplus to platforms that had moved before they did, and that repeating that pattern with AI would compound the loss. This is a meaningful change in register from the twenty twenty-five "biggest theft in music history" framing, and worth tracking. It does not contradict the eighty-eight percent — Kyncl, like the B.P.I., is pushing for licensing infrastructure rather than against it — but it shifts the centre of gravity of major-label rhetoric from prohibition toward participation. On the Petrillo template, this is the labels' tribute-mechanism position. AI continues, the platforms pay, the joint-body collection infrastructure scales. The question of whether the displaced practice gets a meaningful share of the resulting flow — whether the working songwriter, the working session player, the working independent artist actually sees the tribute — is the part the Kyncl framing does not yet answer.
+
+[PAUSE]
+
+They also — and this part I find most interesting — aligned with their audiences. The Adobe Creators' Toolkit Report found that sixty-nine percent of creators worried about their work being used to train AI without consent. That number rhymes with the eighty-eight percent in the U.K. consultation. It also rhymes with the audience behaviour I described in Chapter Five — the slop ceiling, the AI-music underperformance, the cultural rejection of synthetic content that doesn't disclose itself. The creators wanted protection. The audience, given a choice, wanted to listen to the protected work. The two interests, for the first time in a long time, sat on the same side of the line.
+
+[PAUSE]
+
+That alignment is the most powerful political asset the creative industries have had this century. They built it in six months. The question for the next six months — which Chapter Thirteen of this book is going to come back to — is what they do with it.
+
+[LONG PAUSE]
+
+The government admits it got it wrong.
+
+[PAUSE]
+
+On the first of June, twenty twenty-six — at SXSW London, a cultural and technology conference whose choice of venue was itself a statement about London's post-Brexit attempt to compete with Austin for creative-economy credibility — U.K. Culture Secretary Lisa Nandy said, on a public panel, the words that the eighty-eight percent had been waiting fourteen months to hear from a minister.
+
+[PAUSE]
+
+Quote. "I just want to be really clear about where this government sits on it, because we went out to try and find a way to help tech and creative industries to unlock the opportunities of AI, and we got it wrong in the first instance."
+
+[PAUSE]
+
+[calm] It is worth holding that sentence in its full weight. We got it wrong in the first instance. This is a serving government minister, at a public conference, explicitly conceding that the policy position her department had put to Parliament — the opt-out model, Option Three, the preferred option that only three percent of respondents had supported — was wrong. Not "under review." Not "subject to ongoing consultation." Wrong. The verb is unambiguous and it was not walked back.
+
+[PAUSE]
+
+What Nandy described at SXSW was a government that had gone into the consultation trying to find a workable compromise between tech and creative industries, and had, by the weight of the eighty-eight percent finding and fourteen months of subsequent pressure — the GEMA ruling, the SAG-AFTRA settlement, the Equity ballot, the Cannes Disclosure Standard, the parallel legislative movements in the United States and the European Union — been forced to reframe its understanding of what the question even was. The government had begun the process asking how do we enable AI training? and had been forced, by the volume and coherence of the creative sector's response, into asking how do we protect the people whose work underpins it?
+
+[PAUSE]
+
+The vindication is real. And I want to be precise, as I was precise about the March twenty twenty-six reversal earlier in this chapter, about what it does and does not mean.
+
+[PAUSE]
+
+It does mean that the eighty-eight percent — and every piece of union, legal, institutional and cultural pressure that built up around it — was sufficient to change the stated position of the government that proposed the opt-out model. In policy terms, that is a significant outcome. Very few public consultations on complex technology questions produce a ministerial admission of error this explicit.
+
+[PAUSE]
+
+It does not mean the fight is over. Nandy's statement at SXSW was accompanied by the careful qualifier. "No decisions on next steps." There is, as of the time of writing, no legislation in place, no licensing regime enacted, no opt-in framework passed into law. The legislative process is ongoing. The political will has shifted. The policy architecture that would make that shift concrete has not yet been built. The eighty-eight percent produced a political admission. The institutional and legal work that converts that admission into durable protection for creators is still ahead. The Petrillo template I described earlier in this chapter — the joint-body collection mechanism, the per-output tribute, the subsidy for the displaced creative practice — remains the structural target. The political mandate for it has never been stronger. The architecture is still half-built.
+
+[LONG PAUSE]
+
+END OF CHAPTER
+
+[LONG PAUSE]

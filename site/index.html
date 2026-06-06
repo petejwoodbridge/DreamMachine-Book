@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -105,6 +105,32 @@
       transition: box-shadow 0.1s !important;
     }
     .nav__cta:hover { box-shadow: 5px 5px 0 var(--ink2) !important; }
+
+    /* ── Nav Dropdown ── */
+    .nav__drop { position: relative; }
+    .nav__drop-btn {
+      background: none; border: none; cursor: pointer; padding: 0;
+      font-size: 0.75rem; font-weight: 600; font-family: inherit;
+      color: rgba(200,255,102,0.7); transition: color 0.15s;
+      letter-spacing: 0.04em;
+    }
+    .nav__drop-btn:hover { color: var(--lime); }
+    .nav__drop-arrow { font-size: 0.6em; margin-left: 0.25em; }
+    .nav__drop-menu {
+      display: none; position: absolute;
+      top: calc(100% + 8px); left: 50%; transform: translateX(-50%);
+      background: var(--ink); border: 2px solid var(--mag);
+      box-shadow: 4px 4px 0 var(--ink2); min-width: 190px;
+      flex-direction: column; z-index: 200; padding: 0.5rem 0;
+    }
+    .nav__drop:hover .nav__drop-menu,
+    .nav__drop:focus-within .nav__drop-menu { display: flex; }
+    .nav__drop-item {
+      font-size: 0.65rem; font-weight: 600; letter-spacing: 0.04em;
+      color: rgba(200,255,102,0.7); padding: 0.5rem 1rem; display: block;
+      transition: background 0.1s, color 0.1s;
+    }
+    .nav__drop-item:hover { color: var(--lime); background: rgba(200,255,102,0.07); }
 
     /* ── Hero ───────────────────────────────────────────────── */
     .hero {
@@ -522,11 +548,20 @@
     <div class="wrap nav__inner">
       <a class="nav__brand" href="#top">dream machine</a>
       <div class="nav__links">
-        <a href="#who">Who it's for</a>
+        <a href="#who">Who's it for</a>
         <a href="#chapters">Chapters</a>
-        <a href="editions.html">Editions</a>
-        <a href="#get">Get the book</a>
-        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab ↗</a>
+        <a href="#get">Get the Book</a>
+        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <div class="nav__drop">
+          <button class="nav__drop-btn">Toolkit <span class="nav__drop-arrow">▼</span></button>
+          <div class="nav__drop-menu">
+            <a class="nav__drop-item" href="toolkit.html">Creative Toolkit</a>
+            <a class="nav__drop-item" href="use-cases.html">Use Cases</a>
+            <a class="nav__drop-item" href="issues.html">Issues</a>
+            <a class="nav__drop-item" href="editions.html">Newsletter</a>
+            <a class="nav__drop-item" href="graph.html">Graph</a>
+          </div>
+        </div>
         <a class="nav__cta" href="#get">Get the book →</a>
       </div>
     </div>
@@ -547,7 +582,7 @@
           <a class="btn btn--mag"
              href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf"
              target="_blank" rel="noopener">📖 Read free (PDF)</a>
-          <a class="btn btn--dark" href="https://www.amazon.com/dp/B0H44ZSGP2" target="_blank" rel="noopener">Buy in print →</a>
+          <a class="btn btn--dark" href="https://www.amazon.co.uk/dp/B0H44ZSGP2" target="_blank" rel="noopener">Buy in print →</a>
           <a class="btn btn--lime" href="#chapters">See all chapters</a>
         </div>
       </div>
@@ -802,7 +837,7 @@
       <div>
         <p class="section__label" style="color:rgba(26,38,0,0.4)">Get it</p>
         <h2 class="get-book__title">Read it.<br><span>Own it.</span></h2>
-        <p class="get-book__copy">The PDF is free, forever. The living book updates every time a new newsletter edition ships. <a href="https://www.amazon.com/dp/B0H44ZSGP2" target="_blank" rel="noopener" style="color:var(--ink);text-decoration:underline;text-underline-offset:3px;">Print edition on Amazon →</a></p>
+        <p class="get-book__copy">The PDF is free, forever. The living book updates every time a new newsletter edition ships. <a href="https://www.amazon.co.uk/dp/B0H44ZSGP2" target="_blank" rel="noopener" style="color:var(--ink);text-decoration:underline;text-underline-offset:3px;">Print edition on Amazon →</a></p>
       </div>
       <div class="get-book__options">
         <a class="option-card option-card--lime"
@@ -827,7 +862,7 @@
           <div class="option-card__arrow">↗</div>
         </a>
         <a class="option-card"
-           href="https://www.amazon.com/dp/B0H44ZSGP2"
+           href="https://www.amazon.co.uk/dp/B0H44ZSGP2"
            target="_blank" rel="noopener">
           <div>
             <div class="option-card__label">Print edition · Amazon</div>

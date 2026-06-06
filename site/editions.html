@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -69,6 +69,32 @@
       transition: box-shadow 0.1s;
     }
     .nav__cta:hover { box-shadow: 5px 5px 0 var(--ink2); }
+
+    /* ── Nav Dropdown ── */
+    .nav__drop { position: relative; }
+    .nav__drop-btn {
+      background: none; border: none; cursor: pointer; padding: 0;
+      font-size: 0.7rem; font-weight: 600; font-family: inherit;
+      color: rgba(200,255,102,0.65); transition: color 0.15s;
+      letter-spacing: 0.04em;
+    }
+    .nav__drop-btn:hover { color: var(--lime); }
+    .nav__drop-arrow { font-size: 0.6em; margin-left: 0.25em; }
+    .nav__drop-menu {
+      display: none; position: absolute;
+      top: calc(100% + 8px); left: 50%; transform: translateX(-50%);
+      background: var(--ink); border: 2px solid var(--mag);
+      box-shadow: 4px 4px 0 var(--ink2); min-width: 190px;
+      flex-direction: column; z-index: 200; padding: 0.5rem 0;
+    }
+    .nav__drop:hover .nav__drop-menu,
+    .nav__drop:focus-within .nav__drop-menu { display: flex; }
+    .nav__drop-item {
+      font-size: 0.65rem; font-weight: 600; letter-spacing: 0.04em;
+      color: rgba(200,255,102,0.65); padding: 0.5rem 1rem; display: block;
+      transition: background 0.1s, color 0.1s;
+    }
+    .nav__drop-item:hover { color: var(--lime); background: rgba(200,255,102,0.07); }
 
     /* ── Hero ── */
     .hero {
@@ -234,15 +260,23 @@
 
   <nav class="nav">
     <div class="wrap nav__inner">
-      <a class="nav__brand" href="index.html">dream machine</a>
+      <a class="nav__brand" href="../index.html">dream machine</a>
       <div class="nav__links">
-        <a href="tools.html">Toolkit</a>
-        <a href="use-cases.html">Use Cases</a>
-        <a href="issues.html">Issues</a>
-        <a href="editions.html">Newsletter</a>
-        <a href="graph.html">Graph</a>
-        <a href="book.html">Book</a>
-        <a class="nav__cta" href="book.html">Read the book</a>
+        <a href="../index.html#who">Who's it for</a>
+        <a href="../index.html#chapters">Chapters</a>
+        <a href="../index.html#get">Get the Book</a>
+        <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <div class="nav__drop">
+          <button class="nav__drop-btn">Toolkit <span class="nav__drop-arrow">▼</span></button>
+          <div class="nav__drop-menu">
+            <a class="nav__drop-item" href="toolkit.html">Creative Toolkit</a>
+            <a class="nav__drop-item" href="use-cases.html">Use Cases</a>
+            <a class="nav__drop-item" href="issues.html">Issues</a>
+            <a class="nav__drop-item" href="editions.html">Newsletter</a>
+            <a class="nav__drop-item" href="graph.html">Graph</a>
+          </div>
+        </div>
+        <a class="nav__cta" href="../index.html#get">Get the book →</a>
       </div>
     </div>
   </nav>

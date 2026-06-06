@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -93,6 +93,32 @@
       transition: background 0.2s !important;
     }
     .nav__cta:hover { background: var(--lime) !important; }
+
+    /* ── Nav Dropdown ── */
+    .nav__drop { position: relative; }
+    .nav__drop-btn {
+      background: none; border: none; cursor: pointer; padding: 0;
+      font-size: 0.85rem; font-weight: 500; font-family: inherit;
+      color: rgba(255,255,255,0.7); transition: color 0.2s;
+    }
+    .nav__drop-btn:hover { color: var(--lime); }
+    .nav__drop-arrow { font-size: 0.7em; margin-left: 0.2em; }
+    .nav__drop-menu {
+      display: none; position: absolute;
+      top: calc(100% + 8px); left: 50%; transform: translateX(-50%);
+      background: #1a1a1a; border: 1px solid rgba(200,255,102,0.2);
+      box-shadow: 4px 4px 0 rgba(0,0,0,0.4); min-width: 190px;
+      flex-direction: column; z-index: 200; padding: 0.5rem 0;
+      border-radius: 4px;
+    }
+    .nav__drop:hover .nav__drop-menu,
+    .nav__drop:focus-within .nav__drop-menu { display: flex; }
+    .nav__drop-item {
+      font-size: 0.82rem; font-weight: 500;
+      color: rgba(255,255,255,0.65); padding: 0.5rem 1rem; display: block;
+      transition: background 0.1s, color 0.1s;
+    }
+    .nav__drop-item:hover { color: var(--lime); background: rgba(200,255,102,0.07); }
 
     /* ── Hero ───────────────────────────────────────────────── */
     .hero {
@@ -600,9 +626,9 @@
     <div class="wrap nav__inner">
       <a class="nav__brand" href="#top">dream machine</a>
       <div class="nav__links">
-        <a href="#who">Who it's for</a>
+        <a href="#who">Who's it for</a>
         <a href="#chapters">Chapters</a>
-        <a href="#get">Get the book</a>
+        <a href="#get">Get the Book</a>
         <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
         <a class="nav__cta" href="#get">Get the book →</a>
       </div>
@@ -624,7 +650,7 @@
           <a class="btn btn--mag" href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf" target="_blank" rel="noopener">
             📖 Read free (PDF)
           </a>
-          <a class="btn btn--dark" href="https://www.amazon.com/dp/B0H44ZSGP2" target="_blank" rel="noopener">
+          <a class="btn btn--dark" href="https://www.amazon.co.uk/dp/B0H44ZSGP2" target="_blank" rel="noopener">
             Buy in print →
           </a>
           <a class="btn btn--outline" href="#chapters">
@@ -649,10 +675,10 @@
         <div class="stat__num">240k</div>
         <div class="stat__label">Words</div>
       </div>
-      <div>
+      <a href="site/toolkit.html" style="text-decoration:none; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.75'" onmouseout="this.style.opacity='1'">
         <div class="stat__num">570+</div>
-        <div class="stat__label">Tools catalogued</div>
-      </div>
+        <div class="stat__label" style="color:var(--lime);">Tools — browse →</div>
+      </a>
       <div>
         <div class="stat__num">32</div>
         <div class="stat__label">Newsletter issues</div>
@@ -819,11 +845,12 @@
           <p class="chapter-card__desc">The four principles: <em>Agency, Attribution, Access, Audience.</em> The assistive-amplifier conviction. The Age of the Why. The chess-grandmaster frame: what happens to the grandmaster when Deep Blue wins — and why it's the spine of the book's strategic argument.</p>
         </div>
 
-        <div class="chapter-card">
+        <a class="chapter-card" href="site/toolkit.html" style="display:block;">
           <div class="chapter-card__num">Chapter 16</div>
           <div class="chapter-card__title">The Tools</div>
           <p class="chapter-card__desc">A complete, categorised inventory of 570+ tools, platforms and models from October 2025 – June 2026. Organised by creative discipline and workflow stage. The most comprehensive single catalogue of the period's toolchain.</p>
-        </div>
+          <p style="margin-top:0.75rem; font-size:0.82rem; font-weight:700; color:var(--mag);">Browse the creative toolkit →</p>
+        </a>
 
         <div class="chapter-card">
           <div class="chapter-card__num">Chapter 17</div>
@@ -922,7 +949,7 @@
           <div class="option-card__arrow">↗</div>
         </a>
         <a class="option-card option-card--dark"
-           href="https://www.amazon.com/dp/B0H44ZSGP2"
+           href="https://www.amazon.co.uk/dp/B0H44ZSGP2"
            target="_blank" rel="noopener">
           <div>
             <div class="option-card__label">Print edition · Amazon</div>
@@ -1004,6 +1031,7 @@
         <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
         <a href="https://github.com/petejwoodbridge/DreamMachine-Book" target="_blank" rel="noopener">GitHub</a>
         <a href="https://raw.githubusercontent.com/petejwoodbridge/DreamMachine-Book/main/Book/build/Dream_Machine.pdf" target="_blank" rel="noopener">Download PDF</a>
+        <a href="site/toolkit.html">Toolkit</a>
       </div>
       <div class="footer__copy">© 2026 Pete Woodbridge / DreamLab AI Collective. MIT / Apache-2.0.</div>
     </div>

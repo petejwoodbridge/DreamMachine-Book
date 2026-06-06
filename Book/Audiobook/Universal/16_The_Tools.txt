@@ -1,0 +1,1376 @@
+CHAPTER SIXTEEN
+
+The Tools.
+
+I have, until this chapter, deliberately kept the tools out of the foreground. Thirteen chapters about creative AI (Ay-Eye) without a chapter on the toolchain is, on the face of it, a strange editorial decision, and I want to begin by explaining it.
+
+The reason is that I think the most common mistake people make about this period is to confuse the tools with the transition. Tools are the visible surface of the change. The thing the press cycle covers. The thing the platform companies want you to talk about. The thing that has a price and a logo and a launch date you can put on a slide.
+
+The transition is everything underneath. The economics, the labour, the audience contract, the law, the institutions, the rails. The tools change weekly. The transition is slower, deeper, and is what will still be true in twenty thirty, when most of the tools in this chapter are obsolete.
+
+The first sixteen chapters were about the transition. This chapter is about the tools.
+
+I have written it last on purpose. Read in this order, the tools sit inside the architecture the book has been building. The Continuum, the Slop Ceiling, the four positions, the orchestrator role, the four principles. Read in any other order, they collapse back into the format the platform companies prefer. A tools-arms-race in which the only question is which model is best this week.
+
+That format is, in twenty twenty-six, the most reliable way to misunderstand what is happening.
+
+A note on the date stamp. Everything in this chapter is current to June twenty twenty-six. The May twenty twenty-six cut of the catalogue, with the Issue Thirty-One additions to the video, music, world-model, agent and games-engine layers folded in where they fit. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned.
+
+The point is not that the specific tools matter. The point is the shape of the toolchain. What categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
+
+How to think about the toolchain.
+
+Before the inventory, the frame.
+
+I think the creative-AI toolchain in twenty twenty-six is best understood as a stack of seven layers, each with its own dominant players, its own pace of change, its own integration model. The layers, from foundation to consumer, are these.
+
+First. Foundation models. The large multimodal systems underneath everything else. Open A.I. (Open-Ay-Eye)'s G.P.T.-class models, Anthropic (An-throp-ic)'s Claude (rhymes with load), Google's Gemini (Jem-in-ee), Meta's Llama, the major Chinese open-source models. These are the raw capability layer. Almost no working creative uses them directly except via wrappers.
+
+Second. Modality models. Specialist models for video, image, audio, three-D and world. For video — Sora (Sore-ah), Veo (Vay-oh), Runway Gen Four Point Five, Kling, Hunyuan, Wan. For image — Firefly, Midjourney (Mid-journey), Flux, Imagen (Imagine), and the Stable Diffusion variants including S-D-X-L. For audio — Suno (Soo-no), Udio (Oo-dee-oh), Eleven Labs, Mureka. For three-D and world — Marble, Genie Three, WorldGen, UNI-One, Hunyuan Three-D PolyGen, ECHO. These are what most working creatives think of when they say "AI tools."
+
+Third. Agent platforms. Systems that compose modality models and external tools into multi-step workflows. Open A.I.'s AgentKit, Anthropic's Claude apps and skills, Google's Project Genie, HeyGen (Hey-gen)'s Video Agent, Sony's forty-nine-agent, seventy-two-skill stack. The agent layer is where the orchestrator economy of Chapter Eleven actually runs.
+
+Fourth. Creative software with AI baked in. The legacy creative suites that have been rebuilt as AI-first platforms. Adobe Creative Cloud, Autodesk, Foundry, Unreal Engine, Unity, Davinci Resolve, Pro Tools, Logic Pro, Ableton. This is where most paid professional work still happens.
+
+Fifth. AI-native creative apps. New entrants whose product is a single-purpose AI workflow. Runway, Higgsfield (Higgs-field), Krea (Cray-ah), Freepik, Magnific, Synthesia (Sin-thee-zee-ah), HeyGen, Hedra, Cascadeur, Pika (Pee-kah), Luma (Loom-ah). Most working creatives use four to ten of these in rotation.
+
+Sixth. Open-source and workflow infrastructure. The technical-creator layer that wires everything together. ComfyUI (Comfy-You-Eye), Hugging Face, SuperSplat, OpenEnv, the open-source model ecosystem. This is where the most interesting innovation often happens first.
+
+Seventh. Consumer surfaces. The apps that put generative capability on every phone. The Sora app, CapCut and Dreamina with Seedance, the Gemini app, the various TikTok-style remix platforms. This is the layer the audience touches.
+
+The mistake I see most often, both in the press cycle and in studios planning their internal AI roadmaps, is to optimise for layer two — modality models — without understanding that the actual leverage is in how you compose layers two, three, four and six into a coherent workflow. The tool that wins is rarely the tool with the best benchmark. It is the tool that integrates cleanly into the rest of your stack.
+
+With that frame, the inventory.
+
+Video.
+
+The video layer changed faster than any other modality between October twenty twenty-five and June twenty twenty-six, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
+
+Sora Two, from Open A.I., is the model that opened the period this book covers. Its September twenty twenty-five launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter One is about. The iOS app launched alongside it hit a million downloads in five days. By March twenty twenty-six, however, the platform was shutting down. Open A.I. announced a staged wind-down on the twenty-fourth of March twenty twenty-six. Consumer app and website ending late April. Developer A.P.I. closing late September. Peak revenue reportedly at around five hundred and forty thousand dollars per month against operating costs in the billions, and compute reallocated toward higher-margin coding and enterprise products.
+
+The Disney and Open A.I. one billion dollar licensing announcement of the eleventh of December twenty twenty-five was never executed. No formal agreement was signed and no money changed hands. The contractual framework underneath that deal — I.P.-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against. The deep treatment of that architecture, and the broader I.P. (Eye-Pee)-economics shift it sits inside, is in Appendix L, The Programmable Brand.
+
+For working filmmakers in mid twenty twenty-six, the practical implication of the Sora collapse is that the consumer-facing edge of the AI-video market has rotated to ByteDance's CapCut, Dreamina and Seedance stack, to the YouTube Shorts integrations of Veo Three Point One, and to the Sora app's various TikTok-and-Reels-shaped successors. The professional pipeline never depended on Sora Two in the first place. Most working filmmakers I know used it less than its cultural prominence suggested. And so on the production side the collapse changes less than the headlines implied.
+
+Veo Three Point One, from Google DeepMind, released in mid-October twenty twenty-five, is the model the professional filmmaking community has, on average, gravitated toward. For narrative coherence, controllable camera composition, cinematic lighting vocabulary and sound integration. Sora Two wins on raw physics in single clips. Veo Three Point One wins on the kind of sustained directorial control most actual production pipelines need.
+
+Runway Gen Four Point Five — and Gen Four Point Five Image-to-Video, the Workflows product, Story Panels, Characters A.P.I. (Ay-Pee-Eye), Apps for Advertising — is the most-integrated commercial AI-video stack of the period. Runway has shipped product faster than any other AI video company in this market, and CEO Cristobal Valenzuela's "fifty indie films instead of one hundred million dollar blockbuster" framing is the cleanest articulation I have seen of the case for AI as creative leverage rather than cost-cut.
+
+Then there is the Chinese-built tier. Kling, from Kuaishou. Hunyuan Video, from Tencent. Wan Two Point Five, from Alibaba. Seedance Two Point Zero, from ByteDance. These models, in aggregate, have rivalled or surpassed the U.S. labs on specific capabilities — motion physics, character consistency, render speed — at significantly lower cost. Hunyuan's open-source releases have been the single most important contribution to the wider open-source AI video ecosystem in this period.
+
+Pika Two Point Zero, Higgsfield and Luma — with Dream Machine and UNI-One — round out the commercial layer. Each has carved a niche. Pika on iteration speed and creator workflow. Higgsfield on social-media marketing video at scale — eighty million dollars raised, one point three billion dollar valuation, two hundred million dollars revenue in nine months. And Luma on the world-model bridge to spatial content.
+
+HeyGen ships Video Agent, a full scripting-to-assembly agent built around reference images. Synthesia holds the corporate AI-avatar market, with a four billion dollar valuation, having reportedly rejected a three billion dollar Adobe acquisition offer. Eleven Labs runs the dominant audio-AI layer underneath much of the new video work, at five hundred million dollar annual recurring revenue by April twenty twenty-six.
+
+Gemini Omni, from Google DeepMind, announced at Google I/O twenty twenty-six, brings text, image, audio, video and live interaction into a single multimodal model. The first foundation-model release in this category that meaningfully unifies the modalities working creatives currently have to bridge across five different tools. Beeple Canvas, Mike Winkelmann's gen-AI compositor, launched May twenty twenty-six, is the first AI-native compositing application to ship from a working visual-effects artist's own studio. And is structurally distinct from the AI-features-bolted-onto-existing-compositors pattern in the legacy-software section below.
+
+If I had to name a single video product that, in my experience, working creatives have settled on as a default in twenty twenty-six, it would be Veo Three Point One for finished work and Runway for iteration and integration. Sora is the brand name the audience knows. The actual production pipelines run on the other two.
+
+Image.
+
+The image layer is more stable than video. The technology has matured, the differences between top models are narrower, and the dominant question has moved from "which model" to "which workflow."
+
+Adobe Firefly — Image Model Five, plus Foundry for custom-trained corporate models, plus integration across Photoshop, Illustrator, Express and InDesign — is the default for any working creative who is also a Creative Cloud subscriber. Which is, by Adobe's own numbers, forty-five percent of Creative Cloud users actively using Firefly, seventy percent of those weekly, more than twenty-two billion assets generated by April twenty twenty-five. The Firefly adoption curve is the single best evidence I have for the consumption-gap argument in Chapter Thirteen.
+
+Midjourney remains the aesthetic-leadership product in the category. Slower to ship, more opinionated about output style, dominant on Discord and X among the working AI-art community.
+
+Flux, from Black Forest Labs, is the open-source and pro-creator favourite for fine control, having largely replaced Stable Diffusion X-L as the open-weight default through twenty twenty-five.
+
+Google Imagen — and the Nano Banana fast-image variant integrated into Gemini, Photoshop and Unreal Engine via the various plugins — has become the most-integrated image model in the consumer toolchain, by virtue of Google's distribution. Nano Banana inside Photoshop and Nano Banana inside Unreal Engine were two of the more consequential cross-platform integrations of the period.
+
+Krea, Freepik, Magnific, Recraft — the higher-control consumer and pro-creator products built on top of foundation image models. Each is competing on specific workflow advantages. Real-time generation, upscaling, vector output, brand-consistency control.
+
+The image workflow most commonly cited in my circle in mid twenty twenty-six is this. A base generation in Firefly, Midjourney or Flux. Character-consistent variation in a controllable wrapper like Krea or Magnific. Finishing inside Photoshop, with the AI-assisted masking, generative-fill and object-removal tools that Adobe shipped through the autumn twenty twenty-five and spring twenty twenty-six update cycle.
+
+Music and audio.
+
+The music layer split into three categories during this period, and the split is, in my experience, more important than the specific products in each category.
+
+First, generative music tools that produce finished tracks from prompts. Suno, with Studio launched late twenty twenty-five. Udio. And Mureka, with its Music Agent Studio — six specialised AI agents for songwriting, arrangement and production. These are the tools that produce most of the AI-music flood Chapter Five describes. They are also, paradoxically, the tools most working musicians use the least directly. The consumer market for AI-generated finished tracks is large and growing, but professional musicians overwhelmingly use AI tools at a different layer.
+
+Second, production and post-production AI. The tools that handle audio restoration, mixing, mastering and isolation. The eleven hundred-creator music survey discussed in Appendix D found that fifty-eight percent of professional producers used AI for audio restoration, thirty-eight percent for mixing assistance, thirty-three point nine percent for automated mastering. iZotope Ozone Twelve, LANDR, the Pro Tools and Logic Pro AI suites, Cleanvoice A.I. for podcast post-production — this is where the silent-adoption majority of the music industry lives.
+
+Third, voice and audio synthesis. Eleven Labs is the dominant player, with five hundred million dollar A.R.R., BlackRock and NVIDIA backing, and meaningful share across audiobook narration, dubbing, podcast synthesis and AI character voice work. The Cardiff band that found their music had been used to train an "AI artist" outperforming them on Spotify is one of the cautionary tales of this layer. The Andrii Daniels bomb-shelter clip is one of the success cases.
+
+Sound-effect foundation models emerged as a new sub-category in May twenty twenty-six. Sony A.I.'s Woosh is the first foundation model explicitly trained for the professional sound-effects discipline. Built for the people who design the sonic worlds behind games, film and interactive media, not for the consumer market. Mirelo S-F-X One Point Six shipped the first sound-effects model that lets you edit a generated sound rather than only regenerate it. A structural shift in the discipline equivalent to the move from rendered images to layered Photoshop files. Stable Audio Three Point Zero, from Stability AI, shipped as an open-weight audio model family explicitly aimed at artistic experimentation. Tamber, the ethically-trained AI music suite I describe in Chapter Six, shipped alongside a gestural-control interface that lets the musician steer the generation with arm movements. And Beatport's Track ID rolled out as the real-time identification standard for the D.J. market.
+
+The deal flow underneath this layer is the second-fastest-changing in the toolchain. The Stability AI and Universal Music alliance. The Stability AI and Warner Music deal. The Splice and Universal partnership. The GEMA and Open A.I. lawsuit. The Wixen and Meta lawsuit. The U-M-G and Anthropic three billion dollar suit. These are the structural moves I would track if I were a working musician trying to plan a five-year toolchain.
+
+Three-D, world models, spatial.
+
+The category that, more than any other, I think defines the next decade of creative work. Chapter Eight is the long-form argument. This section is the inventory.
+
+Marble, from World Labs — Fei-Fei Li (Fay-Fay Lee)'s company — is the first commercial product I would put on a professional toolchain. Public release November twenty twenty-five. Sony Pictures' use of it in virtual production reportedly running forty times faster than the legacy workflow. DreamLab has been in the beta since October twenty twenty-five, and Marble is, today, the world-model product most integrated into a working pipeline I have used.
+
+Google DeepMind Genie Three is the most ambitious research-grade world model, named by Time as one of the best inventions of twenty twenty-five. Made publicly available to Google AI Ultra subscribers via Project Genie in January twenty twenty-six.
+
+Meta WorldGen. Tencent H-Y World One Point Five, open-sourced December twenty twenty-five alongside the Hunyuan Three-D Studio integration. SpAItial ECHO. Stanford Wonderzoom. OpenArt Worlds. Luma UNI-One, the most important category announcement of spring twenty twenty-six, combining world generation with reasoning. These are the rest of the world-model commercial layer.
+
+The May twenty twenty-six world-model wave extended this layer further. NVIDIA SANA-W-M is the first open-weight world model at meaningful scale — two point six billion parameters — with sixty-second video generation and explicit camera control. Odyssey Starchild-One is, by Odyssey's own framing, the first ever real-time multimodal world model. A system that doesn't just generate a world but simulates and reasons about it. Odyssey Agora-One is the multiplayer companion to Starchild, putting four players inside the same AI-generated world, built — in a small piece of provenance theatre — on the bones of a nineteen ninety-seven shooter. And Apple Headsup is a research-grade three-D Gaussian head-reconstruction pipeline built for multi-view captures from consumer iPhones. Extending the Vision-Pro-Personas Gaussian-splat thread into the open research layer.
+
+Underneath this layer, the Gaussian-splatting infrastructure has matured into a stable workflow. SuperSplat, from PlayCanvas, for editing. Spark Two Point Zero for open-source streaming of one-hundred-million-splat scenes to browsers. And the S-O-G slash WebP equivalent compression standard. Apple's confirmation that its Vision Pro Personas feature is powered by Gaussian splatting under the hood made it, by some margin, the most-deployed Gaussian-splat technology in consumer hardware as of late twenty twenty-five.
+
+For the three-D-asset and material side, the rapidly-maturing three-D-asset generation layer is being integrated, model-by-model, into Unreal Engine, Unity and Blender pipelines. Hunyuan Three-D PolyGen One Point Five — Tencent's "art-grade" three-D generative model. Hitem3D. Meshy. Rodin.
+
+Ubisoft's open-sourcing of its CHORD P-B-R-material model in December twenty twenty-five, and the Blender Foundation's patronage deal with Anthropic announced in May twenty twenty-six, are two of the more strategically significant moves in this layer. Both pushing the production-grade open-source tooling forward at a pace the commercial alternatives have struggled to match.
+
+Agent platforms and orchestration.
+
+The category I think most working creatives are still underestimating, six months after Chapter Three argued it was the inflection point of the era.
+
+Open A.I. AgentKit — Agent Builder, ChatKit, connector registry, eval framework — launched October twenty twenty-five and is the developer-facing platform underneath most third-party agentic creative tools.
+
+Anthropic Claude apps, and the Skills framework — the system of named, reusable capabilities that Claude Code uses to coordinate multi-agent workflows. The Sony forty-nine-agent, seventy-two-skill game-development stack is built on this. In May twenty twenty-six, Google released its own official skills for AI agents. A parallel, cross-vendor skills layer that lets Google-side agents do what Anthropic's Skills framework has been doing for Claude-side ones. The convergence of two named skills frameworks across the foundation-model vendors is, in my read, the first sign that the orchestration layer is settling on a shared vocabulary rather than continuing to fragment.
+
+Tencent Ardot, the company's AI-native design-agent platform launched May twenty twenty-six, is the most ambitious non-Western agent-platform launch of the period. An integrated environment in which generative design agents handle layout, asset generation, brand application and iteration as a single coordinated pipeline. In the same week, Viktor raised seventy-five million dollars to embed an agentic coworker directly into Slack and Microsoft Teams. The agentic layer landing not as a standalone product but as a colleague-shaped presence in the chat surface the working creative is already in all day, as discussed in Chapter Nine.
+
+HeyGen Video Agent, for end-to-end video assembly. Adobe C-X Enterprise, announced at Adobe Summit twenty twenty-six with NVIDIA, for agentic creative intelligence across the full content lifecycle. NVIDIA plus Google Cloud, for the underlying creative-AI infrastructure most enterprise pipelines run on.
+
+ComfyUI — the open-source node-based workflow editor — sits underneath much of the technical-creator community's agentic work. ComfyUI raised seventeen million dollars in October twenty twenty-five and hit a five hundred million dollar valuation by May twenty twenty-six. The platform has become the de facto operating system for the open-source side of the creative-AI ecosystem. In May twenty twenty-six, Anthropic's Claude was added as an official partner node inside ComfyUI, joining the existing Google, Open A.I. and open-weight nodes. Meaning the three frontier foundation models can now be orchestrated side-by-side inside the same open-source pipeline.
+
+Hugging Face. OpenEnv, from Meta and Hugging Face. The Hugging Face and Google Cloud partnership. The open-source agentic-development infrastructure.
+
+For working creatives, the practical agent stack in twenty twenty-six is some combination of these four. First, a foundation model — Claude, G.P.T. or Gemini — for the orchestration brain. Second, a modality model layer — video, image, audio, three-D — doing the actual generation. Third, a workflow integration layer — ComfyUI for technical work, the in-app agent surfaces for less technical work. And fourth, a judgement layer. The human at the desk, doing what Chapter Eleven calls briefing, allocating, judging and integrating.
+
+The team I work with at DreamLab runs this stack in production every week. The agents that handle our daily work in May twenty twenty-six are, in aggregate, doing the labour of what would, two years ago, have been a team three to four times our size. The human team has not shrunk. We have just become substantially more leveraged.
+
+Legacy creative software, repositioned.
+
+The most under-reported strategic story of this period, in my view, has been the speed at which the legacy creative-software vendors have rebuilt their products as AI-agent platforms.
+
+Adobe. I have written enough about Adobe in Chapter Nine that I will not repeat it here. The short version. Creative Cloud is, today, a stack of AI agents wearing a Photoshop, Premiere, After Effects, Illustrator, InDesign and Acrobat skin. The agents are inside the apps. The apps are inside ChatGPT. The apps are inside Adobe Express. The apps are inside the new C-X Enterprise platform. The repositioning is complete.
+
+Unreal Engine, from Epic. The games engine that has, through plugins, integrations and the Nano Banana and Gemini partnership, become a hybrid game-engine, virtual-production and AI-generation hub. The Unreal Engine Five AI Assistant, announced at the end of twenty twenty-five, is one of the more consequential single-product launches of the period. The ECABridge connector, launched May twenty twenty-six, is the most-cited Unreal-Engine M.C.P. (Em-See-Pee) integration of the spring. Providing the Model Context Protocol surface and a set of agentic capabilities Epic itself has not yet shipped to the launcher. In a separate but related move, an Epic Games veteran announced an AI-heavy, quote, "Fully European" game-engine project in the same week. The first plausibly-credible new entrant in the triple-A game-engine market since the early twenty-tens, framed explicitly around AI as the core operating layer.
+
+Unity. Unity's AI Open Beta, in May twenty twenty-six. An in-editor AI suite for the full games-development pipeline, alongside the company's AI Council formation in October twenty twenty-five.
+
+Autodesk, Foundry, SideFX. The V-F-X (Vee-Eff-Ex)-pipeline vendors integrating generative AI into Maya, Nuke and Houdini (Hoo-dee-nee) at the speed the VFX industry's adoption curve — sixty-two percent of Hollywood studios on automated compositing, thirty-five percent reduction in post-production timelines — demanded.
+
+Blender. Open-source three-D, now a recognised industry-grade tool, beneficiary of the Anthropic Foundation patronage deal.
+
+Davinci Resolve, from Blackmagic. Avid Media Composer. Pro Tools. The editorial and audio post environments, all now shipping AI-augmented features that have become baseline expectations.
+
+The thing to note is that the legacy software did not get displaced by the AI-native products. The legacy software absorbed the AI-native capability and kept the underlying user community. Adobe was supposed to lose to Midjourney in twenty twenty-four. Adobe is, instead, the dominant generative-AI player by aggregate creator engagement in twenty twenty-six. The platform companies bet on this absorption pattern, and that bet has, so far, paid off.
+
+Open source.
+
+The open-source ecosystem has, against the odds and against most VC predictions in twenty twenty-four, held its ground through this period. And is, in several categories, the leader rather than the follower.
+
+Hugging Face. The operating system of open-source AI, expanding aggressively through twenty twenty-five and twenty twenty-six.
+
+ComfyUI. Already discussed.
+
+Open-source models from Tencent's Hunyuan, Alibaba's Qwen and Wan, DeepSeek, Meta's Llama, Mistral, Stability AI. Collectively, the open-weight ecosystem that, by the spring of twenty twenty-six, was being used by approximately eighty percent of startups pitching the Andreessen Horowitz fund. NVIDIA's SANA-W-M, in May twenty twenty-six, extended this list to world-models for the first time at meaningful parameter scale.
+
+PhotoGIMP, the open-source skin that takes GIMP and makes it look and feel exactly like Photoshop, became, in this period, a credible Photoshop alternative for working creatives who wanted to opt out of the Adobe subscription stack. The open-source equivalent of the Tools I do not use discipline in the section above.
+
+OpenEnv, from Meta and Hugging Face, for open-source agentic development. Korin AI — the Africa-trained, Africa-built model launched May twenty twenty-six. SuperSplat. Spark Two Point Zero. PlayCanvas S-O-G. Blender. The open-source spatial and three-D infrastructure layer.
+
+If you are a working creative trying to build a long-term, defensible toolchain that does not depend on the unilateral pricing or policy decisions of a single platform company, the open-source ecosystem in twenty twenty-six is materially viable in a way it was not eighteen months ago. We have built significant parts of the DreamLab pipeline on top of it precisely for that reason.
+
+Tools I do not use, and why.
+
+I want to be specific, because lists of "best tools" without exclusions are not useful.
+
+I do not use AI tools whose terms of service claim ownership over my output, or that train on user inputs without an opt-out. Multiple consumer-facing AI products in this period have shipped with terms that working creatives should read carefully before adopting.
+
+I do not use AI tools whose training data provenance I cannot, in some material way, verify or trust. The growing infrastructure for creative weight attribution, watermarking and C-Two-P-A compliance is, in my view, the right side of the market to be on. Tools that explicitly reject that infrastructure are tools that I have, increasingly, kept out of our production pipeline.
+
+I do not use the AI products that have made the most noise in the consumer press cycle. The marketing-driven launches — the products whose first appearance is a viral demo and whose second appearance is a Series-A round — are, in my experience, the products most likely to have collapsed or pivoted by the time you need them in production six months later.
+
+I do not, finally, use AI tools to produce work in the disciplines where my own craft is the value I am bringing to the client. The Continuum frame from Chapter Three is, for me, a daily operational practice, not a theoretical model. The places I sit on the right edge of the line are deliberately chosen. The places I sit on the left are deliberately defended.
+
+The complete toolchain. A categorised reference.
+
+This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that Dream Machine tracked across its thirty-two issues, from October twenty twenty-five to June twenty twenty-six. Some are dominant. Some are niche. Some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is what existed, in this period, in the creative-AI toolchain — so that the shape of the field is on the record.
+
+A word on the list's grain. I have tried to err on the side of inclusion. Where a single company ships multiple closely-related products — Adobe's Sneaks portfolio, the Runway Gen Four Point Five family, the Qwen-Edit LoRA series — I have grouped them under the parent entry but called out the constituent tools. Because in this period each constituent shipped to working creatives separately and changed at its own cadence. Where a tool was a one-issue demo I could not later verify, I have still listed it. That the demo existed at all is part of the field's history. Where a tool's name conflicts with another — there are at least three things called "Wonder" in the period the book covers — I have annotated.
+
+The list runs to roughly six hundred entries. Skim it. Use the categories. Come back to specific sections when you need them.
+
+Foundation models and Large Language Models.
+
+The foundation-model layer begins with ChatGPT, G.P.T. Five and G.P.T. Five Pro from Open A.I. — the dominant consumer L.L.M. (Large Language Model) and reference foundation model, eight hundred to nine hundred million weekly active users, G.P.T. Five and G.P.T. Five Pro announced at DevDay twenty twenty-five.
+
+Claude, Claude Code, Claude Apps and Claude Skills, from Anthropic. The writers' and developers' favoured second. Strong long-context performance. The agentic coding environment that underlies Sony's forty-nine-agent, seventy-two-skill stack. Claude for Legal launched May twenty twenty-six.
+
+Gemini, Gemini Two Point Five Flash, Gemini Three and Gemini Three Point One Flash, from Google. Google's multimodal L.L.M. family. Desktop users growing one hundred and fifty-five percent year-on-year in twenty twenty-five to twenty twenty-six. Gemini Three Point One Flash T-T-S is the most controllable Google voice model as of spring twenty twenty-six.
+
+Llama, from Meta — the dominant open-weight foundation model.
+
+Mistral, with Mistral Voxtral and Mistral Transcribe Two — European open-source L.L.M. Voxtral is the next-generation speech-to-text family.
+
+Qwen, and Qwen Three Point Five Omni, from Alibaba. Chinese open-source L.L.M., with image, video and audio variants. Omni is the multimodal family covering text, images, audio and video.
+
+DeepSeek — the Chinese open-source L.L.M. used heavily in agentic stacks.
+
+Phi and Phi Mini, from Microsoft — lightweight foundation models.
+
+Lyria, Lyria Three and Lyria Three Pro, from Google DeepMind. Text-to-music foundation model family. Lyria Three ships with SynthID watermarking and the Lyria Camera interactive demo.
+
+Grok, from xAI. xAI's L.L.M. family, surfacing in the creative stack through Grok Imagine. Voice cloning via the xAI A.P.I. from May twenty twenty-six.
+
+Cohere Transcribe — enterprise transcription model. Thirty-three hours of audio in twelve minutes.
+
+And Microsoft VibeVoice — open-source frontier voice AI model.
+
+AI video models.
+
+Sora and Sora Two, from Open A.I. — the model that opened the period. Physical realism, audio integration, multi-shot world-state persistence. iOS app hit one million downloads in five days. Sora Two Character Creation surfaced on fal in March twenty twenty-six.
+
+Veo Three, Veo Three Point One, Veo Three Point One Ingredients to Video, and Veo Three Point One Lite, from Google DeepMind. The working filmmaker's preferred model for cinematic control. Ingredients to Video shipped to YouTube Shorts and YouTube Create. Veo Three Point One Lite is the lower-cost text- and image-to-video tier.
+
+Runway Gen Four, Gen Four Point Five, Gen Four Point Five Image-to-Video, Workflows, Story Panels, Characters A.P.I., Ad Concepter, Apps for Advertising, and Aleph Two Point Zero. The most-integrated commercial AI-video stack. Story Panels generate three-panel storyboards from a single image. Characters A.P.I. ships real-time intelligent avatars. The Vera Rubin-powered real-time model runs under one hundred milliseconds latency. Aleph Two Point Zero, in June twenty twenty-six, lets the user edit a single frame in a video and propagates that edit consistently across the rest of the clip. The cleanest frame-as-handle video-editing pattern yet shipped.
+
+Kling, Kling Two Point Five Turbo, Kling O-One, Kling Two Point Six, Kling Three Point Zero, Kling X-Dub, and Kling Motion Control Three Point Zero, from Kuaishou. Strong on physics and trajectory control. Three Point Zero adds multi-shot control, multilingual audio and 4K image generation. X-Dub is the context-rich visual dubbing variant.
+
+Pika Two Point Zero, and PikaStream One Point Zero. Iteration-speed-focused video generation. PikaStream brings AI agents into live video calls.
+
+Luma Dream Machine, UNI-One, UNI-One Point One, Ray3 Modify, and Luma Dream Brief. Luma's video, world-and-reasoning, and modification stack. UNI-One Point One ships with prompt enhancement and built-in research. Dream Brief is the one million dollar Cannes Lions competition.
+
+Wan Two Point Two, Wan Two Point Five, and Wan Two Point Six, from Alibaba Qwen. Camera-controlled video generation. Two Point Six adds character reference and multishot capabilities.
+
+Hunyuan Video and Hunyuan Image-to-Video, from Tencent — open-source video model.
+
+Seedance Two Point Zero, SeeDream Four and SeeDream Four Point Five, from ByteDance. Image-to-video and finished-video models, integrated into CapCut, Dreamina and Freepik. Per-second cost fell below fourteen cents by March twenty twenty-six.
+
+Higgsfield, Higgsfield Sketch-to-Video, Higgsfield Popcorn, Higgsfield Relight, Higgsfield Shots, WAN Camera Control, Higgsfield Adobe Premiere Plugin, and Higgsfield After Effects Plugin. The social-media-marketer video platform. Eighty million dollars raised at one point three billion dollar valuation, two hundred million dollars revenue in nine months. Shots produces multiple storyboard images from a single shot. The Adobe Premiere Pro and After Effects plugins in June twenty twenty-six bring Higgsfield generation directly into the professional editorial workflow.
+
+Bernini, from ByteDance — an AI video generation and editing framework. A complementary video-editing layer to ByteDance's Seedance generation stack.
+
+LTX-Two, LTX-Two Point Three, LTX-Two Point Three Colorizer, LTX-H-D-R, LTX Studio, LTX-Two Audio-to-Video, LTX-Two Lip Sync, and LTX-Two Real-Time. Open-source video generation with audio sync. LTX-Two Point Three is high-resolution, fast, cinematic, with native lip-sync. LTX H-D-R, in beta, ships H-D-R processing.
+
+Odyssey Two — real-time interactive video generation.
+
+Vidi Two, from ByteDance — multimodal video understanding and creation.
+
+MotionStream — real-time interactive video with mouse-based motion control.
+
+Blockvid — one-minute video with improved structure and visual consistency.
+
+Video Rebirth, from Singapore — studio-grade AI video platform. Fifty million dollar raise.
+
+LiveGS — mobile Gaussian-splatting video.
+
+Time-To-Move — motion control for generated video.
+
+Ovi and Ovi One Point One, from Character.AI — open-source video with speech sync.
+
+CraftStory — image-to-video for long-form AI video with human "actors".
+
+Decart Lucy Two Point Zero — realtime world-editing video model. Ten-eighty p at thirty f-p-s.
+
+Decart L-S-D v-Two — real-time video-to-video with prompt-on-the-fly.
+
+Xmax X-One — the first real-time interactive video model.
+
+FastVideo — thirty-second ten-eighty p generation at four point five seconds latency.
+
+HiAR, from Tencent — scalable long-video generation.
+
+Alli AI — a system for creating and editing 8K video up to sixty seconds.
+
+AERA AI TV — automated storyboard generation, editing and serialized video production.
+
+AnchorWeave — world-consistent video generation with retrieved local spatial memories.
+
+CubeComposer — generates native 4K three-hundred-and-sixty-degree video from standard perspective footage.
+
+MatAnyone2 — high-fidelity video matting with finer detail.
+
+VFace — training-free video face-swapping for any diffusion model.
+
+DreamActor M Two Point Zero, on fal — drive characters from a single image plus template video. Multi-character supported.
+
+ByteDance ALIVE — unified audio-video generation.
+
+Magnific Upscaler for Video, Magnific Precision v-Two, and Magnific Precision for Video — upscaling and 4K detail enhancement, including dedicated video upscaling.
+
+NetFlix VOID — object removal from video with physics-interaction removal.
+
+Ponder — an agentic video editor.
+
+ArcReel — multi-agent video generation from written stories.
+
+Scope — real-time interactive generative AI pipelines. LTX-Two Point Three real-time runs on Scope.
+
+NotebookLM Cinematic Video Overviews, from Google — video generation from notebooks.
+
+Omnia — an AI-native browser video editor.
+
+NVIDIA R-T-X Video Super Resolution — upscaling node with ComfyUI integration.
+
+Google M-Two-S-Vid — monocular-to-stereo video conversion.
+
+Alibaba WonderClip — all-in-one AI video creation platform from Alibaba Cloud, June twenty twenty-six.
+
+Sony Vid-CamEdit — post-capture camera trajectory editing. Keeps scenes spatially coherent across large viewpoint changes. June twenty twenty-six.
+
+And NVIDIA P-I-D, the Pixel Diffusion Decoder — an image and video decoder, new entry from NVIDIA, June twenty twenty-six.
+
+AI image models and tools.
+
+Midjourney, and Midjourney V Eight Point One — the aesthetic-leadership product. Discord and X-native. V Eight Point One ships native 2K H-D rendering at three times the speed and three times the cost reduction.
+
+Flux, Flux Two, Flux Two Max, and Flux Two klein, from Black Forest Labs. Open-weight, fine-control, the open-source default through twenty twenty-five and twenty twenty-six. klein is the four-billion-parameter lightweight model.
+
+Adobe Firefly, Firefly Image Model Five, Firefly Foundry, Firefly Boards, and Firefly Precision Flow. Image Model Five. Foundry for custom corporate training. Firefly Boards for moodboards. Precision Flow for granular AI editing control, in beta. Forty-five percent of Creative Cloud users active. Twenty-two billion-plus assets generated by April twenty twenty-five.
+
+Imagen Three, Nano Banana, Nano Banana Pro, and Nano Banana Two, from Google. Most-integrated image model in the consumer toolchain. Photoshop and Unreal Engine plugins. Nano Banana Pro ships professional capabilities at lightning speed.
+
+Stable Diffusion, Stable Diffusion Three, and Stable-Layers, from Stability AI. The foundational open-source image model. Stable-Layers, in June twenty twenty-six, splits generated images into editable compositional layers. A structural shift from regeneration to post-generation editing.
+
+Ideogram Four Point Zero — fourth-generation image model. Open weights, fine-tuneable on own data, runs on own hardware. Available on every Ideogram plan and via A.P.I.
+
+Krea, Krea AI, Krea Two, Krea Realtime, Krea Realtime Edit, Krea Nodes, and Krea LoRA Trainers. Real-time AI image generation, now open-source. Realtime Edit takes complex instructions in real time. The LoRA Trainers cover Qwen-Twenty-Five-Twelve and Z-Image.
+
+Qwen-Image-Twenty-Five-Twelve, Qwen-Image-Edit-Twenty-Five-Eleven, Qwen Twenty-Five-Eleven Time Travel, and Qwen-Edit Twenty-Five-Oh-Nine. The dominant open-source image-editing model family. The constituent LoRAs — relighting, multi-angle, time-travel, AnyPose — are discussed in the LoRAs section below.
+
+ChatGPT Images, and ChatGPT Images Two Point Zero. Image generation integrated with Adobe Express, Photoshop and Acrobat. Two Point Zero ships thinking-level intelligence.
+
+Grok Imagine, and Grok Imagine A.P.I., from xAI. Image and video generation. The A.P.I. bundles end-to-end creative workflows. Reference-to-video and video extend added in March twenty twenty-six.
+
+Vision Banana — a unified model for image understanding and generation.
+
+Freepik, Freepik Spaces, Freepik Speak, and Freepik 3D Scenes. Design platform. Spaces is the real-time collaborative canvas. Speak is the lip-sync talking-video tool. 3D Scenes generates full environments from an image.
+
+Recraft — brand-focused AI design.
+
+Weavy — a node-based AI creative platform. Acquired by Figma.
+
+Canva — a design platform with a "Creative Operating System."
+
+Civitai and Civision — community-models and LoRAs platform. Civision is the free Civitai-and-Hugging-Face hybrid alternative.
+
+Replicate — a model-hosting marketplace and A.P.I.
+
+GFPGAN — face restoration.
+
+UpscalyAI, Upscayl, Topaz Gigapixel AI, Real-ESRGAN, and Clarity Pro Upscaler — upscaling tools. Clarity Pro reaches 10K.
+
+PractiLight — practical light control via diffusion.
+
+PercHead — 3D head reconstruction from single images.
+
+Loveart AI — layer separation and editable text. Live Editable Text, or L-E-T.
+
+NVIDIA ChronoEdit — temporal reasoning for image editing.
+
+Beeble Switchlight Three, and Beeble Background Remover — AI masking and relighting.
+
+CanvAI — turns rough sketches into polished AI art.
+
+MakeComics, also written Make Comics — generates custom comics with characters and storylines in seconds. From prompt to full comic book.
+
+Seethrough — illustration decomposition into layered P-S-D.
+
+Best Face Swap, a Flux Two LoRA — specialised face-swap.
+
+PixelSmile — fine-grained facial-expression editing across twelve expressions.
+
+Earth Cinema — a Chrome extension using Google Earth for cinematic images.
+
+And 360Anything — lifts any perspective image or video to a three-hundred-and-sixty-degree panorama.
+
+AI music and audio tools.
+
+Suno, Suno Studio, and Suno Five Point Five — the dominant prompt-to-track generative music platform. Four hundred million dollars raised at a five point four billion dollar valuation in June twenty twenty-six. Three hundred million dollar A.R.R. Two million-plus subscribers. Warner Music Group settled its lawsuit and signed a licensing partnership. U-M-G and Sony remain in active litigation. Suno Studio is the "world's first generative audio workstation." Five Point Five adds Voices.
+
+Udio — prompt-to-music. Partnered with Universal Music Group. Indie-label licensing via Merlin.
+
+Mureka and Music Agent Studio — six specialised AI agents covering songwriting, arrangement and production.
+
+Eleven Labs and its product family — Eleven Labs v Three, Scribe v Two Realtime, ElevenMusic, ElevenCreative, Eleven Labs Flows, ElevenAgents Expressive Mode, Eleven Labs Voice Changer, Eleven Labs Music v Two, and Eleven Labs Dubbing v Two. The dominant voice and audio synthesis stack. Five hundred million dollar A.R.R. BlackRock and NVIDIA backed. Scribe v Two transcribes in one hundred and fifty milliseconds across ninety-plus languages. ElevenMusic is the discovery, creation and earning marketplace. Flows is the node-based creative canvas. Music v Two, in June twenty twenty-six, is the next-generation generative-music model. Dubbing v Two, in June twenty twenty-six, is the next-generation dubbing model. Eleven Labs also partnered with Hasbro's Sixth Wall AI studio in June twenty twenty-six, providing the voice layer for Hasbro's Behavioral Licensing and CharacterOS programme. Enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.
+
+iZotope Ozone Twelve, and Stem EQ — AI-assisted mixing and mastering.
+
+LANDR — AI mastering and distribution.
+
+Riffusion — spectrogram-based music generation.
+
+Stable Audio Two Point Five, and Stable Audio Three Point Zero, from Stability AI — generative audio. Stable Audio Three Point Zero, released May to June twenty twenty-six, is an open-weight model family trained on fully licensed data, designed as the foundation for what the open audio community builds next. Ships in ComfyUI for tracks up to about six minutes.
+
+MusicGPT — local music generation.
+
+ACE Studio, ACE Studio Two Point Zero, from TIMEDOMAIN, ACE Studio Video-to-Music, ACE-Step One Point Five, and ACE-Step One Point Five XL. An all-in-one AI music studio. Video-to-music for visuals. ACE-Step generates full songs in under ten seconds on under four gigabytes of V-RAM.
+
+Music Lens, from Musixmatch — catalog-intelligence agent.
+
+Melosurf — a voice-controlled assistant for Ableton Live.
+
+Songscription — audio-to-notation transcription. Five million dollar raise.
+
+Groundhog Audio Pedal, and Groundhog OnePedal — AI guitar tone matching.
+
+Spotify DJ, Spotify AI, Spotify AI Prompted Playlists, Spotify AI Transparency Beta, and Personal Podcasts on Spotify. Playlist personalisation, voluntary AI disclosure beta, agent-created podcasts.
+
+YouTube Music AI Hub — AI music hosting and DJ features.
+
+Epidemic Sound Studio — AI music for video creators.
+
+AIODE — ethically-trained music creation D-A-W.
+
+Overtune — virtual music studio for Roblox.
+
+Space DJ, from Google DeepMind — interactive music exploration.
+
+Minimax Music Generator — song generation.
+
+Roland AI Pedal — concept for AI audio processing.
+
+Roland plus Sony CSL Melody Flip — AI music tool.
+
+BandLab Voice Cleaner, and BandLab Palette — background-noise removal and AI loop-matching.
+
+Claimy — a missing-royalty recovery agent.
+
+Fish Audio S-One, and Fish Audio S-Two — text-to-speech. S-Two ships expressive T-T-S with emotional control, six times cheaper than Eleven Labs at S-One.
+
+Tempolor Guitars, from Quwan — AI to make songs playable on guitar.
+
+GEMIDI — a music playground powered by Gemini.
+
+Lalal AI, the Lalal AI plugin, and Lalal AI A.P.I. v One — AI stem separation, music removal, voice changing. First stem-separation plugin native to a D-A-W.
+
+StemDeck — local stem separation. Free, no upload required.
+
+Mirelo, from Berlin — automatic sound-effect generation for video.
+
+PromptSep — separates any sound by text description.
+
+SAMAudio, from Meta — Segment Anything for audio editing.
+
+SonicLab SPATAI — generative audio engine for immersive spatial production.
+
+Apple Logic Pro AI — synth player and personal music-theory expert. Chord-progression generation.
+
+Apple GarageBand — consumer music creation.
+
+Musicful AI — music-video generation for AI-generated songs.
+
+Latent Space Explorer — interactive audio data visualiser using Stable Audio V-A-E.
+
+Voicebox — open-source local voice cloning from a three-second audio clip.
+
+Voice-Pro — AI speech recognition, translation, transcription and multilingual dubbing.
+
+PersonaPlex, from NVIDIA — full-duplex model that listens and speaks simultaneously. Open-source natural-sounding voice.
+
+Phoenix-Four — advanced real-time human-rendering model with ten-plus emotional states.
+
+NVIDIA D-Rex — photorealistic digital humans under any lighting.
+
+Qwen3-T-T-S, VoiceDesign, and VoiceClone — text-to-speech with voice design and cloning.
+
+Greysound — self-engineering music-production studio.
+
+TAC, Timestamped Audio Captioning — timestamped captions for audio and audiovisual content.
+
+Insanely Fast Whisper — two and a half hours of audio transcribed in ninety-eight seconds.
+
+smol-audio — local audio model notebooks and scripts.
+
+AudioStream and Walzersymphonie, from Ars Electronica Futurelab — AI composition system for classical music using Ricercar.
+
+Ricercar, from Ars Electronica — creative AI for artistic composition.
+
+Krotos Video-to-Sound — expanded platform for audio professionals. Foley and sound design.
+
+Jamu — AI co-producer agent for Ableton Live.
+
+Moises — AI music platform. Charlie Puth as Chief Music Officer.
+
+Music Mogul AI — tour-booking automation.
+
+Sonilo plus Shutterstock — video-to-music AI training deal.
+
+Clearnote — AI music-contract platform to end deal delays.
+
+Sony music identification tech — identify original music inside AI-generated songs.
+
+Cactus Music — artist-ops support.
+
+Rebel Audio — AI podcast startup.
+
+ROLI Airwave and AI Music Coach — hand-tracking, twenty-seven joints, with real-time AI piano practice coaching.
+
+And Sony AI ICASSP papers — music understanding and generative audio research papers, April twenty twenty-six.
+
+Three-D, world models and spatial.
+
+Marble, Marble One Point One, WorldLabs A.P.I., and R-T-F-M, from World Labs and Fei-Fei Li. First commercial generative world model. Forty times faster than legacy V-P workflow. One Point One adds real-world location 3D reconstruction and restyling. The A.P.I. generates persistent 3D worlds from text, images and video. R-T-F-M is the real-time frame model.
+
+Genie Three and Project Genie, from Google DeepMind — research-grade world model. Time Best Inventions twenty twenty-five. Rolled out to Google AI Ultra in January twenty twenty-six.
+
+WorldGen and WorldMirror, from Meta and Tencent — interactive 3D world generation.
+
+UNI-One and UNI-One Point One, from Luma — world generation plus reasoning combined. One Point One adds prompt enhancement and built-in research.
+
+Hunyuan 3D, Hunyuan 3D Studio, Hunyuan 3D-PolyGen One Point Five, HY3D Three Point Zero, and HY-Motion One Point Zero, from Tencent. Art-grade 3D generative model family. PolyGen One Point Five is the art-grade text, image and sketch-to-3D model. HY-Motion One Point Zero is text-to-3D human motion.
+
+HY World One Point Five, HY-World Two Point Zero, WorldCompass, and ShotVerse, from Tencent — open-source real-time world-model frameworks. WorldCompass is the R-L post-training framework. ShotVerse handles cinematic multi-shot camera control.
+
+ECHO and Echo-Two, from SpAItial — spatial foundation model. Echo-Two adds world decomposition.
+
+Wonderzoom, from Stanford — multi-scale 3D world generation with infinite zoom.
+
+Matrix-Game Three Point Zero, from Skywork AI — real-time interactive world model. Seven-twenty p at forty f-p-s with long-horizon memory.
+
+AMD Micro-World — AMD's entry into world models.
+
+LingBot-World — free, open-source world model on Wan Two Point Two. Real-time interaction at sixteen f-p-s.
+
+Moonlake — twenty-eight million dollar-seeded world model platform now in beta for games and simulations.
+
+Project Eden, from TripoAI — persistent, multiplayer world model, June twenty twenty-six, that fundamentally breaks from existing paradigms by decoupling the underlying world state from visual rendering. The most ambitious state-versus-rendering separation in the world-model layer at the time of writing. TripoAI raised nearly two hundred million dollars in June twenty twenty-six to advance this work.
+
+TripoSplat, from Tripo — single 2D image to high-quality 3D Gaussians. Open-source under the M-I-T license.
+
+NVIDIA Cosmos Three — omnimodal world model, released May thirty-first, twenty twenty-six. Connects understanding, generation, simulation and action through a shared architecture moving fluidly across text, images, video, audio and actions. Two-Tower Mixture-of-Transformers design. Ranked best open-source T-Two-I and I-Two-V models by Artificial Analysis. Explicitly targets robotics, autonomous vehicles and warehouse monitoring. The most significant NVIDIA world-model release in the period.
+
+NVIDIA FlashDreams — open-source world model from NVIDIA, released June twenty twenty-six.
+
+PaGeR, from Google and Meta — AI model for three-hundred-and-sixty-degree scene geometry reconstruction.
+
+NVIDIA Lyra Two Point Zero — explorable generative 3D worlds.
+
+NVPanoptix-3D, from NVIDIA — single-image 3D indoor-scene reconstruction.
+
+Kimodo, from NVIDIA — kinematic motion-diffusion model trained on seven hundred hours of mocap.
+
+InSpatio-WorldFM — open-source real-time generative frame model.
+
+Code2Worlds — workflow for generating 4D scenes with environmental and object generation and feedback refinement.
+
+OpenArt Worlds — 3D navigable environments from a single prompt.
+
+Rodin, Hyper3D, and Rodin Hyper 3D Gen Two — high-precision 3D model generation.
+
+Meshy, Meshy Six, and Meshy Image-to-3D — 3D model generation. Meshy Six ships natively inside ComfyUI. Image-to-3D generates poses.
+
+Hitem3D — high-resolution 3D generation.
+
+Microsoft Trellis Two — native compact structured latents for 3D.
+
+ByteDance Seed3D Two Point Zero — 3D object generation from image or text.
+
+Pixel3D, from Tencent — 3D object generation.
+
+Tripo Three Point One — 3D-asset creation. ComfyUI partner nodes.
+
+PATINA, on fal — image or text to full P-B-R material maps.
+
+M-XR P-B-R Model — 4K P-B-R material maps for 3D assets.
+
+CHORD, from Ubisoft La Forge — open-sourced end-to-end P-B-R material generation.
+
+Autodesk Wonder 3D — generative AI tool creating editable 3D assets from text or images.
+
+Autodesk Flow Studio Rigging — AI rigging and neural layers.
+
+AI4AnimationPy, from Meta — pure-Python 3D character animation.
+
+MocapAnything, from Huawei — unified 3D motion capture for arbitrary skeletons from monocular video.
+
+FreeMoCAP — open-source markerless mocap from any camera.
+
+MuJoCo — physics engine for robotics and animation.
+
+Mesh2Motion — auto-assigns and exports 3D model animations.
+
+One-to-All Animation — alignment-free character animation and image pose transfer.
+
+Cascadeur, and Cascadeur AI Animation v Twenty Twenty-Five Point Three — AI animation tool for character movement. Local interpolation.
+
+Move AI — motion capture.
+
+MoCap and UE5 Motion — camera-only motion capture.
+
+SCAIL — studio-grade character animation via in-context learning.
+
+Vanast — garment-transferred human animation from images.
+
+CompHairHead — one-shot 3D head avatars with deformable hair.
+
+Reallusion Headshot Three — digital-double creation.
+
+MoRo, from Meta — human motion recovery via masked modelling for occlusions.
+
+Meta Sapiens Two — pose estimation, body-part segmentation and surface normals.
+
+NVIDIA Audio2Face, and Audio2Face-3D — facial animation from audio.
+
+NVIDIA UniRelight — shot relighting technology.
+
+Apple SHARP and LiTo — photorealistic 3D view synthesis from a single image in under a second. LiTo is the surface light-field tokenisation method.
+
+Pixel3DMM — screen-space single-image 3D face reconstruction.
+
+VISTA4D, from Netflix and Eyeline — live-action to navigable 4D point clouds.
+
+SuperSplat, and SuperSplat v Two Point One Six, from PlayCanvas — free, open-source Gaussian-splat editor.
+
+Spark Two Point Zero — open-source Gaussian-splat streaming framework. Streamable Level-of-Detail for WebGL2.
+
+PlayCanvas S-O-G and SplatTransform v Two Point Zero Point Zero — WebP-equivalent compression for Gaussian splats. SplatTransform v Two ships automatic high-quality collisions for splats.
+
+Cesium, CesiumJS, and Cesium for Unreal — geospatial 3D platform. Cesium agentic workflows let natural-language commands interact with 3D geospatial data. Supports Gaussian splats natively.
+
+SPAG-4D — three-hundred-and-sixty-degree photos to 3D Gaussian splat conversion.
+
+Animated Gaussian Splats, from 4DV.ai — 4D Gaussian-splat animation.
+
+Open3Dmap — crowdsourced 3D mapping with Gaussian splats.
+
+Hyperscape and Hyperscape Capture, from Meta — Gaussian-splat capture on Quest.
+
+Apple Vision Pro Personas — Gaussian-splatting consumer feature.
+
+Common Sense Machines — converts 2D images into 3D digital assets. A Google acquisition.
+
+AI-Enhanced LiDAR — generative-AI-augmented LiDAR capture pipeline, June twenty twenty-six, for scanning and reconstruction work in spatial production.
+
+NVIDIA Omniverse Fixer — rendering-artefact removal for Gaussians.
+
+DecartAI, Decart L-S-D v Two, and Decart Lucy Two Point Zero — real-time world transformation by voice. L-S-D v Two is real-time video-to-video. Lucy Two Point Zero is realtime world editing at ten-eighty p, thirty f-p-s.
+
+VoxeloAI — 3D creation for e-commerce.
+
+Mosaic, and Mosaic 3D — 3D reconstruction.
+
+Depth Anything Three, from ByteDance — visual-space recovery from any view.
+
+SAM Three, SAM 3D, and SAM Three Point One, from Meta — object detection and 3D segmentation. SAM Three Point One is seven times faster, tracking one hundred and twenty-eight objects on a single H100.
+
+Seen2Scene — realistic 3D scene completion with visibility-guided flow.
+
+PixARMesh — reconstructs full indoor scenes from a single photo into lightweight meshes.
+
+Confidence-Based Mesh Extraction from 3D Gaussians — algorithm for high-quality mesh extraction from Gaussian splats.
+
+Rhizomatics Sword Tip Visualization System — fencing tracking at sixty f-p-s.
+
+Mixar — AI-native Blender-fork editor positioned as "Cursor for 3D artists".
+
+Sprite Booth — pixel-character animation tool. ComfyUI A.P.I. required.
+
+And AutoSprite — character-to-animated-sprite-sheet conversion.
+
+Voice, avatar, digital human.
+
+Synthesia — AI avatar platform. Four billion dollar valuation. Rejected a three billion dollar Adobe offer.
+
+HeyGen, HeyGen Video Agent, HeyGen Motion Designer, LiveAvatar, HeyGen Elements, HeyGen C-L-I, and HyperFrames. AI-avatar and end-to-end video generation. LiveAvatar is hyper-realistic real-time interactive. Elements builds scenes from reusable components. C-L-I ships videos from the command line. HyperFrames, in June twenty twenty-six, is an open-source framework for turning H-T-M-L, C-S-S, media and seekable animations into deterministic M-P-Four videos. Bringing deterministic video export to web-stack creative workflows.
+
+Hedra, Hedra Audio Tags, and Hedra Elements — digital-human creation. Audio Tags assign precise emotions to audio.
+
+Live Avatar, from Alibaba — streaming real-time audio-driven avatar generation with infinite length.
+
+Avatar Forcing — real-time interactive head-avatar generation for natural conversation.
+
+PersonaLive — real-time expressive portrait animation.
+
+Weclone — digital avatar built from a user's chat history.
+
+Particle6, and Tilly Norwood — AI-performer studio and synthetic actress.
+
+Xania Monet — AI music artist. Billboard chart entries. Three million dollar Hallwood Media deal.
+
+Bleeding Verse — AI band. Hallwood Media signing.
+
+Sienna Rose — anonymous AI artist with millions of Spotify streams.
+
+Breaking Rust — AI country artist. Number one country digital song sales.
+
+Trilok — Indian AI band.
+
+Copresence, ConvAI, and Inworld — avatar and N-P-C-character technology for Unreal Engine, games and interactive media.
+
+ROXi — AI-generated TV presenters.
+
+Facelooker — interactive headshot generation.
+
+FellinAI — AI film director.
+
+ego AI — in-game character platform.
+
+And Character.AI — play characters in your favourite books. Ovi open-source video with speech sync.
+
+Agent platforms and orchestration, the catalogue.
+
+Open A.I. AgentKit, Agent Builder, ChatKit, Connector Registry, and Eval Framework — the developer-facing agent platform underneath most third-party agentic creative tools.
+
+Anthropic Claude Apps, Claude Skills, Claude Code, Claude Design, Claude for Legal, and Anthropic Academy. Interactive Claude in workplace tools. The Skills framework powers Sony's forty-nine-agent, seventy-two-skill game-development stack. Claude Design ships prototypes, slides and one-pagers. Anthropic Academy is free Claude Code training.
+
+Claude Code Game Studios — forty-nine-agent, seventy-two-skill coordinated AI game-development team.
+
+Gemini A.P.I. Agents, Google Antigravity, Opal, Fabula, and Google Stitch. Agentic capability surface across Google's stack. Antigravity is the agentic development platform. Opal is the no-code mini-app builder. Fabula is the interactive AI writing tool. Stitch generates mobile and web U.I. (You-Eye).
+
+HeyGen Video Agent — end-to-end video-assembly agent.
+
+Adobe C-X Enterprise, GenStudio, Adobe Film and TV Fund, and Adobe Ignite Day — agentic creative intelligence across the full content lifecycle. GenStudio is the brand-intelligence system for personalised content at scale.
+
+NVIDIA plus Google Cloud, Avid plus Google Cloud, and Speechmatics in Adobe Premiere — agentic-creative infrastructure partnerships. On-device speech-to-text inside Premiere.
+
+n8n — workflow automation with AI.
+
+ComfyUI, ComfyUI Cloud, ComfyHub, ComfyUI App Mode, and ComfyUI Simple Mode — node-based AI workflow editor. Five hundred million dollar valuation by May twenty twenty-six. App Mode turns workflows into shareable no-install apps. Simple Mode lowers the complexity threshold.
+
+Replicate — model marketplace.
+
+Hugging Face — open-source model hub and agentic platform. Partnered with Google Cloud and Meta.
+
+Meta OpenEnv — open-source agentic-development environment.
+
+fal, and FAL M.C.P. — generative-model deployment marketplace. FAL M.C.P. exposes one thousand-plus generative models to Claude and Cursor.
+
+Unity Official M.C.P., and Unity M.C.P. — Unity Editor control via M.C.P. protocol.
+
+Blender M.C.P., Blender Buddy, and OpenClaw plus Blender M.C.P. — Claude-to-Blender control for 3D workflows.
+
+VibeComfy — open-source tools letting agents understand, build and run ComfyUI workflows with Claude.
+
+MooshieUI — beginner-friendly ComfyUI desktop frontend.
+
+Lenny, from Maroofy — AI agent for live-music event organisers.
+
+AdsGency — autonomous paid-marketing agent platform. Twelve million dollar seed.
+
+Invideo AI, and Invideo AI Agent — full video-ad generation from prompt. Built on Gemini.
+
+Pomelli, from Google Labs — AI marketing agent for small business.
+
+Inception Point AI — podcast hosting with AI hosts. Three thousand-plus episodes per week.
+
+Slapshot — AI camera tracking.
+
+Photoroom — AI photobooth.
+
+Jabali.ai — AI game-development platform, Sony-backed.
+
+Fifth Door — AI-powered game creation. Twenty million dollar raise.
+
+Atlas AI Agents — game-production pipeline agents.
+
+Ad Concepter, from Runway — ad-concept exploration agent.
+
+AE GPT — AI assistant for After Effects. Expressions and scripts.
+
+Career-Ops — AI job-search pipeline built with Claude Code.
+
+Auto-Dream, from MyClawAI — personal AI assistant wrapper.
+
+Clicky — AI screen-aware tutor and buddy interface.
+
+MemPalace — high-scoring AI memory system.
+
+TikTok AI Agents for Ads — TikTok's automated ad-creation agents.
+
+Amazon Creative Agent — agentic AI generating professional-quality ads.
+
+Playad — AI marketing agents for ad creative.
+
+And Moltbook, a Meta acquisition — AI agent social network.
+
+Legacy creative software, AI-augmented.
+
+Adobe Creative Cloud — Photoshop, Premiere Pro, After Effects, Illustrator, Express, Acrobat, plus the Express AI Assistant, the Premiere Object Mask, the Photoshop generative-fill, selection and Rotate Object tools, the Photoshop AI Assistant public beta, and Illustrator Turntable.
+
+Adobe Sneaks, twenty twenty-five to twenty twenty-six. Adobe's research-preview portfolio shown at MAX twenty twenty-five and Summit twenty twenty-six. Project Scene It — image-to-3D and 3D-to-image with object tagging. Project Surface Swap — AI-powered texture recognition and swap. Project Turn Style — edit and transform 2D objects as if they were 3D. Project Trace Erase — removes objects, shadows, reflections and distortions. Project New Depths — edit depth like brightness. Project Frame Forward — apply changes across video from a single frame plus text. Project Motion Map — bring static vector graphics to life. Project Sound Stager — analyses video visuals and generates synchronised soundscapes. Project Clean Take — corrects mispronunciations and isolates voices. Project Light Touch — spatial lighting mode for relighting photos. Project Graph — node-based workflow editor in the ComfyUI and Weavy lineage. Corrective AI — changes the emotional register of voice-overs. And Edit-by-Track, from Adobe Research — generative video motion editing with 3D point tracks.
+
+Adobe Acrobat — AI converting P-D-Fs into podcasts.
+
+Unreal Engine Five, UE5 AI Assistant, UE5 AI Motion Plugin, Unreal to Gaussian Splat, and Prompt-to-Player, from Epic. Official AI assistant. Camera-only motion capture. UE5 scene-to-splat conversion. Prompt-to-Player generates 3D characters and auto-rigs and animates them.
+
+Unity, Unity AI Open Beta, Unity AI Council, Unity AI Tools Suite, and Unity Prompt-a-Game. In-editor AI suite for the full games pipeline. Prompt-a-Game demoed at G-D-C March twenty twenty-six.
+
+Autodesk Maya, Autodesk Flow Studio, Autodesk Wonder 3D, and Autodesk Flow Studio Rigging — motion capture, 3D animation, generative 3D and neural rigging.
+
+Foundry, Nuke, and Nano Banana with Nuke — AI-augmented VFX. Weta FX and AWS collaboration. The Nuke node connecting Nano Banana through fal's A.P.I.
+
+SideFX Houdini — procedural modelling with AI integration.
+
+Blender, Blender M.C.P., and Blender Buddy — open-source 3D. Anthropic Foundation patronage. M.C.P. enables Claude control. NVIDIA DLSS Four Point Five Ray Reconstruction added to Blender Five Point Three as a viewport denoiser.
+
+Vlo — free, local, open-source video editor with ComfyUI-backed generative AI features. The open-source equivalent of the AI-native N-L-E.
+
+Motionfly Editor — AI-native video editor positioned as "Cursor for video editing." Bringing the code-editor and AI-pair model into the video-editing workflow.
+
+Davinci Resolve, from Blackmagic — colour and editorial with AI features.
+
+Avid Media Composer, and Avid plus Google Cloud — professional editorial. Pro Tools agentic AI in the Google Cloud partnership.
+
+Pro Tools — audio editorial with AI features. Claude integration in Ableton.
+
+Logic Pro and Apple Logic Pro AI — music production with AI. Synth player and music-theory expert.
+
+Ableton Live, Claude in Ableton, Jamu, and Melosurf — music production with Claude assistance, Jamu co-producer agent and Melosurf voice control.
+
+GarageBand — consumer music creation.
+
+CapCut, Dreamina, and Snapchat AI Clips in Lens Studio, from ByteDance and Snapchat — mobile video editing with AI. Snapchat AI Clips in Lens Studio.
+
+Final Cut Pro — editorial with FX Factory plugins.
+
+Keyframe — AI models inside After Effects.
+
+Tether — AI animation inside After Effects.
+
+Deep Pan — animated stills in Premiere Pro.
+
+FX Factory — AI plugin suite for Premiere and Final Cut.
+
+VEED Transitions — AI transition generation.
+
+And Electric Sheep — web-based projection mapping and AI visual orchestration.
+
+AI-native creative studios and apps.
+
+Imaginae Studios, from Fremantle — AI-native studio. Art Awakens project under Google AI Futures Fund.
+
+Wonder Studios — AI-native film studio. Twelve million dollar raise. Wonder Film Festival.
+
+Asteria — from Natasha Lyonne, Lightstorm and Topaz Video. AI animated short All Heart. Hybrid AI workflows with Topaz.
+
+Promise, Google-backed — GenAI filmmaking and VFX for legacy media.
+
+Obsidian Studio, from Imagine Entertainment, Ron Howard and Brian Grazer — AI production partner.
+
+Goldfinch enGEN3 — AI cinematic universe platform.
+
+Chapter41, from Beta Film, Munich — AI startup.
+
+Kartel, from Kevin Reilly — AI startup, ex-HBO leadership.
+
+Holywater, with Fox Entertainment investment — AI microdramas.
+
+CenterStage, from David Boies and Zack Schiller — interactive AI entertainment.
+
+Superlunar plus Eden Studios — Little Plastics dystopian AI film.
+
+Particle6, from Eline Van der Velden — AI-performers studio.
+
+Imago Pictures — 3D plus ComfyUI workflows.
+
+LKDN AI Production — node-based AI filmmaking.
+
+Deep Fusion Films, Cardiff — AI documentary production. Acquired by John Gore Studios.
+
+Palo Creators, MrBeast alumni — AI for viral video creation.
+
+Refik Anadol Studio Dataland — first museum of AI art.
+
+Animaj — Google AI Futures Fund partner for kids' content.
+
+Gossip Goblin — AI filmmaking studio.
+
+Critterz, from Vertigo and Federation — AI-assisted animated-feature production.
+
+Filmology Labs — two hundred and fifty million dollar studio for vertical micro-dramas and AI-driven media formats.
+
+escapeAI, from John Gaeta — streaming apps for AI-generated content across Roku, Fire TV, Samsung and LG.
+
+Primordial Soup, from Darren Aronofsky — AI production studio.
+
+Toonstar — AI animation house.
+
+CinemersiveAbout Labs and Cinemersive Labs — U-K machine-learning and computer-vision company. Acquired by Sony.
+
+My SMASH Media — AI film startup with Allison Gardner, ex-Glasgow Film Festival.
+
+Framestore AI Platform, and Framestore Futon — M-L and GenAI in the VFX pipeline.
+
+Mito AI — four point five million dollar-raised platform empowering video professionals.
+
+Filmax DinoGames — AI-driven 3D animated film project.
+
+Abundantia Entertainment plus InVideo — AI film studio launched in India.
+
+Luma Production Studio plus Wonder Project — feature collaboration.
+
+Lionsgate Chief AI Officer — Kathleen Grace — first major-studio C-A-I-O hire.
+
+CreateAI — AI animation production.
+
+Netflix Ben Affleck AI Studio Acquisition — AI filmmaking company acquisition.
+
+Holywater, with Fox investment — AI microdrama studio, also listed above.
+
+And DreamLab AI Collective, the studio that produced this book — AI-augmented creative practice across film, games and immersive.
+
+Games-development AI.
+
+NitroGen, from NVIDIA and Stanford — plays-any-game model trained on forty thousand hours across one thousand-plus games.
+
+SIMA Two, from Google DeepMind — agent that plays, reasons and learns in 3D virtual worlds.
+
+CHORD, from Ubisoft La Forge — open-sourced end-to-end P-B-R material generation.
+
+Ubisoft Teammates — voice AI for in-game team communication.
+
+YouTube Playables Builder, on Gemini Three — text-to-game prompt-to-playable web app.
+
+Roblox AI Tools, Roblox AI Assistant, Roblox Reality, and Metain — creator-facing AI for game development. Reality is Roblox's productised AI assistant. Metain is the prompt-to-Roblox-Studio interface. In June twenty twenty-six, Roblox acquired Morpheus AI Inc., an AI lab building video world models using Self Forcing — converting offline video models into fast, autoregressive, interactive engines — to accelerate the Roblox Reality video-model vision.
+
+Epic xAI Studio — Elon Musk-affiliated game-dev AI.
+
+General Intuition — spatial-reasoning research lab.
+
+ReBlink ARBO — AI-powered strategy battler.
+
+Halo Studios — AI woven into the production pipeline.
+
+Dabgg — AI gaming with interactive platform.
+
+RosebudAI, Spawn, and LudoAI — vibe-coding games and interactive apps from prompts. Spawn is the "games made with words" community platform. LudoAI is the ideation and planning scaffold.
+
+Verse8 — AI-driven game-creation platform.
+
+Sett — AI agents for game marketing.
+
+Meta Horizon Studio AI Assistant — Horizon Worlds creator AI.
+
+Gambo — vibe-coding game agent.
+
+Project Motoko, from Razer — AI-powered gaming headset.
+
+Bethesda AI Toolset — Todd Howard's game-dev AI integration.
+
+StarBerry Games, and Merge Mayor — AI-all-in game studio.
+
+Astrocade — interactive entertainment platform. Fifty-six million dollar Series B.
+
+GameByte — AI-powered game creation platform. One million dollar raise.
+
+Sorcerox Game Creation Suite — prompt-driven game creation toolkit, June twenty twenty-six. Positioned as a "build any game you can imagine" general-purpose creation surface.
+
+Studio Atelico Bobium Brawlers — AI-based iOS game with pro-human approach.
+
+Bitmagic — AI-created version of classic Civilization.
+
+Helika AI Publishing Engine — AI publishing engine for game studios.
+
+Xbox Game Studios "git gud" AI — Xbox patent for AI tech that plays games for you.
+
+Gaming Copilot, from Xbox — console AI copilot.
+
+NVIDIA DLSS Five — gaming upscaling.
+
+PS5 Pro PSSR — PlayStation upscaling.
+
+Gizmo, a Meta acquisition — vibe-coding app for creating mini-games.
+
+Voyage, from Latitude and AI Dungeon — AI RPG platform.
+
+DoomGen — prompt-driven DOOM mod prototyping app.
+
+Sony AI tools for PlayStation — animation support, QA automation, asset generation and performance-capture-to-facial-models pipelines.
+
+PROWL, from Odyssey — R-L agents for game-world model testing.
+
+MagicDawn, from Tencent — AI lighting tech.
+
+ReActor, from Disney — R-L motion-transfer method.
+
+Origin Lab — game-world AI training data. Eight million dollar raise.
+
+Daughter of the Inner Stars — Unreal Engine Five AI-driven game.
+
+Genesis AI — robot cooking and piano playing systems, demonstrating embodied agents.
+
+And Quilty — AI platform for script development and assessment.
+
+Marketing and advertising AI.
+
+WPP Open Pro — agency-wide AI marketing platform.
+
+Sightly — AI advertising and brand performance.
+
+Pomelli, from Google Labs — small-business marketing agent.
+
+AdCreative.ai — mobile pro ad creation.
+
+Epiminds — AI marketing team builder.
+
+Octave AI — AI podcast and radio ad creation.
+
+AdsGency — autonomous paid-marketing agent.
+
+Aimy — AI TV advertising on the Comcast A.P.I.
+
+Brand Networks — AI television advertising.
+
+Fullthrottle.ai — automotive-focused D-S-P.
+
+Channel Four AI ads — AI-driven TV-advertising tool for S-M-Es.
+
+Sky Studio Challenge — interactive AI ad creation via Starlink.
+
+Google Demand Gen — AI-powered image tools for the ad platform.
+
+Amazon DSP — AI one-stop-shop advertising infrastructure.
+
+Amazon Creative Agent — agentic ad creator.
+
+Playad — AI marketing agents.
+
+Runway Ad Concepter App — ad-concept and composition exploration.
+
+TikTok AI Agents for Ads — TikTok ad-creation agents.
+
+And Instagram Edits — AI video generation for advertisers.
+
+Open-source ecosystem and infrastructure.
+
+ComfyUI — node-based AI workflow editor. The operating system of the open-source creative AI ecosystem. Seventeen million dollar raise in October twenty twenty-five. Five hundred million dollar valuation in May twenty twenty-six.
+
+Hugging Face — open-source model hub. Partnerships with Google Cloud and Meta.
+
+Meta OpenEnv — open-source agentic-development environment.
+
+PlayCanvas S-O-G, and SplatTransform — open Gaussian-splat compression and conversion.
+
+Civitai and Civision — community-models and LoRA platforms.
+
+LoRA, PEFT, DiffSynth-Studio, Qwen-Image-i2L, Llama Factory, AI Toolkit, and LTX-Two Trainer — fine-tuning frameworks and training pipelines. DiffSynth turns a single image into a custom LoRA. Llama Factory enables zero-code fine-tuning of one hundred-plus models. AI Toolkit covers LTX-Two Point Three fine-tuning. LTX-Two Trainer is the fal-hosted variant.
+
+PyTorch, TensorFlow, Ollama, LLaMA.cpp, and MuJoCo — the open infrastructure layer.
+
+Korin AI — Africa-trained, Africa-built foundation model.
+
+DecartAI — real-time world transformation.
+
+Replicate — model hosting and A.P.I. marketplace.
+
+fal and FAL M.C.P. — generative-model A.P.I. platform.
+
+llmfit — hardware scanner for local-model compatibility.
+
+Open Vision Agents — toolkit for building agents that watch, listen and understand video.
+
+NotebookLM — Google's research-and-content-generation surface. Cinematic video overviews launched March twenty twenty-six.
+
+And OpenAI Gym, Gym Retro and ARC — research benchmarks, referenced in the games-AI literature.
+
+ComfyUI ecosystem. Nodes, extensions and workflows.
+
+Mesh2Motion, inside ComfyUI — mesh-to-motion conversion node.
+
+NanoBanana Pro LoRA Dataset Generator — creates training datasets for image-editing models in minutes.
+
+ComfyUI Music Tools — professional-grade music-processing node pack.
+
+ComfyUI HY-Motion One plugin — Tencent HY-Motion implementation.
+
+ComfyUI Audio Reactive Node Pack, from VisualFrisson — spatial audio-reactive nodes.
+
+ComfyUI-BlendPack — nodes for video transitions.
+
+KJNodes — use audio as input for LTX-Two inside ComfyUI.
+
+WhatDreamsCost ComfyUI Nodes — LTX sequencer, keyframer.
+
+Luminance Keyer Node — luminance-based keying.
+
+Camera Tracking and Body Pose tools, inside ComfyUI — work-in-progress camera and pose tracking.
+
+Multiple Angle Camera Control Node — multi-angle camera control.
+
+FeedbackSampler, Deforum-inspired — iterative feedback sampling.
+
+Day-to-Night with Qwen Edit LoRA — day and night transformation workflow.
+
+Sora Two A.P.I. Nodes — Sora Two access from ComfyUI.
+
+QWEN-AI Compositing — Qwen-driven compositing workflow.
+
+Street View URL Parser — Google Street View ingestion.
+
+Minim — ComfyUI model-linker extension.
+
+Hunyuan 3D Three Point Zero, with ComfyUI partner nodes — HY3D Three Point Zero inside ComfyUI.
+
+Kling Three Point Zero ComfyUI node — Kling Three Point Zero partner node.
+
+Kling Video Two Point Six Motion Control, inside ComfyUI — Kling motion control.
+
+Kling Motion Control Three Point Zero, inside ComfyUI — the v Three motion control variant.
+
+Seedance, ComfyUI partner node — Seedance inside ComfyUI.
+
+LTX-Two, ComfyUI native support — audio-video model natively supported.
+
+LTX-Two ComfyUI Audio-to-Video — audio-driven video inside ComfyUI.
+
+ACE-Step One Point Five, inside ComfyUI — full songs in under ten seconds on under four gigabytes of V-RAM.
+
+Eleven Labs ComfyUI Partner Nodes — Eleven Labs inside ComfyUI.
+
+Luma Uni-One ComfyUI Partner Node — Uni-One inside ComfyUI.
+
+Meshy Six, ComfyUI native — Meshy Six inside ComfyUI.
+
+Grok Imagine, inside ComfyUI — xAI image generation inside ComfyUI.
+
+MatAnyone2, inside ComfyUI — high-fidelity video matting inside ComfyUI.
+
+Tripo Three Point One, ComfyUI partner nodes — Tripo Three Point One inside ComfyUI.
+
+NVIDIA R-T-X Video Super Resolution Node — R-T-X upscaling node.
+
+Depth Anything Custom Node — Depth Anything inside ComfyUI.
+
+SAM Three and SAM 3D ComfyUI integration — Meta SAM Three and SAM 3D inside ComfyUI.
+
+Sora Two Full Loop Workflow — end-to-end Sora Two pipeline.
+
+Krea Nodes — Krea inside ComfyUI.
+
+Gaussian Splats plus Qwen Edit workflow — explore 2D images and generate new camera views.
+
+ComfyUI App Mode, and ComfyHub — turn workflows into shareable no-install apps.
+
+ComfyUI Simple Mode — share and iterate complex workflows more easily.
+
+ComfyUI Cloud with private models — private model hosting inside ComfyUI Cloud.
+
+ComfyUI Action Director — interactive 3D viewport for Control Net.
+
+Complete Style Transfer Handbook, for ComfyUI — style-transfer guide.
+
+VibeComfy — agents that understand, build and run ComfyUI workflows with Claude.
+
+MooshieUI — beginner-friendly ComfyUI desktop frontend.
+
+And Creative Control Using ComfyUI on NVIDIA R-T-X — NVIDIA's official ComfyUI and R-T-X tutorial series.
+
+LoRAs, fine-tuning and training.
+
+QwenEdit-Twenty-Five-Oh-Nine Light Transfer LoRA — simple, powerful image relighting via reference.
+
+Qwen-Edit Relighting LoRA — atmospheric relighting control.
+
+Qwen-Image-Edit-Twenty-Five-Eleven Multiple Angles LoRA — multi-angle perspective generation.
+
+Qwen-Image-Edit-Twenty-Five-Eleven AnyPose — pose transfer from a reference image.
+
+QwenEdit-Twenty-Five-Eleven Anything2Real LoRA — realistic-image transformation.
+
+Qwen Edit LoRA Object Removal — bounding-box-precision edits.
+
+Qwen-Image-Edit Twenty-Five-Eleven Gaussian Splash 3D Camera Motion — 3D Gaussian-splat motion control.
+
+Qwen Twenty-Five-Eleven Time Travel Workflow — temporal image effects.
+
+NextScene, a Qwen Image LoRA — cinematic image sequences with natural progression.
+
+Best Face Swap, a Flux Two LoRA — specialised face-swap.
+
+Flux Two klein LoRAs, on fal — open-source. Outpaint, Zoom, Object Removal, Background Removal.
+
+Krea AI LoRA Trainers — train LoRAs for Qwen-Twenty-Five-Twelve and Z-Image inside krea.ai.
+
+LTX-Two Point Three Character LoRA Training, AI Toolkit — character LoRA training tutorial.
+
+Gaussian Splats Repair LoRA — Klein-nine-b LoRA for repairing 3D views and geometry.
+
+LTX Two Point Three Colorizer LoRA — black-and-white footage colorisation.
+
+And Music Finetunes in ElevenCreative — stylistically consistent vocal and instrument generation.
+
+I.P. licensing, governance and behavioural-licence platforms.
+
+The contract-and-governance layer that emerged through twenty twenty-five and twenty twenty-six. The deep analytical treatment of how these models work — the three Cs of consent, credit, compensation, the five-model comparison, the corrected Disney and Open A.I. record, the transaction-cost reframe — is in Appendix L, The Programmable Brand.
+
+Hasbro Sixth Wall and CharacterOS — in-house AI studio launched the third of June twenty twenty-six. To license the behaviour of Hasbro characters — Optimus Prime, Megatron, Cobra Commander, the Clue cast — under a runtime governance layer that encodes canon, voice, personality, lore and safety limits. Business-to-Business programmatic licence with a talent-participation pay-out structure for original performers. Initial twelve-character catalogue. Thirteen-plus and enterprise focus.
+
+Verified by Spotify, and the Spotify–U-M-G fan-remix product. Spotify's Verified by Spotify badge and the opt-in catalogue infrastructure underneath the May twenty twenty-six Spotify and Universal Music Group landmark licensing agreement for fan-made AI covers and remixes. Consent, credit, compensation framework. Paid Premium add-on. New royalty stream to artists and songwriters.
+
+Disney and Open A.I. licensing framework — announced the eleventh of December twenty twenty-five, never executed. The one billion dollar licensing announcement that became the reference contract architecture for legacy-I.P. and frontier-AI deals despite the deal itself collapsing when Open A.I. shut down Sora on the twenty-fourth of March twenty twenty-six. I.P.-not-training, talent-voice-and-likeness excluded, jointly-governed steering committee, equity-and-warrants structure. The framework survived the platform's death.
+
+Elf.tech and GrimesAI — from CreateSafe and Triniti A.P.I. Grimes's open-voice platform. Upload your vocal, get back a synthesised GrimesAI performance, release commercially with a roughly fifty percent master-royalty split. Analogised by her team to fan-fiction and fan-art cultures. Around fifteen thousand tracks generated under the licence.
+
+Holly Plus, and the Holly Herndon DAO — public digital twin of the artist's voice wrapped in collective DAO governance for commercial-use decisions and the distribution of proceeds. Paired with the Have I Been Trained, from Spawning, consent-layer tooling.
+
+Eleven Labs Heritage Voices, and Iconic Marketplace — with CMG Worldwide and partners. Heritage-voice licensing pipeline confined to a single text-to-speech Reader app, walled off from the general voice-cloning database. Voices include Judy Garland, James Dean, Burt Reynolds, Laurence Olivier, the Stan Lee estate and Michael Caine.
+
+Meta Celebrity Chatbots, from twenty twenty-three — the closed-static likeness-rental anti-pattern referenced for contrast in Appendix L. High flat fee — reportedly up to roughly five million dollars per celebrity over two years — for platform-owned, frozen personas with no participatory layer for users or the wider creator community.
+
+And the Cannes AI Disclosure Standard — industry-coordination labelling standard for production-side AI use. The inter-industry analogue of the per-platform governance layers above.
+
+Provenance, watermarking and detection.
+
+C-Two-P-A, the Content Authenticity Initiative, Adobe-led — cryptographic provenance metadata standard.
+
+SynthID, and SynthID Verification, from Google DeepMind — synthetic-content watermark. Deployed across Veo, Lyria and Imagen. Verifiable inside Gemini.
+
+YouTube AI Detection, and YouTube AI Deepfake Detection — automated AI-content detection. Tiny Grandma false-positive case study.
+
+Deezer AI Music Detection — identifies up to seventy-five thousand fully AI-generated uploads per day.
+
+Spotify AI Transparency Beta — voluntary disclosure feature.
+
+Beeble — detection and watermarking tools.
+
+Cloudflare AI Bot Classification — public-web infrastructure tracking AI crawlers.
+
+And the Human Provenance AI Disclosure Standard, from Cannes — industry-coordination labelling standard.
+
+Consumer surfaces and distribution platforms.
+
+The Sora iOS app, from Open A.I. — TikTok-style AI video remix. One million downloads in five days.
+
+CapCut and Dreamina, from ByteDance — consumer video editing and AI generation.
+
+The Gemini app, from Google — Google's consumer AI surface.
+
+The ChatGPT app, from Open A.I. — mobile ChatGPT. Shazam integration.
+
+Perplexity AI — Samsung Smart TV AI assistant integration. Consumer AI search.
+
+Grok and Grok Imagine — xAI consumer surfaces.
+
+TikTok, Reels and Shorts — AI-content distribution surfaces.
+
+YouTube Shorts and YouTube Create — destinations for Veo Three Point One Ingredients-to-Video.
+
+Bandcamp — banned AI music outright, January twenty twenty-six.
+
+Deezer — published the forty-four percent and three percent data. Built and licensed AI-music detection.
+
+Spotify — declined an AI-music filter. Voluntary disclosure beta. Personal Podcasts agent feature.
+
+YouTube Music — labelling, the AI Detection Tool, viewership of AI content.
+
+Steam — AI-content labelling controversy. Clair Obscur Game of the Year stripping.
+
+Sweden's Official Music Chart — banned AI-generated entries.
+
+San Diego Comic-Con — banned AI art at the twenty twenty-six event.
+
+Roblox — creator-tools AI with continued controversy.
+
+Fortnite — Chapter Eight AI-art controversy. Disney partnership.
+
+Netflix — AI in production. De-aging, plates, retention engine, Ben Affleck studio acquisition.
+
+Disney Plus — user-generated AI content features.
+
+And Luna, from Amazon — AI-powered Snoop Dogg game.
+
+Studios, programmes, festivals and institutional infrastructure.
+
+Sundance AI Literacy Initiative — Google-funded two million dollar creator-training programme. Sundance Collab learning, Story Forum, Ignite Day.
+
+UCL, RCA and Brandtech Centre for Creative AI — U-K research hub.
+
+AIMICI Training Program — ScreenSkills-accredited AI training.
+
+AI FilmFest Japan — annual AI-film festival.
+
+Dubai AI Film Award — one million dollar prize won by Tunisia's Lily.
+
+Cannes AI Disclosure Standard and Cannes Lions — industry coordination for AI labelling. Luma Dream Brief one million dollar prize.
+
+Future Vision Film Competition — Google, XPRIZE and Range Media collaboration.
+
+Runway AI Festival — film and creative-discipline awards.
+
+Wonder Film Festival — AI-native film festival.
+
+Academy of Motion Picture Arts and Sciences — "you must be human to win" rule.
+
+Television Academy and Emmys — AI guidance for submissions.
+
+SAG-AFTRA (Sag-Aff-trah) — contract negotiations and the Tilly Tax.
+
+Equity, U-K — strike ballot. Ninety-nine percent vote in favour.
+
+PRS for Music AI Survey twenty twenty-six — U-K music-creator sentiment data.
+
+GEMA — German rights society. Won against Open A.I.
+
+Splice plus U-M-G — sample library. AI-music tools partnership.
+
+Stability AI plus Universal Music, and Stability AI plus Warner Music — alliance and deal on the AI-music side.
+
+Vizrt Viz One Eight Point One — broadcast AI features.
+
+Tesseract — AI platform at MIPCOM.
+
+Sphere plus Google Cloud — AI technology behind the Wizard of Oz experience.
+
+Anthropic Joins Blender Development Fund — patronage deal, May twenty twenty-six.
+
+Sony AI ICASSP papers — music-understanding and generative-audio research, April twenty twenty-six.
+
+And Google Flow Music plus Believe Partnership — AI music distribution partnership.
+
+Techniques, methods and recurring workflows.
+
+Vibe Coding — prompt-led creative prototyping, especially for games and interactive apps. Rosebud, Spawn, Gizmo, Gambo are the canonical surfaces.
+
+Trajectory Control, also known as ATI, in Wan and Qwen — control of video trajectories at frame and clip level.
+
+Reference-to-Video, in Veo Three Point One plus Gemini — consistent character generation from a reference image.
+
+Motion Control nodes and Time-To-Move — frame- and segment-level motion controls in generated video.
+
+Layer Separation and Live Editable Text, from Loveart — extract and edit text and subjects from images as P-S-D layers.
+
+Temporal Reasoning, in NVIDIA ChronoEdit — physics-aware edits and world simulation.
+
+Practical Light Control, from PractiLight — foundational diffusion for relighting.
+
+3D Gaussian Splatting — the spatial backbone running through PlayCanvas S-O-G, Hyperscape, Apple Personas and the open-source splat ecosystem.
+
+World Models — recurring topic spanning Marble, Genie, HY-World, UNI-One, ECHO, Matrix-Game, LingBot-World and Moonlake.
+
+Multi-Shot Consistency — Kling Three Point Zero, ShotVerse, Higgsfield Shots, Veo Three Point One. The multi-shot turn that defined the spring twenty twenty-six video pipeline.
+
+Camera Control and Multi-Angle Generation — WAN Camera Control, ShotVerse, ATI, Multiple Angle Camera Control Node.
+
+Style Transfer, via the ComfyUI handbook — the canonical workflow ladder for style transfer.
+
+Audio-Reactive Generation — Audio Reactive Node Pack and the Lalal-A.P.I. and ACE-Step pipelines.
+
+Real-Time Generation Pipelines — Krea Realtime, MotionStream, Decart Lucy Two Point Zero, Xmax X-One, Phoenix-Four, LTX-Two Point Three Real-Time on Scope. The interactive-generation category that emerged in Q1 twenty twenty-six.
+
+Agentic Workflows and Multi-Agent Stacks — Sony Game Studios, with forty-nine agents and seventy-two skills. Adobe C-X Enterprise. Open A.I. AgentKit. HeyGen Video Agent. Claude Skills.
+
+Provenance-First Capture — C-Two-P-A plus SynthID plus on-device detection in Premiere and YouTube, as the emerging standard of provenance-aware production.
+
+Music Stem Separation as a primitive — Lalal AI, StemDeck, BandLab. Stem separation moving from end-product to upstream primitive.
+
+M.C.P., the Model Context Protocol, as the connective tissue — Unity M.C.P., Blender M.C.P., fal M.C.P. The protocol the agentic creative ecosystem is converging on.
+
+And Brief-First, Generate-Second — the workflow practice the book argues for in Chapter Eleven, and in Chapter Sixteen's toolchain-in-layers section below.
+
+This is the catalogue. By the time you read it, it will be incomplete. New tools have shipped. Some on this list have been bought, renamed or killed. Treat it as a snapshot of one year of toolchain at the moment the toolchain became a stack rather than a list. And use it to orient yourself in whatever the state of play is when you pick the book up.
+
+For a deeper analytical treatment of the adoption telemetry behind many of these tools — Firefly's twenty-two-billion-asset growth curve, ChatGPT's eight hundred to nine hundred million weekly active user figures, the Veo and Sora professional split, the GDC sentiment-versus-usage divergence — see Appendix E, Dynamics of Generative AI Adoption.
+
+How to build a toolchain you can defend.
+
+The last thing I want to say in this chapter is something I have said in talks more often than anything else, because working creatives ask me this question, in some variant, every week.
+
+How do I decide what tools to use, in a market that is changing this fast, without burning my whole month re-learning interfaces?
+
+My short answer is — build the toolchain in layers, and accept that the layers move at different speeds.
+
+The bottom layer — your foundation model, your modality stack, your agent platform — will change frequently. Treat it as ephemeral. Pick the best tools available this quarter and be ready to swap them next quarter.
+
+The middle layer — your creative software. Adobe, Unreal, Davinci, Pro Tools, Blender, Logic — will change more slowly, and is the layer in which the AI capability will be progressively absorbed. Treat it as the long-term home of your craft. Learn it deeply.
+
+The top layer — your judgement, your taste, your briefing skill, your integration sense — does not change. It is the layer the agents cannot copy, the layer the platforms cannot ship, and the layer the next model release does not depreciate. Spend more time here than the toolchain wants you to.
+
+The mistake I see working creatives make most often is to over-optimise the bottom layer and under-invest the top. The platform companies want you to spend your working hours chasing the new model release. The work that pays the bills, the work that finds an audience, and the work that survives a transition is built on the layer the platform companies cannot reach.
+
+The toolchain, in the end, is the means. The work is the end. The tools change. The work, if it is any good, lasts.
+
+That is the working operating model my studio has run on for the period this book covers. It is the model I would commend to anyone building, this year or next, a creative practice that survives the rest of the decade.
+
+The transition is going to keep going. The tools will keep changing. The work that matters, on the other side, will be made by the people who kept their attention on the right layer.
+
+END OF CHAPTER
+
