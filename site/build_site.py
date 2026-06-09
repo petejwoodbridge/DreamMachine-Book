@@ -41,6 +41,7 @@ BOLD_LEAD_RE = re.compile(r"^\s*[-*]\s*\*\*(?P<name>[^*]+?)\*\*\s*(?P<rest>.*)$"
 SUB_BULLET_RE = re.compile(r"^\s{2,}[-*]\s*\*\*(?P<name>[^*]+?)\*\*\s*(?P<rest>.*)$")
 H4_RE = re.compile(r"^####\s+(?P<title>.+?)\s*$")
 H3_RE = re.compile(r"^###\s+(?P<title>.+?)\s*$")
+H2_RE = re.compile(r"^##\s+(?P<title>.+?)\s*$")
 
 
 def slugify(s: str) -> str:
@@ -356,10 +357,33 @@ def parse_issue_file(path: Path) -> dict:
                 pass
             break
 
-    # Walk H3/H4 sections to bucket bullet news items by topic
+    # Walk H3/H4 sections to bucket news items by topic.
+    # Two formats in the wild:
+    #   Old (issues 1-29): LinkedIn PDF scrape — bare [Title](url) links or
+    #     "- item" bullets under "## Page N" headings.
+    #   New (issues 30+): cleaned markdown — "### Section" H3 headers, items
+    #     are plain text lines ending with [LINK](url) or bare [Title](url).
     current_section: dict | None = None
     in_spotlight = False
     in_url_dump = False
+
+    def _make_item(line_text: str) -> dict:
+        url = extract_first_url(line_text)
+        text_clean = re.sub(r"\s*\[LINK\]\([^)]+\)\s*$", "", line_text)
+        text_clean = re.sub(r"\s*\[Link\]\([^)]+\)\s*$", "", text_clean)
+        text_clean = MD_LINK_RE.sub(r"\1", text_clean).strip()
+        text_clean = re.sub(r"\*\*([^*]+)\*\*", r"\1", text_clean)  # strip bold
+        text_clean = re.sub(r"\s+", " ", text_clean).strip()
+        return {"text": text_clean, "url": url}
+
+    def _is_news_line(s: str) -> bool:
+        """True if this line looks like a news item (has a link, not a heading
+        or purely structural line)."""
+        if not s or s.startswith("#") or s.startswith("*Source") or s.startswith("---"):
+            return False
+        if s.startswith("[Home]") or s.startswith("[Edit") or s.startswith("[View"):
+            return False
+        return bool(extract_first_url(s))
 
     for raw in lines:
         stripped = raw.strip()
@@ -371,36 +395,75 @@ def parse_issue_file(path: Path) -> dict:
                 url = stripped[2:].strip()
                 if url.startswith("http"):
                     all_urls.append(url)
+            elif stripped.startswith("http"):
+                all_urls.append(stripped)
             continue
 
-        # H3 ("News this Week" / "Tool Spotlight" group headers)
+        # H2 section headers (issue 31/32 style: "## Film, TV..." or "## Tool Spotlight")
+        if H2_RE.match(stripped):
+            h2_title = H2_RE.match(stripped).group("title").strip()
+            h2_lower = h2_title.lower()
+            if "tool" in h2_lower or "spotlight" in h2_lower:
+                in_spotlight = True
+                current_section = None
+            elif any(kw in h2_lower for kw in NEWS_SECTION_MAP):
+                in_spotlight = False
+                tags = map_news_section(h2_title)
+                current_section = {"heading": h2_title, "tags": tags, "items": []}
+                sections.append(current_section)
+            else:
+                in_spotlight = False
+                # Structural H2 (Editors Pick, Page N, etc.) — leave current_section alone
+            continue
+
+        # H3 — in old format these are "## Page N" (ignored);
+        # in new format they are section headers like "### Film, TV..."
+        # or "### Tool Spotlight".
         if H3_RE.match(stripped):
-            h = H3_RE.match(stripped).group("title").lower()
-            in_spotlight = "tool" in h or "spotlight" in h
+            h3_title = H3_RE.match(stripped).group("title").strip()
+            h3_lower = h3_title.lower()
+            if "tool" in h3_lower or "spotlight" in h3_lower:
+                in_spotlight = True
+                current_section = None
+            elif any(kw in h3_lower for kw in NEWS_SECTION_MAP):
+                # New format: H3 is the section header (Film, Games, Music…)
+                in_spotlight = False
+                tags = map_news_section(h3_title)
+                current_section = {"heading": h3_title, "tags": tags, "items": []}
+                sections.append(current_section)
+            else:
+                in_spotlight = False
+                # Don't clobber current_section — sub-headings ("Editors Pick" etc.)
+                # don't open a new section
             continue
 
-        # H4 (Film/Games/Music/etc.)
+        # H4 (Film/Games/Music/etc.) — used in older-format issues
         h4 = H4_RE.match(stripped)
         if h4:
             title4 = h4.group("title").strip()
-            tags = map_news_section(title4)
-            current_section = {
-                "heading": title4,
-                "tags": tags,
-                "items": [],
-            }
-            sections.append(current_section)
+            in_spotlight = "tool" in title4.lower() or "spotlight" in title4.lower()
+            if not in_spotlight:
+                tags = map_news_section(title4)
+                current_section = {"heading": title4, "tags": tags, "items": []}
+                sections.append(current_section)
             continue
 
-        # Bullets — extract news items
+        # Bullet items (old format uses "- item")
         if stripped.startswith("- "):
             line_text = stripped[2:].strip()
-            url = extract_first_url(line_text)
-            # Strip the [LINK](url) suffix if present for cleaner reading
-            text_clean = re.sub(r"\s*\[LINK\]\([^)]+\)\s*$", "", line_text)
-            text_clean = MD_LINK_RE.sub(r"\1", text_clean).strip()
-            text_clean = re.sub(r"\s+", " ", text_clean)
-            item = {"text": text_clean, "url": url}
+            if not line_text:
+                continue
+            item = _make_item(line_text)
+            if in_spotlight:
+                tool_spotlight.append(item)
+            elif current_section is not None:
+                current_section["items"].append(item)
+            continue
+
+        # Plain-text news lines (new format: raw text/links, no "- " prefix).
+        # Only collect if we're inside a known section or spotlight.
+        if (in_spotlight or current_section is not None) and _is_news_line(stripped):
+            item = _make_item(stripped)
             if in_spotlight:
                 tool_spotlight.append(item)
             elif current_section is not None:
@@ -890,6 +953,24 @@ def main() -> int:
     (DATA / "site.json").write_text(
         json.dumps(site_meta, indent=2, ensure_ascii=False), encoding="utf-8"
     )
+
+    # Write bundle.js — inlines all JSON so pages work on file:// and static hosting
+    # (no fetch() needed; DM.loadJSON checks window.DM_DATA first)
+    bundle_data = {
+        "tools": tools,
+        "categories": categories,
+        "issues": issues,
+        "editions": editions,
+        "use-cases": use_cases,
+        "chapters": chapters,
+        "issues-and-challenges": ISSUES_CATALOG,
+        "site": site_meta,
+    }
+    bundle_js = "// Auto-generated by build_site.py — do not edit\n"
+    bundle_js += "window.DM_DATA = " + json.dumps(bundle_data, ensure_ascii=False) + ";\n"
+    (DATA / "bundle.js").write_text(bundle_js, encoding="utf-8")
+    bundle_kb = round(len(bundle_js.encode()) / 1024)
+    print(f">> Writing data/bundle.js ({bundle_kb} KB)")
 
     print(f"\nDone. Site data written to: {DATA}")
     return 0

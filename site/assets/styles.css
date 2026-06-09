@@ -256,7 +256,8 @@ button {
   z-index: 200;
 }
 .nav__drop:hover .nav__drop-menu,
-.nav__drop:focus-within .nav__drop-menu { display: flex; }
+.nav__drop:focus-within .nav__drop-menu,
+.nav__drop.is-open .nav__drop-menu { display: flex; }
 
 .nav__drop-item {
   display: block;

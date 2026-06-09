@@ -165,7 +165,8 @@
       border-radius: 4px;
     }
     .nav__drop:hover .nav__drop-menu,
-    .nav__drop:focus-within .nav__drop-menu { display: flex; }
+    .nav__drop:focus-within .nav__drop-menu,
+    .nav__drop.is-open .nav__drop-menu { display: flex; }
     .nav__drop-item {
       font-size: 0.82rem; font-weight: 500;
       color: rgba(255,255,255,0.65); padding: 0.5rem 1rem; display: block;
@@ -683,6 +684,14 @@
         <a href="#chapters">Chapters</a>
         <a href="#get">Get the Book</a>
         <a href="https://dreamlab.org.uk/" target="_blank" rel="noopener">DreamLab</a>
+        <div class="nav__drop">
+          <button class="nav__drop-btn">Toolkit <span class="nav__drop-arrow">▼</span></button>
+          <div class="nav__drop-menu">
+            <a class="nav__drop-item" href="site/toolkit.html">Creative Toolkit</a>
+            <a class="nav__drop-item" href="site/editions.html">Newsletter</a>
+            <a class="nav__drop-item" href="site/graph.html">Knowledge Graph</a>
+          </div>
+        </div>
         <a class="nav__cta" href="#get">Get the book →</a>
       </div>
     </div>
@@ -1090,5 +1099,20 @@
     </div>
   </footer>
 
+  <script>
+    // Nav dropdown click-toggle
+    document.querySelectorAll('.nav__drop-btn').forEach(function(btn) {
+      btn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var drop = btn.closest('.nav__drop');
+        var opening = !drop.classList.contains('is-open');
+        document.querySelectorAll('.nav__drop.is-open').forEach(function(d) { d.classList.remove('is-open'); });
+        if (opening) drop.classList.add('is-open');
+      });
+    });
+    document.addEventListener('click', function() {
+      document.querySelectorAll('.nav__drop.is-open').forEach(function(d) { d.classList.remove('is-open'); });
+    });
+  </script>
 </body>
 </html>

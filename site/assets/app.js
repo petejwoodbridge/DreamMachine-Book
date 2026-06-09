@@ -10,6 +10,20 @@
     }
   });
 
+  // Nav dropdown click-toggle (keep open when moving between btn and menu)
+  document.querySelectorAll('.nav__drop-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const drop = btn.closest('.nav__drop');
+      const opening = !drop.classList.contains('is-open');
+      document.querySelectorAll('.nav__drop.is-open').forEach(d => d.classList.remove('is-open'));
+      if (opening) drop.classList.add('is-open');
+    });
+  });
+  document.addEventListener('click', () => {
+    document.querySelectorAll('.nav__drop.is-open').forEach(d => d.classList.remove('is-open'));
+  });
+
   // Scroll-reveal observer (graceful, optional)
   if ('IntersectionObserver' in window) {
     const io = new IntersectionObserver(entries => {
@@ -27,6 +41,10 @@
 // JSON helpers (used by per-page scripts)
 window.DM = {
   async loadJSON(name) {
+    // Use pre-bundled data when available (works on file:// and static hosting)
+    if (window.DM_DATA && Object.prototype.hasOwnProperty.call(window.DM_DATA, name)) {
+      return window.DM_DATA[name];
+    }
     const res = await fetch(`data/${name}.json`, { cache: 'no-cache' });
     if (!res.ok) throw new Error(`Failed to load data/${name}.json: ${res.status}`);
     return res.json();

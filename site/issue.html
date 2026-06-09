@@ -7,7 +7,7 @@
   <meta name="description" content="Dream Machine newsletter issue reading list." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>
     :root {
       --lime:  #c8ff66;
@@ -47,61 +47,57 @@
     /* ── Nav ── */
     .nav {
       position: sticky; top: 0; z-index: 100;
-      background: var(--ink2);
-      border-bottom: 3px solid var(--mag);
+      background: rgba(13,13,13,0.92);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(200,255,102,0.15);
     }
     .nav__inner {
       display: flex; align-items: center; justify-content: space-between;
-      height: 64px; gap: 1rem;
+      height: 60px; gap: 1rem;
     }
     .nav__brand {
-      font-family: 'Press Start 2P', monospace;
-      font-size: 0.9rem; color: var(--mag);
-      text-shadow: 3px 3px 0 var(--cyan);
-      letter-spacing: 0.05em; line-height: 1.4;
-      white-space: nowrap;
+      font-family: 'Orbitron', monospace;
+      font-size: 1.1rem; font-weight: 900; letter-spacing: 0.12em;
+      color: var(--mag); text-transform: uppercase;
+      text-shadow: 2px 2px 0 var(--cyan); white-space: nowrap;
     }
-    .nav__links { display: flex; align-items: center; gap: 1.25rem; }
+    .nav__links { display: flex; align-items: center; gap: 1.5rem; }
     .nav__links a {
-      font-size: 0.7rem; font-weight: 600;
-      color: rgba(200,255,102,0.65);
-      transition: color 0.15s; letter-spacing: 0.04em;
+      font-size: 0.85rem; font-weight: 500;
+      color: rgba(255,255,255,0.7); transition: color 0.2s;
     }
     .nav__links a:hover { color: var(--lime); }
     .nav__cta {
-      background: var(--mag);
-      color: var(--ink);
-      font-family: 'Press Start 2P', monospace;
-      font-size: 0.5rem;
-      padding: 0.5rem 0.9rem;
-      box-shadow: 3px 3px 0 var(--ink);
-      transition: box-shadow 0.1s;
+      background: var(--mag); color: #0d0d0d !important;
+      font-weight: 700 !important; padding: 0.45rem 1.1rem;
+      border-radius: 6px; transition: background 0.2s !important;
     }
-    .nav__cta:hover { box-shadow: 5px 5px 0 var(--ink); }
+    .nav__cta:hover { background: var(--lime) !important; }
 
     /* ── Nav Dropdown ── */
     .nav__drop { position: relative; }
     .nav__drop-btn {
       background: none; border: none; cursor: pointer; padding: 0;
-      font-size: 0.7rem; font-weight: 600; font-family: inherit;
-      color: rgba(200,255,102,0.65); transition: color 0.15s;
-      letter-spacing: 0.04em;
+      font-size: 0.85rem; font-weight: 500; font-family: inherit;
+      color: rgba(255,255,255,0.7); transition: color 0.2s;
     }
     .nav__drop-btn:hover { color: var(--lime); }
-    .nav__drop-arrow { font-size: 0.6em; margin-left: 0.25em; }
+    .nav__drop-arrow { font-size: 0.7em; margin-left: 0.2em; }
     .nav__drop-menu {
       display: none; position: absolute;
       top: calc(100% + 8px); left: 50%; transform: translateX(-50%);
-      background: var(--ink2); border: 2px solid var(--mag);
-      box-shadow: 4px 4px 0 var(--ink); min-width: 190px;
-      flex-direction: column; z-index: 200; padding: 0.5rem 0;
+      background: rgba(13,13,13,0.98); border: 1px solid rgba(200,255,102,0.2);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.7); min-width: 190px;
+      flex-direction: column; z-index: 200; padding: 6px;
+      border-radius: 10px; backdrop-filter: blur(12px);
     }
     .nav__drop:hover .nav__drop-menu,
-    .nav__drop:focus-within .nav__drop-menu { display: flex; }
+    .nav__drop:focus-within .nav__drop-menu,
+    .nav__drop.is-open .nav__drop-menu { display: flex; }
     .nav__drop-item {
-      font-size: 0.65rem; font-weight: 600; letter-spacing: 0.04em;
-      color: rgba(200,255,102,0.65); padding: 0.5rem 1rem; display: block;
-      transition: background 0.1s, color 0.1s;
+      font-size: 0.82rem; font-weight: 500;
+      color: rgba(255,255,255,0.65); padding: 8px 12px; display: block;
+      border-radius: 7px; transition: background 0.1s, color 0.1s;
     }
     .nav__drop-item:hover { color: var(--lime); background: rgba(200,255,102,0.07); }
 
@@ -393,8 +389,6 @@
           <button class="nav__drop-btn">Toolkit <span class="nav__drop-arrow">▼</span></button>
           <div class="nav__drop-menu">
             <a class="nav__drop-item" href="toolkit.html">Creative Toolkit</a>
-            <a class="nav__drop-item" href="use-cases.html">Use Cases</a>
-            <a class="nav__drop-item" href="issues.html">Issues</a>
             <a class="nav__drop-item" href="editions.html">Newsletter</a>
             <a class="nav__drop-item" href="graph.html">Graph</a>
           </div>
@@ -458,6 +452,7 @@
     </div>
   </footer>
 
+  <script src="data/bundle.js"></script>
   <script src="assets/app.js"></script>
   <script>
     (async () => {
@@ -684,11 +679,9 @@
             </div>
           </div>` : '';
 
-        // Hide filter bar and show structured content + raw links
+        // Hide filter bar and show structured content
         document.getElementById('filter-bar').style.display = 'none';
         $out.innerHTML = spotHtml + secHtml;
-        // Also add unstructured links at bottom
-        renderLinks('all');
         return;
       }
 

@@ -23,7 +23,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>
     :root {
       --lime:  #c8ff66;
@@ -58,57 +58,57 @@
     /* ── Nav ── */
     .nav {
       position: sticky; top: 0; z-index: 100;
-      background: var(--ink);
-      border-bottom: 3px solid var(--mag);
+      background: rgba(13,13,13,0.92);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(200,255,102,0.15);
     }
     .nav__inner {
       display: flex; align-items: center; justify-content: space-between;
-      height: 64px; gap: 1rem;
+      height: 60px; gap: 1rem;
     }
     .nav__brand {
-      font-family: 'Press Start 2P', monospace;
-      font-size: 0.9rem; color: var(--mag);
-      text-shadow: 3px 3px 0 var(--cyan);
-      letter-spacing: 0.05em; white-space: nowrap;
+      font-family: 'Orbitron', monospace;
+      font-size: 1.1rem; font-weight: 900; letter-spacing: 0.12em;
+      color: var(--mag); text-transform: uppercase;
+      text-shadow: 2px 2px 0 var(--cyan); white-space: nowrap;
     }
-    .nav__links { display: flex; align-items: center; gap: 1.25rem; }
+    .nav__links { display: flex; align-items: center; gap: 1.5rem; }
     .nav__links a {
-      font-size: 0.7rem; font-weight: 600;
-      color: rgba(200,255,102,0.65); transition: color 0.15s;
-      letter-spacing: 0.04em;
+      font-size: 0.85rem; font-weight: 500;
+      color: rgba(255,255,255,0.7); transition: color 0.2s;
     }
     .nav__links a:hover { color: var(--lime); }
     .nav__cta {
-      background: var(--mag); color: var(--ink);
-      font-family: 'Press Start 2P', monospace; font-size: 0.5rem;
-      padding: 0.5rem 0.9rem; box-shadow: 3px 3px 0 var(--ink2);
-      transition: box-shadow 0.1s;
+      background: var(--mag); color: #0d0d0d !important;
+      font-weight: 700 !important; padding: 0.45rem 1.1rem;
+      border-radius: 6px; transition: background 0.2s !important;
     }
-    .nav__cta:hover { box-shadow: 5px 5px 0 var(--ink2); }
+    .nav__cta:hover { background: var(--lime) !important; }
 
     /* ── Nav Dropdown ── */
     .nav__drop { position: relative; }
     .nav__drop-btn {
       background: none; border: none; cursor: pointer; padding: 0;
-      font-size: 0.7rem; font-weight: 600; font-family: inherit;
-      color: rgba(200,255,102,0.65); transition: color 0.15s;
-      letter-spacing: 0.04em;
+      font-size: 0.85rem; font-weight: 500; font-family: inherit;
+      color: rgba(255,255,255,0.7); transition: color 0.2s;
     }
     .nav__drop-btn:hover { color: var(--lime); }
-    .nav__drop-arrow { font-size: 0.6em; margin-left: 0.25em; }
+    .nav__drop-arrow { font-size: 0.7em; margin-left: 0.2em; }
     .nav__drop-menu {
       display: none; position: absolute;
       top: calc(100% + 8px); left: 50%; transform: translateX(-50%);
-      background: var(--ink); border: 2px solid var(--mag);
-      box-shadow: 4px 4px 0 var(--ink2); min-width: 190px;
-      flex-direction: column; z-index: 200; padding: 0.5rem 0;
+      background: rgba(13,13,13,0.98); border: 1px solid rgba(200,255,102,0.2);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.7); min-width: 190px;
+      flex-direction: column; z-index: 200; padding: 6px;
+      border-radius: 10px; backdrop-filter: blur(12px);
     }
     .nav__drop:hover .nav__drop-menu,
-    .nav__drop:focus-within .nav__drop-menu { display: flex; }
+    .nav__drop:focus-within .nav__drop-menu,
+    .nav__drop.is-open .nav__drop-menu { display: flex; }
     .nav__drop-item {
-      font-size: 0.65rem; font-weight: 600; letter-spacing: 0.04em;
-      color: rgba(200,255,102,0.65); padding: 0.5rem 1rem; display: block;
-      transition: background 0.1s, color 0.1s;
+      font-size: 0.82rem; font-weight: 500;
+      color: rgba(255,255,255,0.65); padding: 8px 12px; display: block;
+      border-radius: 7px; transition: background 0.1s, color 0.1s;
     }
     .nav__drop-item:hover { color: var(--lime); background: rgba(200,255,102,0.07); }
 
@@ -261,6 +261,37 @@
     .footer__link { color: rgba(200,255,102,0.45); font-size: 0.72rem; }
     .footer__link:hover { color: var(--lime); }
 
+    /* ── Search ── */
+    .search-bar {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+    .search-bar__input {
+      width: 100%;
+      background: var(--ink2);
+      border: 2px solid rgba(200,255,102,0.2);
+      color: var(--lime);
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.9rem;
+      padding: 0.7rem 1rem 0.7rem 2.5rem;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .search-bar__input:focus { border-color: var(--lime); }
+    .search-bar__input::placeholder { color: rgba(200,255,102,0.25); }
+    .search-bar__icon {
+      position: absolute; left: 0.75rem; top: 50%;
+      transform: translateY(-50%);
+      color: rgba(200,255,102,0.35); font-size: 1rem;
+      pointer-events: none;
+    }
+    .no-results {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 0.5rem; letter-spacing: 0.1em;
+      color: rgba(200,255,102,0.3);
+      padding: 2rem 0; text-align: center;
+    }
+
     @media (max-width: 760px) {
       .nav__links { gap: 0.5rem; }
       .nav__cta { display: none; }
@@ -286,8 +317,6 @@
           <button class="nav__drop-btn">Toolkit <span class="nav__drop-arrow">▼</span></button>
           <div class="nav__drop-menu">
             <a class="nav__drop-item" href="toolkit.html">Creative Toolkit</a>
-            <a class="nav__drop-item" href="use-cases.html">Use Cases</a>
-            <a class="nav__drop-item" href="issues.html">Issues</a>
             <a class="nav__drop-item" href="editions.html">Newsletter</a>
             <a class="nav__drop-item" href="graph.html">Graph</a>
           </div>
@@ -324,7 +353,14 @@
         <span class="archive__heading">ALL ISSUES</span>
         <span class="archive__count" id="archive-count"></span>
       </div>
+      <div class="search-bar">
+        <span class="search-bar__icon">⌕</span>
+        <input id="ed-search" class="search-bar__input" type="search"
+               placeholder="Search by issue number, topic or date…"
+               autocomplete="off" spellcheck="false" />
+      </div>
       <div class="issue-grid" id="editions-grid"></div>
+      <div class="no-results" id="no-results" style="display:none">NO ISSUES MATCH</div>
     </div>
   </section>
 
@@ -336,6 +372,7 @@
     </div>
   </footer>
 
+  <script src="data/bundle.js"></script>
   <script src="assets/app.js"></script>
   <script>
     (async () => {
@@ -344,22 +381,51 @@
       document.getElementById('archive-count').textContent = `${editions.length} ISSUES`;
       const latest = editions[0]?.issue;
 
-      const $g = document.getElementById('editions-grid');
-      $g.innerHTML = editions.map(e => {
+      function tileHTML(e) {
         const isLatest = e.issue === latest;
-        const titleShort = (e.title || '').replace(/^Dream Machine — /, '') || `Issue ${e.issue}`;
+        const titleShort = (e.title || '').replace(/^Dream Machine[\s\S]*?Issue\s*\d+[^}]*}?/, '').replace(/^[\s—\-]+/, '').trim() || `Issue ${e.issue}`;
         return `
-          <a class="issue-tile${isLatest ? ' issue-tile--latest' : ''}" href="issue.html?n=${e.issue}">
+          <a class="issue-tile${isLatest ? ' issue-tile--latest' : ''}" href="issue.html?n=${e.issue}"
+             data-search="issue ${e.issue} ${DM.fmtDate(e.date)} ${titleShort}".toLowerCase()>
             <div class="issue-tile__num">#${e.issue}</div>
             <div class="issue-tile__date">${DM.fmtDate(e.date).toUpperCase()}</div>
-            <div class="issue-tile__title">${DM.escapeHTML(titleShort)}</div>
+            <div class="issue-tile__title">${DM.escapeHTML(titleShort || `Issue ${e.issue}`)}</div>
             <div class="issue-tile__counts">
               ${e.news_count ? `<span class="issue-tile__pill">${e.news_count} NEWS</span>` : ''}
               ${e.spotlight_count ? `<span class="issue-tile__pill">${e.spotlight_count} TOOLS</span>` : ''}
               ${(e.all_urls || []).length ? `<span class="issue-tile__pill">${(e.all_urls||[]).length} LINKS</span>` : ''}
             </div>
           </a>`;
-      }).join('');
+      }
+
+      const $g    = document.getElementById('editions-grid');
+      const $none = document.getElementById('no-results');
+      const $cnt  = document.getElementById('archive-count');
+
+      // Build tile elements once, filter by hiding
+      $g.innerHTML = editions.map(tileHTML).join('');
+      const tiles = [...$g.querySelectorAll('.issue-tile')];
+
+      // Attach searchable text to each tile
+      tiles.forEach((el, i) => {
+        const e = editions[i];
+        const title = (e.title || '').replace(/^Dream Machine[\s\S]*?[{}]/, '').replace(/^[\s—\-]+/, '').trim();
+        el._searchText = `issue ${e.issue} ${DM.fmtDate(e.date)} ${title}`.toLowerCase();
+      });
+
+      function applySearch(q) {
+        const tok = q.trim().toLowerCase();
+        let visible = 0;
+        tiles.forEach(el => {
+          const show = !tok || el._searchText.includes(tok);
+          el.style.display = show ? '' : 'none';
+          if (show) visible++;
+        });
+        $cnt.textContent = tok ? `${visible} OF ${editions.length} ISSUES` : `${editions.length} ISSUES`;
+        $none.style.display = (visible === 0) ? 'block' : 'none';
+      }
+
+      document.getElementById('ed-search').addEventListener('input', e => applySearch(e.target.value));
     })();
   </script>
 </body>
