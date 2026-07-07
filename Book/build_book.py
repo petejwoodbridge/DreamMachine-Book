@@ -88,6 +88,7 @@ APPENDIX_FILES = [
     "A10_Deep_Dive_Process_Trap.md",
     "A11_Deep_Dive_Coordination_Collapse.md",
     "A12_Deep_Dive_Programmable_Brand.md",
+    "A13_Deep_Dive_World_Cup.md",
 ]
 
 # Back-matter files appended after the Citation Index — biographical / studio
@@ -100,10 +101,10 @@ TITLE = "Dream Machine"
 SUBTITLE = "Artificial Intelligence and the Next Creative Economy"
 AUTHOR = "Pete Woodbridge"
 PLACE = "DreamLab, the North West, UK"
-DATE = "4 June 2026"
+DATE = "7 July 2026"
 # Used both in the colophon and in the output PDF filename. Each new edition
 # of the book gets a fresh dated PDF so prior versions are retained alongside.
-EDITION_SLUG = "2026-06-04"
+EDITION_SLUG = "2026-07-07"
 OUT_PDF = BUILD / f"Dream_Machine_{EDITION_SLUG}.pdf"
 # KDP interior is the content PDF only (no front/back cover), used for
 # uploading to Amazon KDP where the cover is supplied separately.

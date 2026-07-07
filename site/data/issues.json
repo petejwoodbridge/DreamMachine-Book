@@ -3305,5 +3305,1121 @@
     "news_count": 37,
     "spotlight_count": 17,
     "path": "Dream Machine MD/32.md"
+  },
+  {
+    "issue": 33,
+    "title": "Dream Machine — Issue 33",
+    "date": "",
+    "sections": [
+      {
+        "heading": "Film, TV, Broadcast & Animation",
+        "tags": [
+          "Animation",
+          "Film",
+          "TV"
+        ],
+        "items": [
+          {
+            "text": "Can AI Tell if your script will make a hit film?",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood"
+          },
+          {
+            "text": "I watched a $500K sci-fi thriller starring AI actors. The movie made me feel something real — for a moment.",
+            "url": "https://www.businessinsider.com/"
+          },
+          {
+            "text": "Unitree Robots wow the crowd on America's Got Talent",
+            "url": "https://www.nbc.com/nbc-insider/unitree-agt-dancing-robots-audition"
+          },
+          {
+            "text": "New York Times Roasted for \"Profiling\" the \"AI-Generated Actress\" Tilly Northwood",
+            "url": "https://futurism.com/artificial-intelligence/new-york-times-roasted-profiling-ai-actress"
+          },
+          {
+            "text": "Video AI Wars: How Chinese Labs Are Winning The Race OpenAI Abandoned",
+            "url": "https://www.forbes.com/sites/edithyeung/2026/06/05/video-ai-wars-how-chinese-labs-are-winning-the-race-openai-abandoned/"
+          },
+          {
+            "text": "Director Nick Holt on Exploring AI's Origins in Tribeca Doc 'AI: Probably Nothing to Worry About': Film Is About 'the Creation of a Sort of Species'",
+            "url": "https://variety.com/2026/film/festivals/tribeca-ai-documentary-nick-hold-director-probably-nothing-to-worry-about-1236767764/"
+          },
+          {
+            "text": "Ofcom to test AI on broadcast news",
+            "url": "https://radiotoday.co.uk/2026/06/ofcom-to-test-ai-on-broadcast-news/"
+          },
+          {
+            "text": "VERSA Studios launches VERSA Lab – a future format development platform",
+            "url": "https://britishcinematographer.co.uk/versa-studios-launches-versa-lab-format-development-platform/"
+          }
+        ]
+      },
+      {
+        "heading": "Games, Immersive & Interactive",
+        "tags": [
+          "Games",
+          "Immersive"
+        ],
+        "items": [
+          {
+            "text": "Fabula Rasa proves that AI can be a powerful creative tool without replacing human talent",
+            "url": "https://tech.yahoo.com/ar-vr/articles/fabula-rasa-ai-vr-game-095107657.html"
+          },
+          {
+            "text": "Behind the Movie Claiming to Be the First Straight-to-VHS Release in 20 Years — And Why It's a 'Middle Finger' to AI",
+            "url": "https://variety.com/2026/film/global/behind-the-fstraight-to-vhs-release-in-20-years-and-why-its-a-middle-finger-to-ai-1236767661/"
+          },
+          {
+            "text": "Lionsgate's Michael Burns Says AI Will Save The Company \"Tens And Tens Of Millions Of Dollars A Year\"",
+            "url": "https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/"
+          },
+          {
+            "text": "Announcing The Sandbox Studio: from idea to live multiplayer game in hours (Above).",
+            "url": "https://www.youtube.com/watch?v=IdTVDRvQoWM"
+          },
+          {
+            "text": "Amazon's new plan for games: James Bond and AI Snoop Dogg",
+            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna"
+          },
+          {
+            "text": "Sega Confirms And Responds To Generative AI Content In New Crazy Taxi Game",
+            "url": "https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game"
+          }
+        ]
+      },
+      {
+        "heading": "Music & Sound",
+        "tags": [
+          "Music"
+        ],
+        "items": [
+          {
+            "text": "New tools for touring artists: Bandsintown Boost and Laylo's AI ticket-sales agent",
+            "url": "https://musically.com/2026/06/05/new-tools-for-touring-artists-bandsintown-boost-and-laylos-ai-ticket-sales-agent/"
+          },
+          {
+            "text": "PaRa Music is a new Indian \"AI-powered\" label — that says it won't be using AI to create songs",
+            "url": "https://musically.com/2026/06/05/para-music-is-a-new-indian-ai-powered-label-that-says-it-wont-be-using-ai-to-create-songs/"
+          },
+          {
+            "text": "'Say No To Suno' Protesters Bring the Drama to a Swanky Santa Monica AI Conference",
+            "url": "https://www.digitalmusicnews.com/2026/06/04/say-no-to-suno-santa-monica-plane/"
+          },
+          {
+            "text": "\"AI isn't the destination. Making music is\": Fender looks forward as its Studio Pro DAW integrates Moises stem separation and a smart studio assistant",
+            "url": "https://www.musicradar.com/music-tech/daws/ai-isnt-the-destination-making-music-is-fender-looks-forward-as-its-studio-pro-daw-integrates-moises-stem-separation-and-a-smart-studio-assistant"
+          },
+          {
+            "text": "Federal Judge Vacates Order Sealing Udio's Training Data — Are We About to Learn How Many Recordings the Platform Ingested?",
+            "url": "https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/"
+          },
+          {
+            "text": "US musicians' union sues Universal and Warner over AI deals, claims breach of 'new use' clause in record industry's performer agreement",
+            "url": "https://completemusicupdate.com/us-musicians-union-sues-universal-and-warner-over-ai-deals-claims-breach-of-new-use-clause-in-record-industrys-performer-agreement/"
+          },
+          {
+            "text": "This AI-generated song got a very human makeover",
+            "url": "https://www.fastcompany.com/91554821/through-my-soul-ai-music-jazz-is-dead"
+          },
+          {
+            "text": "Anthropic has released Claude Fable 5: a Mythos-class model that's been made safe for general use.",
+            "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+          },
+          {
+            "text": "The UK has published its AI Adoption Plan for the Creative Industries",
+            "url": "https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries"
+          },
+          {
+            "text": "Cosine secures industry backing for Britain's first sovereign frontier model",
+            "url": "https://tech.eu/2026/06/08/cosine-secures-industry-backing-for-britain-s-first-sovereign-frontier-model/"
+          },
+          {
+            "text": "DSIT Launches a new £1.1 billion AI Hardware Plan for the UK",
+            "url": "https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution"
+          },
+          {
+            "text": "Apple announces Siri AI and its next generation of Apple Intelligence",
+            "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/"
+          },
+          {
+            "text": "Meta rolls out a new AI creator assistant on Facebook",
+            "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/"
+          },
+          {
+            "text": "'A driver of political violence': how the breakneck AI boom is fueling anti-tech extremism",
+            "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence"
+          },
+          {
+            "text": "ElevenLabs partners with the UK Government to bring voice AI to public services",
+            "url": "https://elevenlabs.io/blog/uk-mou-and-expansion"
+          },
+          {
+            "text": "Google forced to allow news sites to opt out of AI scraping in 'world first,' UK watchdog says",
+            "url": "https://fortune.com/2026/06/05/auto-draft-3/"
+          },
+          {
+            "text": "Sony Invests in AI Copyright-Protection Firm Midnight Labs",
+            "url": "https://variety.com/2026/biz/news/ip-ai-firm-midnight-labs-sony-million-dollar-investment-1236766931/"
+          },
+          {
+            "text": "The next era of entertainment is sub-fandom - and how AI steps into the mix",
+            "url": "https://www.fastcompany.com/91553897/the-next-era-of-entertainment-is-sub-fandom"
+          },
+          {
+            "text": "Apple's AI image generator is getting a makeover",
+            "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/"
+          },
+          {
+            "text": "WPP puts a different type of ad talent to the test with new studio Hex",
+            "url": "https://www.marketingdive.com/news/wpp-puts-different-type-of-ad-talent-to-the-test-with-new-studio-hex/822227/"
+          },
+          {
+            "text": "Artists are making 'anti-slop' to rebel against AI: 'It's been rammed down our throats'",
+            "url": "https://www.theguardian.com/"
+          }
+        ]
+      }
+    ],
+    "tool_spotlight": [
+      {
+        "text": "Google Magenta RealTime 2 (MRT2) — Introducing Google Magenta RealTime 2 (MRT2): the live music model you can play as an instrument.",
+        "url": "https://magenta.withgoogle.com/magenta-realtime-2"
+      },
+      {
+        "text": "Claude Fable 5 — Claude Fable 5, part of the mythos family, is out.",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      },
+      {
+        "text": "Unity AI — Unity AI Tutorial Series to see how you can use the AI Assistant or Model Context Protocol (MCP).",
+        "url": "https://unity.com/blog/unity-ai-mcp-how-to-get-started"
+      },
+      {
+        "text": "Tencent MMAE — A Massive Multitask Audio Editing Benchmark, is the first comprehensive evaluation benchmark for speech and audio \"Banana\"",
+        "url": "https://arxiv.org/abs/2606.07229"
+      },
+      {
+        "text": "PARSE — A framework for procedurally generating spatially grounded 3D scenes from part-level relational descriptions.",
+        "url": "https://arxiv.org/abs/2603.07704"
+      },
+      {
+        "text": "Google skills for AI agents — Google has released its official skills for AI agents.",
+        "url": "https://github.com/google/skills"
+      },
+      {
+        "text": "MAMMA — A novel markerless motion-capture pipeline that recovers SMPL-X parameters from multi-view videos for two-person interaction.",
+        "url": "https://mamma.is.tue.mpg.de/"
+      },
+      {
+        "text": "LongCat-Video-Avatar 1.5 — Meituan's LongCat team has released LongCat-Video-Avatar 1.5 — a production-ready, open-source framework for audio-driven avatar generation.",
+        "url": "https://meigen-ai.github.io/LongCat-Video-Avatar-1.5-Page/"
+      },
+      {
+        "text": "Comfy Desktop — Comfy Desktop is here - one app for every Comfy.",
+        "url": "https://x.com/ComfyUI/status/2064093003590111314"
+      },
+      {
+        "text": "Gaussian Splats in Apple Maps — Apple has announced gaussian splatting is coming to Apple Maps at WWDC.",
+        "url": "https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade"
+      },
+      {
+        "text": "Higgsfield Plugin for DaVinci Resolve — Higgsfield Plugin for DaVinci Resolve is live. Generate footage in your timeline, draw on a clip to edit, and apply AI-generated LUTs to your scene.",
+        "url": "https://higgsfield.ai/plugins/davinci"
+      },
+      {
+        "text": "Awesome Stable Audio — A curated list of integrations and extensions for stable audio.",
+        "url": "https://github.com/Stability-AI/Awesome-Stable-Audio"
+      },
+      {
+        "text": "Viggle API — Viggle is launching the Viggle API. Give any character any motion, one API call - it comes back alive in seconds.",
+        "url": "https://viggle.ai/developers"
+      },
+      {
+        "text": "Gemini 3.1 Flash TTS — The next generation of expressive AI speech.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/"
+      },
+      {
+        "text": "Magnific MCP — Connect every Magnific tool to your AI assistant with MCP (Tutorial).",
+        "url": "https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp"
+      },
+      {
+        "text": "Buzzy Canvas — Introducing Buzzy Canvas -- Your AI co-director",
+        "url": "https://www.buzzy.now/"
+      },
+      {
+        "text": "Gemini 3.5 live translate — Google's newest voice model: - low-latency translation across 70+ languages & more.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+      }
+    ],
+    "all_urls": [],
+    "news_count": 35,
+    "spotlight_count": 17,
+    "path": "Dream Machine MD/33.md"
+  },
+  {
+    "issue": 34,
+    "title": "Dream Machine — Issue 34",
+    "date": "",
+    "sections": [
+      {
+        "heading": "Video, Film, TV, Broadcast & Animation",
+        "tags": [
+          "Animation",
+          "Film",
+          "TV"
+        ],
+        "items": [
+          {
+            "text": "Runway and Lionsgate Expand Partnership, taking an Equity Stake in Runway AI",
+            "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership"
+          },
+          {
+            "text": "AI Firm Utopai Studios To Co-Produce Silver Bear-Winning Filmmaker Hyo-Joo Yang's Feature 'Half Moon'",
+            "url": "https://deadline.com/2026/06/utopai-studios-hyo-joo-yang-half-moon-ai-1236952730/"
+          },
+          {
+            "text": "AI Script-Analysis Start-Up Quilty Strikes Preferred-Look Deal With Giovanni Entertainment",
+            "url": "https://variety.com/2026/film/news/ai-script-quilty-preferred-look-deal-giovanni-entertainment-1236772175/"
+          },
+          {
+            "text": "Ron Howard Is Bullish on AI and Thinks Jim Henson Would Have Been Too",
+            "url": "https://www.hollywoodreporter.com/business/digital/ron-howard-ai-jim-henson-martin-scorsese-1236620457/"
+          },
+          {
+            "text": "Gore Verbinski Says We Need a 'Rating System' for AI Use in Films: 'If You Use AI to Write a Script, You Get an F'",
+            "url": "https://variety.com/2026/film/global/gore-verbinski-ai-taormina-1236780502/"
+          },
+          {
+            "text": "Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'",
+            "url": "https://www.aol.com/articles/emily-blunt-refused-steven-spielbergs-163209822.html"
+          },
+          {
+            "text": "Steven Spielberg reveals the one thing he'd change about his movie A.I Artificial Intelligence today",
+            "url": "https://www.imdb.com/news/ni65884328/"
+          },
+          {
+            "text": "A.I and Animation – A Call for Understanding",
+            "url": "https://www.skwigly.co.uk/a-i-and-animation-a-call-for-understanding/"
+          },
+          {
+            "text": "The future of Hollywood isn't feeding prompts into vanilla gen AI models, AI is so much more than that",
+            "url": "https://www.aivanet.com/2026/06/the-future-of-hollywood-isnt-feeding-prompts-into-vanilla-gen-ai-models/"
+          },
+          {
+            "text": "Asteria And LTX Form Strategic Partnership With Goal Of Advancing Cinematic AI Storytelling",
+            "url": "https://deadline.com/2026/06/asteria-ltx-form-strategic-partnership-cinematic-ai-1236955140/"
+          }
+        ]
+      },
+      {
+        "heading": "Games, Immersive & Interactive",
+        "tags": [
+          "Games",
+          "Immersive"
+        ],
+        "items": [
+          {
+            "text": "Once again players are right to suspect AI was used in a game, once again a dev apologizes for using AI in their game",
+            "url": "https://www.pcgamer.com/software/ai/once-again-players-are-right-to-suspect-ai-was-used-in-a-game-once-again-a-dev-apologizes-for-using-ai-in-their-game/"
+          },
+          {
+            "text": "More than 300 games released on Steam last week, and 120 of them had AI disclosures",
+            "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/"
+          },
+          {
+            "text": "Roblox just acquired three AI research teams to solve the specific technical problems blocking photorealistic multiplayer worlds - Morpheus AI, Dynamics Lab, Lucid AI",
+            "url": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision"
+          },
+          {
+            "text": "After the full-scale invasion of AI, the gaming industry is panicking.",
+            "url": "https://eu.36kr.com/en/p/3849938143329161"
+          },
+          {
+            "text": "Does That Space Marine Have an Extra Finger? Yes, but Games Workshop Insists It's Not AI",
+            "url": "https://x.com/IGNNordic/status/2064643123997786473"
+          },
+          {
+            "text": "Pokémon Go data trained AI that could assist military drones in war zones",
+            "url": "https://www.pcgamer.com/software/ai/pokemon-go-data-was-used-to-help-train-ai-systems-being-developed-for-military-drones/"
+          },
+          {
+            "text": "ClarityQ launches game-native AI analytics platform for mobile game studios",
+            "url": "https://www.clarityq.ai/"
+          },
+          {
+            "text": "Welevel unveils AI-based city-building survival game SolidRiver and $8.5M in funding | exclusive",
+            "url": "https://gamesbeat.com/welevel-unveils-ai-based-city-building-survival-game-solidriver-and-8-5m-in-funding/"
+          },
+          {
+            "text": "Niantic Spatial Denies Pokémon Go Data Is Being Shared With A Drone Company",
+            "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669"
+          }
+        ]
+      },
+      {
+        "heading": "Music & Sound",
+        "tags": [
+          "Music"
+        ],
+        "items": [
+          {
+            "text": "Legend Rick Rubin Is Hiring an AI Sensei for the Summer. (Apply here)",
+            "url": "https://events.ycombinator.com/qSAodVvxK"
+          },
+          {
+            "text": "Deezer launches an AI music detector for other streaming services",
+            "url": "https://www.engadget.com/2192024/deezer-ai-music-detector/"
+          },
+          {
+            "text": "Google Moves to Dismiss Artists' AI Lawsuit, Says They Consented 'To the Use of Their Recordings' When Uploading to YouTube",
+            "url": "https://www.digitalmusicnews.com/2026/06/10/youtube-ai-lawsuit-dismissal-motion/"
+          },
+          {
+            "text": "Lionel Richie Is Trademarking the Sound of His Voice: 'Hello, Is It Me You're Looking For?'",
+            "url": "https://www.billboard.com/pro/lionel-richie-is-trademarking-the-sound-of-his-voice/"
+          },
+          {
+            "text": "Warner Music Group Acquires AI Detection Company Sureel",
+            "url": "https://www.hollywoodreporter.com/music/music-industry-news/warner-music-group-buys-ai-detection-company-sureel-1236618266/"
+          },
+          {
+            "text": "Apple Music Gets a Huge Update in iOS 27 with Siri AI",
+            "url": "https://www.digitalmusicnews.com/2026/06/09/apple-music-gets-a-huge-update-in-ios-27-with-siri-ai/"
+          },
+          {
+            "text": "NMPA unveils AI licensing deals with Udio and Klay with 50/50 split for songs and recordings",
+            "url": "https://completemusicupdate.com/nmpa-unveils-ai-licensing-deals-with-udio-and-klay-with-50-50-split-for-songs-and-recordings/"
+          },
+          {
+            "text": "A fake AI album released in my name made me realise why the law needs to change",
+            "url": "https://www.songlines.co.uk/features/emily-portman-faces-ai-fake-albums-on-streaming-platforms"
+          },
+          {
+            "text": "AI-Cloned Vocals Fuel Late Minnesota Rapper Eyedea's New LP",
+            "url": "https://www.digitalmusicnews.com/2026/06/14/ai-cloned-vocals-fuel-late-minnesota-rapper-eyedeas-new-lp/"
+          },
+          {
+            "text": "AI hiring surges 'across all UK sectors', according to new findings from PwC, with a 34% salary premium for AI skills",
+            "url": "https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615"
+          },
+          {
+            "text": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 — leading to Anthropic suspending frontier AI tools",
+            "url": "https://www.anthropic.com/news/fable-mythos-access"
+          },
+          {
+            "text": "Pioneering UK Nerve Lab harnesses AI to map effect of children's screen time",
+            "url": "https://www.arts.ac.uk/about-ual/press-office/stories/animating-minds-ai-and-the-age-appropriate-impact-of-childrens-media"
+          },
+          {
+            "text": "A recent study by MediaScience and Adelaide University found that AI disclosure labels have minimal effect on key metrics such as brand recall and ad sentiment.",
+            "url": "https://www.marketingdive.com/news/ai-disclosure-labels-dont-hurt-ad-performance-heres-what-the-numbers-say/822711/"
+          },
+          {
+            "text": "N8N is doubling down on London, following other UK investment announcements in the last week including ElevenLabs, Lovable, Legora and Cursor",
+            "url": "https://blog.n8n.io/n8n-uk-international-expansion/"
+          },
+          {
+            "text": "Played By Humans is verifying 'human artistry in an AI age'",
+            "url": "https://musically.com/2026/06/11/played-by-humans-is-verifying-human-artistry-in-an-ai-age/"
+          },
+          {
+            "text": "AARON Signals 2026 Report Maps the Emerging Reality of AI Creativity",
+            "url": "https://roastbrief.us/aaron-signals-2026-report-maps-the-emerging-reality-of-ai-creativity/"
+          },
+          {
+            "text": "Fresh data from the Ramp AI Index shows the top 1 percent of firms now spend $7,500 per employee per month on AI",
+            "url": "https://ramp.com/data/ai-index-june-2026"
+          },
+          {
+            "text": "Anthropic is going to teach 1,000 fellows how to master Claude, match them with nonprofits across America",
+            "url": "https://www.anthropic.com/news/claude-corps"
+          },
+          {
+            "text": "TacticAI: Google's AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in advance.",
+            "url": "https://x.com/GoogleDeepMind/status/2065093482088169719"
+          },
+          {
+            "text": "UK Regulator Introduces \"World First\" Controls on the Use of Content in Google Generative AI Features",
+            "url": "https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai"
+          }
+        ]
+      }
+    ],
+    "tool_spotlight": [
+      {
+        "text": "ComfyUI utility passes — VFX artist @heydoughogan breaks down a ComfyUI workflow that generates production-ready utility passes directly from your footage. *(Video: Generate Production Ready utility passes with ComfyUI)*",
+        "url": "https://comfy.org/workflows/be0889296f65-be0889296f65/"
+      },
+      {
+        "text": "VEED Fabric 1.0 — Create hyper-realistic AI explainers and educational videos (up to 5 minutes) in seconds",
+        "url": "https://www.veed.io/ai/fabric-1-0"
+      },
+      {
+        "text": "NVIDIA SANA-Streaming — NVIDIA's new SANA-Streaming brings high-resolution, real-time video-to-video editing to consumer GPUs. *(Video: NVIDIA SANA streaming)*",
+        "url": "https://nvlabs.github.io/Sana/Streaming/"
+      },
+      {
+        "text": "ElevenLabs Avatars — ElevenLabs has launched Avatars in ElevenCreative. The best AI voices, now with a face. *(Video: Introducing Avatars — ElevenLabs)*",
+        "url": "https://elevenlabs.io/blog/introducing-avatars"
+      },
+      {
+        "text": "Pixelcut Video Background Remover — Pixelcut Video Background Remover is now live on fal. *(Video: Pixelcut Background Remover in FAL)*",
+        "url": "https://fal.ai/models/pixelcut/background-removal"
+      },
+      {
+        "text": "Wubble — Wubble empowers creators generate ethically created royalty-free music, AI voiceovers, and sound effects from prompts.",
+        "url": "https://wubble.ai/"
+      },
+      {
+        "text": "ComfyUI Face Swap — De-aging and Face Replacment Demo in ComfyUI *(Video: Learn How To: Face Swap — ComfyUI)*",
+        "url": "https://comfy.org/workflows/93f286fbc2c8-93f286fbc2c8/"
+      },
+      {
+        "text": "ComfyUI learning — Want to learn ComfyUI, one of the most in demand skills in top agencies - here's some great tutorials covering VFX pipelines *(Image: Featured Demos — comfyui learning)*",
+        "url": "https://www.actionvfx.com/blog/comfyui-for-vfx"
+      },
+      {
+        "text": "Tripo 8K Texture — Tripo 8K Texture applies 8192×8192 detail directly onto 3D models, preserving surface fidelity without upscaling. *(Image: Tripo 8K Textures)*",
+        "url": "https://www.tripo3d.ai/blog/tripo-8k-texture"
+      },
+      {
+        "text": "Runway in ChatGPT — Use Runway inside ChatGPT to generate and edit video and images. No tab-switching required. *(Image: Runway in ChatGPT)*",
+        "url": "https://runwayml.com/mcp"
+      },
+      {
+        "text": "Animotive Kimodo — Animotive Kimodo brings AI-powered text-to-animation directly into Unreal Engine. Now on the FAB Marketplace",
+        "url": "https://kimodo.animotive.com/"
+      },
+      {
+        "text": "MotionBricks (NVIDIA Research) — MotionBricks from NVIDIA Research runs real-time character animation at scale, without hand-crafted transitions or fine-tuning.",
+        "url": "https://nvlabs.github.io/motionbricks/"
+      },
+      {
+        "text": "ComfyUI + Seedance 2.0 — ComfyUI - Turn one idea into a complete storyboard, then animate it in Seedance 2.0 using a reference image.",
+        "url": "https://comfy.org/workflows/d124e24eca67-d124e24eca67/"
+      },
+      {
+        "text": "Higgsfield Games — Higgsfield has introduced Higgsfield Games, a new system that promises to create and deploy multiplayer games from a single prompt. *(Image: HiggsField Games)*",
+        "url": "https://higgsfield.ai/games-intro"
+      },
+      {
+        "text": "LTX2.3 Audio Reactive LoRA (fal) — New open-source LoRA built in-house: LTX2.3 Audio Reactive LoRA. Built for music-driven video generation *(Image: Fal's LTX2.3 Audio Reactive LoRA)*",
+        "url": "https://huggingface.co/fal/ltx2.3-audio-reactive-lora"
+      },
+      {
+        "text": "Orchestria — Orchestria - an AI music engine with granular stem control",
+        "url": "https://www.orchestria.tech/"
+      },
+      {
+        "text": "Roboflow RF-DETR — RF-DETR is a real-time transformer architecture for object detection and instance segmentation developed by Roboflow *(Image: Roboflow RF-DETR)*",
+        "url": "https://rfdetr.roboflow.com/"
+      },
+      {
+        "text": "Hyper3D Rodin Gen-2.5 — The world's first 10-million-polygon AI 3D model is here. Rodin Gen-2.5 generates 1 million polygons in 4 seconds and scales all the way up to 10M polygons with skin-level microstructure detail. *(Video: Introducing Hyper3D Rodin Gen-2.5 — Hyper3D Rodin)*",
+        "url": "https://hyper3d.ai/"
+      },
+      {
+        "text": "Dreamina Seedance 2.0 Mini — Meet Dreamina Seedance 2.0 Mini: Built for quality and speed, at lower cost. *(Image: Seedance Mini)*",
+        "url": "https://dreamina.capcut.com/seedance/seedance-2-0-mini"
+      },
+      {
+        "text": "Open Generative AI — Open-Source Alternative to AI Video Platforms",
+        "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+      }
+    ],
+    "all_urls": [],
+    "news_count": 39,
+    "spotlight_count": 20,
+    "path": "Dream Machine MD/34.md"
+  },
+  {
+    "issue": 35,
+    "title": "Dream Machine — Issue 35",
+    "date": "",
+    "sections": [
+      {
+        "heading": "Video, Film, TV, Broadcast & Animation",
+        "tags": [
+          "Animation",
+          "Film",
+          "TV"
+        ],
+        "items": [
+          {
+            "text": "\"It has no taste whatsoever. It is a f\\*\\*\\*\\* genius at helping you..........Like a billionaire on acid': Star Wars director Gareth Edwards comes out in favour of AI",
+            "url": "https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making"
+          },
+          {
+            "text": "Google Investing in 'Backrooms' Studio A24",
+            "url": "https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/"
+          },
+          {
+            "text": "'Apocalypse' History Series Turns To AI To Create Feel Of Archive Footage For Season Exploring Birth Of Roman Empire",
+            "url": "https://deadline.com/2026/06/apocalypse-history-series-ai-archive-footage-roman-empire-1236957231/"
+          },
+          {
+            "text": "As Hollywood leans into AI, the real battle is over likeness and who gets paid",
+            "url": "https://www.staradvertiser.com/2026/06/20/breaking-news/as-hollywood-leans-into-ai-the-real-battle-is-over-likeness-and-who-gets-paid/"
+          },
+          {
+            "text": "More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos",
+            "url": "https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/"
+          },
+          {
+            "text": "Fully AI-Generated Series 'Journey to the West' in Development by Utopai Studios and Huace",
+            "url": "https://variety.com/2026/tv/news/fully-ai-generated-journey-to-the-west-utopai-studios-huace-1236787171/"
+          },
+          {
+            "text": "South Korea's movie industry is embracing AI. Will K-film lose its magic?",
+            "url": "https://www.cnn.com/world/south-korea-film-industry-ai-hnk-spc"
+          },
+          {
+            "text": "MiniMax Launches All-in-One AI Video Generator Hub at Shanghai Film Festival: 'Creative Direction and Aesthetic Judgment Must Ultimately Be Left to Humans'",
+            "url": "https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/"
+          },
+          {
+            "text": "Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop",
+            "url": "https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/"
+          },
+          {
+            "text": "'Dreams of Violets' Review: What Does a Film Made Entirely with AI Look Like?",
+            "url": "https://variety.com/2026/film/reviews/dreams-of-violets-review-ash-koosha-tribeca-festival-1236784209/"
+          },
+          {
+            "text": "Did a 54-Year-Old Nonprofit Worker Just Use AI to Become the Next Charlie Kaufman?",
+            "url": "https://www.hollywoodreporter.com/movies/movie-features/ai-films-face-mother-love-robert-gaudette-runway-1236624039/"
+          },
+          {
+            "text": "Here's how we made a 1 minute sequence of \"The long road back\". An animation short-film we've done at Magnific Studios.",
+            "url": "https://magnific.ai/"
+          },
+          {
+            "text": "How the Shanghai Film Festival Is Embracing Cinema's Future: From AI to iPhone Moviemaking",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/shanghai-film-festival-cinema-future-ai-iphone-1236626463/"
+          },
+          {
+            "text": "Disney Imagineers add Adobe Firefly Foundry to toolkit of worldbuilding superpowers",
+            "url": "https://business.adobe.com/blog/disney-imagineers-add-adobe-firefly-foundry-to-toolkit"
+          }
+        ]
+      },
+      {
+        "heading": "Games, Immersive & Interactive",
+        "tags": [
+          "Games",
+          "Immersive"
+        ],
+        "items": [
+          {
+            "text": "Epic Games Shows How AI Fits Into Fortnite's Design Process",
+            "url": "https://www.brandinginasia.com/epic-games-shows-how-ai-fits-into-fortnites-design-process/"
+          },
+          {
+            "text": "Epic Games details how it's embracing generative AI in Unreal Engine",
+            "url": "https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/"
+          },
+          {
+            "text": "Rocky Horror coming to the Sphere, using 'advanced technologies' to enhance the 1975 Film into an Immersive Experience",
+            "url": "https://www.sphereentertainmentco.com/sphere-studios-announces-the-rocky-horror-picture-show-at-sphere/"
+          },
+          {
+            "text": "Odyssey has raised a $310M Series B to accelerate world models",
+            "url": "https://odyssey.ml/our-series-b"
+          },
+          {
+            "text": "Krafton launches beta for AI ally in new PUBG arcade mode",
+            "url": "https://gamesbeat.com/krafton-launches-beta-for-ai-ally-in-new-pubg-arcade-mode/"
+          },
+          {
+            "text": "Physics AI Slashes Engineering Simulation From Days to Seconds, PhysicsX Raises $300M",
+            "url": "https://www.techtimes.com/articles/318582/20260617/physics-ai-slashes-engineering-simulation-days-seconds-physicsx-raises-300m.htm"
+          },
+          {
+            "text": "Datalab - Museum of AI Art has officially opened in Los Angeles",
+            "url": "https://www.theartnewspaper.com/2026/06/18/refik-anadol-dataland-opens-los-angeles"
+          },
+          {
+            "text": "CD Projekt boss warns that games made solely by gen AI are already being made",
+            "url": "https://metro.co.uk/2026/06/22/cd-projekt-boss-warns-games-made-solely-gen-ai-already-made-28878296/"
+          }
+        ]
+      },
+      {
+        "heading": "Music & Sound",
+        "tags": [
+          "Music"
+        ],
+        "items": [
+          {
+            "text": "\"Used responsibly, AI can become one of the most powerful creative tools the music industry has ever seen.\" New Music Tech company 'Artist' has launched in LA, aiming to let artists re-record classic tracks using AI-assisted vocal technology.",
+            "url": "https://www.musicbusinessworldwide.com/boy-george-uses-ai-to-re-record-karma-chameleon-as-first-release-from-tech-startup-artist-included/"
+          },
+          {
+            "text": "A new generation of music-making algorithms is here",
+            "url": "https://www.economist.com/"
+          },
+          {
+            "text": "UMG UK's Rebecca Allen: 'We've got to pivot, we've got to adapt'",
+            "url": "https://musically.com/2026/06/19/umg-uks-rebecca-allen-weve-got-to-pivot-weve-got-to-adapt/"
+          },
+          {
+            "text": "Sony AI releases Woosh foundation model for sound effect generation | exclusive interview",
+            "url": "https://gamesbeat.com/sony-ai-releases-woosh-foundation-model-for-sound-effect-generation-exclusive-interview/"
+          },
+          {
+            "text": "Is AI seriously in mics now? Meet the PD500W, \"the world's first AI-powered hybrid microphone\"",
+            "url": "https://musictech.com/news/gear/maono-pd500w/"
+          },
+          {
+            "text": "Tech startup RTM Audio launches AI music detector UAI, which issues a signed certificate with every verdict",
+            "url": "https://www.musicbusinessworldwide.com/tech-startup-rtm-audio-launches-ai-music-detector-uai-which-issues-a-signed-certificate-with-every-verdict/"
+          },
+          {
+            "text": "Artists can now check whether their music has been used to train AI",
+            "url": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news"
+          },
+          {
+            "text": "The Unauthorized AI Remix Became a Global Hit, How This Label Dealt With It",
+            "url": "https://www.digitalmusicnews.com/2026/05/05/ai-stole-their-song-then-that-version-went-viral/"
+          },
+          {
+            "text": "Open letter: Musicians 'must not be pressured into AI deals' by rightsholders",
+            "url": "https://musically.com/2026/06/22/open-letter-musicians-must-not-be-pressured-into-ai-deals-by-rightsholders/"
+          },
+          {
+            "text": "Indian AI background music startup Tringbox raises seed funding",
+            "url": "https://musically.com/2026/06/19/indian-ai-background-music-startup-tringbox-raises-seed-funding/"
+          },
+          {
+            "text": "SZA hits out at 'disgusting' AI music after discovering her songs were used in AI training",
+            "url": "https://www.euronews.com/culture/2026/06/22/sza-hits-out-at-disgusting-ai-music-after-discovering-her-songs-were-used-in-ai-training"
+          },
+          {
+            "text": "Midjourney goes from generating cat images to full-body ultrasound scans",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan"
+          },
+          {
+            "text": "\"If we don't embrace AI, we'll be embraced by it\" – Ian Murray, UK Digital Minister | MinisterDCMS + DSIT - PODCAST",
+            "url": "https://www.uktech.news/podcast/if-we-dont-embrace-ai-well-be-embraced-by-it-ian-murray-digital-minister-20260616"
+          },
+          {
+            "text": "CoSTAR Emerge-AI is Open - Emerge-AI is for early-stage & SME creative tech startups and provides everything they need to turn their AI concept into a viable business.",
+            "url": "https://www.costarnetwork.co.uk/calls/emerge-AI"
+          },
+          {
+            "text": "Google Dethrones OpenAI As Agencies' Preferred AI Partner",
+            "url": "https://www.forrester.com/blogs/google-dethrones-openai-as-agencies-preferred-ai-partner/"
+          },
+          {
+            "text": "This startup is betting GIFs and 'micro memes' will be supercharged in the AI era. Read its pitch deck.",
+            "url": "https://www.businessinsider.com/meme-gif-startup-klipy-google-ai-fund-pitch-deck-2026-6"
+          },
+          {
+            "text": "OpenAI moves to automate ad creative",
+            "url": "https://digiday.com/marketing/openai-moves-to-automate-ad-creative/"
+          },
+          {
+            "text": "Brands using AI-generated influencers to promote products on social media",
+            "url": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media"
+          },
+          {
+            "text": "Adobe's glowing AI survey leaves out most of the creative industry",
+            "url": "https://appleinsider.com/articles/26/06/16/adobes-glowing-ai-survey-leaves-out-most-of-the-creative-industry"
+          },
+          {
+            "text": "TikTok bans AI-generated voices in shopping livestreams",
+            "url": "https://www.socialmediatoday.com/news/tiktok-bans-ai-generated-voices-in-shopping-livestreams/822977/"
+          },
+          {
+            "text": "How AI Is Dismantling the Attention Economy... and What Comes Next",
+            "url": "https://techbullion.com/how-ai-is-dismantling-the-attention-economy-and-what-comes-next/"
+          }
+        ]
+      }
+    ],
+    "tool_spotlight": [
+      {
+        "text": "Unreal Engine announces AI rendering integrations and an MCP (above)",
+        "url": "https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show"
+      },
+      {
+        "text": "New MetaHuman Animator Markerless Motion Capture Plugin is live on FAB",
+        "url": "https://www.fab.com/listings/4095b8e0-3eff-44f1-acb4-cb40b99228b9"
+      },
+      {
+        "text": "Seedance 2.5 has been officially announced (with up to 30 second generations), along with an updated Seedance 2.0 that is now in most aggregators.",
+        "url": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/"
+      },
+      {
+        "text": "New on the Runway API: Recipes. Drop production-ready generative media features into your platform with one API call.",
+        "url": "https://runwayml.com/api"
+      },
+      {
+        "text": "How to Convert Any Character Mesh into a MetaHuman",
+        "url": "https://www.youtube.com/watch?v=V3abZ1Tc52Y"
+      },
+      {
+        "text": "Session on integrating MCP into Unreal",
+        "url": "https://www.youtube.com/watch?v=F2cWJFcTft4"
+      },
+      {
+        "text": "Adobe Creative Agent and AI Assistant now in Beta across Premiere, Photoshop, Illustrator, InDesign and Frame io.",
+        "url": "https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion"
+      },
+      {
+        "text": "NVIDIA ACE Game Agent SDK and new Unreal Engine 5 plugins are now available to help developers build responsive, on-device AI companions.",
+        "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/"
+      },
+      {
+        "text": "Animoto Kimodo- Generate Unreal Engine Animations with AI.",
+        "url": "https://kimodo.animotive.com/"
+      },
+      {
+        "text": "ElevenLabs Ads Engine, localize your existing ads across 50+ languages and push the finished creatives back to your ad platform",
+        "url": "https://elevenlabs.io/ads-engine"
+      },
+      {
+        "text": "I reverse-engineered Dolby Atmos using Claude Fable 5 and made a TrueHD/DD+ encoder in Rust.",
+        "url": "https://github.com/raress96/dolby-atmos-encoder"
+      },
+      {
+        "text": "RF-DETR keypoints is out, state of the art tracking",
+        "url": "https://blog.roboflow.com/launch-rf-detr-keypoint-in-roboflow/"
+      },
+      {
+        "text": "FlexAvatar. 3D head avatar gen with partial supervision from a single image",
+        "url": "https://arxiv.org/abs/2512.15599"
+      },
+      {
+        "text": "NVIDIA XR AI Now Available in Public Beta",
+        "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/"
+      },
+      {
+        "text": "Here's how Google built the Infinite Scaler game showcased at I/O, using the Gemini API, Nano Banana, GoogleAIStudio, Antigravity and Lyria 3 game",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/"
+      },
+      {
+        "text": "Creator seungho__yeo ( IG ) has been architecting a workflow in Comfy that doesn't just generate images - it builds an entire visual universe.",
+        "url": "https://x.com/ComfyUI/status/2066611668994736503"
+      },
+      {
+        "text": "Creator seungho__yeo ( IG ) used Hyper POV + Seedance 2 to build a complete cinematic space traversal from one still frame",
+        "url": "https://x.com/ComfyUI/status/2067344067185590707"
+      },
+      {
+        "text": "A new version of LTX 2.3 LoRA Trainers is now live on fal. Train custom LoRAs across 23 trainer endpoints,",
+        "url": "https://fal.ai/models/fal-ai/ltx23-trainer-v2/t2v"
+      },
+      {
+        "text": "Advanced ComfyUI - Generative Video Production for VFX course.",
+        "url": "https://www.fxphd.com/fxblog/advanced-comfyui-generative-video-production-for-vfx/"
+      },
+      {
+        "text": "LooseControlVideo Directorial Video Control using Spatial Blocking",
+        "url": "https://arxiv.org/abs/2606.19495"
+      },
+      {
+        "text": "Screen to Style in Realtime. Share your screen, pick a style — claymation, oil painting, anime, ... — or type your own prompt, and watch it restyled live",
+        "url": "https://mirage.decart.ai/"
+      },
+      {
+        "text": "Meet Daydream: \"the first AI-native instrument for your DAW\".",
+        "url": "https://daydream.live/"
+      },
+      {
+        "text": "Introducing LiveAI by Musavir.AI. Let's you transform your video feed in real time",
+        "url": "https://www.linkedin.com/posts/arslan-j_introducing-liveai-by-musavirai-lets-you-activity-7475057949510512640-m-r0"
+      }
+    ],
+    "all_urls": [],
+    "news_count": 43,
+    "spotlight_count": 23,
+    "path": "Dream Machine MD/35.md"
+  },
+  {
+    "issue": 36,
+    "title": "Dream Machine — Issue 36",
+    "date": "",
+    "sections": [
+      {
+        "heading": "Video, Film, TV & Animation",
+        "tags": [
+          "Animation",
+          "Film",
+          "TV"
+        ],
+        "items": [
+          {
+            "text": "The Rise of ComfyUI: How One Guy's Side Project Took Over AI Image Generation",
+            "url": "https://xhinker.medium.com/the-rise-of-comfyui-how-one-guys-side-project-took-over-ai-image-generation-558dca64bfd7"
+          },
+          {
+            "text": "Adobe announced its intent to acquire Topaz Labs",
+            "url": "https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs"
+          },
+          {
+            "text": "Google is looking for the next wave of creatives across all mediums to join our 6-week residency with Google Flow",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-resident-filmmaker/"
+          },
+          {
+            "text": "Netflix says it will use AI, external to recreate the voice of the late Gene Wilder in a new reality TV series set in the world of Willy Wonka & the Chocolate Factory.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/gene-wilder-ai-voice-netflix-willy-wonka-competiton-show-rcna352440"
+          },
+          {
+            "text": "Nearly 1,000 actors, talent agents, parents and others have signed an open letter condemning contract clauses that require child actors to sign over their voices for AI",
+            "url": "https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/"
+          },
+          {
+            "text": "25 years ago, this scene from Steven Spielberg's 'A.I.' predicted the collapse of objective reality",
+            "url": "https://www.fastcompany.com/91565805/25-years-ago-this-scene-from-steven-spielbergs-a-i-predicted-the-collapse-of-objective-reality"
+          },
+          {
+            "text": "Vibe Directing? An AI Startup Run by Ex-Googlers Say Their New Model Can Make It Happen (Exclusive)",
+            "url": "https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/"
+          },
+          {
+            "text": "Runway announces strategic partnership with MIXI, one of Japan's largest gaming, sports and entertainment companies",
+            "url": "https://runwayml.com/news/runway-and-mixi-announce-strategic-partnership"
+          },
+          {
+            "text": "AI Video Startup Higgsfield Hits $500M Revenue, Eyes $5B Funding Round",
+            "url": "https://www.techtimes.com/articles/319394/20260630/ai-video-startup-higgsfield-hits-500m-revenue-eyes-5b-funding-round.htm"
+          },
+          {
+            "text": "Peppa Pig Contract Backlash Is The Latest Over the Use of AI in Entertainment",
+            "url": "https://www.yahoo.com/entertainment/tv/articles/peppa-pig-contract-backlash-latest-202306545.html"
+          },
+          {
+            "text": "PMG's hackathon at Cannes signals agencies' growing appetite for AI talent",
+            "url": "https://adage.com/technology/ai/aa-pmg-cannes-hackathon-agency-skilled-talent/"
+          },
+          {
+            "text": "Hollywood Workers Are Training AI Models as Job Prospects Grow Slim",
+            "url": "https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/"
+          },
+          {
+            "text": "'Sheep in the Box': Neon Drops First Trailer for Hirokazu Koreeda's AI Family Drama",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/sheep-in-the-box-neon-trailer-hirokazu-koreeda-ai-drama-1236629132/"
+          },
+          {
+            "text": "Animation's AI Reckoning: Filmmakers Say They Can Better Make Movies for 90% Less",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less"
+          },
+          {
+            "text": "A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google",
+            "url": "https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google"
+          },
+          {
+            "text": "Cate Blanchett, Steven Soderbergh, Nikki Hexum on How the Human Consent Registry Helps People Protect Their Identity From AI Theft: It's a 'Human Right'",
+            "url": "https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/"
+          }
+        ]
+      },
+      {
+        "heading": "Games, Immersive & Interactive",
+        "tags": [
+          "Games",
+          "Immersive"
+        ],
+        "items": [
+          {
+            "text": "Epic Games CEO Criticizes Valve's AI Disclosure Policy for Steam - arguing access to AI tools is essential for smaller studios survival in the competitive landscape",
+            "url": "https://80.lv/articles/epic-ceo-criticizes-valve-s-ai-disclosure-policy-for-steam"
+          },
+          {
+            "text": "EA: AI is delivering \"faster prototyping\" and a \"real rise in creativity\" in its studios",
+            "url": "https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/"
+          },
+          {
+            "text": "181,000 mobile games released in last 6 months - AI and vibe coding have unleashed a flood of new games, but not necessarily better ones",
+            "url": "https://www.digitaltrends.com/gaming/ai-and-vibe-coding-are-making-more-games-but-not-necessarily-better-ones/"
+          },
+          {
+            "text": "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay + General Intuition's $2.3B bet that video games can train AI agents for the real world",
+            "url": "https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/"
+          },
+          {
+            "text": "Open source game engine Godot will no longer accept AI-authored code contributions",
+            "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
+          },
+          {
+            "text": "Tech firms are blaming AI for mega device and console price rises",
+            "url": "https://www.myjoyonline.com/tech-firms-are-blaming-ai-for-mega-device-and-console-price-rises/"
+          },
+          {
+            "text": "Savvy Games Group partners with Genvid and Massive Studios to expand AI access for Saudi developers",
+            "url": "https://www.pocketgamer.biz/savvy-games-group-partners-with-genvid-and-massive-studios-to-expands-ai-access-for-saudi-game-developers/"
+          }
+        ]
+      },
+      {
+        "heading": "Music & Sound",
+        "tags": [
+          "Music"
+        ],
+        "items": [
+          {
+            "text": "YouTube's AI Training Argument Raises Alarm Among Indie Music Advocates: 'Not Informed Consent'",
+            "url": "https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/"
+          },
+          {
+            "text": "Suno is launching Spark, a new incubator program designed to support the next generation of creators.",
+            "url": "https://suno.com/blog/introducing-spark"
+          },
+          {
+            "text": "ElevenLabs partners with Google Deepmind - Detecting audio generated by ElevenLabs with SynthID",
+            "url": "https://elevenlabs.io/blog/synthid"
+          },
+          {
+            "text": "Spotify seeking to grow ad business via AI ad voice-overs and automation",
+            "url": "https://musically.com/2026/06/24/spotify-seeking-to-grow-ad-business-via-ai-ad-voice-overs-and-automation/"
+          },
+          {
+            "text": "Deezer Leapfrogs Spotify With 'Remix Lab'—With No AI Use",
+            "url": "https://www.digitalmusicnews.com/2026/06/24/deezer-leapfrogs-spotify-remix-lab/"
+          },
+          {
+            "text": "Tidal allows AI-generated music – but it won't earn royalties",
+            "url": "https://musically.com/2026/06/30/tidal-allows-ai-generated-music-but-it-wont-earn-royalties/"
+          },
+          {
+            "text": "Is your track in the datasets that are being used to train AI? The Atlantic unveils a way you can find out",
+            "url": "https://www.musicradar.com/music-tech/is-your-track-in-the-datasets-that-are-being-used-to-train-ai-the-atlantic-unveils-a-way-you-can-find-out"
+          },
+          {
+            "text": "AI background music startup Tringbox is also working with live venues",
+            "url": "https://musically.com/2026/06/23/ai-background-music-startup-tringbox-is-also-working-with-live-venues/"
+          },
+          {
+            "text": "Traxsource to introduce labels to identify both human-made and AI-assisted music",
+            "url": "https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/"
+          },
+          {
+            "text": "Google Doubles Down on 'Fair Use' AI Training, Stressing That 'Outputs' Not 'Inputs' Are Where Enforcement Should Be Focusing",
+            "url": "https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/"
+          },
+          {
+            "text": "Backstreet Boys Look to Decommission AI Deepfakes by Trademarking Their Voices — Joining Taylor Swift, Lionel Richie, and Others",
+            "url": "https://www.digitalmusicnews.com/2026/06/26/backstreet-boys-trademark/"
+          },
+          {
+            "text": "Madonna Calls AI 'the Complete Opposite of Making Art' While Advocating for a Completely Different Creative Process",
+            "url": "https://www.digitalmusicnews.com/2026/06/28/madonna-ai-algorithm-commentary/"
+          },
+          {
+            "text": "TikTok launches Agentic Hub - a central location for third-party artificial intelligence ad tools, and is directly integrated with the platform's MCP server",
+            "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/"
+          },
+          {
+            "text": "YouTube Content Creators Are Winning the AI Search Game, Jellyfish Data Finds",
+            "url": "https://www.adweek.com/media/youtube-content-creators-are-winning-the-ai-search-game-jellyfish-data-finds/"
+          },
+          {
+            "text": "What Cannes Lions 2026 Revealed About the Future of Marketing in the AI Era - conversation, collaboration, and real-world connection.",
+            "url": "https://www.inc.com/kamya-marwah/what-cannes-lions-2026-revealed-about-the-future-of-marketing-in-the-ai-era/91366195"
+          },
+          {
+            "text": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency",
+            "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/adobe-introduces-firefly-foundry-to-support-custom-ai-models-for-enterprise-brand-consistency/"
+          },
+          {
+            "text": "Facebook rolls out an AI companion app for creators",
+            "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
+          },
+          {
+            "text": "Top CFOs warn AI success depends on training employees, not just buying technology",
+            "url": "https://fortune.com/2026/06/25/cfo-hpe-prologis-smucker-moodys-ai-success-training-employees/"
+          },
+          {
+            "text": "'We can fix the internet ...' says World Wide Web inventor Tim Berners-Lee",
+            "url": "https://www.businesstoday.in/technology/news/story/we-can-fix-the-internet-says-world-wide-web-inventor-tim-berners-lee-538947-2026-06-24"
+          },
+          {
+            "text": "YouTube adds AI-powered comment filtering",
+            "url": "https://www.socialmediatoday.com/news/youtube-adds-ai-powered-comment-filtering/823939/"
+          },
+          {
+            "text": "Lenovo launches kid-friendly AI phone with no games, GPS tracking & parental controls",
+            "url": "https://www.gizmochina.com/2026/06/30/lenovo-ai-student-phone-launched-specs-price/"
+          }
+        ]
+      }
+    ],
+    "tool_spotlight": [
+      {
+        "text": "Comfy MCP — Comfy MCP in public beta, the first MCP built for production pipelines",
+        "url": "https://comfy.org/mcp/"
+      },
+      {
+        "text": "Runway — New in Runway, you can now localize ads.",
+        "url": "https://runwayml.com/news/introducing-agent-2"
+      },
+      {
+        "text": "Krea 2 — Krea 2 is back with open weights, including a model for inference and one for training",
+        "url": "https://www.krea.ai/krea-2-open-source"
+      },
+      {
+        "text": "Nano Banana 2 Lite (Gemini 3.1 Flash-Lite) — Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/"
+      },
+      {
+        "text": "Gemini Omni Flash — Google also released Gemini Omni Flash: to generate and edit high-quality videos via the Gemini API or in Google AI Studio (and also in ComfyUI etc)",
+        "url": "https://ai.google.dev/gemini-api/docs/omni"
+      },
+      {
+        "text": "NVIDIA Metropolis Blueprint (VSS 3) — NVIDIA Metropolis Blueprint for video search and summarization (VSS) 3 is here. Now your coding agent can analyze massive live streams and libraries of videos with a simple natural language prompt..",
+        "url": "https://forums.developer.nvidia.com/t/now-ga-nvidia-vss-blueprint-version-3/374409"
+      },
+      {
+        "text": "Lyria 3 — Google's Gemini Launches New AI Music Model, Lyria 3",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
+      },
+      {
+        "text": "supervision — supervision just hit 40,000 GitHub stars, it powers over 6.5k open-source computer vision projects,",
+        "url": "https://github.com/roboflow/supervision"
+      },
+      {
+        "text": "Seedance 2.0 Mini — Seedance 2.0 Mini is now available in ComfyUI.",
+        "url": "https://blog.comfy.org/p/seedance-20-mini-and-4k-is-now-available"
+      },
+      {
+        "text": "Magnific Plugin — Magnific Plugin inside Premiere Pro, After Effects, DaVinci Resolve, and Final Cut Pro",
+        "url": "https://www.magnific.com/plugins"
+      },
+      {
+        "text": "Higgsfield MCP — Claude can now generate audio via Higgsfield MCP.",
+        "url": "https://higgsfield.ai/mcp"
+      },
+      {
+        "text": "Claude Sonnet 5 — Claude Sonnet 5 is out- stronger agentic capabilities, lower pricing, and improved safety,",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5"
+      },
+      {
+        "text": "Face Anything — Face Anything: 4D Face Reconstruction from Any Image Sequence",
+        "url": "https://kocasariumut.github.io/FaceAnything/"
+      },
+      {
+        "text": "Supersplat — collision/proxy mesh generation in Supersplat, It uses splat-transform under the hood to generate meshes exportable to GLB",
+        "url": "https://blog.playcanvas.com/new-in-supersplat-software-attribution-collision-generation-and-histogram/"
+      },
+      {
+        "text": "ComfyUI custom node — a ComfyUI custom node to generate a 3D motion reference with Three.js",
+        "url": "https://github.com/lo-th/Comfyui_three_js"
+      },
+      {
+        "text": "NVidia Tao Skills Bank — Portable agent skills for training, evaluating, and running inference on NVIDIA TAO models.",
+        "url": "https://github.com/NVIDIA-TAO/tao-skill-bank"
+      },
+      {
+        "text": "Open Source Face Recognition SDK",
+        "url": "https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK"
+      },
+      {
+        "text": "Grok Voice Agent Builder — a no-code platform to create human-like voice agents with Grok Voice.",
+        "url": "https://x.ai/news/grok-voice-agent-builder"
+      }
+    ],
+    "all_urls": [],
+    "news_count": 44,
+    "spotlight_count": 18,
+    "path": "Dream Machine MD/36.md"
   }
 ]

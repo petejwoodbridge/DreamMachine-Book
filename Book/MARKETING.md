@@ -86,7 +86,7 @@ The argument the book has been building toward, across each chapter, is that **w
 
 **Pete Woodbridge** is a creative technologist and the founder of **DreamLab AI Collective**, a ~50-person creative studio based in the North West of England working across film, games, immersive and AI-augmented production. The studio has been a closed-beta partner for World Labs' Marble since October 2025, has senior team carrying Emmy and BAFTA credits, and works with clients across the UK and internationally.
 
-Through the period this book covers, Woodbridge wrote the *Dream Machine* newsletter — thirty-two weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives. The newsletter became the field's reference record of the AI transition in the creative industries.
+Through the period this book covers, Woodbridge wrote the *Dream Machine* newsletter — thirty-six weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives. The newsletter became the field's reference record of the AI transition in the creative industries.
 
 Woodbridge holds twenty years of experience in virtual production, immersive, experiential and R&D media. He speaks regularly at industry conferences in the UK, Europe and the US, and his analytical frameworks — the Human–AI Agency Continuum, the Slop Ceiling, the Four Positions, the Year of the Orchestrator, the Four Principles of a humane creative economy — have moved into wider industry use through the period the book documents.
 
@@ -94,7 +94,7 @@ He lives and works in the North West of England.
 
 ## Author bio (short, 50 words)
 
-**Pete Woodbridge** is a creative technologist and founder of DreamLab AI Collective, a UK-based AI-augmented creative studio. He writes the *Dream Machine* newsletter — thirty-two weekly issues read by working creatives across film, music, games, advertising and broadcast — and has spent twenty years in virtual production, immersive and experiential media.
+**Pete Woodbridge** is a creative technologist and founder of DreamLab AI Collective, a UK-based AI-augmented creative studio. He writes the *Dream Machine* newsletter — thirty-six weekly issues read by working creatives across film, music, games, advertising and broadcast — and has spent twenty years in virtual production, immersive and experiential media.
 
 ---
 

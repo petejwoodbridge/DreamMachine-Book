@@ -24,7 +24,8 @@ Each rebuild of the book ships as its own dated PDF, so earlier editions stay re
 
 | Edition | Newsletter span | PDF |
 |---|---|---|
-| **4 June 2026** *(current)* | Issues 1–32 | [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf) |
+| **7 July 2026** *(current)* | Issues 1–36 | [Dream_Machine_2026-07-07.pdf](Book/build/Dream_Machine_2026-07-07.pdf) |
+| 4 June 2026 | Issues 1–32 | [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf) |
 | 21 May 2026 | Issues 1–30 | [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf) |
 | 14 May 2026 | Issues 1–29 | [Dream_Machine_2026-05-14.pdf](Book/build/Dream_Machine_2026-05-14.pdf) |
 
@@ -38,7 +39,7 @@ If you've read it once, the version you read next month will be different — so
 
 ## Where the book comes from
 
-- **[Dream Machine newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/)** — the weekly LinkedIn newsletter that the book is built out of, with ~3,800 subscribers and 32 published editions.
+- **[Dream Machine newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/)** — the weekly LinkedIn newsletter that the book is built out of, with ~3,800 subscribers and 36 published editions.
 - **[Dream Machine podcast](https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk?si=0566baf9826242c0)** — long-form conversations on the same material.
 - **[DreamLab AI Collective](https://dreamlab.org.uk/)** — the ~50-person deep-tech studio in the North West of England where the work is done.
 
@@ -62,7 +63,7 @@ The book has a [Reader Paths](Book/00a_Reader_Paths.md) guide with seven differe
 
 ## What's in it
 
-**~240,000 words, ~580 pages.** Foreword, seventeen chapters, an Epilogue, and twelve deep-dive appendices.
+**~265,000 words, ~650 pages.** Foreword, seventeen chapters, an Epilogue, and thirteen deep-dive appendices.
 
 ### The argument in one paragraph
 
@@ -110,7 +111,7 @@ Creative work is being re-platformed inside a twelve-month window. This is not t
 
 ### Appendices
 
-Twelve deep-dive appendices that extend the book's core arguments with longer-form evidence and analysis.
+Thirteen deep-dive appendices that extend the book's core arguments with longer-form evidence and analysis.
 
 | | Title | What it adds |
 |---|---|---|
@@ -121,11 +122,12 @@ Twelve deep-dive appendices that extend the book's core arguments with longer-fo
 | E | [Dynamics of Generative AI Adoption](Book/A5_Deep_Dive_Adoption_Dynamics.md) | The consumption-gap evidence base |
 | F | [AI, Stigma, Privilege, Democratisation](Book/A6_Deep_Dive_AI_Stigma.md) | The class question: who AI actually democratises, and for whom |
 | G | [The Age of Intent](Book/A7_Deep_Dive_AI_Intent.md) | The philosophical spine: what authorship means when execution is automated |
-| H | [The Dream Machine Source Index](Book/A8_Source_Index.md) | Thematic catalogue of every significant source across all 32 issues |
+| H | [The Dream Machine Source Index](Book/A8_Source_Index.md) | Thematic catalogue of every significant source across all 36 issues |
 | I | [The Doomer Mistake](Book/A9_Deep_Dive_Doomer_Mistake.md) | Long-form rebuttal of the AI-eliminates-creative-jobs framing, from the Stanford Digital Economy Lab data through Brynjolfsson, Acemoglu, and 230 years of identical wrong predictions |
 | J | [The Process Trap](Book/A10_Deep_Dive_Process_Trap.md) | Why the *creative* / *creatives* equivocation collapses under generative abundance, and what that means for how studios and guilds defend creative work |
 | K | [Coordination Collapse (extended)](Book/A11_Deep_Dive_Coordination_Collapse.md) | The 2,000-year history of hierarchy as an information-routing protocol; the jagged frontier; three competing post-hierarchical models; a 90-day implementation roadmap |
 | L | [The Programmable Brand](Book/A12_Deep_Dive_Programmable_Brand.md) | From IP-as-asset to IP-as-environment: the three-Cs framework (consent, credit, compensation), five licensing-model comparison, Coase / Williamson / Barney economic foundations |
+| M | [The World Cup Storyworld](Book/A13_Deep_Dive_World_Cup.md) | The 2026 FIFA World Cup as the largest live AI deployment in entertainment history — digital-twin officiating, the Roblox second venue, the creator flywheel, synthetic rights, and the storyworld template |
 
 ---
 
@@ -135,7 +137,7 @@ Twelve deep-dive appendices that extend the book's core arguments with longer-fo
 Book/
 ├── 00_Foreword.md ... 18_Epilogue.md     # Foreword, 17 chapters + epilogue
 ├── 00a_Reader_Paths.md                   # Seven routes through the material
-├── A1_…md ... A12_…md                    # 12 deep-dive appendices
+├── A1_…md ... A13_…md                    # 13 deep-dive appendices
 ├── Z1_About.md                           # About the author
 ├── assets/
 │   ├── cover.png, back_cover.png         # Cover art
@@ -146,7 +148,7 @@ Book/
 ├── build_book.py                         # The build pipeline
 └── watch_book.py                         # Auto-rebuild on file change
 
-Dream Machine MD/                         # Newsletter issue archives (Issues 1–32)
+Dream Machine MD/                         # Newsletter issue archives (Issues 1–36)
 Dream Machine PDFs/                       # Newsletter PDF archives
 Deep Dive MD/                             # Deep-dive research source material
 ```
@@ -177,7 +179,7 @@ python Book/watch_book.py
 
 ## Reading the book without building it
 
-If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf)) or any prior edition from the table above.
+If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-07-07.pdf](Book/build/Dream_Machine_2026-07-07.pdf)) or any prior edition from the table above.
 
 ## The companion website
 

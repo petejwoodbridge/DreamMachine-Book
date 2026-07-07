@@ -107,6 +107,11 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - Reuters, *"European lawmakers seek EU-wide minimum age to access AI chatbots."* <https://www.reuters.com/legal/litigation/european-lawmakers-seek-eu-wide-minimum-age-access-ai-chatbots-social-media-2025-11-26/>
 - *The Verge*, *"New York's new law forces advertisers to say when they're using AI avatars."* <https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor>
 - *Digital Music News*, *"Nearly 800 Creatives Sign Responsible AI Declaration — 'Stealing Our Work Is Not Innovation'."* <https://www.digitalmusicnews.com/2026/01/22/stealing-isnt-innovation/>
+- *Complete Music Update*, *"US musicians' union sues Universal and Warner over AI deals, claims breach of 'new use' clause in record industry's performer agreement."* <https://completemusicupdate.com/us-musicians-union-sues-universal-and-warner-over-ai-deals-claims-breach-of-new-use-clause-in-record-industrys-performer-agreement/>
+- *Complete Music Update*, *"NMPA unveils AI licensing deals with Udio and Klay with 50/50 split for songs and recordings."* <https://completemusicupdate.com/nmpa-unveils-ai-licensing-deals-with-udio-and-klay-with-50-50-split-for-songs-and-recordings/>
+- *Digital Music News*, *"Google Doubles Down on 'Fair Use' AI Training, Stressing That 'Outputs' Not 'Inputs' Are Where Enforcement Should Be Focusing."* <https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/>
+- *Digital Music News*, *"Federal Judge Vacates Order Sealing Udio's Training Data."* <https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/>
+- Variety, *"More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos."* <https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/>
 
 ## VI. Studio strategy
 
@@ -138,6 +143,11 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Cartoon Brew*, *"Former Disney Animator: Marvel layoffs point to a bigger AI shift."* <https://www.cartoonbrew.com/artist-rights/former-disney-animator-marvel-layoffs-ai-shift-260601.html>
 - *Hollywood Reporter*, *"Bobby Berk: AI will make reality TV and 'verifiably human content' more valuable."* <https://www.hollywoodreporter.com/tv/tv-news/bobby-berk-ai-reality-tv-1236592920/>
 - *PC Gamer*, *"Take-Two's CEO: AI 'datasets by their very nature are backward looking'."* <https://www.pcgamer.com/games/take-two-ceo-ai-not-making-hits-backward-looking/>
+- Runway, *"Runway and Lionsgate Expand Partnership"* — Lionsgate takes an equity stake in Runway. <https://runwayml.com/news/runway-and-lionsgate-expand-partnership>
+- *Deadline*, *"Lionsgate's Michael Burns Says AI Will Save The Company 'Tens And Tens Of Millions Of Dollars A Year'."* <https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/>
+- *The Hollywood Reporter*, *"Google Investing in 'Backrooms' Studio A24."* <https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/>
+- *Futurism*, *"A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google."* <https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google>
+- *Bloomberg*, *"Animation's AI Reckoning: Filmmakers Say They Can Better Make Movies for 90% Less."* <https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less>
 
 ## VII. World models and the new medium
 
@@ -215,6 +225,10 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Amazon*, *"Alexa+ debuts feature to create AI-generated podcasts."* <https://www.aboutamazon.com/news/devices/alexa-plus-ai-podcasts>
 - ECABridge, *"Unreal Engine MCP integration."* <https://ecabridge.dev/>
 - *Video Games Chronicle*, *"Epic Games Veteran on AI-Heavy 'Fully European' Game Engine."* <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>
+- Andrew Zhu (xhinker), *Medium*, *"The Rise of ComfyUI: How One Guy's Side Project Took Over AI Image Generation"* — 4M users, 89,000+ GitHub stars, 60,000+ community nodes, $500m valuation. <https://xhinker.medium.com/the-rise-of-comfyui-how-one-guys-side-project-took-over-ai-image-generation-558dca64bfd7>
+- Comfy Org, *"Comfy MCP"* — public-beta Model Context Protocol server for production creative pipelines. <https://comfy.org/mcp/>
+- Adobe, *"Adobe announces its intent to acquire Topaz Labs."* <https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs>
+- Unreal Engine, *"State of Unreal 2026: Top News From the Show"* — AI rendering integrations and Unreal MCP. <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>
 
 ## IX. Authenticity, provenance and disclosure
 
@@ -234,6 +248,7 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Bloomberg*, *"Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'."* <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>
 - Snap Newsroom, *"Snapchat Gen Z AI Creativity Research 2026 — 31% of 13–15 year-olds use AI to be creative."* <https://newsroom.snap.com/snapchat-gen-z-ai-creativity-research-2026>
 - YouGov AU, *"45% of Australians say AI-generated ads would make them trust a brand less."* <https://yougov.com.au/topics/consumer/articles-reports/2026/05/19/45-percent-australians-ai-generated-ads-trust-brand-less>
+- *Variety*, *"Cate Blanchett, Steven Soderbergh, Nikki Hexum on How the Human Consent Registry Helps People Protect Their Identity From AI Theft: It's a 'Human Right'."* <https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/>
 
 ## X. Labour, organisation and the new geography
 
@@ -251,6 +266,9 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - CNBC Africa, *"How AI is changing the landscape of the music industry in Africa."* <https://www.cnbcafrica.com/2025/how-ai-is-changing-the-landscape-of-the-music-industry-in-africa>
 - BBC Future, *"Lights, camera, algorithm: Why Indian cinema is awash with AI."* <https://www.bbc.co.uk/future/article/20251223-why-indian-cinema-is-awash-with-ai>
 - *Broadcast Pro Middle East*, *"Tunisian filmmaker wins $1 million AI Film Award for 'Lily'."* <https://www.broadcastprome.com/news/tunisian-filmmaker-wins-1-million-ai-film-award-for-lily/>
+- UKTN, *"AI hiring surges 'across all UK sectors', according to new findings from PwC, with a 34% salary premium for AI skills."* <https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615>
+- *The Hollywood Reporter*, *"Hollywood Workers Are Training AI Models as Job Prospects Grow Slim."* <https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/>
+- Ramp, *"Ramp AI Index, June 2026"* — top 1% of firms now spend $7,500 per employee per month on AI. <https://ramp.com/data/ai-index-june-2026>
 
 ## XI. The literacy turn — institutions and education
 
@@ -259,9 +277,25 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - McKinsey & Company, *"What AI could mean for film and TV production."* <https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future>
 - UK Government, *"Free AI training for all."* <https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030>
 - University of Wisconsin-Stout, *"AI Reshaping Industry: AI-use as Baseline Competency in Filmmaking."* <https://www.uwstout.edu/about-us/news-center/ai-reshaping-industry-new-uw-stout-course-sets-ai-use-baseline-competency-filmmaking>
+- UK Government (DSIT/DCMS), *"AI Adoption Plan: Creative Industries."* <https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries>
+
+## XI.a Live sport and the World Cup deployment
+
+*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the primary sources behind Appendix M and the Issue 34 Editor's Pick.*
+
+- FIFA Football Technology, *"FIFA and Lenovo unveil multiple AI-powered innovations ahead of FIFA World Cup 2026™"* — one-second player scans, semi-automated offside, Football AI Pro, AI-generated personalised highlights. <https://football-technology.fifa.com/organisation/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026>
+- *AI Magazine*, *"How AI Will Power the 2026 FIFA World Cup."* <https://aimagazine.com/news/how-ai-will-power-the-2026-fifa-world-cup>
+- Lenovo StoryHub, *"Lenovo Technology Powers FIFA World Cup 2026™ Operations and Strengthens AI-Driven Broadcast."* <https://news.lenovo.com/pressroom/press-releases/lenovo-technology-powers-fifa-world-cup-2026-operations-and-strengthens-ai-driven-broadcast/>
+- *GamesBeat*, *"FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer and Roblox"* — 1.1bn+ visits, 1.5M gameplay sessions a day. <https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/>
+- Social Media Today, *"TikTok introduces 2026 FIFA World Cup creator correspondents."* <https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/>
+- Global Brands Magazine, *"FIFA World Cup 2026: Inside the Biggest Brand Marketing Race"* — WARC's projected $10.5bn in incremental Q2 ad spend. <https://www.globalbrandsmagazine.com/fifa-world-cup-2026-marketing/>
+- Mercia AI, *"How AI Will Shape the 2026 World Cup"* — the fan-made content flood; 4,300+ fake FIFA websites before kick-off. <https://www.merciaai.com/post/how-ai-will-shape-the-2026-world-cup>
+- Google DeepMind, *"TacticAI — AI system simulating field scenarios and predicting open play up to 8 seconds in advance."* <https://x.com/GoogleDeepMind/status/2065093482088169719>
+- IBM / Red Hat, *"Serving faster innovation: how open source is supporting AI-powered fan experiences at Wimbledon."* <https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon>
+- SportsLawHub, *"Athlete Image Rights in the AI era: protection and legal challenges"* — biometric digital twins and "synthetic rights" clauses. <https://www.sportslawhub.com/athlete-image-rights-ai-deepfakes>
 
 ## XII. Newsletters and primary corpus
 
-- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–32 (6 October 2025 – 4 June 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
+- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–36 (6 October 2025 – 2 July 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
 - DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>
 - DreamLab Substack, "Some Predictions on Creative AI for 2026" — *Dream Machine* Issue 13 companion piece. <https://substack.com/home/post/p-183997149>

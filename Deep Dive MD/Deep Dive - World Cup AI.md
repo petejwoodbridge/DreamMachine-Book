@@ -1,0 +1,145 @@
+# How the 2026 World Cup is to became the largest live deployment of artificial intelligence in entertainment history
+
+*Dream Machine | Creative AI — Deep Dive*
+
+**Pete Woodbridge** — Innovation Director | AI & Realtime Systems | Creative Infrastructure | Future Production
+
+*June 12, 2026*
+
+---
+
+Before any of the 1,248 players at this World Cup kicks a ball, they stand still for one second.
+
+That's all the scanner needs to render a photorealistic 3D avatar of every limb — a digital twin that will spend the next month adjudicating offsides, driving broadcast replays and feeding the most ambitious live deployment of artificial intelligence in entertainment history [1][2].
+
+The tournament that opened at the Estadio Azteca this week is nominally a football competition: 48 teams, 104 matches, sixteen cities across three countries, six billion people watching [3][4]. In practice, it's a planetary-scale stress test of the full AI stack — computer vision, generative models, digital twins, real-time personalisation — run live, with no second take. FIFA, with Lenovo as official technology partner, unveiled the lot at the Sphere in Las Vegas in January [1]. The venue was the tell. This is not a sports story with a technology subplot; it is a technology story wearing shin pads.
+
+Start with officiating.
+
+The Adidas Trionda match ball carries a 500Hz motion sensor in its core — five hundred snapshots per second of spin, velocity and contact — registering the precise instant of every touch [5]. Pair that "kick point" with the scanned avatars, tracked across twenty-nine body points by stadium camera arrays, and semi-automated offside stops being an argument about frozen frames and disputed armpits [5][6]. Decisions arrive in seconds rather than minutes and broadcast as 3D animations from any angle the director fancies [1][2]. AI-stabilised Referee View cameras put viewers at the centre of the pitch with the officials, and for the first time at a World Cup the VAR monitor footage plays live on stadium screens during reviews — transparency as spectacle [1][7]. The logic is sound: if fans are going to argue about the decision anyway, let them argue with the same evidence the referee saw. The system doesn't replace the referee's judgement; it replaces the referee's eyesight, then shows everyone what it saw.
+
+The quietly radical release is Football AI Pro, a generative tactical assistant built on FIFA's bespoke Football Language model with Lenovo's infrastructure, issued to all 48 teams on identical terms [1][2]. Coaches query it in natural language, in multiple languages — opponent tendencies, pressing patterns, fatigue markers, penalty habits — and it chews through hundreds of millions of data points per match, returning answers as text, clips, graphs and 3D visualisations [2][8]. Analysis that once took a back-room army days now takes hours, from penalty shoot-out preparation to injury-risk forecasting [9].
+
+FIFA frames this as democratisation: elite analytics, once the preserve of wealthy federations, handed to every qualifier alike — a small footballing nation drawn against a giant now arrives with the same machine intelligence in its corner [3][10]. Whether levelling the data playing field actually levels the pitch is one of the genuinely open experiments of the next five weeks; talent remains unevenly distributed in ways no language model can fix. And note the telling design decision: the assistant is locked during live play [2]. The machine prepares; the human decides. For now, the dugout remains a model-free zone.
+
+The broadcast layer is where the infrastructure shows its teeth. Lenovo's near-real-time AI platform handles ultra-low-latency IPTV distribution alongside traditional satellite — sub-five-second delays at planetary scale — feeding intelligent content delivery from the International Broadcast Centre in Dallas [3][5]. The scanned avatars do double duty here: the same 3D models that adjudicate offsides drive broadcast recreations of goals, fouls and tactical patterns from angles no physical camera occupies [1][2]. The match as captured and the match as rendered are beginning to blur, and an audience raised on game engines barely registers the seam. Beneath it all sits the sleeper story: hyper-accurate digital twins of all sixteen stadiums, ingesting live crowd-flow, security and systems data, letting operators spot a bottleneck at an Atlanta gate before it forms [5]. Operational AI nobody at home will ever see — and without which an event of this size, spread across three sovereign borders, is probably not stageable at all.
+
+And generative AI is doing more here than answering coaches' questions — it is making the pictures and the sound. The player avatars themselves are built with advanced generative AI, photoreal models constructed from one-second scans and deployed into live broadcast animation [10]. FIFA's personalised highlight packages are AI-generated end to end — assembled, cut and captioned around each fan's declared teams, players and interests, at a scale no human edit suite could touch [1][7].
+
+The same pattern is running concurrently at Wimbledon, where IBM's watsonx generates spoken commentary and captions for highlight reels, giving outside-court matches the feel of a live broadcast no human commentator was assigned to [11]. The line being held, for now, is the live microphone: Fox Sports has confirmed full human commentary teams for the tournament, with AI augmenting production workflows rather than replacing the voices [12].
+
+Around the official feeds, meanwhile, the fan-made flood has already arrived — an unprecedented surge of AI-assisted short-form content, generated previews, synthetic hype reels and machine-made supporter anthems pouring across TikTok and Shorts [12]. And the same tools cut both ways: security researchers identified more than 4,300 fake FIFA-related websites before kick-off, including phishing operations built with AI-generated content and cloned branding [12]. The tournament is simultaneously the showcase for generative media and the proving ground for its abuse.
+
+The tournament also has a second venue, and it's made of voxels. On 5 June, FIFA and Gamefam launched the official FIFA World Cup 2026 event on Roblox — the platform's biggest official sports activation to date — with FIFA Super Soccer transformed into a tournament hub featuring all 48 national teams, a World Cup stadium, connected quests and weekly digital rewards, extended across a six-game crossover whose titles collectively record 28 million gameplay sessions a week [13][14].
+
+The numbers deserve a pause: FIFA's Roblox presence has logged over 1.1 billion visits and averages 1.5 million gameplay sessions a day [14] — for an entire generation of Gen Z and Alpha fans, this is where the World Cup is happening. The crucial design choice is the live wire back to reality: real-time standings and scoreboards pipe the actual tournament into the game world, so the virtual carnival tracks the real one match by match [13]. And the connective tissue is AI at platform scale — Roblox's real-time machine translation of chat across languages, AI-assisted creation tools and automated moderation are what make a synchronous, global, multilingual event for tens of millions of children workable at all. The pattern from the broadcast layer repeats: the match as the data source, rendered differently for every audience — here, as a playable world.
+
+What happens downstream of all this is where the cultural shift actually lives. For the first time at a men's World Cup, FIFA has named TikTok its "preferred platform" — broadcast rights holders can livestream portions of all 104 matches inside a dedicated in-app hub, and a wide group of creators has been granted rights to co-create with FIFA's own archival footage [15][16]. TikTok has appointed thirty Creator Correspondents from eleven countries, with behind-the-scenes access once reserved for accredited press, feeding World Cup hubs powered by its GamePlan system [15]. YouTube struck its own deal: rights holders can stream the first ten minutes of matches live on the platform, and in Brazil an influencer-built operation will stream all 104 games [17].
+
+The advertisers have followed the eyeballs — Unilever has made this its largest sports activation ever, with thirty-five brands working through creators, a 24/7 social content hub, and half its total marketing investment now shifted into social and influencer channels [18]. The blunt statistic underneath: a majority of TikTok users say watching sports content on the platform is more entertaining than the games themselves [15]. Fans are no longer downstream of the broadcast; as one industry analysis put it, they are becoming broadcasters in their own right [19].
+
+And the engine of that entire downstream economy is AI, twice over. First, distribution: every clip, reaction, thread and stream is routed to its audience by recommendation models — the algorithmic feed is the new rights deal, deciding which goal reaches which fan in which country within seconds of it happening. Second, production: the race that defines creator economics — being *first*, in text, video, image or audio, live or near-real-time, or being *deepest* with a niche of devoted followers — is now run with machine assistance at every step. AI clipping and auto-captioning collapse the gap between the final whistle and the posted edit [12]; machine translation lets a pundit in Lagos or a Twitch watch-along in Seoul serve a global audience instantly; archival co-creation rights plus generative tools mean a bedroom creator can produce broadcast-grade packages that once required an edit suite and a licence [16][12].
+
+The Twitter pundit racing to call the tactical switch, the Redditor assembling the definitive thread, the YouTuber with the eleven-minute breakdown live before the press conference ends — each is amplified by the same stack, and each amplifies the tournament in turn. The result is a flywheel FIFA could never have built alone: one match generating millions of derivative artefacts within hours, every one of them optimised, translated, clipped and routed by machine. The World Cup is no longer a broadcast with a social media shadow. It is a content supernova, and AI is both the fuse and the blast radius.
+
+And here is where the tournament becomes a live experiment in intellectual property itself. Consider what FIFA has actually done: the organisation that built the most aggressively enforced rights regime in sport — official marks lists, ambush-marketing rules, three-tier sponsorship hierarchies, and real-time dynamic site-blocking injunctions that let Canadian courts block newly identified piracy domains *during* live broadcasts [35] — has simultaneously handed its archival footage to a wide group of creators for co-creation [16]. The crown jewels, licensed at scale to the audience. That is not a contradiction; it is a strategy.
+
+FIFA has concluded that in an attention economy the halo of derivative content is worth more than the exclusivity it dilutes — control the canon, the live rights and the trademarks, and let the remix economy do the marketing. But the same machinery is running far beyond FIFA's permission structure. Generative tools now openly sell match recreations "that look like real broadcast footage" and identity-locked images placing any fan inside a stadium they never entered — synthetic content with no licence anywhere in the chain. The players are the most exposed: UK law has no standalone image right, leaving footballers to defend their likenesses through a patchwork of trademark, passing-off and data-protection claims [36] — Cole Palmer has resorted to trademarking "Cold Palmer," his own name and his shivering celebration [36] — while the documented abuse mounts: deepfaked Messi endorsements for pyramid schemes and political candidates, Vinícius Júnior fighting AI-generated gambling adverts he never made [37][38].
+
+And note the response taking shape at the top of the game: elite players, following Neymar, have begun registering and licensing their own biometric "digital twins," with image-rights agreements now drafting explicit "synthetic rights" clauses covering avatar use and training data [38]. Which brings the question home to this tournament: FIFA scanned 1,248 bodies in a second each. The avatars officiate, they populate broadcasts, they could populate anything. The contracts governing what those digital bodies may be made to do — and who profits — are the quiet precedent being set this month. For the creative industries watching, the lesson is stark: copyright in the output is becoming unenforceable at the speed content now moves; the defensible assets are shifting upstream, to the verified event, the licensed body and the authenticated source. The World Cup is where that regime change is being prototyped in public.
+
+Follow the money and the scale snaps into focus.
+
+WARC projects brands will pour an additional $10.5 billion in global ad spend into Q2 2026 on the back of this tournament alone — more, for context, than the entire global video-game advertising market in a quarter [20][21]. The host cities have attracted $725 million in new sponsorship investment in the past year — Los Angeles leading at $178 million, New York/New Jersey at $124 million — within a $4.5 billion sponsorship economy across the North American venues [22]. Adidas has staked roughly $1 billion on "Backyard Legends," its largest celebrity ensemble ever (Messi, Bellingham, Bad Bunny, Timothée Chalamet), using AI to de-age three football legends for the nostalgic cast [23][21]. And the reason all this money is here is the thing no other property can offer: the World Cup remains one of the planet's last genuinely communal immersive experiences — the same match watched simultaneously in pubs in Birkenhead, living rooms in Lagos, fan festivals in sixteen host cities and watch parties everywhere between, a shared moment advertisers can no longer find anywhere else in a fragmented attention economy.
+
+AI is now the machinery of monetising it. US programmatic ad spend — algorithmically targeted, machine-bought — will exceed $203 billion in 2026 [23]; streaming now takes 47.5% of all US TV viewing and two-thirds of ad-supported viewing among 18–49s, with 43% of World Cup viewers planning to stream and ads in streaming sports measuring some 66% more effective than broadcast averages [24]. A single activation now demands real-time reactive creative in every duration, format and language simultaneously — work only generative pipelines can produce at tournament speed [24]. The early returns suggest it pays: 40% of US World Cup followers actively notice tournament sponsors, and 21% say sponsorship has led them to try a brand for the first time [21]. But the month has also delivered the cautionary tale — Coca-Cola's AI-generated World Cup visuals drew a public backlash, while Adidas's AI de-aging served the story and landed [21]. The lesson the industry is converging on was put crisply by Harvard Business Review: "AI can optimize, but it cannot make people care" [23]. The machines buy the audience, cut the creative and route the message; the reason six billion people are watching in the first place remains entirely human.
+
+Then there's the audience, which FIFA no longer treats as an audience but as six billion addressable individuals. AI-assembled highlight reels built around your team, your players, your stated interests; a personalised feed in the official app; NFC Fan ID cards unlocking localised content and AR experiences when tapped to a phone; fans navigating cavernous stadiums via the same digital twins the security teams use [7][5][25]. Even the players get the treatment — a dedicated app serving each one their physical and event data minutes after the final whistle [6]. Note the shape of the bargain. The pitch-side AI is sold as fairness: better decisions, equal data, transparent officiating. The fan-side AI is sold as serving you — and is, in the same motion, the most sophisticated identity-and-attention apparatus ever attached to a sporting event. One second per body to digitise the players; rather less, per fan, to know exactly who is watching.
+
+And this year, for the first time, the AI walks. Hyundai — FIFA's partner of twenty-seven years and now its first official robotics partner — has deployed four customised Boston Dynamics Spot robots on security operations at the International Broadcast Centre in Dallas and the New York/New Jersey Stadium: perimeter inspection, thermal imaging, 360-degree vision, suspicious-package investigation, patrolling continuously without fatigue across terrain wheeled machines can't manage [26][27]. In Mexico, police have their own four-legged units for initial intervention in dangerous situations, streaming live video back to officers [28]. The controversy arrived on schedule: within days of the Dallas deployment, a viral video claimed a robot dog was scanning ticket-holders' faces, and Boston Dynamics was forced to state, flatly, that the machines carry no facial recognition and exist to flag threats for human intervention [27][29]. That a denial was needed at all is the point. A camera on a pole is infrastructure; a camera that walks towards you is an actor. Four robot dogs is a modest fleet — as a precedent, embodied semi-autonomous machines normalised inside the world's most-watched event, it is anything but. Meanwhile Hyundai's humanoid Atlas performs the "Ghost Rabona" in the marketing campaign [29]; the embodied machine as mascot, athlete-in-waiting and brand asset all at once.
+
+And the World Cup is merely the loudest experiment in a month thick with them. The British grass-court season is running its own trials: Infosys and the LTA have rolled out AI-generated storytelling, real-time match insights and personalised content across the summer calendar, complete with Rally — a computer-vision-equipped humanoid holding personalised conversations with fans at Queen's Club [30]. Wimbledon, fresh from renewing its 36-year IBM partnership, arrives later this month with the next iteration of its watsonx-powered stack — generative Match Chat, AI commentary on highlight reels, personalised catch-ups — prototyped on last year's fans and refined since [31][11]. Prediction platforms timed their launches to kick-off itself [32], and the industry data tells the same story: more than 250 brands now run AI-driven activations across live sport and entertainment, with clubs like Barcelona deploying taste-modelling AI to tailor match-day experience to the individual fan [33][34]. June 2026 is a controlled experiment running on every screen at once — and the hypothesis being tested isn't whether AI can enhance sport, but whether there remains any layer of the live experience it doesn't mediate.
+
+It is tempting to file all this under sports trivia. Resist that. This is the first time the full stack has been deployed simultaneously, live, in front of most of the connected human species, and every media business, live-events operator and brand with an audience will be studying what holds and what breaks. The beautiful game itself survives intact — the moments that decide it remain stubbornly, gloriously human. Everything around those moments has been quietly rebuilt as software, and some of it now walks. That, more than any result, is what 2026 will be remembered for.
+
+And look at what the tournament has actually become, because it offers the clearest available clue to where all culture is heading. This is no longer an event with media coverage; it is a storyworld — a single canonical happening radiating simultaneously into a broadcast, a game engine, a Roblox carnival, a TikTok hub, thirty creator correspondents, a million bedroom edits, an advertising universe and a pack of robot dogs, each surface rendering the same underlying reality for a different audience, in a different grammar, at a different depth. The football is the canon; everything else is adaptation, generated at machine speed. That architecture — one scarce, live, unscripted core wrapped in an infinitely expanding, AI-mediated halo of derivative worlds — is the template every cultural property will chase: music, film, politics, education, faith. The strategic implications follow directly. Value migrates to whoever owns the canonical event and the data substrate beneath it; the halo, however vast, is abundant and therefore cheap. The premium experiences of the next decade will be the ones the machines cannot fake — being in the stadium, in the pub at the moment it happens, verifiably present, verifiably human. And the next generation of entertainment franchises won't add a transmedia strategy after the fact; they will be designed as storyworlds from inception — built, as this World Cup accidentally demonstrates, to be captured once and rendered everywhere. The 2026 tournament didn't set out to prototype the future of the creative economy. But for five weeks, in front of six billion people, that is precisely what it is doing.
+
+## References
+
+[1] FIFA Football Technology — "FIFA and Lenovo unveil multiple AI-powered innovations ahead of FIFA World Cup 2026™" — https://football-technology.fifa.com/organisation/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026
+
+[2] AI Magazine — "How AI Will Power the 2026 FIFA World Cup" — https://aimagazine.com/news/how-ai-will-power-the-2026-fifa-world-cup
+
+[3] Lenovo StoryHub — "Lenovo Technology Powers FIFA World Cup 2026™ Operations and Strengthens AI-Driven Broadcast" — https://news.lenovo.com/pressroom/press-releases/lenovo-technology-powers-fifa-world-cup-2026-operations-and-strengthens-ai-driven-broadcast/
+
+[4] Innovation & Tech Today — "8 Technologies Turning FIFA World Cup 2026 Into the Most Advanced Sporting Event Ever Held" — https://innotechtoday.com/8-technologies-turning-fifa-world-cup-2026-into-the-most-advanced-sporting-event-ever-held/
+
+[5] Technology Magazine — "The Technology Behind the FIFA World Cup 2026" — https://technologymagazine.com/news/the-technology-behind-the-fifa-world-cup-2026
+
+[6] Fast Company SA — "Inside the Tech behind the FIFA World Cup 2026" — https://fastcompany.co.za/co-design/2026-06-11-inside-the-tech-behind-the-fifa-world-cup-2026/
+
+[7] WION — "FIFA World Cup 2026 to debut AI-powered broadcasting, 3D player avatars and real-time data innovations" — https://www.wionews.com/sports/fifa-world-cup-2026-to-debut-ai-powered-broadcasting-3d-player-avatars-and-real-time-data-innovations-1781098589485/amp
+
+[8] Euronews — "AI avatars and smart footballs: Inside FIFA's high-tech 2026 World Cup" — https://www.euronews.com/next/2026/06/01/ai-avatars-and-smart-footballs-inside-fifas-high-tech-2026-world-cup
+
+[9] The Conversation — "AI at the World Cup: smarter tactics, healthy players, safer crowds – but new risks" — https://theconversation.com/ai-at-the-world-cup-smarter-tactics-healthy-players-safer-crowds-but-new-risks-276520
+
+[10] Lenovo StoryHub — "The Future of Football Is Here: AI Solutions To Power FIFA World Cup 2026™" — https://news.lenovo.com/pressroom/press-releases/future-of-football-ai-solutions-power-fifa-world-cup-2026/
+
+[11] IBM / Red Hat — "Serving faster innovation: how open source is supporting AI-powered fan experiences at Wimbledon" — https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon
+
+[12] Mercia AI — "How AI Will Shape the 2026 World Cup" — https://www.merciaai.com/post/how-ai-will-shape-the-2026-world-cup
+
+[13] PocketGamer.biz — "FIFA and Gamefam launch FIFA World Cup 2026 event across Roblox" — https://www.pocketgamer.biz/fifa-and-gamefam-launch-fifa-world-cup-2026-event-across-roblox/
+
+[14] GamesBeat — "FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer and Roblox" — https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/
+
+[15] Social Media Today — "TikTok introduces 2026 FIFA World Cup creator correspondents" — https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/
+
+[16] AP — "TikTok picked by FIFA as video content partner at 2026 World Cup" — https://www.aol.com/articles/tiktok-picked-fifa-video-content-201423750.html
+
+[17] FOX Sports — "As FIFA entices a new generation of fans, a Brazil influencer's platform will stream all 104 games" — https://www.foxsports.com/articles/soccer/as-fifa-entices-a-new-generation-of-fans-a-brazil-influencers-platform-will-stream-all-104-games
+
+[18] What's Trending — "FIFA Made TikTok the Official Platform of the World Cup" — https://whatstrending.com/fifa-made-tiktok-the-official-platform-of-the-world-cup/
+
+[19] Creative Salon — "The World Cup of Influencers" — https://creative.salon/articles/features/the-world-cup-of-influencers-and-creators
+
+[20] Global Brands Magazine — "FIFA World Cup 2026: Inside the Biggest Brand Marketing Race" — https://www.globalbrandsmagazine.com/fifa-world-cup-2026-marketing/
+
+[21] DesignRush — "FIFA World Cup 2026: Campaigns Setting the Bar Before Kickoff" — https://news.designrush.com/fifa-world-cup-2026-brand-campaigns
+
+[22] Goal.com — "Industry report reveals $4.5 billion sports sponsorship economy for 2026 World Cup host cities" — https://www.goal.com/en-qa/lists/industry-report-reveals-usd4-5-billion-sports-sponsorship-economy-for-2026-world-cup-host-cities-in-the-u-s-and-canada/blt412a2f99ee2cf077
+
+[23] Mission Media — "adidas $1B Celebrity Campaign vs Nike Algorithmic Strategy" — https://missionmedia.asia/adidas-celebrity-marketing-world-cup-2026/
+
+[24] The Gutenberg — "World Cup 2026 Marketing Playbook" — https://www.thegutenberg.com/blog/world-cup-2026-marketing-playbook/
+
+[25] WION — "5 New Ways 2026 FIFA World Cup Stadium Tech Enhances the Fan Experience Now" — https://www.wionews.com/photos/5-new-ways-2026-fifa-world-cup-stadium-tech-enhances-the-fan-experience-now-1781111772410
+
+[26] Newsweek — "Boston Dynamics' Robot Dogs Will Be Patrolling the FIFA World Cup 2026 Thanks to Hyundai" — https://www.newsweek.com/hyundais-robot-dogs-will-be-patrolling-the-fifa-world-cup-2026-12037758
+
+[27] Design News — "Hyundai Deploys Boston Dynamics Spot Robots for FIFA World Cup 2026 Security" — https://www.designnews.com/automation/hyundai-deploys-boston-dynamics-spot-robots-for-fifa-world-cup-2026-security
+
+[28] BusinessToday — "FIFA World Cup 2026: Mexico deploys robot dogs and AI to secure World Cup opener" — https://www.businesstoday.in/sports/football/story/fifa-world-cup-2026-security-5-crucial-rules-fans-must-know-before-mexico-south-africa-opener-536410-2026-06-11
+
+[29] WFAA — "No, the robots spotted around Dallas World Cup sites are not scanning fans' faces, company says" — https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b
+
+[30] Storyboard18 — "Infosys, LTA launch AI-powered fan experiences for grass court season" — https://www.storyboard18.com/amp/brand-makers/infosys-lta-launch-ai-powered-fan-experiences-for-grass-court-season-100071.htm
+
+[31] IBM Newsroom — "IBM Announces Long-Term Renewal as the Official AI, Cloud and Digital Transformation Partner for The All England Lawn Tennis Club" — https://newsroom.ibm.com/2026-01-06-ibm-announces-long-term-renewal-as-the-official-ai,-cloud-and-digital-transformation-partner-for-the-all-england-lawn-tennis-club
+
+[32] Quiver Quantitative — "SEGG Media Launches Sports.com Predict Ahead of FIFA World Cup 2026" — https://www.quiverquant.com/news/SEGG+Media+Launches+Sports.com+Predict+Ahead+of+FIFA+World+Cup+2026
+
+[33] SponsorUnited — "Breakout Plays 2026: Tech-Led Fan Experiences Redefine Sponsorship" — https://www.sponsorunited.com/insights/breakout-plays-the-trends-winning-sports-sponsorship-in-2026-tech-led-experiences
+
+[34] Bird & Bird — "Innovation in Sport: AI in the Sports Fans and Business Ecosystem" — https://www.twobirds.com/en/insights/2026/innovation-in-sport-ai-in-the-sports-fans-and-business-ecosystem--ahead-of-the-game-sports-horizon-s
+
+[35] Gowling WLG — "2026 FIFA World Cup: Trademark, copyright and enforcement considerations" — https://gowlingwlg.com/en/insights-resources/articles/2026/fifa-world-cup-trademark-copyright-and-enforcement-considerations
+
+[36] Yahoo Sports / BBC — "What can players and clubs do about 'AI slop'?" — https://sports.yahoo.com/articles/players-clubs-ai-slop-074855503.html
+
+[37] Tribuna — "How AI football fakes fool everyone" — https://tribuna.com/en/blogs/the-world-cup-is-cancelled-how-ai-football-fakes-fooled-near/
+
+[38] SportsLawHub — "Athlete Image Rights in the AI era: protection and legal challenges" — https://www.sportslawhub.com/athlete-image-rights-ai-deepfakes
+
+[39] DESIblitz — "Can Football Control the AI Slop?" — https://www.desiblitz.com/content/can-football-control-the-ai-slop

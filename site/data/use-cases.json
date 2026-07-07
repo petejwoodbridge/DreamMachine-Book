@@ -68,14 +68,15 @@
     "slug": "if-you-are-working-in-or-covering-film-tv-or-games",
     "icon": "film",
     "accent": "cyan",
-    "body": "Read Chapter 1 (The Day Sora Landed) for the watershed scene-setter, Chapter 7 (The Studios Decide) for the strategic map of how the industry has positioned itself, Chapter 8 (Worlds, Not Pictures) for what is coming next, Chapter 11 (The Orchestrator) for what it means for working roles, and Chapter 14 (The New Jobs) for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read Appendix J (The Process Trap).",
+    "body": "Read Chapter 1 (The Day Sora Landed) for the watershed scene-setter, Chapter 7 (The Studios Decide) for the strategic map of how the industry has positioned itself, Chapter 8 (Worlds, Not Pictures) for what is coming next, Chapter 11 (The Orchestrator) for what it means for working roles, and Chapter 14 (The New Jobs) for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read Appendix J (The Process Trap). And for the storyworld template that Chapter 8 argues is coming for every entertainment franchise — demonstrated live, at six-billion-viewer scale — read Appendix M (The World Cup Storyworld).",
     "chapters": [
       "Chapter 1 (The Day Sora Landed)",
       "Chapter 7 (The Studios Decide)",
       "Chapter 8 (Worlds, Not Pictures)",
       "Chapter 11 (The Orchestrator)",
       "Chapter 14 (The New Jobs)",
-      "Appendix J (The Process Trap)"
+      "Appendix J (The Process Trap)",
+      "Appendix M (The World Cup Storyworld)"
     ]
   },
   {
@@ -103,6 +104,19 @@
       "Chapter 7 (The Studios Decide)",
       "Chapter 12 (Authenticity as the New Scarcity)",
       "Appendix L (The Programmable Brand)"
+    ]
+  },
+  {
+    "headline": "If you are working in (or covering) sport, live events or broadcast",
+    "slug": "if-you-are-working-in-or-covering-sport-live-events-or-broad",
+    "icon": "spark",
+    "accent": "pink",
+    "body": "Read Appendix M (The World Cup Storyworld) first — the 2026 FIFA World Cup as the largest live deployment of AI in entertainment history: officiating, broadcast, the Roblox second venue, the creator flywheel, the synthetic-rights precedent and the robot dogs. Then Chapter 8 (Worlds, Not Pictures) for the storyworld architecture it demonstrates, Chapter 12 (Authenticity as the New Scarcity) for why the live, verifiably human moment is where the premium migrates, and Chapter 7 (The Studios Decide) for the own-the-rails strategy FIFA is executing.",
+    "chapters": [
+      "Appendix M (The World Cup Storyworld)",
+      "Chapter 8 (Worlds, Not Pictures)",
+      "Chapter 12 (Authenticity as the New Scarcity)",
+      "Chapter 7 (The Studios Decide)"
     ]
   },
   {

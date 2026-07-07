@@ -12,7 +12,7 @@ I have written it last on purpose. Read in this order, the tools sit inside the 
 
 That format is, in 2026, the most reliable way to misunderstand what is happening.
 
-A note on the date stamp. Everything in this chapter is current to June 2026 — the May 2026 cut of the catalogue, with the Issue 31 (June 2026) additions to the video, music, world-model, agent and games-engine layers folded in where they fit. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned. The point is not that the specific tools matter. The point is the *shape* of the toolchain — what categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
+A note on the date stamp. Everything in this chapter is current to July 2026 — the May 2026 cut of the catalogue, with the additions from Issues 31 to 36 (June–July 2026) to the video, music, world-model, agent and games-engine layers folded in where they fit. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned. The point is not that the specific tools matter. The point is the *shape* of the toolchain — what categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
 
 ### How to think about the toolchain
 
@@ -40,7 +40,7 @@ With that frame, the inventory.
 
 ### Video
 
-The video layer changed faster than any other modality between October 2025 and June 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
+The video layer changed faster than any other modality between October 2025 and July 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
 
 **Sora 2** (OpenAI) is the model that opened the period this book covers. Its September 2025 launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter 1 is about.[^1] The iOS app launched alongside it hit a million downloads in five days.[^2] By March 2026, however, the platform was shutting down. OpenAI announced a staged wind-down on **24 March 2026** — consumer app and website ending late April, developer API closing late September — with peak revenue reportedly at around $540k per month against operating costs in the billions, and compute reallocated toward higher-margin coding and enterprise products.[^2a] The Disney–OpenAI $1bn licensing announcement of 11 December 2025 was never executed; no formal agreement was signed and no money changed hands. The contractual *framework* underneath that deal — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against; the deep treatment of that architecture and the broader IP-economics shift it sits inside is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md). For working filmmakers in mid-2026, the practical implication of the Sora collapse is that the *consumer-facing edge* of the AI-video market has rotated to ByteDance's CapCut/Dreamina/Seedance stack, to the YouTube Shorts integrations of Veo 3.1, and to the Sora app's various TikTok-and-Reels-shaped successors. The professional pipeline never depended on Sora 2 in the first place — most working filmmakers I know used it less than its cultural prominence suggested — and so on the production side the collapse changes less than the headlines implied.
 
@@ -55,6 +55,8 @@ The video layer changed faster than any other modality between October 2025 and 
 **Heygen** ships Video Agent — a full scripting-to-assembly agent built around reference images.[^8] **Synthesia** holds the corporate AI-avatar market ($4B valuation, having reportedly rejected a $3B Adobe acquisition offer).[^9] **ElevenLabs** runs the dominant audio-AI layer underneath much of the new video work ($500m ARR by April 2026).[^10]
 
 **Gemini Omni** (Google DeepMind), announced at Google I/O 2026, brings text, image, audio, video and live interaction into a single multimodal model — the first foundation-model release in this category that meaningfully unifies the modalities working creatives currently have to bridge across five different tools.[^42] **Beeple Canvas**, Mike Winkelmann's gen-AI compositor — launched May 2026 — is the first AI-native compositing application to ship from a working visual-effects artist's own studio, and is structurally distinct from the AI-features-bolted-onto-existing-compositors pattern in the legacy-software section below.[^43]
+
+The June–July 2026 cycle belonged to ByteDance and Runway. **Seedance 2.5** broke the thirty-second barrier for AI video generation, with **Seedance 2.0 Mini** shipping the quality-at-lower-cost tier into Dreamina and ComfyUI in the same month.[^59] Runway, meanwhile, shipped **API Recipes** (production-ready generative-media features in a single API call), an MCP connection that puts Runway *inside ChatGPT*, and **Agent 2** ad localisation — the fastest single-vendor shipping cadence of the early summer.[^60]
 
 If I had to name a single video product that, in my experience, working creatives have settled on as a default in 2026, it would be Veo 3.1 for finished work and Runway for iteration and integration. Sora is the brand name the audience knows. The actual production pipelines run on the other two.
 
@@ -86,6 +88,8 @@ The music layer split into three categories during this period, and the split is
 
 **Sound-effect foundation models** emerged as a new sub-category in May 2026. **Sony AI's Woosh** is the first foundation model explicitly trained for the professional sound-effects discipline — built for the people who design the sonic worlds behind games, film and interactive media, not for the consumer market.[^44] **Mirelo SFX 1.6** shipped the first sound-effects model that lets you *edit* a generated sound rather than only regenerate it — a structural shift in the discipline equivalent to the move from rendered images to layered Photoshop files.[^45] **Stable Audio 3.0** (Stability AI) shipped as an open-weight audio model family explicitly aimed at artistic experimentation.[^46] **Tamber**, the ethically-trained AI music suite I describe in [Chapter 6](06_The_88_Percent.md), shipped alongside a gestural-control interface that lets the musician steer the generation with arm movements.[^47] **Beatport's Track ID** rolled out as the real-time identification standard for the DJ market.[^48]
 
+The *instrument turn* arrived in June 2026, and it is the music-layer development I would watch most closely. **Google Magenta RealTime 2** is a live music model you play as an instrument; **Daydream** bills itself as the first AI-native instrument for the DAW; Fender's **Studio Pro** DAW shipped with Moises stem separation and a smart studio assistant built in; and Maono's **PD500W** claimed the title of first AI-powered hybrid microphone.[^61] Generative music capability arriving as *performance hardware and studio furniture*, rather than as another prompt box, is a structurally different adoption path from the Suno-shaped flood — it lands in the production layer, where the silent-adoption majority already lives. **Suno** itself, in the same period, launched **Spark**, an incubator programme for the next generation of creators — the flood-tier vendor of Chapter 5 repositioning itself as a patron.[^62]
+
 The deal flow underneath this layer is the second-fastest-changing in the toolchain. The Stability AI / Universal Music alliance, the Stability AI / Warner Music deal, the Splice / Universal partnership, the GEMA / OpenAI lawsuit, the Wixen / Meta lawsuit, the UMG / Anthropic $3B suit — these are the structural moves I would track if I were a working musician trying to plan a five-year toolchain.[^18]
 
 ### 3D, world models, spatial
@@ -100,7 +104,7 @@ The category that, more than any other, I think defines the next decade of creat
 
 The May 2026 world-model wave extended this layer further. **NVIDIA SANA-WM** is the first open-weight world model at meaningful scale (2.6B parameters), with 60-second video generation and explicit camera control.[^49] **Odyssey Starchild-1** is, by Odyssey's own framing, *"the first ever real-time multimodal world model"* — a system that doesn't just generate a world but simulates and reasons about it.[^50] **Odyssey Agora-1** is the multiplayer companion to Starchild, putting four players inside the same AI-generated world (built, in a small piece of provenance theatre, on the bones of a 1997 shooter).[^51] **Apple Headsup** is a research-grade 3D Gaussian head-reconstruction pipeline built for multi-view captures from consumer iPhones, extending the Vision-Pro-Personas Gaussian-splat thread into the open research layer.[^52]
 
-Underneath this layer, the Gaussian-splatting infrastructure has matured into a stable workflow: **SuperSplat** (PlayCanvas) for editing, **Spark 2.0** for open-source streaming of 100-million-splat scenes to browsers, the SOG / WebP equivalent compression standard.[^24] Apple's confirmation that its Vision Pro Personas feature is powered by Gaussian splatting under the hood made it, by some margin, the most-deployed Gaussian-splat technology in consumer hardware as of late 2025.[^25]
+Underneath this layer, the Gaussian-splatting infrastructure has matured into a stable workflow: **SuperSplat** (PlayCanvas) for editing, **Spark 2.0** for open-source streaming of 100-million-splat scenes to browsers, the SOG / WebP equivalent compression standard.[^24] Apple's confirmation that its Vision Pro Personas feature is powered by Gaussian splatting under the hood made it, by some margin, the most-deployed Gaussian-splat technology in consumer hardware as of late 2025.[^25] At WWDC 2026 Apple went further, announcing that Gaussian splatting is coming to **Apple Maps** — the Flyover feature rebuilt on splats — which will make it the most-deployed splat technology in consumer *software* as well.[^67]
 
 For the 3D-asset and material side: **Hunyuan 3D-PolyGen 1.5** (Tencent's "art-grade" 3D generative model), **Hitem3D**, **Meshy**, **Rodin** — the rapidly-maturing 3D-asset generation layer that is being integrated, model-by-model, into Unreal Engine, Unity and Blender pipelines.
 
@@ -122,6 +126,8 @@ The category I think most working creatives are still underestimating, six month
 
 **Hugging Face**, **OpenEnv** (Meta / Hugging Face), the **Hugging Face / Google Cloud** partnership — the open-source agentic-development infrastructure.[^35]
 
+By early July 2026 the orchestration story had a name, and the name was MCP. **Comfy MCP** launched in public beta as the first Model Context Protocol server built for production pipelines rather than one-off generations — point Claude, Codex or Cursor at it and the agent can build, edit and run ComfyUI workflows in plain language, with a shareable workflow URL that makes every generation reproducible across a team.[^63] In the same four weeks, Epic announced **Unreal MCP** at the State of Unreal, and **Magnific**, **Higgsfield** and **Runway** all shipped MCP surfaces of their own.[^64] The protocol the agentic ecosystem had been converging on all spring is now, in practice, the connective tissue of the creative toolchain — the shift, as ComfyUI's own framing put it, from AI that *makes* content to AI that can *operate* a creative system.
+
 For working creatives, the practical agent stack in 2026 is some combination of:
 
 1. A foundation model (Claude / GPT / Gemini) for the orchestration brain.
@@ -135,9 +141,9 @@ The team I work with at DreamLab runs this stack in production every week. The a
 
 The most under-reported strategic story of this period, in my view, has been the speed at which the legacy creative-software vendors have rebuilt their products as AI-agent platforms.
 
-**Adobe** — I have written enough about Adobe in Chapter 9 that I will not repeat it here. The short version: Creative Cloud is, today, a stack of AI agents wearing a Photoshop / Premiere / After Effects / Illustrator / InDesign / Acrobat skin. The agents are inside the apps; the apps are inside ChatGPT; the apps are inside Adobe Express; the apps are inside the new CX Enterprise platform. The repositioning is complete.
+**Adobe** — I have written enough about Adobe in Chapter 9 that I will not repeat it here. The short version: Creative Cloud is, today, a stack of AI agents wearing a Photoshop / Premiere / After Effects / Illustrator / InDesign / Acrobat skin. The agents are inside the apps; the apps are inside ChatGPT; the apps are inside Adobe Express; the apps are inside the new CX Enterprise platform. In June 2026 the **Creative Agent and AI Assistant** went into beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io — the agent layer moving from announcement to default surface.[^65] The repositioning is complete.
 
-**Unreal Engine** (Epic) — the games engine that has, through plugins, integrations and the Nano Banana / Gemini partnership, become a hybrid game-engine / virtual-production / AI-generation hub. The Unreal Engine 5 AI Assistant, announced at the end of 2025[^36], is one of the more consequential single-product launches of the period. The **ECABridge** connector, launched May 2026, is the most-cited Unreal-Engine MCP integration of the spring — providing the Model Context Protocol surface and a set of agentic capabilities Epic itself has not yet shipped to the launcher.[^56] In a separate but related move, an **Epic Games veteran** announced an AI-heavy *"Fully European"* game-engine project in the same week — the first plausibly-credible new entrant in the AAA game-engine market since the early 2010s, framed explicitly around AI as the core operating layer.[^57]
+**Unreal Engine** (Epic) — the games engine that has, through plugins, integrations and the Nano Banana / Gemini partnership, become a hybrid game-engine / virtual-production / AI-generation hub. The Unreal Engine 5 AI Assistant, announced at the end of 2025[^36], is one of the more consequential single-product launches of the period. The **ECABridge** connector, launched May 2026, is the most-cited Unreal-Engine MCP integration of the spring — providing the Model Context Protocol surface and a set of agentic capabilities Epic itself has not yet shipped to the launcher.[^56] That gap closed in June: at the **State of Unreal 2026**, Epic announced its own official **Unreal MCP** alongside LLM-powered tools and video-model rendering integrations — the clearest statement yet that Epic sees natural language as a first-class interface to the engine, and a deliberate bet on expanding *who* can become an Unreal developer rather than replacing the ones it has.[^66] In a separate but related move, an **Epic Games veteran** announced an AI-heavy *"Fully European"* game-engine project in the same week — the first plausibly-credible new entrant in the AAA game-engine market since the early 2010s, framed explicitly around AI as the core operating layer.[^57]
 
 **Unity** — Unity's AI Open Beta (May 2026), an in-editor AI suite for the full games-development pipeline, alongside the company's AI Council formation in October 2025.[^37]
 
@@ -179,17 +185,17 @@ I do not, finally, use AI tools to produce work in the disciplines where my own 
 
 ### The complete toolchain: a categorised reference
 
-This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that *Dream Machine* tracked across its 32 issues, from October 2025 to June 2026. Some are dominant; some are niche; some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is *what existed*, in this period, in the creative-AI toolchain — so that the *shape* of the field is on the record.
+This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that *Dream Machine* tracked across its 36 issues, from October 2025 to July 2026. Some are dominant; some are niche; some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is *what existed*, in this period, in the creative-AI toolchain — so that the *shape* of the field is on the record.
 
 A word on the list's grain. I have tried to err on the side of inclusion. Where a single company ships multiple closely-related products — Adobe's *Sneaks* portfolio, the Runway Gen-4.5 family, the Qwen-Edit LoRA series — I have grouped them under the parent entry but called out the constituent tools, because in this period each constituent shipped to working creatives separately and changed at its own cadence. Where a tool was a one-issue demo I could not later verify, I have still listed it; that the demo existed *at all* is part of the field's history. Where a tool's name conflicts with another (there are at least three things called "Wonder" in the period the book covers) I have annotated.
 
-The list runs to roughly six hundred entries. Skim it. Use the categories. Come back to specific sections when you need them.
+The list runs to roughly six hundred and thirty entries. Skim it. Use the categories. Come back to specific sections when you need them.
 
 #### Foundation models / LLMs
 
 - **ChatGPT / GPT-5 / GPT-5 Pro** (OpenAI) — the dominant consumer LLM and reference foundation model; 800–900M weekly active users; GPT-5 / GPT-5 Pro announced at DevDay 2025.
-- **Claude / Claude Code / Claude Apps / Claude Skills** (Anthropic) — the writers' and developers' favoured second; strong long-context performance; the agentic coding environment that underlies Sony's 49-agent / 72-skill stack; Claude for Legal launched May 2026.
-- **Gemini / Gemini 2.5 Flash / Gemini 3 / Gemini 3.1 Flash** (Google) — Google's multimodal LLM family; desktop users growing 155% YoY in 2025–26; Gemini 3.1 Flash TTS is the most controllable Google voice model as of spring 2026.
+- **Claude / Claude Code / Claude Apps / Claude Skills / Claude Fable 5 / Claude Sonnet 5** (Anthropic) — the writers' and developers' favoured second; strong long-context performance; the agentic coding environment that underlies Sony's 49-agent / 72-skill stack; Claude for Legal launched May 2026. **Fable 5**, the Mythos-class model released June 2026, had its access suspended within a week under a US export-control directive — the first frontier creative model to be withdrawn on national-security grounds; **Sonnet 5** (July 2026) shipped stronger agentic capabilities at lower pricing.
+- **Gemini / Gemini 2.5 Flash / Gemini 3 / Gemini 3.1 Flash / Gemini Omni Flash / Gemini 3.5 Live Translate** (Google) — Google's multimodal LLM family; desktop users growing 155% YoY in 2025–26; Gemini 3.1 Flash TTS is the most controllable Google voice model as of spring 2026; Gemini Omni Flash (July 2026) generates and edits video via the Gemini API, Google AI Studio and ComfyUI; Gemini 3.5 Live Translate ships low-latency voice translation across 70+ languages.
 - **Llama** (Meta) — the dominant open-weight foundation model.
 - **Mistral / Mistral Voxtral / Mistral Transcribe 2** — European open-source LLM; Voxtral is the next-generation speech-to-text family.
 - **Qwen / Qwen 3.5-Omni** (Alibaba) — Chinese open-source LLM, image, video and audio variants; Omni is the multimodal family covering text, images, audio and video.
@@ -204,14 +210,14 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 
 - **Sora / Sora 2** (OpenAI) — the model that opened the period; physical realism, audio integration, multi-shot world-state persistence; iOS app hit 1M downloads in 5 days; Sora 2 Character Creation surfaced on fal in March 2026.
 - **Veo 3 / Veo 3.1 / Veo 3.1 Ingredients to Video / Veo 3.1 Lite** (Google DeepMind) — the working filmmaker's preferred model for cinematic control; Ingredients to Video shipped to YouTube Shorts and YouTube Create; Veo 3.1 Lite is the lower-cost text- and image-to-video tier.
-- **Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising / Aleph 2.0** (Runway) — the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency. **Aleph 2.0** (June 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped.
+- **Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising / Aleph 2.0** (Runway) — the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency. **Aleph 2.0** (June 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped. **API Recipes** (June 2026) drop production-ready generative-media features into any platform with one API call; the **Runway MCP** puts Runway generation and editing inside ChatGPT; **Agent 2** (July 2026) handles ad localisation.
 - **Kling / Kling 2.5 Turbo / Kling O1 / Kling 2.6 / Kling 3.0 / Kling X-Dub / Kling Motion Control 3.0** (Kuaishou) — strong on physics and trajectory control; 3.0 adds multi-shot control, multilingual audio and 4K image generation; X-Dub is the context-rich visual dubbing variant.
 - **Pika 2.0 / PikaStream 1.0** — iteration-speed-focused video generation; PikaStream brings AI agents into live video calls.
 - **Luma Dream Machine / UNI-1 / UNI-1.1 / Ray3 Modify / Luma Dream Brief** — Luma's video, world-and-reasoning, and modification stack; UNI-1.1 ships with prompt enhancement and built-in research; Dream Brief is the $1M Cannes Lions competition.
 - **Wan 2.2 / Wan 2.5 / Wan 2.6** (Alibaba Qwen) — camera-controlled video generation; 2.6 adds character reference and multishot capabilities.
 - **Hunyuan Video / Hunyuan Image-to-Video** (Tencent) — open-source video model.
-- **Seedance 2.0 / SeeDream 4 / SeeDream 4.5** (ByteDance) — image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026.
-- **Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin** — social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months; Shots produces multiple storyboard images from a single shot; the Adobe Premiere Pro and After Effects plugins (June 2026) bring Higgsfield generation directly into the professional editorial workflow.
+- **Seedance 2.0 / Seedance 2.0 Mini / Seedance 2.5 / SeeDream 4 / SeeDream 4.5** (ByteDance) — image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026; **Seedance 2.0 Mini** (June 2026) is the quality-at-lower-cost tier in Dreamina, and in ComfyUI (with 4K) from July; **Seedance 2.5** (June 2026) broke the thirty-second barrier for AI video generation.
+- **Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin / Higgsfield DaVinci Resolve Plugin / Higgsfield MCP** — social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months (reportedly $500M by June 2026); Shots produces multiple storyboard images from a single shot; the Adobe Premiere Pro and After Effects plugins (June 2026) bring Higgsfield generation directly into the professional editorial workflow; the DaVinci Resolve plugin adds in-timeline generation, draw-to-edit and AI-generated LUTs; Higgsfield MCP (July 2026) lets agents such as Claude generate through the platform directly.
 - **Bernini** (ByteDance) — AI video generation and editing framework; a complementary video-editing layer to ByteDance's Seedance generation stack.
 - **LTX-2 / LTX-2.3 / LTX-2.3 Colorizer / LTX-HDR / LTX Studio / LTX-2 Audio-to-Video / LTX-2 Lip Sync / LTX-2 Real-Time** — open-source video generation with audio sync; LTX-2.3 is high-resolution, fast, cinematic with native lip-sync; LTX HDR (beta) ships HDR processing.
 - **Odyssey 2** — real-time interactive video generation.
@@ -236,7 +242,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **VFace** — training-free video face-swapping for any diffusion model.
 - **DreamActor M2.0** (fal) — drive characters from a single image + template video; multi-character supported.
 - **ByteDance ALIVE** — unified audio-video generation.
-- **Magnific Upscaler for Video / Magnific Precision v2 / Magnific Precision for Video** — upscaling and 4K detail enhancement, including dedicated video upscaling.
+- **Magnific Upscaler for Video / Magnific Precision v2 / Magnific Precision for Video / Magnific MCP / Magnific Plugin** — upscaling and 4K detail enhancement, including dedicated video upscaling; Magnific MCP (June 2026) connects every Magnific tool to your AI assistant; the Magnific Plugin (July 2026) puts the stack inside Premiere Pro, After Effects, DaVinci Resolve and Final Cut Pro.
 - **NetFlix VOID** — object removal from video with physics-interaction removal.
 - **Ponder** — agentic video editor.
 - **ArcReel** — multi-agent video generation from written stories.
@@ -248,16 +254,24 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Alibaba WonderClip** — all-in-one AI video creation platform from Alibaba Cloud (June 2026).
 - **Sony Vid-CamEdit** — post-capture camera trajectory editing; keeps scenes spatially coherent across large viewpoint changes (June 2026).
 - **Nvidia PiD (Pixel Diffusion Decoder)** — image / video decoder; new entry from Nvidia (June 2026).
+- **VEED Fabric 1.0** — hyper-realistic AI explainer and educational videos, up to five minutes, generated in seconds.
+- **NVIDIA SANA-Streaming** — high-resolution, real-time video-to-video editing on consumer GPUs; the streaming sibling of the SANA-WM world model.
+- **Viggle / Viggle API** — give any character any motion; one API call and it comes back alive in seconds.
+- **Pixelcut Video Background Remover** — video background removal, live on fal.
+- **LooseControlVideo** — directorial video control using spatial blocking; the research end of the *blocking-as-interface* pattern.
+- **Musavir LiveAI** — transforms a live video feed in real time.
+- **NVIDIA Metropolis VSS Blueprint 3** — video search and summarisation; lets a coding agent analyse massive live streams and video libraries from a natural-language prompt.
+- **MiniMax Hub** — all-in-one AI video generator hub, launched at the Shanghai Film Festival with the stated caveat that "creative direction and aesthetic judgment must ultimately be left to humans".
 
 #### AI image models / tools
 
 - **Midjourney / Midjourney V8.1** — the aesthetic-leadership product; Discord/X-native; V8.1 ships native 2K HD rendering at 3× the speed and 3× the cost reduction.
 - **FLUX / FLUX 2 / FLUX 2 Max / FLUX.2 [klein]** (Black Forest Labs) — open-weight, fine-control, the open-source default through 2025–26; klein is the 4B-parameter lightweight model.
 - **Adobe Firefly / Firefly Image Model 5 / Firefly Foundry / Firefly Boards / Firefly Precision Flow** — Image Model 5, Foundry (custom corporate training), Firefly Boards (moodboards), Precision Flow (granular AI editing control, beta); 45% of Creative Cloud users active, 22B+ assets generated by April 2025.
-- **Imagen 3 / Nano Banana / Nano Banana Pro / Nano Banana 2** (Google) — most-integrated image model in the consumer toolchain; Photoshop and Unreal Engine plugins; Nano Banana Pro ships professional capabilities at lightning speed.
+- **Imagen 3 / Nano Banana / Nano Banana Pro / Nano Banana 2 / Nano Banana 2 Lite** (Google) — most-integrated image model in the consumer toolchain; Photoshop and Unreal Engine plugins; Nano Banana Pro ships professional capabilities at lightning speed; Nano Banana 2 Lite (aka Gemini 3.1 Flash-Lite, July 2026) targets low-cost, four-second enterprise image generation.
 - **Stable Diffusion / Stable Diffusion 3 / Stable-Layers** (Stability AI) — the foundational open-source image model; **Stable-Layers** (June 2026) splits generated images into editable compositional layers — a structural shift from regeneration to post-generation editing.
 - **Ideogram 4.0** — fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every Ideogram plan and via API.
-- **Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers** — real-time AI image generation, now open-source; Realtime Edit takes complex instructions in real time; the LoRA Trainers cover Qwen-2512 and Z-Image.
+- **Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers** — real-time AI image generation; Krea 2 shipped open weights in July 2026, with one model for inference and one for training; Realtime Edit takes complex instructions in real time; the LoRA Trainers cover Qwen-2512 and Z-Image.
 - **Qwen-Image-2512 / Qwen-Image-Edit-2511 / Qwen 2511 Time Travel / Qwen-Edit 2509** — the dominant open-source image-editing model family; constituent LoRAs (relighting, multi-angle, time-travel, AnyPose) discussed in the LoRAs section below.
 - **ChatGPT Images / ChatGPT Images 2.0** — image generation integrated with Adobe Express, Photoshop and Acrobat; 2.0 ships thinking-level intelligence.
 - **Grok Imagine / Grok Imagine API** (xAI) — image and video generation; the API bundles end-to-end creative workflows; reference-to-video and video extend added in March 2026.
@@ -285,10 +299,10 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 
 #### AI music / audio tools
 
-- **Suno / Suno Studio / Suno 5.5** — the dominant prompt-to-track generative music platform; $400M raised at $5.4B valuation (June 2026), $300M ARR, 2M+ subscribers; Warner Music Group settled its lawsuit and signed a licensing partnership; UMG and Sony remain in active litigation; Suno Studio is the "world's first generative audio workstation"; 5.5 adds Voices.
+- **Suno / Suno Studio / Suno 5.5 / Suno Spark** — the dominant prompt-to-track generative music platform; $400M raised at $5.4B valuation (June 2026), $300M ARR, 2M+ subscribers; Warner Music Group settled its lawsuit and signed a licensing partnership; UMG and Sony remain in active litigation; Suno Studio is the "world's first generative audio workstation"; 5.5 adds Voices; Spark (July 2026) is the incubator programme for the next generation of creators.
 - **Udio** — prompt-to-music; partnered with Universal Music Group; indie-label licensing via Merlin.
 - **Mureka / Music Agent Studio** — six specialised AI agents covering songwriting, arrangement and production.
-- **ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2** — the dominant voice/audio synthesis stack; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.
+- **ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2 / ElevenLabs Avatars** — the dominant voice/audio synthesis stack; **Avatars** (June 2026) put a face on the voices inside ElevenCreative; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.
 - **iZotope Ozone 12 / Stem EQ** — AI-assisted mixing and mastering.
 - **LANDR** — AI mastering and distribution.
 - **Riffusion** — spectrogram-based music generation.
@@ -337,7 +351,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Ricercar** (Ars Electronica) — creative AI for artistic composition.
 - **Krotos Video-to-Sound** — expanded platform for audio professionals (foley, sound design).
 - **Jamu** — AI co-producer agent for Ableton Live.
-- **Moises** — AI music platform; Charlie Puth as Chief Music Officer.
+- **Moises** — AI music platform; Charlie Puth as Chief Music Officer; its stem separation now ships inside Fender's Studio Pro DAW.
 - **Music Mogul AI** — tour-booking automation.
 - **Sonilo + Shutterstock** — video-to-music AI training deal.
 - **Clearnote** — AI music-contract platform to end deal delays.
@@ -346,8 +360,16 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Rebel Audio** — AI podcast startup.
 - **ROLI Airwave & AI Music Coach** — hand-tracking (27 joints) with real-time AI piano practice coaching.
 - **Sony AI ICASSP papers** — music understanding and generative audio research papers (April 2026).
-
-#### 3D, world models and spatial
+- **Google Magenta RealTime 2 (MRT2)** — the live music model you can play as an instrument; the flagship of the June 2026 *instrument turn*.
+- **Daydream** — "the first AI-native instrument for your DAW."
+- **Fender Studio Pro** — Fender's DAW with Moises stem separation and a smart studio assistant built in; "AI isn't the destination. Making music is."
+- **Maono PD500W** — "the world's first AI-powered hybrid microphone"; AI processing arriving in the capture hardware itself.
+- **Orchestria** — AI music engine with granular stem control.
+- **Wubble** — ethically-created royalty-free music, AI voiceovers and sound effects from prompts.
+- **Tencent MMAE** — Massive Multitask Audio Editing benchmark; the first comprehensive evaluation benchmark for speech and audio editing.
+- **Bandsintown Boost / Laylo AI Ticket-Sales Agent** — AI tools for touring artists: promotion boosting and an agent that sells tickets.
+- **Artist** (LA) — music-tech startup letting artists re-record classic tracks with AI-assisted vocal technology; Boy George's *Karma Chameleon* re-record was the first release. (Not to be confused with the generic use of the word elsewhere in this book.)
+- **Tringbox** — Indian AI background-music startup; seed-funded June 2026, also working with live venues.
 
 - **Marble / Marble 1.1 / WorldLabs API / RTFM** (World Labs / Fei-Fei Li) — first commercial generative world model; 40× faster than legacy VP workflow; 1.1 adds real-world location 3D reconstruction and restyling; the API generates persistent 3D worlds from text, images and video; RTFM is the real-time frame model.
 - **Genie 3 / Project Genie** (Google DeepMind) — research-grade world model; *Time* Best Inventions 2025; rolled out to Google AI Ultra in January 2026.
@@ -369,16 +391,24 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **NVIDIA Lyra 2.0** — explorable generative 3D worlds.
 - **NVPanoptix-3D** (NVIDIA) — single-image 3D indoor-scene reconstruction.
 - **Kimodo** (NVIDIA) — kinematic motion-diffusion model trained on 700 hours of mocap.
+- **Animotive Kimodo** — AI text-to-animation directly inside Unreal Engine, on the FAB Marketplace (a name collision with NVIDIA's Kimodo above; the two are separate products).
+- **NVIDIA MotionBricks** — real-time character animation at scale, without hand-crafted transitions or fine-tuning.
+- **MAMMA** — markerless motion-capture pipeline recovering SMPL-X parameters from multi-view video for two-person interaction.
+- **MetaHuman Animator Markerless Mocap Plugin** (Epic) — turn any video into mocap animation in Unreal; live on FAB.
+- **Mint** — rigs and animates a 3D model in ten minutes.
 - **InSpatio-WorldFM** — open-source real-time generative frame model.
 - **Code2Worlds** — workflow for generating 4D scenes with environmental/object generation and feedback refinement.
+- **PARSE** — framework for procedurally generating spatially grounded 3D scenes from part-level relational descriptions.
+- **DreamForge** — a sandbox for interactive worlds (July 2026; one-issue sighting, listed for the record).
+- **NVIDIA XR AI** — public beta for building AI agents for AR glasses and XR devices.
 - **OpenArt Worlds** — 3D navigable environments from a single prompt.
-- **Rodin / Hyper3D / Rodin Hyper 3D Gen 2** — high-precision 3D model generation.
+- **Rodin / Hyper3D / Rodin Hyper 3D Gen 2 / Rodin Gen-2.5** — high-precision 3D model generation; Gen-2.5 (June 2026) is the world's first 10-million-polygon AI 3D model — 1 million polygons in 4 seconds, scaling to 10M with skin-level microstructure detail.
 - **Meshy / Meshy 6 / Meshy Image-to-3D** — 3D model generation; Meshy 6 ships natively inside ComfyUI; Image-to-3D generates poses.
 - **Hitem3D** — high-resolution 3D generation.
 - **Microsoft Trellis 2** — native compact structured latents for 3D.
 - **ByteDance Seed3D 2.0** — 3D object generation from image or text.
 - **Pixel3D** (Tencent) — 3D object generation.
-- **Tripo 3.1** — 3D-asset creation; ComfyUI partner nodes.
+- **Tripo 3.1 / Tripo 8K Texture** — 3D-asset creation; ComfyUI partner nodes; 8K Texture (June 2026) applies 8192×8192 detail directly onto 3D models, preserving surface fidelity without upscaling.
 - **PATINA** (fal) — image or text to full PBR material maps.
 - **M-XR PBR Model** — 4K PBR material maps for 3D assets.
 - **CHORD** (Ubisoft La Forge) — open-sourced end-to-end PBR-material generation.
@@ -396,6 +426,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **SCAIL** — studio-grade character animation via in-context learning.
 - **Vanast** — garment-transferred human animation from images.
 - **CompHairHead** — one-shot 3D head avatars with deformable hair.
+- **FlexAvatar** — 3D head-avatar generation with partial supervision from a single image.
+- **Face Anything** — 4D face reconstruction from any image sequence.
 - **Reallusion Headshot 3** — digital-double creation.
 - **MoRo** (Meta) — human motion recovery via masked modelling for occlusions.
 - **Meta Sapiens 2** — pose estimation, body-part segmentation and surface normals.
@@ -404,7 +436,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Apple SHARP / LiTo** — photorealistic 3D view synthesis from a single image in under a second; LiTo is the surface light-field tokenisation method.
 - **Pixel3DMM** — screen-space single-image 3D face reconstruction.
 - **VISTA4D** (Netflix + Eyeline) — live-action to navigable 4D point clouds.
-- **SuperSplat / SuperSplat v2.16** (PlayCanvas) — free, open-source Gaussian-splat editor.
+- **SuperSplat / SuperSplat v2.16** (PlayCanvas) — free, open-source Gaussian-splat editor; the July 2026 release added collision/proxy-mesh generation (via splat-transform, exportable to GLB), software attribution and a histogram view.
 - **Spark 2.0** — open-source Gaussian-splat streaming framework; streamable LoD for WebGL2.
 - **PlayCanvas SOG / SplatTransform v2.0.0** — WebP-equivalent compression for Gaussian splats; SplatTransform v2 ships automatic high-quality collisions for splats.
 - **Cesium / CesiumJS / Cesium for Unreal** — geospatial 3D platform; Cesium agentic workflows let natural-language commands interact with 3D geospatial data; supports Gaussian splats natively.
@@ -413,10 +445,11 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Open3Dmap** — crowdsourced 3D mapping with Gaussian splats.
 - **Hyperscape / Hyperscape Capture** (Meta) — Gaussian-splat capture on Quest.
 - **Apple Vision Pro Personas** — Gaussian-splatting consumer feature.
+- **Gaussian Splats in Apple Maps** — announced at WWDC 2026: the Flyover feature rebuilt on Gaussian splatting; the splat pipeline's arrival in mass-market consumer software.
 - **Common Sense Machines** — converts 2D images into 3D digital assets (Google acquisition).
 - **AI-Enhanced LiDAR** — generative-AI-augmented LiDAR capture pipeline (June 2026) for scanning and reconstruction work in spatial production.
 - **NVIDIA Omniverse Fixer** — rendering-artefact removal for Gaussians.
-- **DecartAI / Decart LSD v2 / Decart Lucy 2.0** — real-time world transformation by voice; LSD v2 is real-time video-to-video; Lucy 2.0 is realtime world editing at 1080p/30fps.
+- **DecartAI / Decart LSD v2 / Decart Lucy 2.0 / Decart Mirage** — real-time world transformation by voice; LSD v2 is real-time video-to-video; Lucy 2.0 is realtime world editing at 1080p/30fps; Mirage (June 2026) restyles a shared screen live — claymation, oil painting, anime, or your own prompt.
 - **VoxeloAI** — 3D creation for e-commerce.
 - **Mosaic / Mosaic 3D** — 3D reconstruction.
 - **Depth Anything 3** (ByteDance) — visual-space recovery from any view.
@@ -437,6 +470,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Live Avatar** (Alibaba) — streaming real-time audio-driven avatar generation with infinite length.
 - **Avatar Forcing** — real-time interactive head-avatar generation for natural conversation.
 - **PersonaLive** — real-time expressive portrait animation.
+- **LongCat-Video-Avatar 1.5** (Meituan) — production-ready, open-source framework for audio-driven avatar generation.
 - **Weclone** — digital avatar built from a user's chat history.
 - **Particle6 / Tilly Norwood** — AI-performer studio and synthetic actress.
 - **Xania Monet** — AI music artist; Billboard chart entries; $3M Hallwood Media deal.
@@ -456,7 +490,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **OpenAI AgentKit / Agent Builder / ChatKit / Connector Registry / Eval Framework** — the developer-facing agent platform underneath most third-party agentic creative tools.
 - **Anthropic Claude Apps / Claude Skills / Claude Code / Claude Design / Claude for Legal / Anthropic Academy** — interactive Claude in workplace tools; the Skills framework powers Sony's 49-agent / 72-skill game-development stack; Claude Design ships prototypes/slides/one-pagers; Anthropic Academy is free Claude Code training.
 - **Claude Code Game Studios** — 49-agent, 72-skill coordinated AI game-development team.
-- **Gemini API Agents / Google Antigravity / Opal / Fabula / Google Stitch** (Google) — agentic capability surface across Google's stack; Antigravity is the agentic development platform; Opal is the no-code mini-app builder; Fabula is the interactive AI writing tool; Stitch generates mobile/web UI.
+- **Gemini API Agents / Google Antigravity / Opal / Fabula / Google Stitch / Google Skills for AI Agents** (Google) — agentic capability surface across Google's stack; Antigravity is the agentic development platform; Opal is the no-code mini-app builder; Fabula is the interactive AI writing tool; Stitch generates mobile/web UI; the official Skills repository is Google's cross-vendor answer to Anthropic's Skills framework.
 - **Heygen Video Agent** — end-to-end video-assembly agent.
 - **Adobe CX Enterprise / GenStudio / Adobe Film & TV Fund / Adobe Ignite Day** — agentic creative intelligence across the full content lifecycle; GenStudio is the brand-intelligence system for personalised content at scale.
 - **NVIDIA + Google Cloud / Avid + Google Cloud / Speechmatics in Adobe Premiere** — agentic-creative infrastructure partnerships; on-device speech-to-text inside Premiere.
@@ -490,10 +524,12 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Amazon Creative Agent** — agentic AI generating professional-quality ads.
 - **Playad** — AI marketing agents for ad creative.
 - **Moltbook** (Meta acquisition) — AI agent social network.
+- **Buzzy Canvas** — "your AI co-director"; a canvas-shaped direction agent for creative work.
+- **Grok Voice Agent Builder** (xAI) — no-code platform for creating human-like voice agents with Grok Voice.
 
 #### Legacy creative software, AI-augmented
 
-- **Adobe Creative Cloud** — Photoshop, Premiere Pro, After Effects, Illustrator, Express, Acrobat, plus the Express AI Assistant, the Premiere Object Mask, the Photoshop generative-fill, selection and Rotate Object tools, the Photoshop AI Assistant public beta, and Illustrator Turntable.
+- **Adobe Creative Cloud / Adobe Creative Agent** — Photoshop, Premiere Pro, After Effects, Illustrator, Express, Acrobat, plus the Express AI Assistant, the Premiere Object Mask, the Photoshop generative-fill, selection and Rotate Object tools, the Photoshop AI Assistant public beta, and Illustrator Turntable; the Creative Agent and AI Assistant went into beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io in June 2026.
 - **Adobe Sneaks 2025–26** — Adobe's research-preview portfolio shown at MAX 2025 and Summit 2026:
   - **Project Scene It** — image-to-3D and 3D-to-image with object tagging.
   - **Project Surface Swap** — AI-powered texture recognition and swap.
@@ -509,8 +545,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
   - **Corrective AI** — changes the emotional register of voice-overs.
   - **Edit-by-Track** (Adobe Research) — generative video motion editing with 3D point tracks.
 - **Adobe Acrobat** — AI converting PDFs into podcasts.
-- **Unreal Engine 5 / UE5 AI Assistant / UE5 AI Motion Plugin / Unreal to Gaussian Splat / Prompt-to-Player** (Epic) — official AI assistant; camera-only motion capture; UE5 scene-to-splat conversion; Prompt-to-Player generates 3D characters and auto-rigs/animates them.
-- **Unity / Unity AI Open Beta / Unity AI Council / Unity AI Tools Suite / Unity Prompt-a-Game** — in-editor AI suite for the full games pipeline; Prompt-a-Game demoed at GDC March 2026.
+- **Unreal Engine 5 / UE5 AI Assistant / UE5 AI Motion Plugin / Unreal to Gaussian Splat / Prompt-to-Player / Unreal MCP** (Epic) — official AI assistant; camera-only motion capture; UE5 scene-to-splat conversion; Prompt-to-Player generates 3D characters and auto-rigs/animates them; Unreal MCP and the AI rendering integrations were announced at the State of Unreal 2026.
+- **Unity / Unity AI Open Beta / Unity AI Council / Unity AI Tools Suite / Unity Prompt-a-Game** — in-editor AI suite for the full games pipeline; Prompt-a-Game demoed at GDC March 2026; the Unity AI tutorial series (June 2026) covers the AI Assistant and the official Unity MCP.
 - **Autodesk Maya / Autodesk Flow Studio / Autodesk Wonder 3D / Autodesk Flow Studio Rigging** — motion capture, 3D animation, generative 3D and neural rigging.
 - **Foundry / Nuke / Nano Banana × Nuke** — AI-augmented VFX; Weta FX / AWS collaboration; the Nuke node connecting Nano Banana through fal's API.
 - **SideFX Houdini** — procedural modelling with AI integration.
@@ -558,6 +594,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **escapeAI** (John Gaeta) — streaming apps for AI-generated content across Roku, Fire TV, Samsung and LG.
 - **Primordial Soup** (Darren Aronofsky) — AI production studio.
 - **Toonstar** — AI animation house.
+- **Utopai Studios** — AI film-and-TV studio; co-producing Silver Bear winner Hyo-Joo Yang's *Half Moon* and, with Huace, developing the fully AI-generated series *Journey to the West*.
 - **CinemersiveAbout Labs / Cinemersive Labs** — UK machine-learning and computer-vision company; acquired by Sony.
 - **My SMASH Media** — AI film startup with Allison Gardner (ex-Glasgow Film Festival).
 - **Framestore AI Platform / Framestore Futon** — ML and GenAI in the VFX pipeline.
@@ -613,6 +650,12 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Daughter of the Inner Stars** — Unreal Engine 5 AI-driven game.
 - **Genesis AI** — robot cooking and piano playing systems (demonstrating embodied agents).
 - **Quilty** — AI platform for script development and assessment.
+- **Higgsfield Games** — create and deploy multiplayer games from a single prompt.
+- **NVIDIA ACE Game Agent SDK** — with new Unreal Engine 5 plugins, for building responsive, on-device AI companions.
+- **The Sandbox Studio** — from idea to live multiplayer game in hours.
+- **ClarityQ** — game-native AI analytics platform for mobile game studios.
+- **Welevel SolidRiver** — AI-based city-building survival game; $8.5M in funding.
+- **Krafton PUBG AI Ally** — beta AI teammate in the new PUBG arcade mode.
 
 #### Marketing and advertising AI
 
@@ -635,6 +678,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Runway Ad Concepter App** — ad-concept and composition exploration.
 - **TikTok AI Agents for Ads** — TikTok ad-creation agents.
 - **Instagram Edits** — AI video generation for advertisers.
+- **ElevenLabs Ads Engine** — localise existing ads across 50+ languages and push the finished creatives back to the ad platform.
+- **WPP Hex** — WPP's studio putting "a different type of ad talent" — AI-native creatives — to the test.
 
 #### Open-source ecosystem and infrastructure
 
@@ -653,6 +698,12 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Open Vision Agents** — toolkit for building agents that watch, listen and understand video.
 - **NotebookLM** — Google's research-and-content-generation surface; cinematic video overviews launched March 2026.
 - **OpenAI Gym / Gym Retro / ARC** — research benchmarks (referenced in the games-AI literature).
+- **Awesome Stable Audio** (Stability AI) — curated list of integrations and extensions for Stable Audio.
+- **Open Generative AI** — open-source alternative to the commercial AI video platforms.
+- **Roboflow RF-DETR / RF-DETR Keypoints** — real-time transformer architecture for object detection and instance segmentation; the Keypoints release (June 2026) added state-of-the-art tracking.
+- **Roboflow supervision** — the open-source computer-vision utility library; 40,000 GitHub stars, powering 6,500+ open-source CV projects.
+- **NVIDIA TAO Skill Bank** — portable agent skills for training, evaluating and running inference on NVIDIA TAO models.
+- **Open Source Face Recognition SDK** (Faceplugin) — open-source face-recognition toolkit.
 
 #### ComfyUI ecosystem — nodes, extensions and workflows
 
@@ -677,7 +728,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Kling 3.0 ComfyUI node** — Kling 3.0 partner node.
 - **Kling Video 2.6 Motion Control** (ComfyUI) — Kling motion control inside ComfyUI.
 - **Kling Motion Control 3.0** (ComfyUI) — the v3 motion control variant.
-- **Seedance** (ComfyUI partner node) — Seedance inside ComfyUI.
+- **Seedance** (ComfyUI partner node) — Seedance inside ComfyUI; Seedance 2.0 Mini and 4K available from July 2026.
 - **LTX-2** (ComfyUI native support) — audio-video model natively supported.
 - **LTX-2 ComfyUI Audio-to-Video** — audio-driven video inside ComfyUI.
 - **ACE-Step 1.5** (ComfyUI) — full songs in under 10 seconds on <4 GB VRAM.
@@ -701,6 +752,13 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **VibeComfy** — agents that understand, build and run ComfyUI workflows with Claude.
 - **MooshieUI** — beginner-friendly ComfyUI desktop frontend.
 - **Creative Control Using ComfyUI on NVIDIA RTX** — NVIDIA's official ComfyUI/RTX tutorial series.
+- **Comfy MCP** — the official Model Context Protocol server, in public beta from July 2026; the first MCP built for production pipelines — agents build, edit and run workflows in plain language, with shareable, reproducible workflow URLs, running on Comfy Cloud with no local GPU required.
+- **Comfy Desktop** — one app for every Comfy; the desktop consolidation of the ecosystem.
+- **ComfyUI Utility Passes workflow** — generates production-ready VFX utility passes directly from footage.
+- **ComfyUI Face Swap workflow** — de-aging and face-replacement demo workflow.
+- **ComfyUI + Seedance 2.0 Storyboard workflow** — turn one idea into a complete storyboard, then animate it in Seedance 2.0 from a reference image.
+- **ComfyUI Three.js Motion Reference node** — custom node generating a 3D motion reference with Three.js.
+- **ComfyUI for VFX (ActionVFX) / Advanced ComfyUI (fxphd)** — the VFX-pipeline training layer: ActionVFX's tutorial collection and fxphd's *Generative Video Production for VFX* course.
 
 #### LoRAs, fine-tuning and training
 
@@ -720,6 +778,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Gaussian Splats Repair LoRA** — Klein-9b LoRA for repairing 3D views and geometry.
 - **LTX 2.3 Colorizer (LoRA)** — black-and-white footage colorisation.
 - **Music Finetunes in ElevenCreative** — stylistically consistent vocal and instrument generation.
+- **LTX 2.3 Audio Reactive LoRA** (fal) — open-source LoRA built for music-driven video generation.
+- **LTX 2.3 LoRA Trainers** (fal) — train custom LTX 2.3 LoRAs across 23 trainer endpoints.
 
 #### IP licensing, governance and behavioural-licence platforms
 
@@ -733,17 +793,21 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **ElevenLabs Heritage Voices / Iconic Marketplace (with CMG Worldwide and partners)** — heritage-voice licensing pipeline confined to a single text-to-speech Reader app, walled off from the general voice-cloning database; voices include Judy Garland, James Dean, Burt Reynolds, Laurence Olivier, the Stan Lee estate and Michael Caine.
 - **Meta Celebrity Chatbots (2023)** — the closed-static likeness-rental anti-pattern referenced for contrast in [Appendix L](A12_Deep_Dive_Programmable_Brand.md): high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community.
 - **Cannes AI Disclosure Standard** — industry-coordination labelling standard for production-side AI use; the inter-industry analogue of the per-platform governance layers above.
+- **Human Consent Registry** — identity-protection registry backed by Cate Blanchett, Steven Soderbergh and Nikki Hexum, framing protection from AI identity theft as "a human right."
 
 #### Provenance, watermarking and detection
 
 - **C2PA** (Content Authenticity Initiative / Adobe-led) — cryptographic provenance metadata standard.
-- **SynthID / SynthID Verification** (Google DeepMind) — synthetic-content watermark; deployed across Veo, Lyria and Imagen; verifiable inside Gemini.
+- **SynthID / SynthID Verification** (Google DeepMind) — synthetic-content watermark; deployed across Veo, Lyria and Imagen; verifiable inside Gemini; from June 2026, ElevenLabs-generated audio is detectable via SynthID under a DeepMind partnership.
 - **YouTube AI Detection / YouTube AI Deepfake Detection** — automated AI-content detection; *Tiny Grandma* false-positive case study.
-- **Deezer AI Music Detection** — identifies up to 75,000 fully AI-generated uploads per day.
+- **Deezer AI Music Detection** — identifies up to 75,000 fully AI-generated uploads per day; from June 2026, offered as a detector to *other* streaming services — the in-house tool becoming licensable infrastructure.
 - **Spotify AI Transparency Beta** — voluntary disclosure feature.
 - **Beeble** — detection and watermarking tools.
 - **Cloudflare AI Bot Classification** — public-web infrastructure tracking AI crawlers.
 - **Human Provenance AI Disclosure Standard (Cannes)** — industry-coordination labelling standard.
+- **RTM Audio UAI** — AI-music detector that issues a signed certificate with every verdict.
+- **Played By Humans** — verification badge for "human artistry in an AI age."
+- **Midnight Labs** — AI copyright-protection firm; Sony made a multi-million-dollar investment in June 2026.
 
 #### Consumer surfaces and distribution platforms
 
@@ -767,6 +831,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Netflix** — AI in production (de-aging, plates, retention engine, Ben Affleck studio acquisition).
 - **Disney+** — user-generated AI content features.
 - **Luna** (Amazon) — AI-powered Snoop Dogg game.
+- **Meta AI Creator Assistant** — AI creator assistant on Facebook, followed by an AI companion app for creators (June 2026).
 
 #### Studios, programmes, festivals and institutional infrastructure
 
@@ -793,6 +858,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Anthropic Joins Blender Development Fund** — patronage deal, May 2026.
 - **Sony AI ICASSP papers** — music-understanding and generative-audio research, April 2026.
 - **Google Flow Music + Believe Partnership** — AI music distribution partnership.
+- **Google Flow Resident Filmmaker Programme** — six-week Google Flow residency recruiting "the next wave of creatives across all mediums" (July 2026).
+- **VERSA Lab** (VERSA Studios) — future-format development platform for film and broadcast.
 
 #### Techniques, methods and recurring workflows
 
@@ -809,11 +876,11 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Camera Control / Multi-Angle Generation** — WAN Camera Control, ShotVerse, ATI, Multiple Angle Camera Control Node.
 - **Style Transfer (the ComfyUI handbook)** — the canonical workflow ladder for style transfer.
 - **Audio-Reactive Generation** — Audio Reactive Node Pack and the Lalal-API / ACE-Step pipelines.
-- **Real-Time Generation Pipelines** — Krea Realtime, MotionStream, Decart Lucy 2.0, Xmax X1, Phoenix-4, LTX-2.3 Real-Time on Scope; the *interactive-generation* category that emerged in Q1 2026.
+- **Real-Time Generation Pipelines** — Krea Realtime, MotionStream, Decart Lucy 2.0 and Mirage, Xmax X1, Phoenix-4, LTX-2.3 Real-Time on Scope, NVIDIA SANA-Streaming, Magenta RealTime 2; the *interactive-generation* category that emerged in Q1 2026 and reached instruments and screens by the summer.
 - **Agentic Workflows / Multi-Agent Stacks** — Sony Game Studios (49 agents, 72 skills), Adobe CX Enterprise, OpenAI AgentKit, Heygen Video Agent, Claude Skills.
 - **Provenance-First Capture** — C2PA + SynthID + on-device detection in Premiere and YouTube as the emerging *standard* of provenance-aware production.
 - **Music Stem Separation as a primitive** — Lalal AI, StemDeck, BandLab — stem separation moving from end-product to upstream primitive.
-- **MCP (Model Context Protocol) as the connective tissue** — Unity MCP, Blender MCP, fal MCP; the protocol the agentic creative ecosystem is converging on.
+- **MCP (Model Context Protocol) as the connective tissue** — Unity MCP, Blender MCP, fal MCP, and — in the June–July 2026 wave — Comfy MCP, Unreal MCP, Magnific MCP, Higgsfield MCP and the Runway MCP inside ChatGPT; the protocol the agentic creative ecosystem converged on.
 - **Brief-First, Generate-Second** — the workflow practice the book argues for in Chapter 11 (and Chapter 16's *toolchain in layers* section below).
 
 This is the catalogue. By the time you read it, it will be incomplete — new tools have shipped, some on this list have been bought, renamed or killed. Treat it as a snapshot of one year of toolchain at the moment the toolchain became a stack rather than a list, and use it to orient yourself in whatever the state of play is when you pick the book up.
@@ -845,6 +912,8 @@ The transition is going to keep going. The tools will keep changing. The work th
 [^1]: OpenAI, "Sora 2 is here," 30 September 2025. <https://openai.com/index/sora-2/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
 [^2]: LinkedIn News aggregation: "Sora Tops 1 Million Downloads in 5 Days." <https://www.linkedin.com/news/story/sora-tops-1m-downloads-in-5-days-6684988/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
+
+[^2a]: OpenAI's staged wind-down of Sora, announced 24 March 2026 — consumer app and website ending late April, developer API closing late September; peak revenue reportedly ~$540k per month against operating costs in the billions. Sources and the corrected Disney–OpenAI record are set out in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md), references 15–16.
 
 [^3]: Google DeepMind, Veo 3.1 launch, mid-October 2025. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
 
@@ -957,3 +1026,21 @@ The transition is going to keep going. The tools will keep changing. The work th
 [^57]: *Video Games Chronicle*, "Epic Games Veteran Claims He's Building AI-Heavy 'Fully European' Game Engine." <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 [^58]: PhotoGIMP — the open-source GIMP skin that mimics Photoshop. <https://github.com/Diolinux/PhotoGIMP>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^59]: *The Decoder*, "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation." <https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/>. Dreamina Seedance 2.0 Mini: <https://dreamina.capcut.com/seedance/seedance-2-0-mini>. Seedance 2.0 Mini and 4K in ComfyUI: <https://blog.comfy.org/p/seedance-20-mini-and-4k-is-now-available>. *Dream Machine* Issues [34](../Dream%20Machine%20MD/34.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^60]: Runway API Recipes: <https://runwayml.com/api>. Runway MCP in ChatGPT: <https://runwayml.com/mcp>. Runway Agent 2 ad localisation: <https://runwayml.com/news/introducing-agent-2>. *Dream Machine* Issues [34](../Dream%20Machine%20MD/34.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^61]: Google Magenta RealTime 2: <https://magenta.withgoogle.com/magenta-realtime-2>. Daydream: <https://daydream.live/>. *MusicRadar* on Fender Studio Pro and Moises: <https://www.musicradar.com/music-tech/daws/ai-isnt-the-destination-making-music-is-fender-looks-forward-as-its-studio-pro-daw-integrates-moises-stem-separation-and-a-smart-studio-assistant>. *MusicTech* on the Maono PD500W: <https://musictech.com/news/gear/maono-pd500w/>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [35](../Dream%20Machine%20MD/35.md).
+
+[^62]: Suno, "Introducing Spark." <https://suno.com/blog/introducing-spark>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^63]: Comfy MCP public beta. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^64]: Epic Games, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. Magnific MCP: <https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp>. Higgsfield MCP: <https://higgsfield.ai/mcp>. Runway MCP: <https://runwayml.com/mcp>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^65]: Adobe, "Adobe unveils major expansion" — Creative Agent and AI Assistant in beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io. <https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^66]: Epic Games, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^67]: Radiance Fields, "Apple Maps Flyover is getting a Gaussian splatting upgrade." <https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).

@@ -9,7 +9,7 @@
 
 - **Total fetched and parsed articles**: 1,388.
 - **Total captured words across the corpus**: ~1,099,216 (~6,945,361 characters of post-extraction text).
-- **Source span**: 32 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 4 June 2026 (the quantitative tables in §A1–A6 below cover the analytic window of Issues 1–29; **Issue 30** (21 May 2026), **Issue 31** (1 June 2026), and **Issue 32** (4 June 2026) are documented in §A7 as post-cut supplemental data, and are incorporated narratively into the closing material across the body chapters).
+- **Source span**: 36 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 2 July 2026 (the quantitative tables in §A1–A6 below cover the analytic window of Issues 1–29; **Issue 30** (21 May 2026), **Issue 31** (1 June 2026), and **Issue 32** (4 June 2026) are documented in §A7 as post-cut supplemental data; **Issues 33–36** (9 June – 2 July 2026) and the World Cup deep dive (Appendix M) are documented in §A8. All are incorporated narratively into the closing material across the body chapters).
 - **Average articles per newsletter edition** (in this corpus): ~48.
 - **Capture rate** against the full curated URL set: **91.4%** (1,438 of 1,574 URLs returned readable content; the remainder hit bot-detection, 404s, or live-page connection issues).
 
@@ -237,6 +237,38 @@ The analytic corpus underlying §A1–A6 closes at *Dream Machine* Issue 29. **I
 | Lisa Nandy (UK Culture Secretary) SXSW London admission that government "got it wrong" on AI copyright | — | *Screen Daily*, 1 June 2026 |
 
 **Reading note.** Issue 30's headline tool releases (Gemini Omni, Beeple Canvas, Sony Woosh, Mirelo SFX 1.6, Tencent Ardot, Odyssey Starchild-1 / Agora-1, NVIDIA SANA-WM, Apple Headsup, Stable Audio 3.0, PhotoGIMP, Tamber, ECABridge, Claude/ComfyUI) lift the cumulative tool count in §A5 by roughly **a dozen entries in a single week**. The May-2026 cadence is the highest single-week tool-release count in the period the book covers, and reads — in the context of the §A5 average of 7.5 new platforms per *month* — as a Google-I/O-week saturation point. Issue 31 settles back toward that prior cadence, with the focus shifting from raw tool releases to the *IP-and-licensing turn* (Spotify–UMG, Hasbro Sixth Wall, the Disney–OpenAI corrected record) and the *creator-attitudes* data from the Epidemic Sound report — the dataset that anchors the closing argument of [Chapter 13](13_Coordination_Collapse.md) and the *three Cs* framework in [Chapter 6](06_The_88_Percent.md). Issue 32 brings a further cluster of major model releases (NVIDIA Cosmos 3 — omnimodal world model, released 31 May 2026, rated best open-source T2I and I2V by Artificial Analysis) and infrastructure investments (Roblox acquires Morpheus AI for video world models; Tripo AI raises ~$200M for AI 3D and world model tech / Project Eden) alongside the policy and industry datapoints recorded in the table above. The Issue 32 financial headline — Suno's $5.4B valuation alongside active UMG and Sony litigation — is the cleanest single data point on the financial reality of the creative-AI market in mid-2026: the licensing fights and the capital markets are running in parallel, not sequentially.
+
+## A8. June–July 2026 supplemental: the Issue-33 to Issue-36 and World Cup datapoints
+
+**Issue 33** (9 June 2026), **Issue 34** (16 June 2026), **Issue 35** (23 June 2026) and **Issue 36** (2 July 2026) extend the post-cut record established in §A7, alongside the World Cup deep dive of 12 June 2026 (preserved as Appendix M). Issue 33 catches the **AFM v. UMG/Warner suit and the UK's AI Adoption Plan for the Creative Industries**; Issue 34 catches the **licensing-and-labour-market turn** (NMPA–Udio/Klay, Runway–Lionsgate equity, the PwC salary-premium finding, the Steam disclosure count) and the **World Cup Editor's Pick**; Issue 35 catches the **Unreal Engine AI/MCP announcements, the NO FAKES letter and the A24–Google deal**; Issue 36 catches the **ComfyUI/Comfy MCP inflection, the Adobe–Topaz acquisition and the games-volume data**. The numerical datapoints worth recording here in standalone form:
+
+| Datapoint | Value | Source |
+|---|---:|---|
+| Salary premium for AI skills across UK sectors (PwC) | 34% | UKTN / PwC, June 2026 |
+| Monthly AI spend per employee, top 1% of firms (Ramp AI Index) | $7,500 | Ramp, June 2026 |
+| Steam releases in one week carrying AI disclosures | 120 of 300+ | *PC Gamer*, June 2026 |
+| Mobile games released in six months (AI and vibe coding) | 181,000 | *Digital Trends*, July 2026 |
+| Signatures on SAG-AFTRA letter demanding the NO FAKES Act | 16,000+ | *Variety*, June 2026 |
+| NMPA–Udio/Klay licensing split for songs and recordings | 50/50 | *Complete Music Update*, June 2026 |
+| Lionsgate annual AI savings claimed (Michael Burns), alongside an equity stake in Runway | "tens and tens of millions" | *Deadline* / Runway, June 2026 |
+| Claimed animation cost reduction with AI (filmmakers) | 90% less | *Bloomberg*, June 2026 |
+| ComfyUI users | 4M+ | *Dream Machine* Issue 36 |
+| ComfyUI GitHub stars / community-built nodes | 89,000+ / 60,000+ | *Dream Machine* Issue 36 |
+| ComfyUI April 2026 round / valuation / total raised | $30M / $500M / $48M | *Dream Machine* Issue 36 |
+| Odyssey Series B (world models) | $310M | Odyssey, June 2026 |
+| Higgsfield revenue (eyeing a $5B funding round) | $500M | *TechTimes*, June 2026 |
+| General Intuition raise / valuation (gameplay-trained frontier models) | $320M / $2.3B | *GamesBeat* / *TechCrunch*, June 2026 |
+| World Cup players scanned for photoreal digital twins / scan duration | 1,248 / 1 second each | FIFA / Lenovo, June 2026 |
+| World Cup teams / matches / projected viewers | 48 / 104 / 6bn | FIFA / Lenovo, June 2026 |
+| Projected incremental global ad spend, Q2 2026, on the tournament (WARC) | $10.5bn | WARC, June 2026 |
+| FIFA Roblox presence: total visits / daily gameplay sessions | 1.1bn+ / 1.5M | Gamefam / Roblox, June 2026 |
+| Fake FIFA-related websites identified before kick-off | 4,300+ | Security researchers, June 2026 |
+| Host-city sponsorship investment in the year before the tournament | $725M | SponsorUnited / Goal.com, June 2026 |
+| Adidas "Backyard Legends" campaign (AI de-aging of three legends) | ~$1bn | Mission Media, June 2026 |
+| US programmatic ad spend, 2026 (machine-bought) | $203bn+ | Appendix M, June 2026 |
+| Streaming share of all US TV viewing | 47.5% | Appendix M, June 2026 |
+
+**Reading note.** Two clusters carry the weight here. The first is the **labour-and-licensing cluster**: PwC's 34% salary premium and Ramp's $7,500-per-employee-per-month top-percentile spend are the two cleanest signals that AI capability had become a priced labour-market asset by mid-2026, while the NMPA's 50/50 split with Udio and Klay — set against the AFM's simultaneous suit over the UMG and Warner deals — shows the licensing architecture and the labour resistance maturing in the same fortnight. The second is the **scale cluster**: 120 AI disclosures in a single week of Steam releases and 181,000 mobile games in six months are the games-industry version of the Deezer 44% figure in [Chapter 5](05_The_Slop_Ceiling.md) — volume without gatekeeping — while the World Cup rows record the largest live deployment of the full AI stack in entertainment history, the empirical anchor for the storyworld argument of [Chapter 8](08_Worlds_Not_Pictures.md). The ComfyUI rows (4M users, 60,000+ community nodes, a $500m valuation) close the arc that §A5's tool table opens: the open node-graph layer, not any single model, is where the professional market consolidated.
 
 
 ---

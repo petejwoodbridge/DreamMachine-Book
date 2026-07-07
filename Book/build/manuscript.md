@@ -10,9 +10,9 @@ I sat down on a Monday morning in early October, opened a blank LinkedIn article
 
 *"It's time to take AI seriously."*
 
-I sent that issue out to a few hundred people in my network. I assumed I'd do it for a month, maybe two — that the wave would pass, or that I'd run out of material, or that someone with a bigger platform would do it better. Eight months later, the newsletter has 3,800-odd subscribers, thirty-two published editions, several thousand curated links, and a community of people in the North West of England — the **DreamLab Collective**, around fifty of us across labs in Manchester, Liverpool, Cumbria and London — who help me read, sift, argue and build around it every week.[^00foreword-5]
+I sent that issue out to a few hundred people in my network. I assumed I'd do it for a month, maybe two — that the wave would pass, or that I'd run out of material, or that someone with a bigger platform would do it better. Nine months later, the newsletter has 3,800-odd subscribers, thirty-six published editions, several thousand curated links, and a community of people in the North West of England — the **DreamLab Collective**, around fifty of us across labs in Manchester, Liverpool, Cumbria and London — who help me read, sift, argue and build around it every week.[^00foreword-5]
 
-This book is the thing that happens when you keep a careful, public record of an industry coming apart and putting itself back together inside the same eight months.
+This book is the thing that happens when you keep a careful, public record of an industry coming apart and putting itself back together inside the same nine months.
 
 ---
 
@@ -28,10 +28,10 @@ In parallel to the studio work I've developed innovation and investment programm
 
 I'm not an AI evangelist. I'm also not an AI sceptic. I'm the kind of practitioner who has had Marble running on a beta key for months and who has also sat in a room with a games studio CEO who used the phrase "AI was an expensive mistake" without breaking eye contact.[^00foreword-7] I have built things with these tools and I have watched them break. I'm writing this book from inside the work — and writing it, by the way, in the same voice I write the newsletter in, which is the same voice I argue with my team in, which is the same voice (give or take a bracket) you'll hear if we ever end up in a pub together. A fuller version of the bio and a fuller picture of DreamLab — including the studio's client list, recognition and structural position inside the UK creative-tech ecosystem — sits in the [About the author, and about DreamLab](Z1_About.md) section at the back of the book.
 
-Through the eight months the book covers, I have been doing three things in parallel:
+Through the nine months the book covers, I have been doing three things in parallel:
 
 - **Running DreamLab**, the ~50-person studio above, which uses every major AI platform discussed in this book in live production. We have been a closed-beta partner for World Labs' Marble since October 2025.
-- **Writing the *Dream Machine* newsletter** — thirty-two weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives at the time of publication.
+- **Writing the *Dream Machine* newsletter** — thirty-six weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives at the time of publication.
 - **Building out a small set of analytical frameworks** — the *Human–AI Agency Continuum* (Chapter 3), the *Slop Ceiling* (Chapter 5), the *Four Positions* map of studio strategy (Chapter 7), the *Year of the Orchestrator* (Chapter 11), *Coordination Collapse* and the *Consumption Gap* (Chapter 13), the *AI Literacy Premium* and the *Apprenticeship Gap* (Chapter 14), the *Four Principles* of a humane creative economy (Chapter 15), and the *Seven-Layer Toolchain* model (Chapter 16) — that have begun, over the period, to circulate in the wider industry conversation.
 
 The combination of the three is unusual. The trade-press journalists write the coverage but do not, on the whole, run studios. The studio operators run studios but do not, on the whole, publish a public weekly record. The academics produce research, sometimes excellent, but at the cadence of academia rather than the cadence of the transition. The platform companies produce material at the cadence of their own product cycles. Working from across the three positions at once, week by week, has produced a particular kind of vantage point — neither outside the work nor confined to one slice of it — that I have not seen anyone else holding consistently through this period.
@@ -156,7 +156,12 @@ Welcome to the Dream Machine.
 - **[Appendix E: Dynamics of Generative AI Adoption](A5_Deep_Dive_Adoption_Dynamics.md)** — the consumption-gap evidence
 - **[Appendix F: AI, Stigma, Privilege, Democratisation](A6_Deep_Dive_AI_Stigma.md)** — the class question
 - **[Appendix G: The Age of Intent](A7_Deep_Dive_AI_Intent.md)** — the philosophical spine
-- **[Appendix H: The Dream Machine Source Index](A8_Source_Index.md)** — thematic catalogue of every significant source across the 32 issues
+- **[Appendix H: The Dream Machine Source Index](A8_Source_Index.md)** — thematic catalogue of every significant source across the 36 issues
+- **[Appendix I: The Doomer Mistake](A9_Deep_Dive_Doomer_Mistake.md)** — the long-form rebuttal of the AI-eliminates-creative-jobs framing
+- **[Appendix J: The Process Trap](A10_Deep_Dive_Process_Trap.md)** — why the *creative* / *creatives* equivocation collapses under generative abundance
+- **[Appendix K: Coordination Collapse (extended)](A11_Deep_Dive_Coordination_Collapse.md)** — hierarchy as information-routing protocol, and what replaces it
+- **[Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md)** — from IP-as-asset to IP-as-environment
+- **[Appendix M: The World Cup Storyworld](A13_Deep_Dive_World_Cup.md)** — the 2026 World Cup as the largest live AI deployment in entertainment history
 
 [^00foreword-1]: Variety, "SAG-AFTRA Condemns Tilly Norwood: AI Actress Is Not an Actor," 30 September 2025. <https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/>. See also NBC News, "Tilly Norwood, fully AI 'actor,' blasted by actors union SAG-AFTRA for 'devaluing human artistry'." <https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-fully-ai-actor-blasted-actors-union-sag-aftra-devaluing-rcna234685>. Discussed in [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) (6 October 2025).
 
@@ -166,7 +171,7 @@ Welcome to the Dream Machine.
 
 [^00foreword-4]: OpenAI, "Sora 2 is here," announcement page, 30 September 2025. <https://openai.com/index/sora-2/>. The model launched alongside an invite-only iOS app of the same name in the U.S. and Canada. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) carried the launch alongside contemporaneous coverage from NBC News and *The Guardian* on the model's first copyright and safety incidents.
 
-[^00foreword-5]: *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[32](../Dream%20Machine%20MD/32.md), October 2025 – June 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
+[^00foreword-5]: *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[36](../Dream%20Machine%20MD/36.md), October 2025 – July 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
 
 [^00foreword-6]: DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>. Referenced from [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md) onward.
 
@@ -189,9 +194,9 @@ Welcome to the Dream Machine.
 
 # Reader paths
 
-*This is a book about creative AI in the eight months between October 2025 and June 2026. It is not a tools guide. It is an argument, with the evidence underneath, about what kind of creative economy is being built right now and what we should do about it.*
+*This is a book about creative AI in the nine months between October 2025 and July 2026. It is not a tools guide. It is an argument, with the evidence underneath, about what kind of creative economy is being built right now and what we should do about it.*
 
-You can read this book straight through. It is built to reward that. The book has eighteen sections — a combined Foreword, seventeen chapters, an Epilogue — plus twelve appendices, sequenced so that each one earns the next.
+You can read this book straight through. It is built to reward that. The book has eighteen sections — a combined Foreword, seventeen chapters, an Epilogue — plus thirteen appendices, sequenced so that each one earns the next.
 
 If you don't have time for that, here are six ways into the book that will save you from reading something that doesn't serve you yet. Pick one. Come back to the rest later.
 
@@ -213,7 +218,7 @@ Read **Chapter 5 (The Slop Ceiling)** first — it's where most of the music-spe
 
 #### If you are working in (or covering) film, TV or games
 
-Read **Chapter 1 (The Day Sora Landed)** for the watershed scene-setter, **Chapter 7 (The Studios Decide)** for the strategic map of how the industry has positioned itself, **Chapter 8 (Worlds, Not Pictures)** for what is coming next, **Chapter 11 (The Orchestrator)** for what it means for working roles, and **Chapter 14 (The New Jobs)** for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read **Appendix J (The Process Trap)**.
+Read **Chapter 1 (The Day Sora Landed)** for the watershed scene-setter, **Chapter 7 (The Studios Decide)** for the strategic map of how the industry has positioned itself, **Chapter 8 (Worlds, Not Pictures)** for what is coming next, **Chapter 11 (The Orchestrator)** for what it means for working roles, and **Chapter 14 (The New Jobs)** for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read **Appendix J (The Process Trap)**. And for the storyworld template that Chapter 8 argues is coming for every entertainment franchise — demonstrated live, at six-billion-viewer scale — read **Appendix M (The World Cup Storyworld)**.
 
 #### If you want the empirical case against the AI-doomer policy framing
 
@@ -222,6 +227,10 @@ Read the **Foreword**, **Chapter 14 (The New Jobs)** for the labour-market readi
 #### If you are working in (or covering) IP, licensing, brand strategy or legal architecture
 
 Read **Chapter 6 (The 88%)** for the political mandate the licensing-side conversation rests on, then **Chapter 7 (The Studios Decide)** — particularly the new *Position Five: Own the rails* section on Hasbro's Sixth Wall, the CharacterOS governance layer and the corrected record on the Disney–OpenAI deal that never executed — and then **Chapter 12 (Authenticity as the New Scarcity)** for the provenance and disclosure infrastructure that the IP layer sits inside. **Appendix L (The Programmable Brand)** is the long-form treatment: the *three Cs* (consent, credit, compensation) framework, the five-licensing-model comparison, the Coase / Williamson / Barney economic foundations, and the conceptual move from *IP as asset* to *IP as environment*.
+
+#### If you are working in (or covering) sport, live events or broadcast
+
+Read **Appendix M (The World Cup Storyworld)** first — the 2026 FIFA World Cup as the largest live deployment of AI in entertainment history: officiating, broadcast, the Roblox second venue, the creator flywheel, the synthetic-rights precedent and the robot dogs. Then **Chapter 8 (Worlds, Not Pictures)** for the storyworld architecture it demonstrates, **Chapter 12 (Authenticity as the New Scarcity)** for why the live, verifiably human moment is where the premium migrates, and **Chapter 7 (The Studios Decide)** for the own-the-rails strategy FIFA is executing.
 
 #### If you are reading this in a class, a book club, or as part of training
 
@@ -897,6 +906,8 @@ The simplest way to put it is this: when everything online can be faked, cloned 
 
 You can see this argument being made, all over the creative industries, by people who have nothing else in common. Adam Mosseri, the head of Instagram, said in early January 2026 that the platform should focus on "fingerprinting real media" rather than tracking and disclosing AI slop — that is, the policy should be to identify and amplify provably human-authored content rather than to play whack-a-mole with the synthetic stuff. His framing was telling: *"Everything that made creators matter — the ability to be real, to connect — is now accessible to anyone with the right tools."*[^04deadintern-9] The platform head was acknowledging, on the record, that the previous decade's content-creation moat had been completely flooded. The only remaining moat was *being a person you could verify was a person.*
 
+Even that moat is now under direct commercial assault. In June 2026, the *Guardian* reported on brands deploying **AI-generated influencers** to promote products on social media — synthetic people engineered to occupy exactly the territory Mosseri had identified as the last defensible one: the ability to be real, to connect.[^04deadintern-9a] The platforms' first regulatory response is telling about where the economic nerve actually sits. The same month, **TikTok banned AI-generated voices in shopping livestreams**[^04deadintern-9b] — not on aesthetic principle, but because the point of sale is the one place where synthetic sincerity carries an immediate, measurable commercial cost. Where trust is transactional, the platforms are already legislating the synthetic out. Where it is merely cultural, they are still letting it flood in.
+
 Sundance Institute, launching its AI Literacy Initiative the same month, framed authentication and authorship as the central question filmmakers needed to negotiate to remain in control of their own work.[^04deadintern-10] Bandcamp, the indie music platform that has always carried more cultural weight than its commercial size implied, simply banned AI-generated music outright in early 2026.[^04deadintern-11] San Diego Comic-Con drew the same line for its 2026 art show, with rule language as flat as anything in the cultural sector: *"Material created by Artificial Intelligence (AI) either partially or wholly, is not allowed in the art show. If there are questions, the Art Show Coordinator will be the sole judge of acceptability."*[^04deadintern-12]
 
 These are not, on their own, market signals — they are policy decisions. But they were being made, in early 2026, against a backdrop of audience behaviour that suggested something larger. Deezer reported in April 2026 that AI-generated music had risen to **44% of all daily uploads** — 75,000 tracks a day, more than 2 million a month — but that those tracks accounted for **between 1% and 3% of total streams.**[^04deadintern-13] The audience, given the choice, was choosing not to listen.
@@ -959,7 +970,7 @@ The second layer is **edit-time chain-of-custody**. C2PA-compatible editing soft
 
 The third layer is **upload-time platform integration**. By 2026, Adobe's Behance, Vimeo's pro tier, the AP and Reuters wire services, and a growing list of news publishers have integrated C2PA-aware upload pipelines that preserve the chain through their content-management systems and embed it into the public-facing version of the work. The reader's browser, with the right extension or platform-level support, can inspect the chain and verify the provenance claim. Adam Mosseri's January 2026 framing of Instagram's *"fingerprinting real media"* approach was Instagram joining this third layer at the platform-distribution end.[^04deadintern-9]
 
-The fourth layer is **detection and watermarking for synthetic content**. SynthID, Google DeepMind's watermarking system, is the most mature commercially-deployed example. SynthID embeds a statistically-detectable but human-imperceptible signal into the output of Veo (video), Lyria (audio) and Imagen (image) generations. The signal survives most common transformations — crops, recompressions, low-quality re-encodings. By December 2025, Google had shipped a consumer-facing version inside the Gemini app: a user could upload a video and ask *"Is this AI-generated?"* and receive a yes/no answer based on the SynthID signature.[^04deadintern-6] The same kind of watermarking is being deployed, with varying technical robustness, across the other major generative platforms.
+The fourth layer is **detection and watermarking for synthetic content**. SynthID, Google DeepMind's watermarking system, is the most mature commercially-deployed example. SynthID embeds a statistically-detectable but human-imperceptible signal into the output of Veo (video), Lyria (audio) and Imagen (image) generations. The signal survives most common transformations — crops, recompressions, low-quality re-encodings. By December 2025, Google had shipped a consumer-facing version inside the Gemini app: a user could upload a video and ask *"Is this AI-generated?"* and receive a yes/no answer based on the SynthID signature.[^04deadintern-6] The same kind of watermarking is being deployed, with varying technical robustness, across the other major generative platforms — and the detection layer is spreading across vendors: in the summer of 2026, **ElevenLabs**, the dominant audio-AI platform, announced a partnership with Google DeepMind to make ElevenLabs-generated audio detectable through the same SynthID pipeline.[^04deadintern-22] ([Chapter 12](12_Authenticity_New_Scarcity.md) covers the cross-vendor SynthID rollout in detail.)
 
 Layered together, the four levels produce a structural answer to the Dead Internet question. Capture-time signing tells you *this was taken by a real device.* Edit-time chain-of-custody tells you *here is what was done to it after capture.* Platform integration tells you *the publisher has preserved the chain.* SynthID and equivalent watermarks tell you *this output was generated by an AI system.* No single layer is sufficient on its own. All four, deployed together, produce a *verifiable provenance signal* that the audience can — in principle — use to decide what to spend their finite attention on.
 
@@ -975,9 +986,11 @@ The story we are mostly told, by toolmakers and platforms and the optimistic sid
 
 I do not think this is true any more. I think what the bot statistics, the Dutch experiment, the model-collapse research, and the audience response to AI music collectively show, is that the architecture itself — the rails on which all this is running — was already broken, and that AI is just the load that has finally exposed how broken it was.
 
-The Dead Internet, in this reading, is not a thing AI is doing to us. It is a thing the web's architecture was already drifting towards — attention-monopolised, identity-collapsed, provenance-blind, optimised for machine-readable metadata rather than human-meaningful work — and AI is the technology that has shown us the destination.
+The Dead Internet, in this reading, is not a thing AI is doing to us. It is a thing the web's architecture was already drifting towards — attention-monopolised, identity-collapsed, provenance-blind, optimised for machine-readable metadata rather than human-meaningful work — and AI is the technology that has shown us the destination. (There is a small, almost perfect irony in how the platforms are responding: in June 2026, YouTube rolled out AI-powered comment filtering — machines deployed to clean up what is, in meaningful part, machine-generated noise. Machines reading machines, now with machines moderating them.[^04deadintern-24])
 
 The *Living Web* — and this is where I find the actual reason for the rest of this book — is something that has to be deliberately built. It is the part of the internet where authorship is provable, where attribution is durable, where attention is allocated on something other than virality, where the architecture itself supports the kind of work that humans do well together. None of that comes for free. None of it is a side-effect of better AI models.
+
+I am not the only person making this argument, and I am nowhere near the best qualified. In June 2026, **Tim Berners-Lee** — the man who invented the World Wide Web — said it publicly and plainly: *"We can fix the internet."*[^04deadintern-23] The verb is the point. *Fix* is a builder's word, not a mourner's. The person who designed the original architecture is saying, on the record, that the architecture is broken *and repairable* — which is precisely the wager the Living Web rests on.
 
 We have to make it. On purpose. In the next twelve months.
 
@@ -1000,6 +1013,10 @@ That is the project the rest of this book is about.
 [^04deadintern-8]: Futurism, "Researchers built a social network with only AI agents — within hours it had collapsed into warring tribes." <https://futurism.com/social-network-ai-intervention-echo-chamber>. [*Dream Machine* Issue 4](../Dream%20Machine%20MD/4.md).
 
 [^04deadintern-9]: *Digital Music News*, "Instagram Chief Says We Should 'Fingerprint Real Media' Instead of Tracking and Disclosing AI Slop." <https://www.digitalmusicnews.com/2026/01/05/instagram-chief-ai-slop-comments/>. See also *WebProNews*, "Instagram Head Warns AI Images Erode Trust, Calls for Verification Standards." <https://www.webpronews.com/instagram-head-warns-ai-images-erode-trust-calls-for-verification-standards/>. [*Dream Machine* Issue 13](../Dream%20Machine%20MD/13.md).
+
+[^04deadintern-9a]: *The Guardian*, "Brands using AI-generated influencers to promote products on social media." <https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^04deadintern-9b]: *Social Media Today*, "TikTok bans AI-generated voices in shopping livestreams." <https://www.socialmediatoday.com/news/tiktok-bans-ai-generated-voices-in-shopping-livestreams/822977/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
 [^04deadintern-10]: Sundance Institute, "Centering the Artist: Why We're Launching the AI Literacy Initiative." <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
@@ -1024,6 +1041,12 @@ That is the project the rest of this book is about.
 [^04deadintern-20]: *Adweek*, "Coca-Cola Uses AI to Rekindle the Magic of Its Holiday Ads." <https://www.adweek.com/creativity/coca-cola-uses-ai-to-rekindle-the-magic-of-its-holiday-ads/>. [*Dream Machine* Issue 6](../Dream%20Machine%20MD/6.md).
 
 [^04deadintern-21]: *AI News*, "AI causes reduction in users' brain activity, MIT." <https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
+
+[^04deadintern-22]: ElevenLabs, "Detecting audio generated by ElevenLabs with SynthID" (partnership with Google DeepMind). <https://elevenlabs.io/blog/synthid>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^04deadintern-23]: *Business Today*, "'We can fix the internet ...' says World Wide Web inventor Tim Berners-Lee." <https://www.businesstoday.in/technology/news/story/we-can-fix-the-internet-says-world-wide-web-inventor-tim-berners-lee-538947-2026-06-24>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^04deadintern-24]: *Social Media Today*, "YouTube adds AI-powered comment filtering." <https://www.socialmediatoday.com/news/youtube-adds-ai-powered-comment-filtering/823939/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 
 # Chapter 5 — The Slop Ceiling
@@ -1055,6 +1078,8 @@ By **the end of November 2025**, an Israeli streaming-analytics firm reported th
 By **April 2026**, the number was 75,000 a day, on Deezer alone, and *44% of total new uploads.*[^05theslopcei-5] Deezer's own statement on its findings was unusually direct for a streaming company: *"AI-generated music is now far from a marginal phenomenon, and as daily deliveries keep increasing, we hope the whole music ecosystem will join us in taking action to help safeguard artists' rights and promote transparency for fans."* Universal Music Group's CEO, in a January memo widely circulated in the music press, called it the "exponential growth of AI slop on streaming services," adding, in language unusual for a major-label communications stance: *"Let me be clear: UMG will not stand by and watch irresponsible business models take hold — models that devalue artists, fail to provide adequate compensation for their work, stifle their creativity and ultimately, diminish their ability to reach audiences."*[^05theslopcei-6]
 
 This isn't a sector trend. The same pattern is showing up everywhere I look. In January 2026, *Music Business Worldwide* reported that **56.9%** of new independent songs released in China were AI-generated.[^05theslopcei-7] In March 2026, the term "**podslop**" — synthetic AI podcasts churned out by content farms — entered the trade press, with the *Wrap* reporting that one such operation, Inception Point AI, was producing 3,000 episodes a week.[^05theslopcei-8] By the time of Issue 28 in early May, *almost half* of new podcast feeds being added to the major directories were classified by aggregator companies as AI-generated, with little or no human host involvement.[^05theslopcei-9]
+
+Games hit the same wall from their own direction. In the six months to July 2026, roughly **181,000 mobile games** were released — a flood that *Digital Trends* attributed directly to AI and "vibe coding," and whose character its headline caught exactly: more games, "but not necessarily better ones."[^05theslopcei-46] By late June, the boss of **CD Projekt** — the studio behind *The Witcher* and *Cyberpunk 2077* — was warning that games made *solely* by generative AI were "already being made."[^05theslopcei-47] Not a forecast. A present-tense supply category.
 
 In November 2025, *Merriam-Webster* named "**slop**" its word of the year, citing the rise of AI-generated content across the web as the primary driver.[^05theslopcei-10] In February 2026, *YouTube's CEO* put "managing AI slop" at the top of her published priorities list for the year.[^05theslopcei-11] In April 2026, on YouTube alone, channels labelled as "AI" content had viewership in the billions for political fake-news content.[^05theslopcei-12]
 
@@ -1106,17 +1131,21 @@ The flood and the ceiling describe the supply and demand sides of the market. Wh
 
 Through autumn 2025 and winter 2026, the cultural pushback intensified in waves. Some of it was symbolic. In November 2025, **Paul McCartney** released a silent track as part of a wider music-industry protest against the UK government's proposed copyright opt-out scheme.[^05theslopcei-28] In December, the **Eurythmics' Dave Stewart** argued — slightly against the grain of the protests — that musicians needed to "embrace the unstoppable force" of AI and license their intellectual property rather than fight it.[^05theslopcei-29] In January, almost 800 creators including Jason Aldean and OneRepublic signed an open declaration titled *Stealing Our Work Is Not Innovation.*[^05theslopcei-30] In May 2026, **Jack Antonoff** — one of the most-cited producer-songwriters of the period — went considerably further than McCartney in the public register, calling AI music-makers *"godless whores"* in an interview that became the headline-grabbing artist-side moment of the post-I/O news cycle.[^05theslopcei-45] Antonoff's framing is, in my read, a useful marker of how far the cultural register of the resistance has shifted between McCartney's *silent track* in November 2025 and the spring of 2026: from elegiac protest to active contempt.
 
+By June 2026, the register had shifted a third time — from contempt to *counter-programming*. The *Guardian* reported on artists deliberately making what they called "**anti-slop**" — work positioned, made and marketed as the explicit opposite of AI-generated content, by creators who felt the synthetic flood had "been rammed down our throats."[^05theslopcei-48] A feature film was released **straight to VHS** — billed as the first such release in twenty years — with its makers describing the choice to *Variety*, in so many words, as a "middle finger" to AI: the physical format itself doing the authenticity work, distribution-as-protest.[^05theslopcei-49] And in early June, "**Say No To Suno**" protesters brought the fight to a swanky Santa Monica AI conference — the resistance no longer waiting for the AI-music industry to come to it, but following the industry to its own venues.[^05theslopcei-50] None of these are large economic events. What they are is evidence that the ceiling has a *creator-facing* surface as well as an audience-facing one: an emerging aesthetic identity, with its own name, built entirely out of not being slop.
+
 Some of it was practical. In November, **Universal Music Group** announced a strategic alliance with Stability AI for "responsible" music tools.[^05theslopcei-31] In December, **Warner Music Group** signed a similar deal with Stability AI.[^05theslopcei-32] At almost the same moment, **Splice** and **Universal Music Group** agreed to collaborate on "next-generation AI-powered music creation tools for artists" — a structural acknowledgement that the labels' strategy had pivoted from purely *suing* the AI companies to *partnering* with them.[^05theslopcei-33]
 
 Some of it was legal. In January 2026, the German rights society **GEMA** won a major ruling against OpenAI in the Munich Regional Court, on training-data grounds.[^05theslopcei-34] **Suno** was sued by music-rights groups under a banner the litigators called "the biggest theft in music history."[^05theslopcei-35] **Wixen Music Publishing** filed a $50m copyright suit against Meta.[^05theslopcei-36] **Universal Music Group** filed a $3B suit against Anthropic.[^05theslopcei-37] By the end of February 2026, the lawsuits were no longer an interesting subplot. They were the main mechanism through which the new creative economy was being defined.
 
-Some of it was platform policy. **Bandcamp** banned AI-generated music outright in January 2026.[^05theslopcei-38] **Deezer** built and licensed an AI-music detection tool to other platforms.[^05theslopcei-39] **Spotify** declined to add an AI-music filter, preferring transparency and labelling.[^05theslopcei-40] **San Diego Comic-Con** banned AI art at its 2026 event.[^05theslopcei-41] **Sweden's official music chart** banned AI-generated entries.[^05theslopcei-42]
+Some of it was platform policy. **Bandcamp** banned AI-generated music outright in January 2026.[^05theslopcei-38] **Deezer** built and licensed an AI-music detection tool to other platforms.[^05theslopcei-39] **Spotify** declined to add an AI-music filter, preferring transparency and labelling.[^05theslopcei-40] **San Diego Comic-Con** banned AI art at its 2026 event.[^05theslopcei-41] **Sweden's official music chart** banned AI-generated entries.[^05theslopcei-42] And in June 2026, **Tidal** found the most economically legible position of all: AI-generated music would be *allowed* on the platform — but it would not earn royalties.[^05theslopcei-51] Not a ban, not a filter, not a label. A price. A major streamer looked at the synthetic flood and formally valued it at zero — which is, give or take a rounding error, exactly what the audience's 44-to-3 attention behaviour had already been saying.
 
 The most compressed test of audience enforcement in the entire period — more compressed than any chart performance or streaming metric — arrived in late May 2026, when **Amazon** launched its **AI Creators Fund** and commissioned three animated Prime Video series using generative AI. One of those series was **Punky Duck**, created by **Jorge Gutierrez**, the animator best known as the creator of *El Tigre: The Adventures of Manny Rivera* on Nickelodeon. Within **48 hours** of the announcement being confirmed publicly, Gutierrez had dropped out. The reason, as he told the trade press and as the Hollywood Reporter documented in detail, was *"relentless derision"* — online backlash so severe that he quit before a single frame had aired, before a single trailer had been cut, before anyone had seen the work.[^05theslopcei-45e] **Guillermo del Toro** — who had spent October 2025 telling Variety he would "rather die" than use generative AI — subtweeted the announcement.[^05theslopcei-45f]
 
 The Amazon/Punky Duck case is, in slop-ceiling terms, the most extreme data point in this book's six-month window. Every other test case — Breaking Rust, Xania Monet, the AI Afrobeats chart topper — hit the ceiling *after* the work reached an audience. Punky Duck hit the ceiling *before it existed.* The audience enforcement mechanism did not operate at the level of listening, watching, or streaming. It operated at the level of a *press release.* The announcement of AI involvement was sufficient to generate backlash severe enough to cause the creator to exit the project. Whatever the commissioning economics of Amazon's AI Creators Fund, the cultural economics of an audience that will punish AI-labeled animation before it has been made is a data point that no studio's investment thesis can ignore.
 
 By June 2026, two more platform-side data points had landed and are worth recording because they bracket the slop-ceiling argument from opposite directions. **Apple Music**, on the *defensive* side of the AI flood, publicly disclosed that AI-generated songs accounted for **less than 1% of plays on the platform** — the cleanest single confirmation, from the most curated of the major streamers, that audience-chosen listening time has remained almost entirely human-authored even as upload-side AI volume has continued to climb.[^05theslopcei-45a] On the *offensive* side, **Spotify** signed a landmark deal with Universal Music Group that lets paying Spotify Premium subscribers create AI covers and remixes of UMG-catalogue tracks as a *licensed Premium add-on*[^05theslopcei-45b] — a clear move into the *consent-trained* territory I describe at length in [Chapter 6](06_The_88_Percent.md), and a structural acknowledgement by the largest streamer in the world that the AI-music market only works at scale if the rights infrastructure is built underneath it. Daniel Ek, defending the same move from the artist-side criticism, made the *slop ceiling* point in his own words: AI music, he argued, is *"better than slop"* — a phrasing the dissenting artists treated as gratuitously dismissive but which lands, structurally, on the same observation this chapter has been making.[^05theslopcei-45c] At the corporate-deployment end of the same gradient, **Tonada** — a Swedish startup that began the period as a small AI-music demo — pivoted into the *retailer-facing* AI music market, supplying brand-aligned synthetic background music to chain retailers as a licensed B2B service.[^05theslopcei-45d] The pattern across all three moves is consistent: the path from the slop floor to the licensed integration runs through *consent, licensing and disclosure*, not through prohibition. The labels and platforms that solve that path early are the ones building the post-Petrillo settlement [Chapter 6](06_The_88_Percent.md) describes.
+
+Then, in the last stretch of June 2026, the enforcement went kinetic. **YouTube** — whose CEO had put "managing AI slop" at the top of her published priorities back in February — began actively cracking down on mass-produced synthetic content, and the *Hollywood Reporter* documented the immediate casualty list: the "**faceless creators**," the high-volume, presenter-less AI channels that had been the flood's most visible commercial success story, took a direct hit to reach and revenue.[^05theslopcei-52] This is, structurally, the data point the whole chapter has been building towards. Until now, the slop ceiling was a pure audience behaviour — an aggregate pattern of not-pressing-play that showed up in streaming ratios and chart half-lives. As of June 2026, the platform whose entire ad business runs on audience attention has written that behaviour into policy. The ceiling is no longer only enforced by the audience. It is being enforced, on the audience's behalf, by the platform layer itself — because a platform that monetises attention cannot afford to keep subsidising content the attention systematically refuses.
 
 The point I want to make about all of this is that the cultural pushback is not — as the more dismissive coverage tends to frame it — a Luddite reaction. It is not an irrational allergy to new technology. It is a *market response*. The audience has spoken with its attention. The platforms are reacting to the audience. The labels are reacting to the platforms. The lawyers are reacting to the labels. The artists are reacting to the lawyers. The whole system is, in slow motion, *renegotiating the terms on which synthetic creative work is allowed to participate in the public sphere.*
 
@@ -1286,6 +1315,20 @@ That is the question that organises the rest of the book. The slop ceiling is th
 
 [^05theslopcei-45f]: Guillermo del Toro, subtweet responding to Amazon AI Creators Fund announcement, May/June 2026. Coverage in *Dream Machine* Issue 32. Cross-reference: del Toro's "rather die" statement in [Chapter 7](07_The_Studios_Decide.md), §"Position Three: We are not doing this."
 
+[^05theslopcei-46]: *Digital Trends*, "181,000 mobile games released in last 6 months — AI and vibe coding have unleashed a flood of new games, but not necessarily better ones." <https://www.digitaltrends.com/gaming/ai-and-vibe-coding-are-making-more-games-but-not-necessarily-better-ones/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^05theslopcei-47]: *Metro*, "CD Projekt boss warns that games made solely by gen AI are already being made." <https://metro.co.uk/2026/06/22/cd-projekt-boss-warns-games-made-solely-gen-ai-already-made-28878296/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^05theslopcei-48]: *The Guardian*, "Artists are making 'anti-slop' to rebel against AI: 'It's been rammed down our throats'." <https://www.theguardian.com/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^05theslopcei-49]: *Variety*, "Behind the Movie Claiming to Be the First Straight-to-VHS Release in 20 Years — And Why It's a 'Middle Finger' to AI." <https://variety.com/2026/film/global/behind-the-fstraight-to-vhs-release-in-20-years-and-why-its-a-middle-finger-to-ai-1236767661/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^05theslopcei-50]: *Digital Music News*, "'Say No To Suno' Protesters Bring the Drama to a Swanky Santa Monica AI Conference." <https://www.digitalmusicnews.com/2026/06/04/say-no-to-suno-santa-monica-plane/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^05theslopcei-51]: *Musically*, "Tidal allows AI-generated music — but it won't earn royalties." <https://musically.com/2026/06/30/tidal-allows-ai-generated-music-but-it-wont-earn-royalties/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^05theslopcei-52]: *The Hollywood Reporter*, "Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop." <https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
 
 # Chapter 6 — The 88%
 
@@ -1370,6 +1413,8 @@ The argument is not new. The Berne Convention has, since 1886, treated authorshi
 
 **The attribution argument.** This was the most operationally specific: that when AI systems produce derivative outputs based on training data, the creators whose work shaped those outputs should be identifiable, and where appropriate, compensated. *Musical AI*, a startup that raised $4.5m in January 2026 on a "creative weight attribution" model, described the technical version of this as "calculating each input's actual contribution to a generative model's output, then licensing accordingly."[^06the88perce-18] The argument doesn't require AI training to stop. It requires it to *show its workings.*
 
+For most of the period this book covers, that demand was aspirational — the training sets were sealed, literally and figuratively. In June 2026 the seals started to come off. A federal judge vacated the order sealing **Udio's** training data in the ongoing music-industry litigation, opening the prospect of the first public accounting of exactly how many commercial recordings a major music-generation platform ingested.[^06the88perce-41] In the same month, *The Atlantic* published an investigation with a searchable tool that lets any artist check whether their music sits in the datasets used to train AI models[^06the88perce-42] — and artists started looking. **SZA**, discovering that her songs had been used in AI training, hit out at what she called 'disgusting' AI music.[^06the88perce-43] I flag the SZA moment not for the quote but for the mechanism underneath it: the consent argument changes register the moment a working artist can look up her own catalogue in a training set. Ingestion stops being an abstraction about 'data' and becomes a named person finding her named work in a place she never agreed for it to be. Every transparency instrument that ships — a court unsealing, a journalist's search tool, a disclosure standard — converts some quantity of diffuse unease into specific, actionable grievance. That is what *show its workings* is for.
+
 **The economic argument.** This was the most cynical and the most powerful: that AI systems trained on the unpaid labour of creators will eventually substitute for those creators in the market, and that the failure to license is therefore not just an *ethical* offence — it is an active transfer of wealth from a relatively diffuse group of working creatives to a relatively concentrated group of technology platforms and their shareholders.
 
 The PRS for Music *2026 AI Survey* found that **four in five** music creators worried about AI-generated music competing with human-created music in the streaming economy.[^06the88perce-19] The Edinburgh-based **Centre for Creative AI** at UCL/RCA, launched in late 2025, explicitly framed its mission around the "redistribution of value from machines back to the humans whose work made them possible."[^06the88perce-20] The U.S. **artist trade body** quoted in *Complete Music Update* in November 2025 was even blunter: "Artists must have creative control in AI deals or risk ending up with 'scraps'."[^06the88perce-21]
@@ -1393,6 +1438,12 @@ The declaration's response, in a phrase, was: *no, it's just stealing.*
 This was a rhetorically devastating move. It collapsed the AI companies' carefully constructed framing — *transformative use, fair use, technical necessity, innovation* — into the oldest accusation in commerce, and made it stick. *Stealing.* Not because the signatories did not understand the technical arguments. They did. Because they had decided that the technical arguments were a *cover* for an underlying transfer of value that didn't deserve any other name.
 
 Once you have that framing, the whole policy debate looks different. *Should we allow innovation?* becomes *should we allow theft?* The answers are not the same.
+
+The framing war did not end with the declaration, though, and I want to record where the other side had moved to by midsummer 2026, because in those weeks the platform counter-position consolidated into the form I expect it to hold for years. The consolidation was led by **Google**, and it had two prongs.
+
+The first prong is *consent by terms of service*. In June 2026, Google moved to dismiss a class action brought by artists over YouTube-sourced AI training data, arguing that the artists had consented "to the use of their recordings" when they uploaded them to YouTube.[^06the88perce-44] The claim is that the click-wrap agreement every uploader accepts — the licence that lets YouTube transcode, distribute and recommend a video — also covers ingestion into generative models that did not exist when most of that catalogue was uploaded. Independent-music advocates responded with the obvious objection, in the phrase that became the story's headline: this is *'not informed consent'*.[^06the88perce-45] A musician uploading a video in 2015 was consenting to distribution. Nobody reads a streaming platform's terms of service as a training licence for a future song-generating competitor — and if the argument holds, then every platform's most valuable AI asset turns out to be its archive of unread agreements.
+
+The second prong is *outputs, not inputs*. In the same month, Google doubled down on its position that AI training is fair use, arguing that copyright enforcement should focus on what models *output*, not what they *ingest*.[^06the88perce-46] I want to be precise about what this framing does, because it is the exact structural inverse of the 88%. Licensing-in-all-cases puts the legal event at *ingestion* — the moment the work enters the training set, which is knowable, auditable, and licensable in bulk, and which the GEMA ruling treated as the operative act. Outputs-not-inputs moves the legal event to *generation* — millions of individual outputs, each requiring a case-by-case similarity analysis, each expensive to litigate, each disputable. It converts one collectively-negotiable question into an unbounded number of individually-unwinnable ones. That is not a compromise position. It is the training-pipeline status quo, restated as a principle of enforcement priority.
 
 #### The levy precedent: why Petrillo matters here
 
@@ -1421,6 +1472,12 @@ I want to show how the 88% — and the architecture of institutional response co
 *Three,* the structural innovation of the Petrillo settlement — collection through a *joint body* rather than through individual-creator negotiation — is, in spring 2026, only partially built for the AI era. The collective-licensing infrastructure for music (PRS, GEMA, ASCAP, BMI, SIAE, JASRAC and the related international bodies) has, in some cases, started negotiating directly with the AI platforms on the per-output structure. The Musical AI *creative weight attribution* infrastructure is a first attempt to build a *technical* layer underneath the joint-body political layer. The Cannes Disclosure Standard is an industry-coordination mechanism for the production-side disclosure that the collection mechanism rests on. None of this is finished. The joint bodies for *visual* artists, *writers*, *games developers*, *photographers* are at much earlier stages of development. The MPTF-equivalent fund-and-distribution mechanism does not yet exist for most of the creative industries. *Building it is the institutional work of the next eighteen months.*
 
 *Four,* the final part of the template — paying the tribute out to subsidise the *displaced practice* — is the part the AI debate has, in my view, most under-thought. What does "subsidising the displaced practice" look like for AI-displaced creative work? For working musicians whose tracks are being competed-against by Suno outputs, it could look like funded performance opportunities, funded studio time, funded creative-development grants — the direct lineage of MPTF live-performance subsidies. For working illustrators whose work was used to train image models, it could look like commissioned-work grants, funded artist residencies, public-art-commission expansion. For working authors whose books were used to train LLMs, it could look like Public Lending Right expansion, library-licensing funds, writer-in-residence programmes. The structural move is the same in each case: *take the productivity gain from the platform, redistribute it to the displaced practice, keep the practice alive as a category.* This is what the 88% is implicitly asking for, whether or not the consultation respondents would have phrased it that way.
+
+And then, in the first week of June 2026, the template stopped being my historical analogy and filed a lawsuit.
+
+The **American Federation of Musicians** — Petrillo's union; the institution whose 1942 and 1948 settlements this entire section is built on — sued **Universal Music Group** and **Warner Music Group** over the majors' AI deals, claiming breach of the **'new use' clause** in the record industry's collective agreement with performers.[^06the88perce-47] The 'new use' provision is, in essence, the contractual descendant of everything Petrillo won: the clause under which session musicians have historically been owed again when their recordings migrated into films, adverts and formats that did not exist when the original session fee was paid. The AFM's argument is that licensing catalogue to AI companies for training is precisely such a *new use* of its members' performances — and that the labels, in signing their AI deals, monetised the members' work through a use the members were never paid for and never agreed to.
+
+I do not know, as I write, how the case will resolve, and I am wary of prediction. But I want to insist on what the filing *is*, structurally, because the trade coverage treated it as one more item in a crowded litigation docket, and it is not. Every other suit in this chapter — GEMA, *UMG v. Anthropic*, Wixen, the Suno coalition — is rightsholders suing *platforms*. This is the labour pool suing the *rightsholders*: the union that built the only working levy mechanism in the history of creative-technology displacement, litigating to make sure the AI-era version of the tribute flows through the joint labour–management architecture rather than stopping at the label tier. It is Petrillo's third principle — *collection through a joint body, not negotiated over the labour pool's head* — asserted in court, against the very companies now presenting themselves as the creators' champions in the platform fight. The question I raise at the end of the Kyncl discussion later in this chapter — whether the working session player actually *sees* the tribute — is exactly the question the AFM has now put in front of a judge. It is no longer hanging. It has a docket number.
 
 I want to be honest about a complication that the Petrillo template hits at full speed in the AI era, because the book should not be glib about it.
 
@@ -1465,6 +1522,8 @@ By the late spring of 2026 the licensing-side conversation had begun to settle o
 The three Cs map cleanly onto the Petrillo template I described earlier in this chapter. *Consent* is the opt-in catalogue — only artists who actively agree have their work made available for remixing, which is the *acknowledgement-that-the-underlying-activity-will-continue* move that Petrillo's first principle requires. *Credit* is programmatic provenance — derivatives are linked to original metadata, and a *Verified by Spotify* badge steers attention and money toward sanctioned work, which is the *central-joint-body-collection* mechanism that Petrillo's third principle requires (with the platform doing the joint-body work that, in the recorded-music case in 1948, the AFM did). *Compensation* is a new royalty stream layered on top of standard streaming, paid out to the artists and songwriters whose work is used — which is Petrillo's second and fourth principles (per-output tribute, paid into the displaced creative-labour pool) at the level of a streaming-product line.
 
 The deal's prehistory is the part I want every working creative reading this to register. UMG spent 2024 calling Suno and Udio's training data *"infringement on an almost unimaginable scale"*. It settled with Udio in October 2025 and agreed to build a licensed product instead. The Spotify deal is the mature form of that turn — litigation converted into a revenue line. The market read it as a direct shot at Suno; Spotify's stock jumped on the day. **The lawsuits were never the destination. They were leverage to force a licensing table into existence.** That sentence is, in my view, the right read on the 88%, on GEMA, on UMG v. Anthropic, on the Wixen suit, on the *Stealing Our Work Is Not Innovation* declaration and on every other piece of legal-and-political pressure I have catalogued in this chapter. The pressure produced the licensing table. The table is now being built. The three Cs are the contract pattern the table is using.
+
+And the table kept filling through June. The **National Music Publishers' Association** unveiled AI licensing deals with **Udio** and **Klay**, built — per the reporting — on a **50/50 split between songs and recordings**.[^06the88perce-48] Three things about that deal deserve a working creative's attention. First, the counterparty: Udio is the platform whose training UMG had called "infringement on an almost unimaginable scale" before settling in October 2025 — the litigation-to-licensing arc, completing on schedule. Second, the structure: this is not one label doing a bilateral deal; it is the publishers' *collective* trade body negotiating on behalf of the songwriting side as a bloc — the joint-body collection mechanism of Petrillo's third principle, operating at the publisher tier. Third, and most quietly radical, the split itself. In the streaming economy the recording side has historically taken several times what the song side takes — an allocation songwriters have spent two decades contesting. Writing *parity* between songs and recordings into the AI licensing architecture at its founding, before the norms harden, is exactly the kind of structural move that is only available at the start of a format. If the 50/50 split holds as the pattern, songwriters will have won in the AI transition something they never won in the streaming one. And step back far enough and the deal is the 88%'s Option 1 — licensing in all cases — arriving not as statute but as market practice: not a ban, a rate.
 
 A second 2026 deal — the **Hasbro Sixth Wall** *Behavioral Licensing* launch on **3 June 2026** — is the same architecture applied to characters rather than recordings, and is worth flagging here because it extends the *consent* leg in a direction the music settlement does not yet have to reach. Where UMG's opt-in catalogue grants permission for the *song* to be remixed, Hasbro's CharacterOS grants permission for the *behaviour* of a character — how Optimus Prime argues, how Megatron menaces — to be deployed inside third-party experiences, with the underlying voice performance compensated through a *talent-participation* structure to the original performers.[^06the88perce-37b] On the three Cs, this is the most complete model in the field as of mid-2026. It is also where the sharpest critique sits, and the critique is worth marking. *Participation* is a compensation mechanism — it answers *credit* and *compensation*. It does not, by itself, settle *consent* in the deeper sense the actors' unions mean: ongoing control over how a performance is used, and the right to refuse. *A pay cheque is not a veto.* The Sixth Wall model's long-term legitimacy will rest on contract terms the press releases don't yet disclose, and the SAG-AFTRA-shaped argument about NIL rights is going to continue to be the live argument underneath every Behavioural-Licensing deal that follows.
 
@@ -1519,6 +1578,8 @@ Working musicians aligned with photographers, who aligned with authors, who alig
 
 The major-label leadership read of the same coalition shifted, in the spring of 2026, in a way that I think is worth registering carefully because the rhetoric is a useful weather-vane. **Robert Kyncl**, the chief executive of **Warner Music Group**, in a widely-quoted May 2026 interview, told the industry that *"AI resistance"* was actively *setting the music sector back* — that AI represented "an incredible value creation opportunity," and that the labels *"cannot wait the way the industry did 25 years ago."* Kyncl's invocation of the Napster moment was deliberate. The argument was that the labels' twenty-five-year pattern of *suing first, integrating second* had cost them, in net, the bulk of the streaming-era surplus to platforms that had moved before they did, and that repeating that pattern with AI would compound the loss.[^06the88perce-39] This is a meaningful change in register from the 2025 *"biggest theft in music history"* framing, and worth tracking. It does not contradict the 88% — Kyncl, like the BPI, is pushing for licensing infrastructure rather than against it — but it shifts the *centre of gravity* of major-label rhetoric from prohibition toward participation. On the Petrillo template, this is the labels' tribute-mechanism position: AI continues, the platforms pay, the joint-body collection infrastructure scales. The question of whether the *displaced practice* gets a meaningful share of the resulting flow — whether the working songwriter, the working session player, the working independent artist actually *sees* the tribute — is the part the Kyncl framing does not yet answer.
 
+The artists answered it themselves within weeks. In late June 2026, an open letter warned that musicians *"must not be pressured into AI deals"* by the rightsholders who control their catalogues.[^06the88perce-49] Read alongside the Kyncl interview, the NMPA deals and the AFM's 'new use' lawsuit earlier in this chapter, the letter marks out the precise fault-line inside the coalition I have been describing. Artists and labels stood on the same side against unlicensed scraping — that alignment held, and it won the procedural battles this chapter has catalogued. But a licensing boom conducted at the catalogue level, over the heads of the artists whose recordings constitute the catalogue, fails the first C. Consent that is structural — buried in old contracts, exercised by an intermediary, impossible in practice to refuse — is the platform's terms-of-service argument wearing a label's lanyard. The open letter, the AFM filing and the artist trade body's 'scraps' warning from November 2025 are the same message delivered at increasing volume: the coalition's unity was built on *consent*, and it will fracture on consent too, if the tribute mechanism stops one tier above the people who did the work.
+
 They also — and this part I find most interesting — aligned with their *audiences*. The Adobe Creators' Toolkit Report found that **69%** of creators worried about their work being used to train AI without consent.[^06the88perce-24] That number rhymes with the 88% in the U.K. consultation. It also rhymes with the audience behaviour I described in Chapter 5 — the slop ceiling, the AI-music underperformance, the cultural rejection of synthetic content that doesn't disclose itself. The creators wanted protection. The audience, given a choice, wanted to listen to the protected work. The two interests, for the first time in a long time, sat on the same side of the line.
 
 That alignment is the most powerful political asset the creative industries have had this century. They built it in six months. The question for the next six months — which Chapter 13 of this book is going to come back to — is what they do with it.
@@ -1536,6 +1597,10 @@ What Nandy described at SXSW was a government that had gone into the consultatio
 The vindication is real. And I want to be precise, as I was precise about the March 2026 reversal earlier in this chapter, about what it does and does not mean.
 
 It *does* mean that the 88% — and every piece of union, legal, institutional and cultural pressure that built up around it — was sufficient to change the stated position of the government that proposed the opt-out model. In policy terms, that is a significant outcome. Very few public consultations on complex technology questions produce a ministerial admission of error this explicit.
+
+And the admission was followed, within a fortnight, by the sound of the post-consultation policy machinery actually moving. In the second week of June the government published its **AI Adoption Plan for the Creative Industries** — the sector-specific plan for how film, music, games and the wider creative economy are meant to *adopt* AI, not merely be protected from it.[^06the88perce-50] DSIT announced a **£1.1 billion AI hardware plan** to back British chip firms and expand domestic computing power and skills.[^06the88perce-51] And in the same week, the UK's competition regulator introduced what was widely reported as "world first" controls on Google, requiring it to let news publishers opt out of having their content scraped into Google's generative AI features.[^06the88perce-52]
+
+I read those three moves together, because together they say something the consultation documents never quite did. The adoption and hardware plans confirm that the SXSW admission was not a retreat from AI — the government wants the AI economy, wants the compute onshore, wants the creative industries using the tools. What it retreated from was *unlicensed* AI. And the regulator's Google controls are the first genuinely novel instrument in the post-consultation toolkit: an *opt-out* — the very mechanism the 88% rejected when it was offered as a blanket copyright exception — reappearing as an enforceable obligation imposed on a named dominant platform, the same Google whose consent-by-terms-of-service and outputs-not-inputs arguments I set out earlier in this chapter, with the compliance burden sitting on Google rather than on ten thousand individual rightsholders. An opt-out that a regulator polices against a specific gatekeeper is a different instrument from an opt-out buried in a copyright exception: the first has teeth, the second had none, and the difference between them is a fair one-line summary of what fourteen months of pressure achieved. The controls cover news publishers, not musicians or illustrators — the machinery moves sector by sector — but the instrument now exists, and instruments that exist get extended.
 
 It *does not* mean the fight is over. Nandy's statement at SXSW was accompanied by the careful qualifier: "no decisions on next steps." There is, as of the time of writing, no legislation in place, no licensing regime enacted, no opt-in framework passed into law. The legislative process is ongoing. The political will has shifted; the policy architecture that would make that shift concrete has not yet been built. The 88% produced a political admission. The institutional and legal work that converts that admission into durable protection for creators is still ahead. The Petrillo template I described earlier in this chapter — the joint-body collection mechanism, the per-output tribute, the subsidy for the displaced creative practice — remains the structural target. The political mandate for it has never been stronger. The architecture is still half-built.
 
@@ -1627,6 +1692,30 @@ It *does not* mean the fight is over. Nandy's statement at SXSW was accompanied 
 
 [^06the88perce-39]: *Variety*, "Is 'AI Resistance' Setting the Music Sector Back? WMG's Robert Kyncl Sees 'An Incredible Value Creation Opportunity,' But Warns 'We Cannot Wait the Way the Industry Did 25 Years Ago'." <https://variety.com/2026/music/news/wmg-robert-kyncl-ai-resistance-1236748901/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+[^06the88perce-41]: *Digital Music News*, "Federal Judge Vacates Order Sealing Udio's Training Data — Are We About to Learn How Many Recordings the Platform Ingested?" <https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^06the88perce-42]: *Mixmag*, "Artists can now check whether their music has been used to train AI." <https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news>. See also *MusicRadar*, "Is your track in the datasets that are being used to train AI? The Atlantic unveils a way you can find out." <https://www.musicradar.com/music-tech/is-your-track-in-the-datasets-that-are-being-used-to-train-ai-the-atlantic-unveils-a-way-you-can-find-out>. *Dream Machine* Issues [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^06the88perce-43]: *Euronews*, "SZA hits out at 'disgusting' AI music after discovering her songs were used in AI training." <https://www.euronews.com/culture/2026/06/22/sza-hits-out-at-disgusting-ai-music-after-discovering-her-songs-were-used-in-ai-training>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^06the88perce-44]: *Digital Music News*, "Google Moves to Dismiss Artists' AI Lawsuit, Says They Consented 'To the Use of Their Recordings' When Uploading to YouTube." <https://www.digitalmusicnews.com/2026/06/10/youtube-ai-lawsuit-dismissal-motion/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^06the88perce-45]: *Billboard*, "YouTube's AI Training Argument Raises Alarm Among Indie Music Advocates: 'Not Informed Consent'." <https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^06the88perce-46]: *Digital Music News*, "Google Doubles Down on 'Fair Use' AI Training, Stressing That 'Outputs' Not 'Inputs' Are Where Enforcement Should Be Focusing." <https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^06the88perce-47]: *Complete Music Update*, "US musicians' union sues Universal and Warner over AI deals, claims breach of 'new use' clause in record industry's performer agreement." <https://completemusicupdate.com/us-musicians-union-sues-universal-and-warner-over-ai-deals-claims-breach-of-new-use-clause-in-record-industrys-performer-agreement/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^06the88perce-48]: *Complete Music Update*, "NMPA unveils AI licensing deals with Udio and Klay with 50/50 split for songs and recordings." <https://completemusicupdate.com/nmpa-unveils-ai-licensing-deals-with-udio-and-klay-with-50-50-split-for-songs-and-recordings/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^06the88perce-49]: *Musically*, "Open letter: Musicians 'must not be pressured into AI deals' by rightsholders." <https://musically.com/2026/06/22/open-letter-musicians-must-not-be-pressured-into-ai-deals-by-rightsholders/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^06the88perce-50]: GOV.UK, "AI Adoption Plan for the Creative Industries." <https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^06the88perce-51]: GOV.UK / DSIT, "A decisive shift to power British AI: new £1.1 billion plan to back chip firms, boost computing power and skills for the AI revolution." <https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^06the88perce-52]: *Fortune*, "Google forced to allow news sites to opt out of AI scraping in 'world first,' UK watchdog says." <https://fortune.com/2026/06/05/auto-draft-3/>. See also *National Law Review*, "UK Regulator Introduces 'World First' Controls on the Use of Content in Google Generative AI Features." <https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [34](../Dream%20Machine%20MD/34.md).
+
 
 # Chapter 7 — The Studios Decide
 
@@ -1638,13 +1727,13 @@ Three weeks earlier, in a piece *Futurism* had published with a headline that ag
 
 Two months later, on **11 December 2025**, *The Guardian* reported that **Disney** was *announcing* a $1 billion investment in OpenAI, with a structured agreement that would let Disney characters appear in the Sora video tool.[^07thestudios-3] At the time of the announcement, the deal was treated by the press and most of the industry as the canonical template for how a major rights holder would integrate with a frontier AI lab. By the spring of 2026, on closer inspection, it was nothing of the kind. *No formal agreement was ever signed; no money changed hands.* On **24 March 2026**, OpenAI told staff it was shutting down Sora — a staged wind-down, with the consumer app and website ending in late April and the developer API set to close in September — and Disney, reportedly given as little as thirty minutes' notice, exited the partnership.[^07thestudios-3a] The billion-dollar template, as the *Ropes & Gray* analysis later put it, was a billion-dollar press release.
 
-That collapse matters for the strategic map in two ways, both of which I want to flag now so the reader can read the rest of the chapter with the correction in view. *First,* the framework Disney's lawyers built — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — *survived the platform's death* and is now the reference contract architecture against which other studios negotiate. The framework was right; the vendor was fragile. *Second,* the lesson the rest of the industry took from the collapse was that an *equity stake in a platform you don't govern* is not a strategic position. The thirty-minutes'-notice detail became a case study in strategic-investment risk: a $1bn pledge with no board seat or information rights strong enough to give the rights holder warning that the product it was licensing into was about to be killed. The takeaway for every rights holder that follows has been straightforward — *align on equity and governance rights, not just licence terms, or build the platform yourself.* Which is exactly what Hasbro did with **Sixth Wall** and the **CharacterOS** governance layer on 3 June 2026, a move that I treat in detail under Position Four below. The Disney–OpenAI material throughout this chapter should be read with this correction in mind. For the full deal-architecture analysis — the *three Cs* of consent, credit and compensation, the comparison against Hasbro, Spotify/UMG, the independent-artist models, and the Suno/Alexa demand floor — see [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md), the *Dream Machine* Deep Dive №14 of 4 June 2026 that this chapter rests on.[^07thestudios-3b]
+That collapse matters for the strategic map in two ways, both of which I want to flag now so the reader can read the rest of the chapter with the correction in view. *First,* the framework Disney's lawyers built — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — *survived the platform's death* and is now the reference contract architecture against which other studios negotiate. The framework was right; the vendor was fragile. *Second,* the lesson the rest of the industry took from the collapse was that an *equity stake in a platform you don't govern* is not a strategic position. The thirty-minutes'-notice detail became a case study in strategic-investment risk: a $1bn pledge with no board seat or information rights strong enough to give the rights holder warning that the product it was licensing into was about to be killed. The takeaway for every rights holder that follows has been straightforward — *align on equity and governance rights, not just licence terms, or build the platform yourself.* Which is exactly what Hasbro did with **Sixth Wall** and the **CharacterOS** governance layer on 3 June 2026, a move that I treat in detail under Position Five below. The Disney–OpenAI material throughout this chapter should be read with this correction in mind. For the full deal-architecture analysis — the *three Cs* of consent, credit and compensation, the comparison against Hasbro, Spotify/UMG, the independent-artist models, and the Suno/Alexa demand floor — see [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md), the *Dream Machine* Deep Dive №14 of 4 June 2026 that this chapter rests on.[^07thestudios-3b]
 
 These three moments — Lionsgate's failure, Netflix's commitment, the Disney–OpenAI announcement-and-collapse — are the three corners of the strategic map that every legacy studio in the world has been navigating for the last six months. They are not a single story. They are three different stories about how a creative business with a hundred years of human-craft DNA tries to integrate a technology that, by the time it integrates, no longer behaves like the technology you thought you were integrating.
 
-This chapter is about the studios. About how they decided. About the ones that went *all-in*, the ones that went *AI-native from scratch*, the ones that went *we are not doing this at all*, and the ones — the most interesting group — that went *we will do it, but only in the places where it doesn't show up in the work the audience sees.*
+This chapter is about the studios. About how they decided. About the ones that went *all-in*, the ones that went *AI-native from scratch*, the ones that went *we are not doing this at all*, and the ones — the most interesting group — that went *we will do it, but only in the places where it doesn't show up in the work the audience sees.* And, late in the period, a fifth group emerged: the ones that decided to stop licensing the future and *own the rails it runs on.*
 
-The map of those four positions, drawn carefully, is the map of where the film, TV, games and entertainment industries will be in 2030.
+The map of those five positions, drawn carefully, is the map of where the film, TV, games and entertainment industries will be in 2030.
 
 #### Position One: All-in
 
@@ -1658,7 +1747,7 @@ Adjacent moves from other big studios that autumn told the same story.
 
 **Amazon** built out an internal "AI Studios" unit in November 2025, naming sports-docs boss Matt Newman as its head of live-action production.[^07thestudios-5] In the same month, Amazon's *House of David* TV series became one of the first major Western dramas to publicly disclose the use of more than **350 AI-generated visual-effects shots** in its second season, with creator Jon Erwin telling *Wired* he was "not sorry."[^07thestudios-6]
 
-By late May 2026, Amazon went further still: the company launched an **AI Creators Fund** and commissioned three animated Prime Video series using generative AI. One of the three — **Punky Duck**, created by *El Tigre* animator **Jorge Gutierrez** — became the most dramatic commissioning collapse of the period. Within **48 hours** of the announcement being confirmed, Gutierrez had dropped out, citing *"relentless derision"* online. The series was dead before it had been made. For the full treatment of the audience-enforcement dynamics underlying this collapse, see the discussion in [Chapter 5](05_The_Slop_Ceiling.md) §"The pushback." For the purposes of this chapter's strategic map, the Punky Duck case is a Position One data point of a specific kind: a major streamer commissioned AI animation through a structural fund and discovered, at the announcement stage, that the audience-enforcement mechanism can operate on a press release. The question that Amazon's AI Creators Fund has to answer — and that the remaining two commissioned series have to answer — is whether the specific cultural objection was to *Jorge Gutierrez's participation* specifically (which del Toro's subtweet suggested) or to AI-animated commissions from a streaming fund generically.[^07thestudios-5a]
+By late May 2026, Amazon went further still: the company launched an **AI Creators Fund** and commissioned three animated Prime Video series using generative AI. One of the three — **Punky Duck**, created by *El Tigre* animator **Jorge Gutierrez** — became the most dramatic commissioning collapse of the period. Within **48 hours** of the announcement being confirmed, Gutierrez had dropped out, citing *"relentless derision"* online. The series was dead before it had been made. For the full treatment of the audience-enforcement dynamics underlying this collapse, see the discussion in [Chapter 5](05_The_Slop_Ceiling.md) §"The pushback." For the purposes of this chapter's strategic map, the Punky Duck case is a Position One data point of a specific kind: a major streamer commissioned AI animation through a structural fund and discovered, at the announcement stage, that the audience-enforcement mechanism can operate on a press release. The question that Amazon's AI Creators Fund has to answer — and that the remaining two commissioned series have to answer — is whether the specific cultural objection was to *Jorge Gutierrez's participation* specifically (which del Toro's subtweet suggested) or to AI-animated commissions from a streaming fund generically.[^07thestudios-5a] The games division, meanwhile, pressed on regardless: Amazon's new games plan, as *The Verge* reported it in June 2026, paired the James Bond licence with an AI Snoop Dogg — licensed celebrity likeness, synthesised, deployed as first-party content strategy.[^07thestudios-5b]
 
 **NBCUniversal** signed a deal in late October 2025 with the son of *Law & Order* creator Dick Wolf to develop AI-generated games based on its IP.[^07thestudios-7] By late November, the framing had broadened — *The Office*, *Saturday Night Live* and *Sex and the City* were all reportedly being considered as IP for AI-generated game adaptations.[^07thestudios-8]
 
@@ -1669,6 +1758,12 @@ By late May 2026, Amazon went further still: the company launched an **AI Creato
 **Sky History** acquired *Castles SOS*, an AI-powered documentary, in late November.[^07thestudios-13]
 
 **Channel 4** rolled out an AI-driven advertising tool in December 2025 designed to make TV advertising accessible to SMEs — a small home-builder was one of the first clients.[^07thestudios-14]
+
+The Punky Duck collapse left Position One with an unanswered question: was the objection to one artist's participation, or to the alliance itself? **A24** spent late June running something close to the control experiment. In June 2026 the *Hollywood Reporter* reported that **Google** was investing in the prestige-indie studio, in an AI venture linked to Google DeepMind and reported around A24's *Backrooms* project.[^07thestudios-58] A24 is not a legacy tanker; it is the most carefully curated brand in independent film — the name the AI-native studios invoke when they describe their own ambitions. Wonder Studios' stated goal, remember, is to become *"the A24 of AI production."* If any studio's cultural authority could absorb an AI alliance, it should have been A24's. Within a fortnight, *Futurism* was reporting that the studio was dealing with a *"full-on crisis"* among its fans over the Google deal.[^07thestudios-59] The audience-enforcement mechanism, in other words, does not check the brand's credentials before it fires. If anything the reverse: the fan bases most likely to enforce are precisely the ones a prestige brand has spent a decade training to care about authorship. A24's bet — and it is a live bet as I write this — is that curation authority is durable enough to survive the alliance that funds it. The Gutierrez precedent says the next few months of that experiment will matter more than the press release did.
+
+It is worth being clear about why the studios keep walking into this mechanism, because it is not naivety. It is arithmetic. At the end of June, *Bloomberg* reported what it called animation's AI reckoning: filmmakers saying they can now make animated movies for **90% less**.[^07thestudios-60] Whatever discount you apply to that figure for enthusiasm — and I would apply a healthy one — a cost compression of that order is not a tooling decision. It is a restructuring of the industry's cost base, and it explains the otherwise puzzling persistence of the commissioning experiments: every studio that has done the maths knows that if the 90% number is even half right, someone is going to build an animation slate at that cost basis, and the only open question is whether it is them.
+
+Nor is Position One a purely Hollywood posture. In June 2026, CNN reported that South Korea's film industry — the industry that gave the last decade *Parasite* and the prestige-TV export wave — was embracing AI at industrial speed, with the attendant question, *will K-film lose its magic?*, being asked mostly by observers rather than by the industry itself.[^07thestudios-61] The Shanghai International Film Festival programmed AI and iPhone moviemaking as the twin faces of cinema's future,[^07thestudios-62] and the Chinese model company **MiniMax** chose the festival to launch an all-in-one AI video generation hub — with the launch framing that *"creative direction and aesthetic judgment must ultimately be left to humans."*[^07thestudios-63] That last detail is the one I would flag. The East Asian industries are not having the argument Hollywood is having; they are arriving with the adoption already decided and with Position Four language — tool in the workflow, judgment with the humans — pre-installed in the marketing. Whether the language governs the practice is a separate question, but as strategic positioning it is a full cycle ahead of the American discourse.
 
 Position One is not subtle. The streamers, broadcasters and major studios with the capital to do it have been integrating AI into their stacks — production, post-production, marketing, advertising, distribution, subscriber retention — at a pace that suggests they have already decided which side of the future they want to be on. They want to be the side that owns the toolchain.
 
@@ -1700,7 +1795,9 @@ A second group, more recent and more interesting, are the studios that have deci
 
 **Kling AI** and **Evolutionary Films** announced an AI-animated feature, *Minibots*, at the Cannes Film Market in May 2026, alongside a broader Kling-backed filmmaker initiative aimed at funding AI-native productions on the same indie-distribution architecture.[^07thestudios-50]
 
-On **10 June 2026**, the first fully AI-generated feature film accepted by a major international festival made its world premiere. *Dreams of Violets* — directed by **Ash Koosha**, produced by his company **Fountain 0** — screened at the **Tribeca Film Festival** in New York. The film is a 75-minute docudrama about the 2026 Iran protests. It cost **$2,000** to make and took **three months** in production. The tool stack: **Kling AI** for video generation, **Anthropic's Claude** for editing, **Google's Gemini** for research.[^07thestudios-55] What Tribeca programmed was not a short or an experiment or a proof of concept. It was a feature — a narrative of a real political event, made entirely without a traditional production infrastructure, at a cost lower than a mid-range laptop. The festival's decision to program it did not close the "is it art or is it slop?" debate. It opened it, formally, in the festival-circuit context where that debate carries weight. Critics split sharply: advocates for the work pointed to the film's subject matter and urgency; critics pointed to the same qualities they flag in every AI-native production I have documented in these six months — technical capability uncoupled from the *earned authority* that makes a film's claim on its audience stick. What is not in dispute is the milestone: *Dreams of Violets* is the first AI-generated feature to pass the selection committee of a Tier 1 film festival. Whatever comes after, it marks the moment the festival circuit acknowledged that the category exists.[^07thestudios-56]
+By June 2026 the maturing of the category was visible in the shape of a single company's slate. **Utopai Studios** signed on to co-produce *Half Moon*, a feature from Silver Bear-winning filmmaker **Hyo-Joo Yang**[^07thestudios-64] — an AI-native studio buying into precisely the festival-circuit authorship credibility the category has so far lacked — while simultaneously developing, with the Chinese production giant **Huace**, a fully AI-generated series adaptation of *Journey to the West*.[^07thestudios-65] Auteur co-production on one track; industrial-scale generation of canonical public-domain IP on the other. That two-track structure — prestige upward, volume outward — is what an AI-native studio looks like when it stops being a demo reel and starts being a business.
+
+On **10 June 2026**, the first fully AI-generated feature film accepted by a major international festival made its world premiere. *Dreams of Violets* — directed by **Ash Koosha**, produced by his company **Fountain 0** — screened at the **Tribeca Film Festival** in New York. The film is a 75-minute docudrama about the 2026 Iran protests. It cost **$2,000** to make and took **three months** in production. The tool stack: **Kling AI** for video generation, **Anthropic's Claude** for editing, **Google's Gemini** for research.[^07thestudios-55] What Tribeca programmed was not a short or an experiment or a proof of concept. It was a feature — a narrative of a real political event, made entirely without a traditional production infrastructure, at a cost lower than a mid-range laptop. The festival's decision to program it did not close the "is it art or is it slop?" debate. It opened it, formally, in the festival-circuit context where that debate carries weight. Critics split sharply: advocates for the work pointed to the film's subject matter and urgency; critics pointed to the same qualities they flag in every AI-native production I have documented in these six months — technical capability uncoupled from the *earned authority* that makes a film's claim on its audience stick. What is not in dispute is the milestone: *Dreams of Violets* is the first AI-generated feature to pass the selection committee of a Tier 1 film festival. Whatever comes after, it marks the moment the festival circuit acknowledged that the category exists.[^07thestudios-56] The critical verdict arrived within the fortnight. *Variety*'s review out of Tribeca ran under a headline that was itself a question — *"What does a film made entirely with AI look like?"* — and that, on my read, is the honest state of the reception: the first fully AI-generated feature at a Tier 1 festival was reviewed seriously, on the film pages rather than the technology pages, and the review was still working out what the category it belonged to actually was.[^07thestudios-56a] Being taken seriously enough to be asked the question is the milestone. Answering it is the work the category has not yet done.
 
 By **April 2026**, the trade press could no longer keep up with the AI-native studio launches. There were too many of them. Most of them, like most early-stage production companies in any era, will not survive the next two years. The question of whether a meaningful AI-native studio system will eventually emerge as a parallel structure to legacy Hollywood — the way Netflix and Amazon eventually emerged as a parallel structure to the cable networks — is, in my view, the biggest single open question in the film and TV industry as of May 2026.
 
@@ -1729,6 +1826,10 @@ The studios that have publicly refused generative AI have been some of the most 
 **Guillermo del Toro**, in October 2025, told Variety he would "rather die" than use generative AI in his films, with a follow-up Frankenstein-themed press cycle that made the line one of the most-quoted creative-industry statements of the year. The full quote was even better than the headline: *"I'm 61, and I hope to be able to remain uninterested in using it at all until I croak. … The other day, somebody wrote me an email, said, 'What is your stance on AI?' And my answer was very short. I said, 'I'd rather die.'"*[^07thestudios-38] What del Toro was doing, with the bluntness only a senior auteur with a fully-funded slate can afford, was *refusing to participate in the framing.* Most working creatives have had to spend two years giving careful, nuanced, defensive answers about their AI position. Del Toro decided he was a senior enough artist to refuse the question entirely. The cultural permission for that posture, in a particular kind of high-end filmmaking, is part of the architecture this book has been describing.
 
 Not every senior auteur held the line del Toro drew. In June 2026, **Martin Scorsese** became an advisor to **Black Forest Labs** — the German company behind the FLUX image-generation model — and publicly endorsed using AI for storyboarding in the filmmaking process.[^07thestudios-57] The announcement produced an immediate and, on the cultural register, notable backlash. **Boots Riley** and **Guillermo del Toro** — del Toro, again — were prominent among the filmmakers who responded critically, with Riley's objections framing the endorsement in explicitly labour-terms: a filmmaker of Scorsese's stature lending his name to a generative-AI company is not a neutral act in a landscape where working artists are still fighting for compensation frameworks. The Scorsese/Black Forest Labs story is the mirror image of the del Toro position: where del Toro's "rather die" framing set a cultural permission for refusal, Scorsese's endorsement set a cultural permission for adoption — and was immediately challenged for doing so. Both positions tell you something important about where the industry's internal argument is in mid-2026: it is not between the *studios* and the *artists* any more, as it was in 2024. It is between the *artists themselves*, at the level of individual public positioning.
+
+By June, that argument-between-artists had become a weekly genre of its own, and the range of positions on display is worth recording precisely because it does not sort neatly by generation or by prestige. **Ron Howard** — whose Imagine Entertainment had, remember, partnered with the AI-first Obsidian Studio back in November — told the *Hollywood Reporter* he was bullish on AI, and that Jim Henson, the great puppet-technologist, would have been too.[^07thestudios-57a] **Gore Verbinski**, in the same weeks, proposed a rating system for AI use in films — *"if you use AI to write a script, you get an F"* — which is not a refusal of the tools so much as a demand for disclosure with consequences attached: a classification-board analogue of the Cannes disclosure standard.[^07thestudios-57b] **Gareth Edwards**, the *Rogue One* director, came out in favour with the most usefully double-edged formulation of the period: *"It has no taste whatsoever. It is a genius at helping you… like a billionaire on acid."*[^07thestudios-57c] Read that carefully and it is a Position Four argument wearing an enthusiast's clothes — infinite resource, zero judgment; the taste stays with the director or the film has none. And **Emily Blunt** revealed she had turned down Steven Spielberg's offer to use AI for her alien voice in *Disclosure Day* — a working performer declining the tool at the exact point where it would have touched the performance itself, on a production run by one of the most technologically fluent directors alive.[^07thestudios-57d] Endorsement, regulation, double-edged embrace, point-refusal: four artists, four positions, one month.
+
+There is also a third register emerging, past endorsement and refusal, in which the auteurs engage the technology by making it the material. In early July, **Neon** — a distributor whose brand, like A24's, is built on curation authority — released the first trailer for *Sheep in the Box*, **Hirokazu Koreeda's** AI family drama.[^07thestudios-66] Koreeda, the Palme d'Or-winning director of *Shoplifters*, is among the most humanist filmmakers working; that he has turned his attention to AI, and that a prestige-indie distributor is putting its marketing weight behind the result, tells you the arthouse economy has concluded that the subject itself now carries dramatic — and commercial — weight. The strongest position in the argument between the artists may turn out to be neither the endorsement nor the refusal, but the film that metabolises the technology into the work.
 
 **Leonardo DiCaprio**, in December 2025, told *The Hollywood Reporter*: *"I think anything that is going to be authentically thought of as art has to come from the human being."* The headline framing reduced the position to "AI can't be art because there's no humanity to it," which is the version that travelled, but the full quote is more philosophically defensible. DiCaprio wasn't claiming AI-augmented work couldn't be valuable. He was claiming that the authorship signal — "from the human being" — was a precondition for the *category* of art, as he understood it.[^07thestudios-39]
 
@@ -1778,11 +1879,13 @@ The same structural move sits underneath the **Spotify–Universal Music Group**
 
 The Disney–OpenAI collapse, read alongside the Hasbro and Spotify moves, supplies the lesson. **Licensing to a fragile platform you don't govern is not a strategic position.** *Equity in the platform without governance rights* is not a strategic position either. The strategic position — Position Five on this chapter's map — is owning the *governance layer itself*: the licensing protocol, the runtime guardrails, the provenance metadata, the verified-by stamp, the royalty-attribution rails. The legacy industries that absorb this lesson and *build their own governance infrastructure* — Hasbro's CharacterOS, Spotify's *Verified*-by stack, the **Cannes AI Disclosure Standard**, the C2PA / SynthID provenance layer described in [Chapter 12](12_Authenticity_New_Scarcity.md) — are positioning themselves to capture the durable value of the generative economy. The legacy industries that wait for the platform companies to build it on their behalf will end up where Disney ended up: thirty minutes' notice and an exit.
 
+The sharpest test of that lesson arrived in June 2026, from the studio this chapter opened with. In the first week of the month, Lionsgate vice-chairman **Michael Burns** said publicly that AI would save the company *"tens and tens of millions of dollars a year"*[^07thestudios-67] — the Position One cost argument, stated as plainly as anyone in a legacy studio has stated it. The following week, **Runway** and **Lionsgate** announced an expanded partnership in which Lionsgate took an **equity stake** in Runway.[^07thestudios-68] Read against this chapter's opening, the arc is remarkable: eight months from *Futurism*'s "crumbled into disaster" headline to shareholder in the model company — the fastest strategic rehabilitation on this map. And read against the Disney–OpenAI collapse, the structure is the significant part. This is a legacy studio moving from licence terms to an equity position in the model layer itself, which is precisely the correction the collapse prescribed: *align on equity and governance rights, not just licence terms.* Whether it is a genuine Position Five move, rather than Disney with a smaller cheque, turns on the part of the announcement a press release never settles — governance. Disney's $1bn pledge failed not because it was equity-shaped but because it carried no rights strong enough to buy the company more than thirty minutes' warning. If Lionsgate's stake carries real information and governance rights — visibility into the roadmap of the platform its catalogue now trains and its pipeline increasingly runs on — then a mid-sized studio will have executed the strategic correction the largest studio in the world fumbled. If it does not, the equity is a licence with a balance-sheet entry. On the evidence available at the time of writing I lean towards the former reading, for one unscientific reason: Lionsgate has already lived through the failure mode once, in public, and companies rarely repeat the specific humiliation they have been mocked for by name.
+
 There is one further observation I want to surface here, because it shifts the read on the labour story underneath the rest of this chapter. The transaction-cost frame I keep coming back to — that generative AI compresses the cost of search and negotiation but raises the cost of monitoring and enforcement — has a *labour consequence* that the substitution-panic framing of 2024 missed entirely. The work doesn't disappear; *it moves*. Voice performers who supply authorised source recordings, curators who write and maintain canon, the *judgment brokers* described in [Appendix K](A11_Deep_Dive_Coordination_Collapse.md), provenance and rights-management staff, brand stewards, the *Continuum Lead*-shaped roles I described in [Chapter 14](14_The_New_Jobs.md) — these are the jobs the governance layer creates as fast as it absorbs the routine production layer. The new roles are fewer and differently distributed than the ones they replace, and *"talent participation"* is a weaker contractual instrument than employment. But this is the actual shape of the disruption, and the studios reading the strategic map well are the studios that recognise it and start staffing for it. The deeper analytical treatment of the governance-layer move, the *three Cs* framework, the comparison of the five emerging licensing models (Hasbro/Behavioural Licensing, Spotify/UMG embedded remixing, Disney/OpenAI as cautionary tale, the independent-artist commons-and-DAO models, and Suno/Alexa as the demand floor), and the underlying transaction-cost / resource-based-view economic argument is laid out in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md).
 
 #### The trap the legacy industries built for themselves
 
-There is a deeper strategic risk underneath the four-positions map that I have, until now, deliberately not put on the page. I want to put it on the page, because I think it is the single most important read on the long-term legacy-studio position, and because, in the conversations I have had with senior creative-industry executives over these six months, it is the read they are most uncomfortable hearing.
+There is a deeper strategic risk underneath the five-positions map that I have, until now, deliberately not put on the page. I want to put it on the page, because I think it is the single most important read on the long-term legacy-studio position, and because, in the conversations I have had with senior creative-industry executives over these six months, it is the read they are most uncomfortable hearing.
 
 The risk is this.
 
@@ -1799,6 +1902,8 @@ In **AAA games**, the standardisation is even more visible. The *Ubisoft-tower-a
 Now consider what AI, as a creative tool in 2025–26, is structurally best at. Agents — as I argued in [Chapter 11](11_The_Orchestrator.md) — produce the *mean of their training distribution* by default. The mean of the training distribution, for a video model trained on contemporary Hollywood tentpoles, is *another contemporary Hollywood tentpole*. The mean of the training distribution, for an audio model trained on the contemporary streaming Top 40, is *another contemporary streaming Top 40 song*. The mean of the training distribution, for a games-development agent trained on the AAA open-world template, is *another AAA open-world template.*
 
 This is the strategic trap. The legacy industries, by spending fifteen years training themselves to produce the mean of the distribution, have arranged for the segment of the market they dominate to be *exactly the segment AI replicates most cheaply*. The Cardiff band's experience is the cleanest version of this dynamic in microcosm. The macro version is the major-studio business model. The risk to legacy Hollywood, legacy commercial music and the AAA games business is not that AI takes their *premium* segments — Cameron's *Avatar* sequels, the highest-end auteur cinema, the genuinely original musical voices, the *Baldur's Gate 3*-class boundary-pushing games. Those segments are, on the evidence of the slop ceiling and the authenticity premium, *more defensible than ever*. The risk is to the *median* output of these industries — the franchise instalments, the by-the-numbers chart hits, the AAA action-adventures that read as algorithmically generated even when no algorithm was involved. The median output is exactly where the AI substitution pressure is most direct, and the median output is precisely what the legacy industries have most thoroughly optimised themselves to produce.
+
+And by the summer of 2026 the trap was acquiring its own tooling. In June, **Quilty** — an AI script-analysis start-up — struck a preferred-look deal with Giovanni Entertainment,[^07thestudios-69] a week or so after *The Verge* had examined the same company under the headline question: can AI tell if your script will make a hit film?[^07thestudios-70] Greenlighting-by-model is the strategic trap with the lid bolted shut. A hit-prediction system is, by construction, a machine for measuring proximity to the historical mean; install it at the greenlight and you have automated the exact commissioning bias — *produce the work that resembles what already worked* — that this section has been describing. Every producer who filters development through such a model is asking the machine the only question it can answer, *is this like the things that already succeeded?*, and systematically declining to ask the only question that protects them: *is this the move the machine would not have generated?* The technology is not the trap. The technology is the trap's enforcement layer.
 
 The grandmasters of [Chapter 15](15_Choosing_the_Future.md) — the chess players who have started, in 2026, to deliberately play sub-optimal moves to put their opponents on uncomputed ground — are, on this read, the *senior auteurs of legacy Hollywood*. Cameron, del Toro, Soderbergh, Spielberg, Aronofsky, Lyonne, Larian's Sven Vincke, Hooded Horse's leadership — the figures profiled in the *Position Three* section of this chapter — are, structurally, the people whose competitive advantage is *the move the machine would not have generated*. The grandmasters can take the punch. The middle ranks — the franchise journeymen, the streaming-optimised mid-tier filmmakers, the chart-A&R commercial-pop machine, the AAA studio designing its fifth open-world action-adventure — are the ones whose business model the machine is structurally suited to replicate.
 
@@ -1960,6 +2065,44 @@ That is what Adobe, NVIDIA, Google and the rest of the platform layer started te
 
 [^07thestudios-57]: *Variety*, "Martin Scorsese Supports AI Company, Endorses AI for Storyboarding." <https://variety.com/2026/film/news/martin-scorsese-supports-ai-company-storyboard-movies-1236765037/>. Scorsese becomes advisor to Black Forest Labs (FLUX model); endorses AI storyboarding; Boots Riley and Guillermo del Toro respond critically. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
 
+[^07thestudios-5b]: *The Verge*, "Amazon's new plan for games: James Bond and AI Snoop Dogg." <https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^07thestudios-56a]: *Variety*, "'Dreams of Violets' Review: What Does a Film Made Entirely with AI Look Like?" <https://variety.com/2026/film/reviews/dreams-of-violets-review-ash-koosha-tribeca-festival-1236784209/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-57a]: *The Hollywood Reporter*, "Ron Howard Is Bullish on AI and Thinks Jim Henson Would Have Been Too." <https://www.hollywoodreporter.com/business/digital/ron-howard-ai-jim-henson-martin-scorsese-1236620457/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^07thestudios-57b]: *Variety*, "Gore Verbinski Says We Need a 'Rating System' for AI Use in Films: 'If You Use AI to Write a Script, You Get an F'." <https://variety.com/2026/film/global/gore-verbinski-ai-taormina-1236780502/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^07thestudios-57c]: *The Guardian*, "'It has no taste whatsoever. It is a genius at helping you… Like a billionaire on acid': Star Wars director Gareth Edwards comes out in favour of AI." <https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-57d]: *AOL*, "Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'." <https://www.aol.com/articles/emily-blunt-refused-steven-spielbergs-163209822.html>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^07thestudios-58]: *The Hollywood Reporter*, "Google Investing in 'Backrooms' Studio A24." <https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-59]: *Futurism*, "A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google." <https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^07thestudios-60]: *Bloomberg*, "Animation's AI Reckoning: Filmmakers Say They Can Make Movies for 90% Less." <https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^07thestudios-61]: *CNN*, "South Korea's movie industry is embracing AI. Will K-film lose its magic?" <https://www.cnn.com/world/south-korea-film-industry-ai-hnk-spc>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-62]: *The Hollywood Reporter*, "How the Shanghai Film Festival Is Embracing Cinema's Future: From AI to iPhone Moviemaking." <https://www.hollywoodreporter.com/movies/movie-news/shanghai-film-festival-cinema-future-ai-iphone-1236626463/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-63]: *Variety*, "MiniMax Launches All-in-One AI Video Generator Hub at Shanghai Film Festival: 'Creative Direction and Aesthetic Judgment Must Ultimately Be Left to Humans'." <https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-64]: *Deadline*, "AI Firm Utopai Studios To Co-Produce Silver Bear-Winning Filmmaker Hyo-Joo Yang's Feature 'Half Moon'." <https://deadline.com/2026/06/utopai-studios-hyo-joo-yang-half-moon-ai-1236952730/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^07thestudios-65]: *Variety*, "Fully AI-Generated Series 'Journey to the West' in Development by Utopai Studios and Huace." <https://variety.com/2026/tv/news/fully-ai-generated-journey-to-the-west-utopai-studios-huace-1236787171/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^07thestudios-66]: *The Hollywood Reporter*, "'Sheep in the Box': Neon Drops First Trailer for Hirokazu Koreeda's AI Family Drama." <https://www.hollywoodreporter.com/movies/movie-news/sheep-in-the-box-neon-trailer-hirokazu-koreeda-ai-drama-1236629132/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^07thestudios-67]: *Deadline*, "Lionsgate's Michael Burns Says AI Will Save The Company 'Tens And Tens Of Millions Of Dollars A Year'." <https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^07thestudios-68]: Runway, "Runway and Lionsgate Expand Partnership" — Lionsgate takes an equity stake in Runway. <https://runwayml.com/news/runway-and-lionsgate-expand-partnership>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^07thestudios-69]: *Variety*, "AI Script-Analysis Start-Up Quilty Strikes Preferred-Look Deal With Giovanni Entertainment." <https://variety.com/2026/film/news/ai-script-quilty-preferred-look-deal-giovanni-entertainment-1236772175/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^07thestudios-70]: *The Verge*, "Can AI Tell if your script will make a hit film?" <https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
 
 # Chapter 8 — Worlds, Not Pictures
 
@@ -2009,7 +2152,7 @@ Marble was the first commercial product in this category, but it was not the onl
 
 **Google DeepMind**'s **Genie 3**, named by *Time* as one of the best inventions of 2025, generated playable 3D worlds at 24 frames per second from text prompts, with consistency held for several minutes — and in January 2026 was made publicly available to Google AI Ultra subscribers in the U.S. through a prototype web app called Project Genie. At Google I/O 2026, **Project Genie** was extended with a **Street View** integration that lets users generate navigable simulations of real-world locations directly from Street View map data, collapsing the gap between *the world that exists* and *the world that can be generated.*[^08worldsnotp-8] **Meta** announced **WorldGen** in November 2025, framed as research that could generate walkable 3D worlds from prompts like *"medieval village town square."*[^08worldsnotp-9] **Tencent** open-sourced **HY World 1.5**, a real-time world model framework, in December 2025, alongside the **Hunyuan 3D Studio** which integrated the company's art-grade 3D generative model **3D-PolyGen 1.5**.[^08worldsnotp-10] **SpAItial** launched **ECHO**, a spatial foundation model, in December 2025.[^08worldsnotp-11] Stanford AI Lab and others released **Wonderzoom** in January 2026, a multi-scale 3D world-generation model that let you "infinitely zoom into the details" of a generated environment.[^08worldsnotp-12] **OpenArt** launched its own world-generation product, **Worlds**, in March 2026.[^08worldsnotp-13]
 
-The May 2026 wave was the most aggressive yet. **NVIDIA** released **SANA-WM**, a 2.6B-parameter open-source world model natively trained for 60-second video generation with explicit camera control — the first open-weight world model at meaningful scale, and a development whose long-term implications for the open-source-AI-tooling argument I make in [Chapter 16](16_The_Tools.md) are, in my view, substantial.[^08worldsnotp-26] **Odyssey** released **Starchild-1**, which it described as *"the first ever real-time multimodal world model"* — a system that doesn't just generate a world but understands and simulates it.[^08worldsnotp-27] **Apple** published **Headsup**, a large-scale, high-quality 3D Gaussian-head reconstruction pipeline built from multi-view captures of the kind a consumer iPhone can already produce — a continuation of the Apple-Personas-and-Gaussian-splat thread above.[^08worldsnotp-28] At the consumer end of the same wave, **WorldLens VR** rolled out an AI-powered Quest feature that adds subtle 3D depth to ordinary Google Street View environments, making the existing planetary-scale street-imagery dataset navigable in VR.[^08worldsnotp-29]
+The May 2026 wave was the most aggressive yet. **NVIDIA** released **SANA-WM**, a 2.6B-parameter open-source world model natively trained for 60-second video generation with explicit camera control — the first open-weight world model at meaningful scale, and a development whose long-term implications for the open-source-AI-tooling argument I make in [Chapter 16](16_The_Tools.md) are, in my view, substantial.[^08worldsnotp-26] **Odyssey** released **Starchild-1**, which it described as *"the first ever real-time multimodal world model"* — a system that doesn't just generate a world but understands and simulates it.[^08worldsnotp-27] A month later, Odyssey closed a **$310 million Series B** explicitly framed as capital to accelerate its world models — which is, for anyone still wondering whether the spatial thesis is a niche enthusiasm, the sound of the capital markets pricing it in.[^08worldsnotp-30] **Apple** published **Headsup**, a large-scale, high-quality 3D Gaussian-head reconstruction pipeline built from multi-view captures of the kind a consumer iPhone can already produce — a continuation of the Apple-Personas-and-Gaussian-splat thread above.[^08worldsnotp-28] At the consumer end of the same wave, **WorldLens VR** rolled out an AI-powered Quest feature that adds subtle 3D depth to ordinary Google Street View environments, making the existing planetary-scale street-imagery dataset navigable in VR.[^08worldsnotp-29]
 
 The most ambitious of all of these — and the one I think hints most clearly at where the category is going — was **Luma AI**'s **UNI-1**, launched in March 2026 with the framing: *"When worlds become instant, the race shifts to better thinking."*[^08worldsnotp-14] UNI-1 was the first commercial release I am aware of that *combined* world-model generation with what Luma called "reasoning" — that is, the model didn't just generate a scene, it could plan, modify and iterate on the scene as a coherent agent. The pitch was that you would no longer have a fragmented pipeline of prompt → image → video → iterate; you would have a single unified creative system that thought before it created.
 
@@ -2031,7 +2174,23 @@ The 2025–26 conversation in games is different in kind, because the AI is now 
 
 The most interesting single release of the spring of 2026 was **YouTube's Playables Builder**, a closed-beta product launched in December 2025 that lets users create games with short text, video or image prompts, built on Gemini 3.[^08worldsnotp-23] The framing, when YouTube's product team described it publicly, was that *every YouTube creator* should have the ability to ship a playable game as easily as they currently ship a video. Within months, **Unity** announced an "AI Open Beta" — an in-editor AI suite that brought the same logic to the professional games-development pipeline.[^08worldsnotp-24]
 
+By June 2026 the prompt-to-playable category had stopped being a YouTube curiosity and become a product race. **The Sandbox** announced **The Sandbox Studio**, pitched as taking a creator *from idea to live multiplayer game in hours*;[^08worldsnotp-31] a week later **Higgsfield** — the AI-video company whose commercial numbers I return to in [Chapter 9](09_AI_In_Everything.md) — introduced **Higgsfield Games**, a system that promises to create and deploy multiplayer games from a single prompt.[^08worldsnotp-32] And at the **State of Unreal**, Epic showed where the professional engine layer is heading: **Unreal MCP**, LLM-powered tools and video-model integrations that let creators direct the engine through natural language. The debate that followed — would this hollow out the craft of Blueprints? — rather missed what I take to be Epic's actual bet: not replacing developers but *expanding who can become one*, growing the whole creator ecosystem across games, film and immersive by lowering the technical barrier to entry.[^08worldsnotp-33]
+
+The platform that has been most explicit about the destination is **Roblox**. In June 2026 it acquired *three* AI research teams — **Morpheus AI**, **Dynamics Lab** and **Lucid AI** — in a single consolidating move aimed, in the company's own framing, at solving the specific technical problems blocking photorealistic multiplayer worlds.[^08worldsnotp-34] Morpheus builds video world models using *Self Forcing*, a technique for converting offline video models into fast, autoregressive, interactive engines. Read the acquisition list as a sentence and it says: the largest user-generated-worlds platform on Earth believes the world model is its next rendering engine, and it is buying the research capacity to build it.
+
 Where this lands, in 2027 and 2028, is the question I find the most strategically charged in the whole industry. If creating a playable, navigable world becomes a thing a YouTube creator can do in an afternoon, the boundary between *games* and *video* — which has been collapsing slowly for fifteen years, through platforms like Roblox and Fortnite and the proliferation of interactive content on social platforms — collapses fully. The next generation of creators will not think in terms of *making a video* or *making a game.* They will think in terms of *making a thing*, and the thing will, by default, be navigable.
+
+#### The storyworld, live: the 2026 World Cup
+
+In June 2026, while the tool announcements were stacking up, the thesis of this chapter received its first field test at genuinely planetary scale — and it came not from a studio, a lab or a games platform, but from football.
+
+The 2026 FIFA World Cup — 48 teams, 104 matches, sixteen cities across three countries, an audience of six billion — is, on the evidence I assembled for the newsletter's Deep Dive that month, the largest live deployment of AI in entertainment history.[^08worldsnotp-35] Before kicking a ball, every one of the tournament's 1,248 players stood still for one second while a scanner built a photorealistic **digital twin** — a 3D avatar that then spent the following five weeks adjudicating offsides, driving broadcast replays and populating immersive experiences. Combine the scanned avatars with a sensor-carrying match ball and computer-vision tracking across the stadium camera arrays, and something structurally new happens to the broadcast: the match is no longer merely *captured* by cameras. It exists as **a live data model that can be analysed, visualised and re-rendered from almost any perspective** — including perspectives no physical camera ever occupied.
+
+Stop and notice what that is. It is the inversion this chapter has been describing, running live in front of most of the connected human species. The world — the match, the stadium, the twenty-two tracked bodies — is the fundamental object. The television picture is one projection of it. The automated offside decision is another. The 3D replay on the BBC is a third. And the tournament's *second venue* is a fourth: the official FIFA World Cup experience on **Roblox**, the platform's biggest sports activation to date, which by the tournament's opening weeks had logged over **1.1 billion visits** — with real-time standings piping the actual tournament into the game world so the virtual carnival tracks the real one match by match.[^08worldsnotp-36] For a generation of Gen Z and Alpha fans, that voxel stadium, not the broadcast, is where the World Cup is happening.
+
+Around the canonical event, the halo: TikTok as FIFA's "preferred platform" with thirty Creator Correspondents, archival footage licensed to creators for co-creation, AI-personalised highlight packages assembled end-to-end for each fan's declared teams and interests, machine translation and auto-clipping collapsing the gap between the final whistle and the posted edit. The World Cup is not an event with media coverage any more. It is a **storyworld** — one scarce, live, unscripted core wrapped in an infinitely expanding, AI-mediated halo of derivative worlds, each surface rendering the same underlying reality for a different audience, in a different grammar, at a different depth. That architecture is, I would bet, the template every major cultural property chases for the next decade — and the next generation of entertainment franchises will not bolt a transmedia strategy on after the fact; they will be designed as storyworlds from inception, built to be captured once and rendered everywhere. I have given the tournament the full treatment it deserves in [Appendix M](A13_Deep_Dive_World_Cup.md), which walks through the officiating stack, the stadium digital twins, the creator economy and the synthetic-rights precedents being set in the players' contracts.
+
+The physical venue layer, meanwhile, is moving the same way at its own pace: the same month, Sphere announced that *The Rocky Horror Picture Show* would be re-worked with "advanced technologies" into an immersive experience for the Las Vegas venue — a fifty-year-old flat film being promoted, in effect, into a place you stand inside.[^08worldsnotp-37]
 
 #### What this means for film
 
@@ -2149,6 +2308,22 @@ And I think — most importantly for the next chapter — that the toolchain to 
 
 [^08worldsnotp-29]: WorldLens VR, "AI-powered 3D depth for Google Street View on Quest." <https://www.uploadvr.com/worldlens-vr-quest-street-view-3d-depth/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+[^08worldsnotp-30]: Odyssey, "Our Series B" — $310M raise to accelerate world models, June 2026. <https://odyssey.ml/our-series-b>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^08worldsnotp-31]: The Sandbox, "Announcing The Sandbox Studio: from idea to live multiplayer game in hours." <https://www.youtube.com/watch?v=IdTVDRvQoWM>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^08worldsnotp-32]: Higgsfield, "Higgsfield Games" — multiplayer games created and deployed from a single prompt. <https://higgsfield.ai/games-intro>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^08worldsnotp-33]: Unreal Engine, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. *Engadget*, "Epic Games details how it's embracing generative AI in Unreal Engine." <https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md), "Editor's Pick: Unreal Engine's AI Future — From Tools to Creative Partners," 23 June 2026.
+
+[^08worldsnotp-34]: Roblox Newsroom, "Pioneering AI founders join to accelerate Roblox reality vision" — acquisition of Morpheus AI, Dynamics Lab and Lucid AI. <https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision>. *Dream Machine* Issues [32](../Dream%20Machine%20MD/32.md) and [34](../Dream%20Machine%20MD/34.md).
+
+[^08worldsnotp-35]: [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md), "Editor's Pick: The AI World Cup — When Sport Becomes a Living Digital System," 16 June 2026. The full Deep Dive, with its complete reference list, is preserved as [Appendix M](A13_Deep_Dive_World_Cup.md).
+
+[^08worldsnotp-36]: *GamesBeat*, "FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer and Roblox." <https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/>. *PocketGamer.biz*, "FIFA and Gamefam launch FIFA World Cup 2026 event across Roblox." <https://www.pocketgamer.biz/fifa-and-gamefam-launch-fifa-world-cup-2026-event-across-roblox/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md) and [Appendix M](A13_Deep_Dive_World_Cup.md).
+
+[^08worldsnotp-37]: Sphere Entertainment, "Sphere Studios announces *The Rocky Horror Picture Show* at Sphere." <https://www.sphereentertainmentco.com/sphere-studios-announces-the-rocky-horror-picture-show-at-sphere/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
 
 # Chapter 9 — AI in Everything, Everywhere, All at Once
 
@@ -2198,6 +2373,8 @@ The reason I want to be careful with the Adobe-MAX framing is that, six months o
 
 In December 2025, Adobe announced that Photoshop, Express and Acrobat editing would be available *inside* ChatGPT — meaning the creative output was no longer happening inside Adobe's interface, but inside an AI agent's.[^09aiineveryt-6] In January 2026, the Premiere Object Mask tool — an AI-driven masking feature that automated one of the most laborious tasks in video editing — quietly became available to Premiere users.[^09aiineveryt-7] In late January, at Sundance, Adobe launched the *Adobe Film & TV Fund* and *Ignite Day*, with explicit support for filmmakers integrating AI into their workflows.[^09aiineveryt-8] In April 2026, at the **Adobe Summit**, the company introduced its **CX Enterprise** platform alongside NVIDIA — a stack of AI agents embedded across the entire content lifecycle from brief to delivery — under the framing "agentic creative intelligence is now."[^09aiineveryt-9]
 
+By June 2026 the agentic turn had reached the flagship applications themselves: the **Adobe Creative Agent and AI Assistant** went into beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io — the MAX-week "Project" previews resolving, eight months on, into shipping agents inside the tools most working creatives open every morning.[^09aiineveryt-49] **Firefly Foundry**, the custom-model service that headlined MAX, completed the same journey from keynote to procurement line: Adobe productised it for enterprise brands wanting their own generative models trained on their own visual identity,[^09aiineveryt-50] and — in the announcement that tells you where the enterprise tier of this market actually sits — **Disney's Imagineers** said publicly that they were adding Firefly Foundry to their worldbuilding toolkit.[^09aiineveryt-51] And in late June, Adobe announced its intent to acquire **Topaz Labs**, the AI image- and video-enhancement company whose upscaling tools had become a quiet standard in independent post-production pipelines[^09aiineveryt-52] — one more independent toolmaker absorbed into the platform, exactly on the concentration pattern this chapter describes.
+
 The trajectory, in one sentence: Adobe in 2024 was a *creative tool company.* Adobe in 2026 is an *AI-agent platform company* that happens to also still ship Photoshop.
 
 If you are wondering whether this transition has been smooth: it has not. The reception of the Adobe AI announcements among working creatives has been, in my own circles and the readers' WhatsApp group the *Dream Machine* community runs, sharply ambivalent. There is real appreciation for the productivity gains. There is real anxiety about the implications for craft, for licensing, for control, for the trajectory of the company's relationship with the creators who pay for it.
@@ -2217,6 +2394,8 @@ The reason this is consequential — beyond the size of the two companies involv
 The same week, **Google** and **NVIDIA** announced a parallel deal for cloud-based generative-AI infrastructure aimed at the same enterprise market.[^09aiineveryt-12] **Hugging Face** and **Google Cloud** announced a partnership in November 2025 covering open-source agentic development.[^09aiineveryt-13] **Meta** and **Hugging Face** launched **OpenEnv** in October 2025 to advance open-source agentic development.[^09aiineveryt-14] **Anthropic** signed a corporate-patronage deal with the **Blender Foundation** in May 2026.[^09aiineveryt-15] **Anthropic** also acquired into the **Slack** workplace-tooling ecosystem with Claude Apps in January 2026,[^09aiineveryt-16] and reached an ad-sales partnership with **Spotify** to put music recommendations inside Claude.[^09aiineveryt-17] In May 2026 **Splice** signed a "Responsible AI" deal with **ElevenLabs** covering sample-library training and consented voice synthesis;[^09aiineveryt-46] **Netflix** announced an agentic ad-tools roadmap whose internal framing — *"agentic AIs talking to each other"* — was an unusually candid description of where the advertising-orchestration layer is heading;[^09aiineveryt-47] and the AI-coworker startup **Viktor** raised $75M to embed an agentic colleague directly into Slack and Teams,[^09aiineveryt-48] reinforcing the pattern that the platform-layer agents are landing where the working creative already lives.
 
 The advertising holding companies were moving at the same pace. **WPP** signed a $400m partnership with Google in October 2025.[^09aiineveryt-18] **WPP Open Pro**, a new edition of the agency's AI marketing platform, launched the same month with a framing that should be read carefully by anyone working in adland: *"While some companies hide their AI behind service teams or focus on just one part of the journey, WPP Open Pro is an integrated solution for campaign implementation, built to deliver outcomes, not just assets."*[^09aiineveryt-19] *Outcomes, not just assets.* That is the position of a holding company that has decided AI is not a feature — it is the entire reason a brand should buy from them in 2026. **WPP** then expanded its AI capabilities through a partnership with **Sightly** in November 2025.[^09aiineveryt-20] By April 2026, WPP was using Google Earth's AI tools to map consumer journeys at scale.[^09aiineveryt-21]
+
+The jockeying in that advertising layer has continued through the period. In June 2026, Forrester reported that **Google had dethroned OpenAI as agencies' preferred AI partner**[^09aiineveryt-53] — the same week that OpenAI, per *Digiday*, moved to automate ad creative itself,[^09aiineveryt-54] a reminder that the platform companies compete for the agencies' business with one hand while building the tooling that could disintermediate the agencies with the other. Even **Apple** — the last of the consumer-platform giants to hold back — finally arrived, announcing Siri AI and its next generation of Apple Intelligence at WWDC in June 2026.[^09aiineveryt-55]
 
 The pattern is unmistakable. The platform layer — the toolmakers, the infrastructure companies, the agencies, the cloud providers — has been quietly consolidating around a small number of strategic alliances that, taken together, are deciding the *rails* on which creative work will run for the next decade.
 
@@ -2246,7 +2425,23 @@ Underneath the platform giants, a separate layer of companies has been building 
 
 **Krea**, **Freepik**, **Magnific**, **Heygen**, **Hedra**, **Cascadeur**, **Hunyuan**, **Kling**, **Suno**, **Udio**, **Mureka**, **Hitem3D**, **Meshy**, **Rodin** — the list of consumer-grade AI creative tools that crossed material commercial scale in this period is too long to fully enumerate, and the *Dream Machine* archive carries them week by week.[^09aiineveryt-28] The category that didn't exist in 2023 is now an industry with multiple unicorns, multiple billion-dollar valuations and meaningful real revenue.
 
-**ComfyUI**, the open-source node-based workflow tool that has become a quiet standard for technical AI users, raised $17m in October 2025[^09aiineveryt-29] and hit a $500m valuation by May 2026.[^09aiineveryt-30] What the ComfyUI valuation tells you, more than any of the big-platform numbers, is that the market is also paying — at significant scale — for tools that give *creators control* over the AI process rather than abstracting it away.
+**ComfyUI**, the open-source node-based workflow tool that has become a quiet standard for technical AI users, raised $17m in October 2025[^09aiineveryt-29] and hit a $500m valuation by May 2026.[^09aiineveryt-30] What the ComfyUI valuation tells you, more than any of the big-platform numbers, is that the market is also paying — at significant scale — for tools that give *creators control* over the AI process rather than abstracting it away. By the summer of 2026, that observation had grown into something bigger — big enough that it deserves its own section, because it is the strongest counter-evidence this book has to offer against the platform-concentration story the rest of this chapter tells.
+
+#### The ComfyUI counterweight
+
+If this chapter so far reads as concentration all the way down — Adobe absorbing the independents, the alliances laying the rails, the natural-monopoly flywheel spinning — I have written it that way because that is what most of the evidence shows. But the period this book covers also produced one large, awkward, genuinely hopeful counter-example, and I want to give it proper weight.
+
+ComfyUI began in January 2023 as one developer's open-source side project — comfyanonymous, then in the orbit of Stability AI — built to give people real control over diffusion models instead of a single prompt box. Three and a half years on, it has crossed **four million users**, drawn more than 89,000 GitHub stars and **60,000+ community-built nodes**, and become the operating layer where a substantial share of serious generative image and video work now happens.[^09aiineveryt-56] My own route in was earlier, and more personal: I first came across it through Javi, a developer I was working closely with at the time — and the node-graph thinking under the bonnet wasn't new to us, because back in 2022–23 I was part of a team already experimenting with litegraph.js, the browser-based node-graph engine ComfyUI's interface is built on. What felt then like a niche way of wiring tools together has quietly become how much of the industry builds.
+
+And not just in theory — in shipped work. The ad studio Silverside AI built SVEDKA's 2026 Super Bowl spot on ComfyUI, billed as the first primarily AI-generated Super Bowl ad. Series Entertainment rebuilt its entire game-and-video pipeline on it, scaling past 100,000 assets and shipping Netflix games. Comfy Org says **Netflix, Apple and Ubisoft are paying customers**. And the model labs have fallen in line: Flux, Stable Diffusion, Alibaba's Wan, Tencent's Hunyuan and ByteDance's Seedance now ship a ComfyUI workflow as standard documentation — ComfyUI has become the integration target for new models the way Hugging Face became the target for weights.[^09aiineveryt-56]
+
+The reason is the one this chapter's closing section circles: *control.* Where the closed platforms hide the process behind a prompt, ComfyUI exposes the whole pipeline as a visual graph of nodes. You can chain models, wire in controls, and turn a lucky one-off into a repeatable production system — the workflow itself becomes an asset a team can version, share and reason about. And as the foundation models improve, that control layer gets *more* valuable, not less: the bottleneck shifts from *can the model do it?* to *can I direct it precisely, every time?* Comfy's chief executive put the strategy plainly — "we are not trying to win the next benchmark" — because the bet is that whichever model wins, the layer that lets a human steer it is the thing that endures. It is picks-and-shovels economics for the creative economy, and it explains why the market has bifurcated: closed consumer apps like Midjourney on one side, and on the other a professional layer — VFX houses, ad agencies, game studios — that has consolidated almost entirely on the open graph.
+
+In July 2026 the company pushed the thesis one layer further, launching **Comfy MCP** in public beta — pitched as the first Model Context Protocol server built for real production pipelines rather than one-off generations. Point an agent at it and you can build, edit and run workflows in plain language, search models and nodes, and — crucially — share a workflow URL so a colleague's agent runs the *exact same* pipeline, every generation reproducible. The tagline says it plainly: *turn your agent into a creative technologist.* The shift is from AI that *makes* content to AI that can *operate* a creative system.[^09aiineveryt-57]
+
+And then the reversal — the detail that made me sit up when I wrote the newsletter issue this section draws on. Adobe's Firefly AI Assistant, launched in April 2026, is an agent that orchestrates multi-step jobs across Photoshop, Premiere and Illustrator from plain language; Project Graph, previewed at MAX and described earlier in this chapter, is a node-based editor for wiring AI models, Adobe tools and effects into shareable "capsules." Read those two products together: Adobe is building node graphs and a multi-model roster, and openly treating the connective infrastructure *between* its apps — not any single app — as where the value now sits. That is ComfyUI's thesis, arriving in San Jose. The innovation didn't come from the biggest company in the room. It came from an open ecosystem, and the biggest company in the room is now following it.
+
+I don't want to over-claim. ComfyUI is itself now a venture-backed company; open-source projects have been absorbed, enclosed and abandoned before, and the concentration forces described in the rest of this chapter have not gone away. But the structural fact stands: at the moment the platform layer consolidated, an open-source control layer became the professional standard — and that matters, not as ideology, but as *leverage.* Opening the black box gives creators a say over the tools, the models, and the values baked into them: room for models trained differently, transparent development, systems that answer to the communities using them rather than a single vendor's roadmap. It is the strongest evidence yet that the next generation of creative studios may be built on open, programmable pipelines rather than closed software platforms — and that the people doing the creative work may yet get to keep their hands on the controls. It is also, not coincidentally, the practical foundation of the *insurance policy* argument I make in the platform-economics section below and at length in [Chapter 16](16_The_Tools.md).
 
 #### The free tier and the literacy tier
 
@@ -2290,7 +2485,9 @@ The implications for working creatives buying platform access at scale, in 2026 
 
 *Two,* the *strategic-rent-extraction* potential of the eventual platform-monopoly position is the structural risk underneath the entire orchestrator economy I described in [Chapter 11](11_The_Orchestrator.md). If two foundation-model platforms dominate the underlying generative-AI capacity by 2030, and every working creative's production pipeline depends on access to one or both of them, the platforms will be in the position the cable companies were in by 2010 and the social-media platforms were in by 2015 — able to extract value from the working creators who depend on them at prices the creators have no real ability to negotiate. The Petrillo-template solution to this is *collective bargaining* by working creatives and their unions against the platform companies as a class. The early architecture of this — the Cannes Disclosure Standard, the SAG-AFTRA platform negotiations, the EU AI Act enforcement, the UK 88% — is in place. The substance of it is, in mid-2026, still mostly aspirational.
 
-*Three,* the *open-source alternative* layer documented in [Chapter 16](16_The_Tools.md) is, on this structural read, *the working creative's principal long-term insurance policy* against platform-monopoly pricing. The 80% of YC and a16z startups now building on open-weight models — Hunyuan, Wan, Qwen, FLUX, DeepSeek, the various Mistral variants — is, in market-economics terms, *the credible-walk-to-alternative* that constrains the closed-platform companies' pricing power. The working creative who has familiarised themselves with open-weight tooling, even if they default to closed-platform tooling for most of their daily work, has a *strategic option* the working creative who has not has surrendered. The option is worth money. It is also, on the historical pattern, worth political leverage in the institutional negotiations that the next decade of platform-rule-writing will run on.
+*Three,* the *open-source alternative* layer documented in [Chapter 16](16_The_Tools.md) is, on this structural read, *the working creative's principal long-term insurance policy* against platform-monopoly pricing. The 80% of YC and a16z startups now building on open-weight models — Hunyuan, Wan, Qwen, FLUX, DeepSeek, the various Mistral variants — is, in market-economics terms, *the credible-walk-to-alternative* that constrains the closed-platform companies' pricing power. The generative-video layer is the sharpest current illustration: by June 2026, *Forbes* was reporting that the Chinese labs had effectively won the video-model race that OpenAI had abandoned — and because so much of that Chinese-lab work ships on open or near-open terms, the video layer is precisely where the closed platforms' pricing power is weakest.[^09aiineveryt-58] The working creative who has familiarised themselves with open-weight tooling, even if they default to closed-platform tooling for most of their daily work, has a *strategic option* the working creative who has not has surrendered. The option is worth money. It is also, on the historical pattern, worth political leverage in the institutional negotiations that the next decade of platform-rule-writing will run on.
+
+The platform-dependence risk, I should add, stopped being hypothetical in the middle of June 2026. As reported in [Issue 34](../Dream%20Machine%20MD/34.md), the US government, citing national-security authorities, issued an export-control directive suspending all access to Anthropic's Fable 5 and Mythos 5 frontier models — leading Anthropic to suspend the tools.[^09aiineveryt-59] I am wary of drawing large conclusions from a single episode whose full circumstances were still unclear as this book went to press. But the structural lesson holds regardless of the details: a frontier model your pipeline depends on can be switched off by decisions — corporate, regulatory, geopolitical — taken several layers above your head, with no notice and no appeal. One week the model is a line item in your workflow; the next it is a line in an export-control directive. That is what dependence on the platform layer means in practice, and it is the most concrete argument I can offer for the open-weight insurance policy described above.
 
 The "AI in everything" framing, in operational summary, *is the platform companies' commercial strategy described in marketing language*. The strategy is to make AI a default productivity feature of every creative workflow, on platform-controlled tooling, at prices that the platforms can adjust over time once the workflow lock-in is in place. The strategy is, on the historical pattern of every previous platform-economics moment, going to produce a settlement somewhere between *the most-extractive version of the strategy* and *the most-constrained version of the strategy*. The 88%, the SAG-AFTRA contract, the EU AI Act, the C2PA standards body, the open-source ecosystem, and the working-creative collective-bargaining infrastructure are the constraints. The platform companies' compute capital, distribution leverage, and product-design control are the extractive forces. The settlement will be wherever those forces balance.
 
@@ -2415,6 +2612,28 @@ In the next chapter, I want to talk about the people who are doing exactly that.
 [^09aiineveryt-47]: *Adweek*, "Netflix ad tools could see 'agentic AIs talking to each other'." <https://www.adweek.com/media/netflix-ad-tools-agentic-ais-talking-to-each-other/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 [^09aiineveryt-48]: *Fortune*, "AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams." <https://fortune.com/2026/05/19/ai-startup-viktor-75-million-virtual-coworker-slack-teams/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^09aiineveryt-49]: Adobe Newsroom, "Adobe unveils major expansion" — Adobe Creative Agent and AI Assistant in beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io, June 2026. <https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^09aiineveryt-50]: *MarTech Series*, "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency." <https://martechseries.com/predictive-ai/ai-platforms-machine-learning/adobe-introduces-firefly-foundry-to-support-custom-ai-models-for-enterprise-brand-consistency/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^09aiineveryt-51]: Adobe blog, "Disney Imagineers add Adobe Firefly Foundry to toolkit of worldbuilding superpowers." <https://business.adobe.com/blog/disney-imagineers-add-adobe-firefly-foundry-to-toolkit>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^09aiineveryt-52]: Adobe Newsroom, "Adobe to acquire Topaz Labs," June 2026. <https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^09aiineveryt-53]: Forrester, "Google Dethrones OpenAI As Agencies' Preferred AI Partner." <https://www.forrester.com/blogs/google-dethrones-openai-as-agencies-preferred-ai-partner/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^09aiineveryt-54]: *Digiday*, "OpenAI moves to automate ad creative." <https://digiday.com/marketing/openai-moves-to-automate-ad-creative/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^09aiineveryt-55]: Apple Newsroom, "Apple unveils next generation of Apple Intelligence, Siri AI and more," June 2026. <https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^09aiineveryt-56]: [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md), "Editor's Pick: ComfyUI MCP — the open source engine behind AI's creative future," 2 July 2026. Background: *Medium* (Andrew Zhu), "The Rise of ComfyUI: How One Guy's Side Project Took Over AI Image Generation." <https://xhinker.medium.com/the-rise-of-comfyui-how-one-guys-side-project-took-over-ai-image-generation-558dca64bfd7>.
+
+[^09aiineveryt-57]: Comfy Org, "Comfy MCP" — public beta, July 2026. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^09aiineveryt-58]: *Forbes*, "Video AI Wars: How Chinese Labs Are Winning The Race OpenAI Abandoned," 5 June 2026. <https://www.forbes.com/sites/edithyeung/2026/06/05/video-ai-wars-how-chinese-labs-are-winning-the-race-openai-abandoned/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^09aiineveryt-59]: Anthropic, "Fable and Mythos access" — suspension of frontier AI tools following US export-control directive, June 2026. <https://www.anthropic.com/news/fable-mythos-access>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
 
 
 # Chapter 10 — What is newly possible
@@ -2665,6 +2884,16 @@ The Anthropic blog posts on agent deployment patterns through Q1 2026 made the p
 
 That is the orchestrator's job: to *be the human who is already good*, holding the taste line, while the agent team produces faster than the human pipeline ever could.
 
+By mid-2026, even the model labs were making this point from their own stages. When **MiniMax** — one of the Chinese labs whose video models have been setting the pace this year — launched its all-in-one AI video generator hub at the Shanghai International Film Festival in June, the framing it chose was not the maximal claim its marketing department could have written. It was a concession: *"creative direction and aesthetic judgment must ultimately be left to humans."*[^11theorchest-27] Sit with that for a second. A frontier video lab, at its own launch event, in a festival market it is actively trying to win, describing the boundary of its own product in exactly the terms this chapter has been arguing for. When the people selling the agents and the people directing them agree on where the line sits, the line is probably real.
+
+#### The console becomes conversational
+
+There is a development from the early summer of 2026 that deserves its own section, because it changes the *texture* of the orchestrator's working day more than anything else this year: the orchestrator's console is becoming conversational.
+
+In July 2026, ComfyUI — the open-source node-graph engine that has quietly become the professional operating layer for serious generative image and video work — launched **Comfy MCP** in public beta: pitched as the first Model Context Protocol server built for real production pipelines rather than one-off generations, under a tagline that could serve as this chapter's epigraph — *"turn your agent into a creative technologist."*[^11theorchest-28] Point an agent like Claude, Codex or Cursor at it and you can build, edit and run production workflows in plain language, search models and nodes, and share a workflow URL so a colleague's agent runs the *exact same* pipeline, every generation reproducible. And it did not arrive alone. In the same few weeks, Epic announced **Unreal MCP** at the State of Unreal, Runway shipped its tools *inside* ChatGPT, and Magnific and Higgsfield both stood up MCP servers of their own.[^11theorchest-29] Read the pattern rather than the products: every serious creative system is being fitted with a socket that an agent can plug into. The orchestration this chapter has been describing — brief, allocate, judge, integrate — stops being a metaphor about management style and becomes a literal software architecture. The agent is no longer just a maker of content. It is an *operator of creative systems*, and the orchestrator directs it in sentences.
+
+Two things follow from this, and they pull in opposite directions. The first is that briefing — function three of the five — becomes even more nakedly the differentiating skill. When the pipeline itself responds to natural language, the distance between a precise brief and a vague one is the distance between a production system and a slot machine. The second is that the low-agency end of the same spectrum gets a fresh coat of glamour. The same fortnight Comfy MCP shipped, OpenArt — an AI startup run by ex-Googlers — was pitching a new model to *The Hollywood Reporter* under the banner of **"vibe directing"**: filmmaking by loose intent, with the system inferring the rest.[^11theorchest-30] I want to be blunt about why that phrase should worry you. Everything this book has argued about the Human–AI Agency Continuum, and everything the Process Trap essay argues about curating the machine's mean, says that the value of the conversational console is *proportional to the agency of the person speaking into it*. The vibe director has delegated not just the execution but the *intent* — and intent is the one thing on the five-function list that cannot be delegated without the role collapsing into passengerhood. Kane Parsons, the director behind the *Backrooms* phenomenon, had put the refusal position at the other pole with equal bluntness only weeks earlier: using AI "defeats the purpose" of filmmaking — *"I get no enjoyment from using those tools."*[^11theorchest-31] Between the vibe director who has surrendered the brief and the refusenik who has surrendered the leverage sits the position this chapter is actually arguing for: the orchestrator who holds the intent tightly, and speaks it into a console that can finally hear it.
+
 #### Sundance, and the literacy turn
 
 I noted in the last chapter that the platform companies have responded to the AI-literacy gap by becoming, in addition to software companies, *training organisations.* The most institutionally credible example of this turn, in the period this book covers, was **Sundance Institute's** launch of an **AI Literacy Initiative** at the 2026 festival.[^11theorchest-4]
@@ -2829,6 +3058,16 @@ That is the subject of the next chapter.
 
 [^11theorchest-a1]: Variety, "AI Creator Behind Viral 'Deadpool,' 'Harry Potter' Christmas Clip Made His Film in a Ukrainian Bomb Shelter." <https://variety.com/2026/digital/news/ai-video-deadpool-harry-potter-andrii-daniels-1236624632/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
+[^11theorchest-27]: *Variety*, "MiniMax Launches All-in-One AI Video Generator Hub at Shanghai Film Festival: 'Creative Direction and Aesthetic Judgment Must Ultimately Be Left to Humans'." <https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^11theorchest-28]: Comfy Org, "Comfy MCP" public beta, July 2026. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md), Editor's Pick.
+
+[^11theorchest-29]: Unreal Engine, "State of Unreal 2026: top news from the show" (Unreal MCP announcement). <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md). Runway, "Runway in ChatGPT." <https://runwayml.com/mcp>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md). Magnific, "Connecting Magnific to AI assistants using MCP." <https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md). Higgsfield, "Higgsfield MCP." <https://higgsfield.ai/mcp>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^11theorchest-30]: *The Hollywood Reporter*, "Vibe Directing? An AI Startup Run by Ex-Googlers Say Their New Model Can Make It Happen (Exclusive)." <https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^11theorchest-31]: *Variety*, "'Backrooms' Director Kane Parsons Says Using AI 'Defeats the Purpose' of Filmmaking: 'I Get No Enjoyment From Using Those Tools'." <https://variety.com/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
+
 
 # Chapter 12 — Authenticity as the New Scarcity
 
@@ -2864,7 +3103,7 @@ The alternative Mosseri and others have argued for is *the inverse:* instead of 
 
 The technical infrastructure for this is, as of 2026, partially built. The **Content Authenticity Initiative**, an Adobe-led coalition of camera makers, software companies and news organisations, has been working on it since 2019. By late 2025, **C2PA** (Coalition for Content Provenance and Authenticity) standards were supported by most major camera manufacturers, most major editing platforms, and a growing number of social-media uploads pipelines. The standards are robust enough that a photo taken with a C2PA-enabled camera, edited in Photoshop with C2PA-aware tools, uploaded to a C2PA-supporting platform, can carry a verifiable chain-of-custody for its entire provenance, from sensor to viewer.
 
-Underneath this is **Google's SynthID** — a watermarking system that Google has been deploying across its AI generation tools, including Veo and Lyria.[^12authentici-5] In December 2025, the company announced that users could ask the Gemini app, *"Is this video made with AI?"*, and receive a reliable yes/no answer based on the SynthID watermark. By January 2026, this capability was available in the consumer Gemini product.[^12authentici-6] At Google I/O 2026, the company reported that **SynthID had marked over 100 billion items** across its own ecosystem and was being extended to partner platforms including **OpenAI**, **ElevenLabs** and **Kakao**.[^12authentici-27] That cross-vendor expansion is the single most consequential development on the provenance side of the period this book covers: a watermarking standard, born inside one platform, is — for the first time — being adopted across the foundation-model companies that have until now competed against one another on every other axis. If the C2PA Content Credentials standard is the *capture-time* spine of authenticity infrastructure, SynthID-across-vendors is, as of May 2026, the closest thing the industry has to a *generation-time* spine.
+Underneath this is **Google's SynthID** — a watermarking system that Google has been deploying across its AI generation tools, including Veo and Lyria.[^12authentici-5] In December 2025, the company announced that users could ask the Gemini app, *"Is this video made with AI?"*, and receive a reliable yes/no answer based on the SynthID watermark. By January 2026, this capability was available in the consumer Gemini product.[^12authentici-6] At Google I/O 2026, the company reported that **SynthID had marked over 100 billion items** across its own ecosystem and was being extended to partner platforms including **OpenAI**, **ElevenLabs** and **Kakao**.[^12authentici-27] That cross-vendor expansion is the single most consequential development on the provenance side of the period this book covers: a watermarking standard, born inside one platform, is — for the first time — being adopted across the foundation-model companies that have until now competed against one another on every other axis. (The ElevenLabs leg of that expansion went live in June 2026: under a formal partnership with Google DeepMind, audio generated by ElevenLabs' models can now be identified with SynthID.[^12authentici-27a]) If the C2PA Content Credentials standard is the *capture-time* spine of authenticity infrastructure, SynthID-across-vendors is, as of May 2026, the closest thing the industry has to a *generation-time* spine.
 
 These technologies are not, on their own, sufficient. Watermarks can be stripped by determined adversaries. C2PA chains break when files pass through non-compliant tools. The reliability of any given piece of provenance metadata depends on the integrity of every link in its chain. The trust infrastructure is still — relative to the speed of the AI rollout — early.
 
@@ -2872,7 +3111,11 @@ By June 2026 two more platform-side moves had landed and are worth flagging beca
 
 The deeper structural move underneath all of this — and the one I want to spend a paragraph on because it ties the chapter's authenticity argument into the IP-economics argument that [Chapter 7](07_The_Studios_Decide.md) has built up — is the **redefinition of intellectual property from an asset to an environment**, and the corresponding migration of value from the *generation* layer to the *governance* layer. For a century, IP was understood as a discrete, ownable thing whose value you protected by controlling access to it. What the 2026 deals reveal, when you stack them next to each other, is something different: a bounded space, governed by rules, inside which value is created continuously by people who are not you. **Hasbro's Sixth Wall** doesn't sell you Optimus Prime; it sells developers a governed space in which Optimus Prime can be summoned, on-brand and on-licence, a million times over.[^12authentici-32c] **Spotify's Verified-by-Spotify badge**, layered onto the *consent / credit / compensation* opt-in catalogue of the Universal Music deal, is the same move applied to recorded music — the platform doesn't try to detect and remove the synthetic flood, it draws a fence around the verified-and-licensed work and routes attention and money to the inside of the fence.[^12authentici-32d] The C2PA chain-of-custody stack, SynthID's 100-billion-watermark deployment, the Cannes AI Disclosure Standard, the Academy's *"you must be human to win"* rule, the YouTube and LinkedIn labelling regimes I have just described, the New York AI-avatar disclosure law and the SAG-AFTRA *Tilly Tax* are — read in this light — *the same project seen from different angles*. They are not labelling regimes for synthetic work. They are *governance infrastructure for the authenticity premium*: the architectural enclosure that lets the audience tell, at the speed of a swipe, which side of the line the work in front of them is on. The platforms and rights holders that *own* this governance layer — Hasbro with CharacterOS, Spotify with the verified-stack, Adobe with C2PA, Google with SynthID, the Cannes consortium with the Disclosure Standard — are positioning themselves to capture the durable value of the generative economy. The full IP-economics treatment of this argument, the *three Cs* (consent, credit, compensation) framework, the comparative analysis of five emerging licensing models, and the corrected record on the Disney–OpenAI deal that *never executed* sit in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md).
 
+One caveat belongs here, precisely because I have just described Hasbro's Sixth Wall favourably. A governance layer is only as legitimate as the consent underneath it, and in June 2026 nearly 1,000 actors, talent agents and parents signed an open letter condemning contract clauses that require child actors to sign over their voices for AI use as a condition of the job — the flashpoint being the *Peppa Pig* franchise, in the Hasbro orbit.[^12authentici-32e] The same company can build the industry's most sophisticated brand-governance architecture *and* be the test case for what consent extraction looks like at the contract layer. The environment-not-asset model of IP is not self-legitimising; it inherits the legitimacy — or the illegitimacy — of the consents it is built on. This is the theme [Chapter 6](06_The_88_Percent.md)'s three Cs framework exists to police, and the child-actor letter is the sharpest reminder of the period that *consent* is the C that fails first when the counterparty has no bargaining power.
+
 But what these technologies are doing, collectively, is establishing the *category.* They are saying: the question *did a person make this?* is technically answerable, with high reliability, given the right tooling. The next decade of cultural and legal policy in the creative industries will be — in significant part — about who controls that tooling, who decides what it certifies, and what economic value it carries.
+
+You do not have to take that trajectory on faith, because the June and July issues of the newsletter filled in the detection layer at a pace that surprised even me. **Warner Music Group** bought the AI-detection company **Sureel** outright — a major label deciding that detection infrastructure is something you *own*, not something you subscribe to.[^12authentici-32f] **Sony**, in the same weeks, invested in the AI copyright-protection firm **Midnight Labs**.[^12authentici-32g] **Deezer** — whose upload-time detection pipeline I have leaned on throughout this book as the best data source on the synthetic flood — productised that pipeline, launching its AI music detector *as a service for other streaming platforms*.[^12authentici-32h] The startup **RTM Audio** launched **UAI**, an AI-music detector that issues a *signed certificate* with every verdict — detection converging on exactly the chain-of-custody logic of the C2PA stack: a verdict you can carry and produce, rather than merely a flag.[^12authentici-32i] And on the human-verification side of the same coin, **Played By Humans** launched to verify "human artistry in an AI age",[^12authentici-32j] while the dance-music store **Traxsource** introduced catalogue labels identifying human-made versus AI-assisted music.[^12authentici-32k] When I first drafted this chapter, the provenance layer was an argument. By July 2026 it is a market — major-label M&A, platform-to-platform B2B products, certificate authorities and human-verification badges all competing to be the trust layer the Authenticity Premium settles on.
 
 If you want to know where the next ten years of investment, policy and platform politics in creative AI is going, watch the provenance layer. The companies that win the provenance infrastructure will be — in a real sense — the companies that own the *signal of authenticity* that the audience increasingly demands.
 
@@ -2880,15 +3123,19 @@ If you want to know where the next ten years of investment, policy and platform 
 
 The cultural pushback against synthetic content has produced, alongside the technical provenance infrastructure, a parallel set of *legal and contractual* defences that working creatives have begun deploying around their own work and identity.
 
-**Taylor Swift** filed trademarks on her voice and image in early 2026, specifically citing AI deepfake concerns.[^12authentici-7] **Matthew McConaughey** publicly drew the same line in January 2026.[^12authentici-8] **Madonna and Will Smith** appeared in AI videos by Higgsfield in early 2026, the Madonna piece becoming a marquee example of how a major artist could *deliberately* deploy synthetic imagery as part of their own brand.[^12authentici-9] In the same vein, **The Rolling Stones** released *In The Stars* in May 2026, with a music video that used AI to de-age the band — produced, in a small piece of cross-industry casting that says something about where this category is heading, by the AI company belonging to the **South Park** creators Trey Parker and Matt Stone.[^12authentici-29] **George Clooney**, in November 2025, gave Variety the working actor's read on the synthetic-star economy: *"It's been just like a writer creating characters. You fall in love with your characters when you're writing them. It's a wonderful process. It wasn't like I just made her in a second, and that was it. You know, it took a long time."*[^12authentici-10] Clooney was making, in his particular way, the same argument that the slop ceiling makes empirically: cultural stardom is a *function of time and human relationship.* It is not a function of generation cost. **Jeremy Renner** threatened a "multi-millions" lawsuit against an AI documentary director he said had used his voice without permission.[^12authentici-11]
+**Taylor Swift** filed trademarks on her voice and image in early 2026, specifically citing AI deepfake concerns.[^12authentici-7] By the summer, the Swift filing had stopped being a curiosity and become a pattern. **Lionel Richie** moved to trademark the sound of his voice in June 2026 — the trade press could not resist the headline: *"Hello, Is It Me You're Looking For?"*[^12authentici-7a] — and the **Backstreet Boys** followed within weeks, filing to trademark their voices explicitly to decommission AI deepfakes, with the coverage now routinely describing each new filing as "joining Taylor Swift, Lionel Richie and Others".[^12authentici-7b] The trademark-the-voice play is, in other words, no longer one artist's defensive novelty; it is a recognised legal instrument with a queue forming behind it. It is also — and this needs saying plainly — a rich artist's instrument. The folk singer **Emily Portman** discovered in June 2026 that a fake AI album had been released *in her name* on the streaming platforms, and wrote, under a headline that is its own policy argument, that the experience "made me realise why the law needs to change".[^12authentici-7c] Portman does not have a trademark portfolio and should not need one; what she needs is the statutory layer I come to below. **Matthew McConaughey** publicly drew the same line in January 2026.[^12authentici-8] **Madonna and Will Smith** appeared in AI videos by Higgsfield in early 2026, the Madonna piece becoming a marquee example of how a major artist could *deliberately* deploy synthetic imagery as part of their own brand.[^12authentici-9] (That Madonna would go on, in June 2026, to call AI "the complete opposite of making art" is not the contradiction it looks like: the line she is holding is between AI as a brand register she consents to and AI as a substitute for the making itself — which is, in miniature, the distinction this whole chapter is about.[^12authentici-9a]) In the same vein, **The Rolling Stones** released *In The Stars* in May 2026, with a music video that used AI to de-age the band — produced, in a small piece of cross-industry casting that says something about where this category is heading, by the AI company belonging to the **South Park** creators Trey Parker and Matt Stone.[^12authentici-29] **Boy George** supplied the audio-side version of the same consented register in June 2026, re-recording 'Karma Chameleon' with AI-assisted vocal technology as the first release from *Artist*, a new LA startup whose entire pitch is artist-initiated, artist-consented AI re-recording of classic tracks — the consent architecture this chapter argues for, packaged as a product.[^12authentici-29a] **George Clooney**, in November 2025, gave Variety the working actor's read on the synthetic-star economy: *"It's been just like a writer creating characters. You fall in love with your characters when you're writing them. It's a wonderful process. It wasn't like I just made her in a second, and that was it. You know, it took a long time."*[^12authentici-10] Clooney was making, in his particular way, the same argument that the slop ceiling makes empirically: cultural stardom is a *function of time and human relationship.* It is not a function of generation cost. **Jeremy Renner** threatened a "multi-millions" lawsuit against an AI documentary director he said had used his voice without permission.[^12authentici-11]
 
 In May 2026 the celebrity-defence layer took a meaningful *organisational* step. **Cate Blanchett** co-founded **RSL Media**, a non-profit explicitly chartered to address *consent around AI usage* — covering creative work, name, image and likeness — for performers across film, TV and music.[^12authentici-30] This is, on my read, the first time the celebrity NIL-protection conversation has produced a *standalone institution* rather than a string of individual lawsuits and trademark filings. RSL Media is small as of mid-2026, but its founding signal is important. Where the existing infrastructure on celebrity AI consent has been individual (Swift's trademarks, McConaughey's line, Renner's threatened suit) or statutory (the ELVIS Act, New York's AI-avatar disclosure law), RSL Media is the first attempt at a *coordination layer* on the side of the talent — closer in shape to a Performing Rights Society than to a class action. If the Petrillo template I describe in [Chapter 6](06_The_88_Percent.md) eventually has to be reconstructed for the NIL question, RSL Media is the kind of body that the reconstruction will need to anchor on.
+
+By July 2026 the founding signal had become an operating one. Blanchett was back in the trade press — this time alongside **Steven Soderbergh** and the musician **Nikki Hexum** — making the public case for the **Human Consent Registry**: a registry through which performers, and in principle anyone, can record and assert the terms on which their identity may be used by AI systems. The framing they chose is the one to hold on to. Protecting your identity from AI theft, they argued, is a *"human right"* — not a perk of celebrity, not a contract term to be negotiated away, a right.[^12authentici-30a] The coordination layer I described above as a founding signal is, a few months on, materialising into working infrastructure — and doing so with exactly the Performing-Rights-Society shape I predicted it would need: a standing register of consent that any counterparty can be checked against, rather than a fresh negotiation every time.
 
 In the same week, **Apple** acquired the talent and patents behind the AI-avatar company **Animato**, signalling — not for the first time — that the platform layer intends to own the celebrity-grade-avatar infrastructure rather than license it from third parties.[^12authentici-31] The combination of an Apple-owned avatar pipeline and an RSL-administered consent regime is, in 2030 terms, the most plausible architecture for how the high-end NIL economy actually runs.
 
 The posthumous case of the same architecture arrived in June 2026. The estate of **Ozzy Osbourne** announced that the late artist would *"live on as an AI avatar that talks with fans"* — a deliberate, consent-given (via the estate), avatar-shaped continuation of the artist's public presence into a posthumous register.[^12authentici-31a] The Osbourne case is the first major celebrity-grade posthumous AI presence to be launched with the *estate's* explicit framing rather than as a third-party reanimation, and it sits, structurally, in the same category as the Stones' AI-de-aging *In The Stars* video and the Apple/Animato infrastructure: avatar work deployed deliberately, with the talent's (or the estate's) consent, in a register the audience is asked to recognise as honest. The pattern is clear: the audience does not reject the AI-rendered celebrity. The audience rejects the *un-consented* AI-rendered celebrity. Consent infrastructure — institutional (RSL Media), statutory (ELVIS Act, the New York avatar law), platform (Apple's owned-pipeline play) and estate-level (the Osbourne announcement) — is what makes the difference.
 
-Underneath the celebrity layer, the structural infrastructure was being built. The **ELVIS Act**, Tennessee's AI-impersonation law, had been used by the **Johnny Cash estate** to sue Coca-Cola over a tribute-act ad soundtrack.[^12authentici-12] **New York** passed a law in December 2025 forcing advertisers to disclose when they were using AI avatars. The SAG-AFTRA statement on the law's passage captured the political theory underneath the moment: *"These protections are the direct result of artists, lawmakers and advocates coming together to confront the very real and immediate risks posed by unchecked AI use."*[^12authentici-13] **Governments around the world** were considering bans on Grok's app over an AI sexual-image scandal that broke in early 2026.[^12authentici-14] By **May 2026**, the **AI Disclosure Standard** had been launched at the **Cannes Film Festival** as an industry coordination point for production-side AI labelling.[^12authentici-15] The **Academy of Motion Picture Arts and Sciences** had — in a quietly consequential rule update — set the line *"You must be human to win"* for its 2026 awards.[^12authentici-16] The **Emmys** had set their own AI guidelines. The Television Academy's language was a model of how to write a policy that defends authorship without picking a fight with the toolchain: *"The Television Academy reserves the right to inquire about the use of AI in submissions. The core of our recognition remains centered on human storytelling, regardless of the tools used to bring it to life."*[^12authentici-17] *Tools used to bring it to life* — not *tools that did the work.* The grammar matters. **SAG-AFTRA's** four-year contract — finalised by spring 2026 — included what the trade press informally called the **Tilly Tax**: a structured set of provisions for compensation, consent and residuals when AI replicas of human performers are used.[^12authentici-18]
+The test case for exactly where that line sits arrived within weeks. **Netflix** announced it would use AI to recreate the voice of the late **Gene Wilder** for a reality-competition series set in the world of *Willy Wonka & the Chocolate Factory*.[^12authentici-31b] Structurally, this is the Osbourne architecture — a posthumous voice, commercially deployed. But the register is different: not an estate continuing the artist's own public presence on the artist's own terms, but a platform reaching for a dead performer's most beloved characterisation to warm up an unscripted format. Whether audiences receive it as the Osbourne case or as the Portman case will tell us whether the consent infrastructure is doing the *cultural* work — establishing which registers feel honest — or only the legal work of allocating who gets paid.
+
+Underneath the celebrity layer, the structural infrastructure was being built. The **ELVIS Act**, Tennessee's AI-impersonation law, had been used by the **Johnny Cash estate** to sue Coca-Cola over a tribute-act ad soundtrack.[^12authentici-12] **New York** passed a law in December 2025 forcing advertisers to disclose when they were using AI avatars. The SAG-AFTRA statement on the law's passage captured the political theory underneath the moment: *"These protections are the direct result of artists, lawmakers and advocates coming together to confront the very real and immediate risks posed by unchecked AI use."*[^12authentici-13] By June 2026 SAG-AFTRA had scaled the same coalition politics to the federal level: **more than 16,000 signatories** on an open letter demanding Congress pass the **NO FAKES Act** — the federal statute that would ban unauthorised AI images and videos of real people, and consolidate the state-by-state patchwork (Tennessee's ELVIS Act, New York's disclosure law) into a national right.[^12authentici-13a] **Governments around the world** were considering bans on Grok's app over an AI sexual-image scandal that broke in early 2026.[^12authentici-14] By **May 2026**, the **AI Disclosure Standard** had been launched at the **Cannes Film Festival** as an industry coordination point for production-side AI labelling.[^12authentici-15] The **Academy of Motion Picture Arts and Sciences** had — in a quietly consequential rule update — set the line *"You must be human to win"* for its 2026 awards.[^12authentici-16] The **Emmys** had set their own AI guidelines. The Television Academy's language was a model of how to write a policy that defends authorship without picking a fight with the toolchain: *"The Television Academy reserves the right to inquire about the use of AI in submissions. The core of our recognition remains centered on human storytelling, regardless of the tools used to bring it to life."*[^12authentici-17] *Tools used to bring it to life* — not *tools that did the work.* The grammar matters. **SAG-AFTRA's** four-year contract — finalised by spring 2026 — included what the trade press informally called the **Tilly Tax**: a structured set of provisions for compensation, consent and residuals when AI replicas of human performers are used.[^12authentici-18]
 
 Each of these is, on its own, a marginal piece of policy. Stacked together, they describe a new economic landscape: one in which *human authorship and identity* have become legally protected categories of creative work, with specific procedural and economic mechanisms for asserting them, defending them and compensating their use.
 
@@ -2930,6 +3177,8 @@ It is four things, in increasing order of investment:
 
 **One. Disclose, consistently.** If you use AI in any part of your work, say so. In your credits. On your website. In your contracts with clients. In the metadata of your files. The act of disclosure does, in my experience, not cost you anything with the audience — the audience that is going to reject AI work would reject it anyway, and the audience that is going to accept it is the audience that values you being straight with them. The cost of *getting caught* not disclosing, in this environment, is materially higher than the cost of disclosing.
 
+The scale evidence that disclosure is becoming routine rather than reputational poison arrived from the games industry in June 2026: of the more than 300 games released on Steam in a single week, **120 of them carried AI disclosures** under Valve's mandatory regime.[^12authentici-26a] Disclosure at that volume — two in five of everything shipped — is no longer a confession; it is a filing requirement, the games-industry equivalent of an ingredients label. The counter-argument deserves recording too: Epic's Tim Sweeney publicly criticised Valve's disclosure policy weeks later, arguing that access to AI tools is essential to smaller studios' survival in a competitive landscape and that a labelling regime risks stigmatising exactly the developers who most need the tools.[^12authentici-26b] Sweeney is making a real point about who bears the cost of a label. But notice that it is an argument about the *consequences* of disclosure, not against the audience's right to know — and on the evidence of the Steam numbers, the audience's right to know is winning.
+
 **Two. Document, deliberately.** Keep logs. Keep notes. Keep prompt histories. If a piece of work you make this year ends up being legally or culturally contested in 2030 — and a non-trivial fraction of work made this year will be — your ability to *show your workings* will be the difference between defending the work and losing it. The Sundance literacy initiative's emphasis on *evidence of human authorship* is exactly right.[^12authentici-26]
 
 **Three. Watermark, where appropriate.** Use SynthID, C2PA, or the equivalent provenance layer that your toolchain supports. If your work doesn't yet support these standards, ask your tool vendors when they will. The market for tools that support provenance metadata is, in 2026, larger than the market for tools that don't.
@@ -2938,7 +3187,7 @@ It is four things, in increasing order of investment:
 
 These are not, on their own, business strategies. They are, in 2026, the *minimum hygiene* for operating a credible creative practice in the AI era. Treat them as you would treat health-and-safety on a film set. Do them as a default. Do them well. Then get on with the work.
 
-#### The provenance infrastructure, named: thirty-six pieces of the puzzle
+#### The provenance infrastructure, named: forty-four pieces of the puzzle
 
 I want to lay out a more complete map of the provenance infrastructure that is being built in 2025–26, because the technical-and-policy stack is more advanced than the public conversation has caught up with, and working creatives reading this book need to know what is actually in the field.
 
@@ -2958,39 +3207,47 @@ Stacking the moves I have referenced across this chapter and the rest of the boo
 
 **Synthetic watermarking and detection:**
 
-10. **Google DeepMind SynthID** — embedded watermark for Veo (video), Lyria (audio) and Imagen (image) outputs. Over 100 billion items marked by May 2026; extended to OpenAI, ElevenLabs and Kakao as a cross-vendor standard.
+10. **Google DeepMind SynthID** — embedded watermark for Veo (video), Lyria (audio) and Imagen (image) outputs. Over 100 billion items marked by May 2026; extended to OpenAI, ElevenLabs and Kakao as a cross-vendor standard, with the ElevenLabs detection integration live from June 2026.
 11. **SynthID Verification via Gemini app** — consumer-facing yes/no detection.
 12. **Lyria 3 SynthID extension** — audio verification across the Google music-model family.
 13. **YouTube AI Detection Tool** — automated content classification (the *Tiny Grandma* false-positive case demonstrating both its scope and its current accuracy ceiling).
-14. **Deezer's AI-music detection pipeline** — identifies up to 75,000 AI-generated tracks per day at upload time.
+14. **Deezer's AI-music detection pipeline** — identifies up to 75,000 AI-generated tracks per day at upload time; productised in June 2026 as a detection service offered to *other* streaming platforms.
 15. **Spotify AI Transparency Beta** — voluntary creator disclosure surfaced in the consumer player UI.
 16. **Beeble** — independent detection-and-watermarking infrastructure used by some news organisations.
 17. **Cloudflare AI bot classification** — public-web-infrastructure-level tracking of AI crawlers and agents.
 18. **Sony music-identification technology** — identifying source recordings inside AI-generated outputs at the catalogue level.
+19. **Sureel** — AI-detection company acquired outright by Warner Music Group in June 2026: major-label-owned detection infrastructure.
+20. **Midnight Labs** — AI copyright-protection firm, Sony-backed from June 2026.
+21. **RTM Audio's UAI detector** — AI-music detection that issues a signed certificate with every verdict.
+22. **Played By Humans** — verification service for "human artistry in an AI age".
+23. **Traxsource human-made / AI-assisted catalogue labels** — store-level labelling of provenance at the point of sale.
 
 **Institutional and contractual disclosure:**
 
-19. **Cannes AI Disclosure Standard** — industry-coordination production-side labelling standard for the festival circuit (launched May 2026).
-20. **Sundance AI Literacy Initiative** — creator-training programme funded by Google's $2M commitment, training 100,000+ artists in foundational AI literacy and provenance practice.
-21. **Academy of Motion Picture Arts and Sciences "you must be human to win" rule** — 2026 awards eligibility update.
-22. **Television Academy AI guidelines** — "tools used to bring it to life" framing for Emmys submissions.
-23. **SAG-AFTRA Tilly Tax provisions** — the consent, compensation and residuals framework for digital-replica use, included in the 2026 four-year contract.
-24. **Equity (UK) strike ballot outcome** — 99% vote authorising industrial action over AI provisions.
-25. **PRS for Music AI Survey 2026** — UK music-creator sentiment baseline informing collective-licensing negotiations.
-26. **GEMA ruling against OpenAI** — first European-rights-society legal precedent on AI training compensation.
-27. **The 88% UK consultation outcome** — political mandate for licensing-by-default.
-28. **The *Stealing Our Work Is Not Innovation* declaration** — 800-creator cultural marker.
-29. **Bandcamp's outright AI-music ban** — distribution-platform-level disclosure-by-exclusion.
-30. **Swedish Top Chart AI ban** — chart-eligibility-level disclosure.
-31. **San Diego Comic-Con AI art ban** — convention-level disclosure-by-exclusion.
+24. **Cannes AI Disclosure Standard** — industry-coordination production-side labelling standard for the festival circuit (launched May 2026).
+25. **Sundance AI Literacy Initiative** — creator-training programme funded by Google's $2M commitment, training 100,000+ artists in foundational AI literacy and provenance practice.
+26. **Academy of Motion Picture Arts and Sciences "you must be human to win" rule** — 2026 awards eligibility update.
+27. **Television Academy AI guidelines** — "tools used to bring it to life" framing for Emmys submissions.
+28. **SAG-AFTRA Tilly Tax provisions** — the consent, compensation and residuals framework for digital-replica use, included in the 2026 four-year contract.
+29. **Equity (UK) strike ballot outcome** — 99% vote authorising industrial action over AI provisions.
+30. **PRS for Music AI Survey 2026** — UK music-creator sentiment baseline informing collective-licensing negotiations.
+31. **GEMA ruling against OpenAI** — first European-rights-society legal precedent on AI training compensation.
+32. **The 88% UK consultation outcome** — political mandate for licensing-by-default.
+33. **The *Stealing Our Work Is Not Innovation* declaration** — 800-creator cultural marker.
+34. **Bandcamp's outright AI-music ban** — distribution-platform-level disclosure-by-exclusion.
+35. **Swedish Top Chart AI ban** — chart-eligibility-level disclosure.
+36. **San Diego Comic-Con AI art ban** — convention-level disclosure-by-exclusion.
+37. **Valve's mandatory Steam AI-disclosure regime** — platform-scale disclosure in games (120 of 300+ releases in a single June 2026 week carrying AI disclosures), with Epic's public criticism marking the policy fault line.
 
 **Legal infrastructure protecting human identity:**
 
-32. **Tennessee ELVIS Act** — the most-cited state-level AI-impersonation statute, used by the Johnny Cash estate in the Coca-Cola tribute-act case.
-33. **New York's December 2025 AI-avatar disclosure law** — requires advertisers to disclose AI-performer use.
-34. **The Taylor Swift voice-and-image trademark filings** (early 2026) — celebrity-led use of trademark mechanism for identity protection.
-35. **The Jeremy Renner unauthorised-voice lawsuit** — pending case testing voice-likeness protections.
-36. **The pending EU AI Act enforcement** — training-data-transparency requirements coming into effect through 2026.
+38. **Tennessee ELVIS Act** — the most-cited state-level AI-impersonation statute, used by the Johnny Cash estate in the Coca-Cola tribute-act case.
+39. **New York's December 2025 AI-avatar disclosure law** — requires advertisers to disclose AI-performer use.
+40. **The voice-and-image trademark filings** — Taylor Swift (early 2026), then Lionel Richie and the Backstreet Boys (June 2026): celebrity-led use of the trademark mechanism for identity protection, now a pattern rather than a one-off.
+41. **The Jeremy Renner unauthorised-voice lawsuit** — pending case testing voice-likeness protections.
+42. **The NO FAKES Act push** — SAG-AFTRA's 16,000-signature open letter demanding a federal statute banning unauthorised AI images and videos (June 2026).
+43. **The Human Consent Registry** — the talent-side consent register publicly championed by Cate Blanchett, Steven Soderbergh and Nikki Hexum (July 2026), the working continuation of the RSL Media thread.
+44. **The pending EU AI Act enforcement** — training-data-transparency requirements coming into effect through 2026.
 
 Each of these, on its own, is a marginal piece. Stacked together — capture-signing, watermarking, platform integration, festival rules, awards rules, union contracts, civil society declarations, legal protections — they describe a *coherent infrastructure project* that the creative industries are, in eight months, jointly constructing.
 
@@ -3036,9 +3293,17 @@ The question for the rest of this book — Chapter 13 on the organisational rest
 
 [^12authentici-7]: *Dream Machine* Issues [23](../Dream%20Machine%20MD/23.md), [27](../Dream%20Machine%20MD/27.md) reportage on Taylor Swift's voice/image trademark filings.
 
+[^12authentici-7a]: *Billboard*, "Lionel Richie Is Trademarking the Sound of His Voice: 'Hello, Is It Me You're Looking For?'" <https://www.billboard.com/pro/lionel-richie-is-trademarking-the-sound-of-his-voice/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^12authentici-7b]: *Digital Music News*, "Backstreet Boys Look to Decommission AI Deepfakes by Trademarking Their Voices — Joining Taylor Swift, Lionel Richie, and Others." <https://www.digitalmusicnews.com/2026/06/26/backstreet-boys-trademark/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^12authentici-7c]: *Songlines*, "A fake AI album released in my name made me realise why the law needs to change" (Emily Portman). <https://www.songlines.co.uk/features/emily-portman-faces-ai-fake-albums-on-streaming-platforms>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
 [^12authentici-8]: *Lawyer Monthly*, "Matthew McConaughey Draws a Line to Protect His Voice and Image From AI." <https://www.lawyer-monthly.com/2026/01/matthew-mcconaughey-protects-voice-image-ai/>. [*Dream Machine* Issue 15](../Dream%20Machine%20MD/15.md).
 
 [^12authentici-9]: *Adweek*, "Meet the $1.3 Billion Startup Behind Madonna and Will Smith's AI Video." <https://www.adweek.com/media/higgsfield-ai-marketing-startup/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
+
+[^12authentici-9a]: *Digital Music News*, "Madonna Calls AI 'the Complete Opposite of Making Art' While Advocating for a Completely Different Creative Process." <https://www.digitalmusicnews.com/2026/06/28/madonna-ai-algorithm-commentary/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 [^12authentici-10]: Variety, "George Clooney Says AI Actors Will Face the 'Same Problem We Have' in Hollywood: 'Making a Star Is Not So Easy'." <https://variety.com/2025/scene/columns/george-clooney-ai-actors-movie-stars-1236579661/>. [*Dream Machine* Issue 7](../Dream%20Machine%20MD/7.md).
 
@@ -3047,6 +3312,8 @@ The question for the rest of this book — Chapter 13 on the organisational rest
 [^12authentici-12]: *Complete Music Update*, "Johnny Cash estate uses ELVIS Act to sue Coke over tribute act ad soundtrack." <https://completemusicupdate.com/johnny-cash-estate-uses-elvis-act-to-sue-coke-over-tribute-act-ad-soundtrack/>. [*Dream Machine* Issue 9](../Dream%20Machine%20MD/9.md).
 
 [^12authentici-13]: *The Verge*, "New York's new law forces advertisers to say when they're using AI avatars." <https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor>. [*Dream Machine* Issue 11](../Dream%20Machine%20MD/11.md).
+
+[^12authentici-13a]: *Variety*, "More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos." <https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
 [^12authentici-14]: *Fast Company*, "Governments around the world are considering bans on Grok's app over AI sexual image scandal." <https://www.fastcompany.com/91474131/governments-around-the-world-are-considering-bans-on-groks-app-over-ai-sexual-image-scandal>. [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
 
@@ -3074,17 +3341,29 @@ The question for the rest of this book — Chapter 13 on the organisational rest
 
 [^12authentici-26]: Sundance Institute AI Literacy Initiative emphasis on documentation: <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
+[^12authentici-26a]: *PC Gamer*, "More than 300 games released on Steam last week, and 120 of them had AI disclosures." <https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^12authentici-26b]: *80.lv*, "Epic Games CEO Criticizes Valve's AI Disclosure Policy for Steam." <https://80.lv/articles/epic-ceo-criticizes-valve-s-ai-disclosure-policy-for-steam>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
 [^12authentici-27]: Google DeepMind, "SynthID — 100 billion watermarks, expanding to partner ecosystems including OpenAI, ElevenLabs and Kakao." <https://deepmind.google/discover/blog/synthid-100-billion-watermarks-partners/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^12authentici-27a]: ElevenLabs, "Detecting audio generated by ElevenLabs with SynthID" — partnership with Google DeepMind. <https://elevenlabs.io/blog/synthid>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 [^12authentici-28]: *Hollywood Reporter*, "Bobby Berk Says AI Will Make Reality TV & 'Verifiably Human Content' More Valuable." <https://www.hollywoodreporter.com/tv/tv-news/bobby-berk-ai-reality-tv-1236592920/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 [^12authentici-29]: *Rolling Stone*, "The Rolling Stones Release New Single 'In the Stars' — With a Music Video De-Aging the Rockers Courtesy of AI." <https://www.rollingstone.com/music/music-news/rolling-stones-in-the-stars-ai-de-aging-video-1235142200/>. *Hollywood Reporter*, "'South Park' Creators' AI Company Made The Rolling Stones Young Again for 'In The Stars' Music Video." <https://www.hollywoodreporter.com/tv/tv-news/south-park-creators-ai-rolling-stones-in-the-stars-1236592855/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+[^12authentici-29a]: *Music Business Worldwide*, "Boy George uses AI to re-record 'Karma Chameleon' as first release from tech startup Artist." <https://www.musicbusinessworldwide.com/boy-george-uses-ai-to-re-record-karma-chameleon-as-first-release-from-tech-startup-artist-included/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
 [^12authentici-30]: *Variety*, "Cate Blanchett Co-Founds RSL Media, a Non-Profit to Address Consent Around AI Usage including creative work, name, image and likeness." <https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-consent-1236748255/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^12authentici-30a]: *Variety*, "Cate Blanchett, Steven Soderbergh, Nikki Hexum on How the Human Consent Registry Helps People Protect Their Identity From AI Theft: It's a 'Human Right'." <https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 [^12authentici-31]: *Bloomberg*, "Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'." <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 [^12authentici-31a]: Estate of Ozzy Osbourne announces the late artist will "live on as an AI avatar that talks with fans," June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+[^12authentici-31b]: *NBC News*, "Netflix says it will use AI to recreate the voice of the late Gene Wilder in a new reality TV series set in the world of Willy Wonka & the Chocolate Factory." <https://www.nbcnews.com/pop-culture/pop-culture-news/gene-wilder-ai-voice-netflix-willy-wonka-competiton-show-rcna352440>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 [^12authentici-32]: *The Drum*, "David Beckham Designs 'Henchester United' Chicken Coop in Lenovo Ad." <https://www.thedrum.com/news/2026/05/18/david-beckham-henchester-united-chicken-coop-lenovo-ai-ad>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
@@ -3095,6 +3374,20 @@ The question for the rest of this book — Chapter 13 on the organisational rest
 [^12authentici-32c]: Hasbro's Sixth Wall launch and the CharacterOS governance layer, 3 June 2026. BusinessWire: <https://www.businesswire.com/news/home/20260603297922/en/>. *The Wrap*: <https://www.thewrap.com/industry-news/business/hasbro-ai-studio-sixth-wall-launch/>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md). Cross-reference [Chapter 7 §"Position Five"](07_The_Studios_Decide.md) and [Chapter 6 §"The three Cs"](06_The_88_Percent.md).
 
 [^12authentici-32d]: Spotify–Universal Music Group landmark licensing agreements, 21 May 2026. Spotify Newsroom: <https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/>. *TechCrunch*: <https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md) and footnote ^37a in [Chapter 6](06_The_88_Percent.md).
+
+[^12authentici-32e]: *Variety*, "Nearly 1,000 Sign Open Letter Condemning Contract Clauses That Require Child Actors to Sign Over Their Voices for AI" (the *Peppa Pig* / Hasbro backlash). <https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^12authentici-32f]: *The Hollywood Reporter*, "Warner Music Group Acquires AI Detection Company Sureel." <https://www.hollywoodreporter.com/music/music-industry-news/warner-music-group-buys-ai-detection-company-sureel-1236618266/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^12authentici-32g]: *Variety*, "Sony Invests in AI Copyright-Protection Firm Midnight Labs." <https://variety.com/2026/biz/news/ip-ai-firm-midnight-labs-sony-million-dollar-investment-1236766931/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^12authentici-32h]: *Engadget*, "Deezer launches an AI music detector for other streaming services." <https://www.engadget.com/2192024/deezer-ai-music-detector/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^12authentici-32i]: *Music Business Worldwide*, "Tech startup RTM Audio launches AI music detector UAI, which issues a signed certificate with every verdict." <https://www.musicbusinessworldwide.com/tech-startup-rtm-audio-launches-ai-music-detector-uai-which-issues-a-signed-certificate-with-every-verdict/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^12authentici-32j]: *Music Ally*, "Played By Humans is verifying 'human artistry in an AI age'." <https://musically.com/2026/06/11/played-by-humans-is-verifying-human-artistry-in-an-ai-age/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^12authentici-32k]: *MusicTech*, "Traxsource to introduce labels to identify both human-made and AI-assisted music." <https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 
 # Chapter 13 — Coordination Collapse
@@ -3181,6 +3474,10 @@ If you sat with the public discourse alone — the open letters, the boycotts, t
 
 The same picture holds across the toolchain. ChatGPT, by mid-2025, was on **800–900 million weekly active users**.[^13coordinati-40] Anthropic's Claude was the writers' and developers' second favourite, with rapidly increasing usage in long-context creative tasks. Google's Gemini was growing desktop users at **155%** year-over-year, more than six times faster than ChatGPT's 23%.[^13coordinati-41] These are not user numbers that reflect a market in revolt. They are user numbers that reflect a market that has, in private, decided.
 
+The spend data points the same way — and adds a stratification the user numbers hide. The Ramp AI Index, drawn from actual corporate billing transactions rather than survey self-report, showed by June 2026 that the top 1% of firms were spending **$7,500 per employee per month** on AI.[^13coordinati-47] Read that figure against the median firm, which spends a small fraction of it, and the consumption gap resolves into a corporate arms race: the distance between the organisations that have made AI a core budget line and the organisations still running cautious pilots is widening, not closing. The shadow-AI numbers earlier in this chapter describe workers running ahead of their organisations. The Ramp numbers describe organisations running ahead of each other — and the creative organisations reading their own AI spend as generous should check which side of that distribution they are actually on.
+
+A methodological caveat belongs on the record here, because I have leaned hard on Adobe's numbers in this section. When Adobe published another glowing AI survey in June 2026, *AppleInsider* pointed out that the sample largely left out the working creative industry it claimed to describe — the freelancers, the small studios, the practitioners outside the enterprise seats that Adobe finds easiest to survey.[^13coordinati-48] The criticism is fair, and it cuts in a specific direction: the platform *telemetry* — assets generated, weekly active use, ARR — is hard data, but the *sentiment* layer reported on top of it is measured through samples that over-represent the already-converted. This is the legibility problem of the consumption gap. The private economy of AI use is real, but the instruments we have for measuring how the workforce *feels* about it are owned, in large part, by the companies selling the tools. The gap is real; its precise width is less knowable than either Adobe's marketing or its critics would like.
+
 And the consumer side mirrors the producer side. The Stanford AI Index 2025 found that **55%** of individuals across 26 countries view AI products as offering more benefits than drawbacks — up from 52% in 2022.[^13coordinati-42] A 2024 YouGov poll across 17 markets found that nearly a third of consumers felt *more positively* about generative AI than the previous year, against only 22% feeling more negatively.[^13coordinati-43] In the gaming sector — which has produced some of the loudest anti-AI consumer backlash of this year — the same Quantic Foundry survey that showed audiences are **77–83% negative** toward AI-generated quests and dialogue also showed that **60%** of gamers remain entirely neutral about AI in a game's development *provided the final product is of high quality.*[^13coordinati-44] The hostility is not generic. It is specifically aimed at AI in the creative roles where audiences expect to feel a human soul. Everywhere else — UI, backend, balancing, localisation, dynamic difficulty — the audience is, on aggregate, indifferent.
 
 Even the GDC sentiment data, which is often cited as evidence of an industry in retreat from AI, tells the same paradoxical story when you read it as a whole. *Personal* generative-AI usage among professional game developers rose from **31%** in 2024 to **36%** in 2026, while *industry sentiment* over the same period cratered from 18% negative to **52%** negative.[^13coordinati-45] Use went up while approval went down. The two lines should, in a coherent market, move together. They are not. They are diverging.
@@ -3212,6 +3509,10 @@ This is, in my view, the right strategy. It is also the one most major creative 
 **EA**'s push of its 15,000 employees to use AI as a "thought partner" was, structurally, a path-two move. **Krafton's** transformation into an "AI-first" company in November 2025 was a path-two move.[^13coordinati-6] **Disney's** Office of Technology Enablement was a path-two move. **WPP's** AI overhaul, **Adobe's** AI in everything, **Sony's** 49-agent game team — all path-two moves.
 
 The path-two organisations are, structurally, betting that integration produces *more* output, *more* quality and *more* employee retention than suppression. The early evidence, six months in, suggests they are right.
+
+Two refinements to the two-path picture arrived in the summer of 2026, and both are worth keeping in view. The first is that a path-two commitment is not an anything-goes commitment, and the most instructive counter-example came from open source. The **Godot** engine — one of the healthiest commons in games — announced in June that it would no longer accept AI-authored code contributions, on the bluntly stated grounds that *"we can't trust heavy users of AI to understand their code enough to fix it."*[^13coordinati-49] That is not suppression in the path-one sense. It is a governance line drawn where the institution's survival depends on contributors understanding what they submit — a maintainability standard, not a moral panic. And it is precisely the kind of line a path-two organisation should study rather than dismiss, because the question Godot is asking — *does the human who shipped this understand it well enough to fix it?* — is the accountability question every integrating studio will eventually have to answer about its own pipelines. Integration without that question is not path two. It is abdication with better tooling.
+
+The second refinement is that integration is a training problem before it is a procurement problem. *Fortune*'s mid-2026 survey of chief financial officers — HPE, Prologis, J.M. Smucker and Moody's among them — landed on a warning that the finance function, of all places, has now internalised: AI success depends on training employees, not just buying technology.[^13coordinati-50] The CFOs are describing, in balance-sheet language, exactly what the shadow-AI data describes in behavioural language. The tooling spend is the easy half. The organisations that buy the seats without building the literacy get the cost line without the productivity line — and then, eighteen months later, conclude that "AI didn't work here."
 
 #### The mid-career squeeze
 
@@ -3383,6 +3684,14 @@ That choice is the last thing the book is about.
 
 [^13coordinati-46a]: Epidemic Sound, *Future of the Creator Economy Report 2026* (survey of 3,000 professional creators across UK and US, June 2026); *Musically* commentary on the report and creator attitudes towards AI. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md), Editor's Pick, June 2026.
 
+[^13coordinati-47]: Ramp, "Ramp AI Index," June 2026. <https://ramp.com/data/ai-index-june-2026>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^13coordinati-48]: *AppleInsider*, "Adobe's glowing AI survey leaves out most of the creative industry." <https://appleinsider.com/articles/26/06/16/adobes-glowing-ai-survey-leaves-out-most-of-the-creative-industry>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^13coordinati-49]: *PC Gamer*, "Open source game engine Godot will no longer accept AI-authored code contributions: 'We can't trust heavy users of AI to understand their code enough to fix it'." <https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^13coordinati-50]: *Fortune*, "Top CFOs warn AI success depends on training employees, not just buying technology." <https://fortune.com/2026/06/25/cfo-hpe-prologis-smucker-moodys-ai-success-training-employees/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
 
 # Chapter 14 — The New Jobs
 
@@ -3430,17 +3739,19 @@ The pattern across these categories is consistent: it is *routine* work, *specia
 
 The other side of the redistribution is equally real and substantially under-reported in the consumer press.
 
-**AI orchestrators / senior creative directors of agentic teams.** The most strategically important new role, and the one Chapter 11 made the long-form case for. The Sony 49-Claude-agent / 72-skill stack is the canonical example.[^14thenewjobs-15] In adland, *Digiday* reported in late 2025 that "AI agent developers have become adland's in-demand role"[^14thenewjobs-16] — a senior creative-strategic role that did not exist eighteen months earlier.
+**AI orchestrators / senior creative directors of agentic teams.** The most strategically important new role, and the one Chapter 11 made the long-form case for. The Sony 49-Claude-agent / 72-skill stack is the canonical example.[^14thenewjobs-15] In adland, *Digiday* reported in late 2025 that "AI agent developers have become adland's in-demand role"[^14thenewjobs-16] — a senior creative-strategic role that did not exist eighteen months earlier. By Cannes 2026 the demand signal had become theatrical: PMG ran a hackathon at the festival itself, using adland's flagship week to recruit and showcase AI-fluent talent, and *Ad Age* read it, correctly, as a signal of agencies' growing appetite for people who can *build* with the tools rather than merely approve work made with them.[^14thenewjobs-48]
 
 **Prompt engineers / AI workflow designers.** The role is now broad enough to have its own specialisation tracks. *Forbes* reported in November 2025 that "vibe coding" — natural-language software development — paid up to **$220,000** as an in-demand AI skill.[^14thenewjobs-17] The equivalent figures in the creative space — prompt engineers at major studios, freelance AI-workflow consultants — are running in the same band for senior practitioners.
 
-**AI literacy trainers and AI-education designers.** The Sundance Institute's AI Literacy Initiative, launched in January 2026 with $2M of Google funding to train 100,000 filmmakers, is the institutional version of this role.[^14thenewjobs-18] The Adobe Ignite Day at Sundance, the UK government's "Free AI training for all" programme covering 10 million workers by 2030,[^14thenewjobs-19] the Lovable-for-classrooms expansion,[^14thenewjobs-20] the UW-Stout baseline-AI competency course[^14thenewjobs-21] — these are the demand signal for a new category of educator that combines creative-discipline expertise with practical AI fluency.
+**AI literacy trainers and AI-education designers.** The Sundance Institute's AI Literacy Initiative, launched in January 2026 with $2M of Google funding to train 100,000 filmmakers, is the institutional version of this role.[^14thenewjobs-18] The Adobe Ignite Day at Sundance, the UK government's "Free AI training for all" programme covering 10 million workers by 2030,[^14thenewjobs-19] the Lovable-for-classrooms expansion,[^14thenewjobs-20] the UW-Stout baseline-AI competency course[^14thenewjobs-21] — these are the demand signal for a new category of educator that combines creative-discipline expertise with practical AI fluency. The pipeline keeps widening. In June 2026 Anthropic launched **Claude Corps**, a fellowship that will teach 1,000 fellows to master Claude and match them with nonprofits across America — a platform company building, in effect, a subsidised entry route into orchestration work, with the civic sector as the training ground.[^14thenewjobs-49] The same month, the UK published its **AI Adoption Plan for the Creative Industries**, the skills-and-adoption half of the government's creative-AI policy (the copyright half belongs to Chapter 6), formalising sector-specific adoption support and training as national policy rather than platform philanthropy.[^14thenewjobs-50]
 
 **Model curation specialists.** With foundation models proliferating and custom fine-tuning becoming a baseline capability, the role of *selecting, training and maintaining* an organisation's model stack has emerged as a discrete specialism. Adobe Firefly Foundry — the service that lets companies train custom generative models on their own visual identity[^14thenewjobs-22] — created an entire job category of brand-and-IP model trainers. Korin AI's launch in May 2026, "trained with African datasets, built by Africans,"[^14thenewjobs-23] is the cultural-fluency variant of this role.
 
 **AI ethics, disclosure and provenance officers.** Following the SAG-AFTRA contract negotiations, the Cannes AI Disclosure Standard, the Academy's "you must be human to win" rule, the New York AI advertising disclosure law, and the proliferating C2PA-compliance and SynthID-tooling requirements, organisations across the creative industries have begun hiring (or designating) dedicated AI-ethics and disclosure leads.[^14thenewjobs-24] At DreamLab, we have a *Continuum Lead* whose job is to make this work coherent across every project we run — three years ago, the role did not exist.
 
 **Indie and Global South creator-producers.** The cost reduction in production tooling has created a new viable role category that was not economically possible before: the *one-person-or-small-team creator-producer* operating outside the traditional creative centres, with global distribution reach and a defensible aesthetic identity. *Forbes* covered the broad category in "AI Is Changing How Creators Work And Earn" in December 2025.[^14thenewjobs-25] The Higgsfield revenue (built on social-media marketer demand), the Andrii Daniels bomb-shelter clip (a Ukrainian one-person production with global reach[^14thenewjobs-26]), the Tunisian *Lily* ($1M Dubai AI Film Award winner[^14thenewjobs-27]), the Indonesian *Legenda Bertuah* animated series,[^14thenewjobs-28] the Indian-cinema integration wave covered by the BBC's "Lights, camera, algorithm"[^14thenewjobs-29] — these are not exceptions. They are the leading edge of a structural change in *who can be a working creative*, and where they can live.
+
+**AI training and evaluation work.** The new job category with the bitterest edge. *The Hollywood Reporter* reported in June 2026 that Hollywood workers — writers prominent among them — are increasingly taking work *training AI models* as conventional job prospects grow slim: annotating scripts, evaluating outputs, teaching the systems the craft conventions of the industry contracting around them.[^14thenewjobs-51] The role is real, it pays, and it is growing fast. It is also the most uncomfortable entry on this list, for two reasons. The first is that the labour is directed at improving the very substitutes applying the displacement pressure — the screenwriter grading model outputs is, in the most literal sense, training their own competition. The second is who the role is absorbing: exactly the early-and-mid-career practitioners the apprenticeship pipeline used to carry. A junior writer spending their formative years rating completions is building a kind of AI literacy — but it is literacy in the service of someone else's system, on someone else's terms, with none of the mentorship, authorship or craft progression the old junior rungs carried. I list it as an emerging role because honesty requires it. I decline to celebrate it.
 
 **AI-augmented apprentices.** This category is still being built, and is the central labour-market design question of the next three years (more below). The early models — AI-tool-augmented junior animator roles maintained deliberately at *Position Four* studios (Chapter 7), the Sundance Collab fellowship structure, the AI-augmented entry-level posts at WPP and the major Hollywood studios — are the early experiments. None of them, yet, has fully solved the apprenticeship problem.
 
@@ -3454,6 +3765,8 @@ The variable is **AI literacy** — defined operationally as the combined skill 
 
 The empirical case for the literacy premium is strong and consistent across the data:
 
+The most direct number arrived in June 2026, and it put a price on the premium. PwC's analysis of the UK labour market, reported by *UKTN*, found AI hiring surging *across all UK sectors* — not just tech — with roles demanding AI skills carrying a **34% salary premium** over equivalent roles without them.[^14thenewjobs-52] I have been making the AI Literacy Premium argument since the autumn of 2025 as a structural claim about where leverage was moving. The PwC finding is that claim showing up in the payroll data: a third more, for the same discipline, in the same market, for the practitioner who can direct the tools. If a single statistic in this chapter deserves to be pinned above a working creative's desk, it is that one.
+
 The Adobe Creators' Toolkit Report of October 2025, surveying 16,000 creators across the U.S., U.K., France, Germany, South Korea, Japan, India and Australia, found that **86%** of creators were already using generative AI; that **76%** of users said it had helped grow their business or brand; that **81%** said AI lets them make content they otherwise could not have made; and — most significantly — that **70%** were optimistic about agentic AI and **85%** would use AI that learned their creative style.[^14thenewjobs-32] The numbers are not the numbers of a workforce in retreat. They are the numbers of a workforce *adopting at scale* and reporting commercial benefit.
 
 The PRS for Music 2026 AI Survey, surveying U.K. music creators, found **four in five** music creators worried about AI-generated music competing in the streaming economy[^14thenewjobs-33] — but also that respondents who were using AI tools in their own creative practice reported higher earnings and broader output reach than peers who were not. The two findings live together. The anxiety and the adoption are happening in the same head.
@@ -3463,6 +3776,8 @@ The U.K. Department for Business and Trade research, reported in *CNBC* in Novem
 The McKinsey AI report on film and TV production, released in early 2026, made the broader business case: AI would not, in McKinsey's view, replace film and television production. It would *restructure* it — towards smaller teams, faster cycles, more iteration, and heavier reliance on senior creative judgement.[^14thenewjobs-35] In other words: towards an *orchestrator-shaped* industry, in which the working creatives best positioned to thrive are those who can operate the new toolchain rather than those who refuse to engage with it.
 
 The GDC State of the Game Industry surveys 2024–2026 (covered in detail in [Appendix E](A5_Deep_Dive_Adoption_Dynamics.md)) showed personal generative-AI usage among professional game developers rising from **31%** to **36%** while industry sentiment cratered from 18% negative to **52%** negative.[^14thenewjobs-36] The interpretation: developers using AI are increasingly *uncomfortable* about doing so, but they are doing so anyway, because the productivity advantage is too strong to ignore.
+
+The employer side of the same story is now being told in an unexpectedly warm register. **EA** told *PC Gamer* in June 2026 that AI is delivering "faster prototyping" and a "real rise in creativity" across its studios.[^14thenewjobs-53] Take the framing with the scepticism that employer testimony always deserves — "a rise in creativity" is doing public-relations work for a company that has been aggressive about AI integration — but notice what the claim concedes. The employer case for AI is no longer being made in cost-reduction language alone. Employers are competing to describe their AI-augmented workforces as *more creative*, which tells you, at minimum, what they believe the AI-literate practitioner is worth to them — and which side of the literacy line they intend to hire from.
 
 The LANDR study reported in *Ari's Take*, late 2025, found that **87%** of musicians surveyed were using AI tools in some part of their practice.[^14thenewjobs-37] When the figure for "musicians using AI" approaches the figure for "musicians using DAWs," you are not looking at a niche adoption pattern. You are looking at a baseline competency that the next generation of working musicians will be assumed to have.
 
@@ -3493,6 +3808,8 @@ The studios are not — yet — replacing senior roles. They are absorbing the *
 The story is partially true. It is also dangerously incomplete. If the junior layer disappears for a decade, the *next generation of senior practitioners has nowhere to be trained*. The pipeline breaks. The 2035 cohort of senior creative directors, lead animators, showrunners, music producers, art directors — the people who, in 2026, would be five years into a junior career — will simply not exist at the volumes the industry needs. The discipline-specific knowledge, the embodied craft, the relationship-based mentorship — all of these were carried in the apprenticeship layer. Remove the layer, and you are eating the seed corn of the discipline.
 
 This is not a speculative claim. It is the underlying logic of every "expensive mistake" interview a working studio leader has given to the trade press in this period — Charles Cecil at Revolution Software, Todd Howard at Bethesda, the Larian and Aardman and Jagex public positions. The senior practitioners are saying, in different vocabularies, the same thing: *we used to teach the next generation by giving them the routine work. The routine work is gone. We have not solved the teaching problem.*
+
+And the displaced junior layer is not waiting quietly while the industry deliberates. It is going to work for the other side. The Hollywood-workers-training-AI-models story I flagged in the emerging-roles list above[^14thenewjobs-51] is the Apprenticeship Gap expressed as a labour flow: the would-be apprentices of 2026, unable to find the junior rungs, are spending their formative years teaching the systems that absorbed the rungs beneath them. Every hour of craft knowledge that flows into the models through that channel is an hour that used to flow, through mentorship, into the next generation of practitioners. The gap is not just failing to train the 2035 cohort. It is actively transferring the training substrate somewhere else.
 
 The institutional response to date is partial and patchy. The Sundance literacy initiative is real. The Adobe Ignite Day, the Sundance Collab fellowships, the UK Free AI Training for All programme, the UW-Stout curricular changes — these are the visible institutional moves. But they are training programmes for *AI literacy specifically*, not full apprenticeship pipelines for the underlying creative discipline. They produce literate orchestrators. They do not, by themselves, produce the cinematographers, the composers, the writers, the lead artists, the showrunners of 2040.
 
@@ -3673,6 +3990,18 @@ The labour market is moving. So can you.
 [^14thenewjobs-46]: *PocketGamer.biz*, "Shift Up CEO says AI is key to competing with China's game industry scale." <https://www.pocketgamer.biz/shift-up-ceo-says-ai-is-key-to-competing-with-chinas-game-industry-scale/>. [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
 
 [^14thenewjobs-47]: The doomer frame is set out at length in OpenAI's spring 2026 policy paper on the "social contract for the intelligence age" (covered in [*Dream Machine* Issue 24](../Dream%20Machine%20MD/24.md)) and in Daniel Susskind's *A World Without Work*. The full empirical rebuttal — including the Stanford Digital Economy Lab's *Canaries in the Coal Mine?* findings (Brynjolfsson, Chandar & Chen, 2025), Brynjolfsson, Li & Raymond's *Generative AI at Work* (QJE, 2025; n = 5,179 agents), Acemoglu's *Simple Macroeconomics of AI* (Economic Policy, 2025), the Dallas Fed's labour analyses, the St. Louis Fed's AI-and-GDP tracking, the 2026 Stanford AI Index, and the 230-year history of identical predictions — is laid out in [Appendix I: The Doomer Mistake](A9_Deep_Dive_Doomer_Mistake.md). The deep dive is the analytical antibody to the policy framing this section is pushing back against.
+
+[^14thenewjobs-48]: *Ad Age*, "PMG's hackathon at Cannes signals agencies' growing appetite for AI talent." <https://adage.com/technology/ai/aa-pmg-cannes-hackathon-agency-skilled-talent/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^14thenewjobs-49]: Anthropic, "Claude Corps: teaching 1,000 fellows to master Claude, matched with nonprofits across America." <https://www.anthropic.com/news/claude-corps>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^14thenewjobs-50]: GOV.UK, "AI Adoption Plan for the Creative Industries." <https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+[^14thenewjobs-51]: *The Hollywood Reporter*, "Hollywood Workers Are Training AI Models as Job Prospects Grow Slim." <https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^14thenewjobs-52]: *UKTN*, "AI hiring surges 'across all UK sectors', according to new findings from PwC, with a 34% salary premium for AI skills." <https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+[^14thenewjobs-53]: *PC Gamer*, "EA: AI is delivering 'faster prototyping' and a 'real rise in creativity' in its studios." <https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 
 # Chapter 15 — Choosing the Future
@@ -3952,7 +4281,7 @@ I have written it last on purpose. Read in this order, the tools sit inside the 
 
 That format is, in 2026, the most reliable way to misunderstand what is happening.
 
-A note on the date stamp. Everything in this chapter is current to June 2026 — the May 2026 cut of the catalogue, with the Issue 31 (June 2026) additions to the video, music, world-model, agent and games-engine layers folded in where they fit. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned. The point is not that the specific tools matter. The point is the *shape* of the toolchain — what categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
+A note on the date stamp. Everything in this chapter is current to July 2026 — the May 2026 cut of the catalogue, with the additions from Issues 31 to 36 (June–July 2026) to the video, music, world-model, agent and games-engine layers folded in where they fit. By the time you read it, some of these tools will have been bought, renamed, killed, surpassed or repositioned. The point is not that the specific tools matter. The point is the *shape* of the toolchain — what categories exist, what they do, who builds them, and how a working creative builds a coherent stack on top of them. The shape, in my experience, holds.
 
 #### How to think about the toolchain
 
@@ -3980,7 +4309,7 @@ With that frame, the inventory.
 
 #### Video
 
-The video layer changed faster than any other modality between October 2025 and June 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
+The video layer changed faster than any other modality between October 2025 and July 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
 
 **Sora 2** (OpenAI) is the model that opened the period this book covers. Its September 2025 launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter 1 is about.[^16thetools-1] The iOS app launched alongside it hit a million downloads in five days.[^16thetools-2] By March 2026, however, the platform was shutting down. OpenAI announced a staged wind-down on **24 March 2026** — consumer app and website ending late April, developer API closing late September — with peak revenue reportedly at around $540k per month against operating costs in the billions, and compute reallocated toward higher-margin coding and enterprise products.[^16thetools-2a] The Disney–OpenAI $1bn licensing announcement of 11 December 2025 was never executed; no formal agreement was signed and no money changed hands. The contractual *framework* underneath that deal — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against; the deep treatment of that architecture and the broader IP-economics shift it sits inside is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md). For working filmmakers in mid-2026, the practical implication of the Sora collapse is that the *consumer-facing edge* of the AI-video market has rotated to ByteDance's CapCut/Dreamina/Seedance stack, to the YouTube Shorts integrations of Veo 3.1, and to the Sora app's various TikTok-and-Reels-shaped successors. The professional pipeline never depended on Sora 2 in the first place — most working filmmakers I know used it less than its cultural prominence suggested — and so on the production side the collapse changes less than the headlines implied.
 
@@ -3995,6 +4324,8 @@ The video layer changed faster than any other modality between October 2025 and 
 **Heygen** ships Video Agent — a full scripting-to-assembly agent built around reference images.[^16thetools-8] **Synthesia** holds the corporate AI-avatar market ($4B valuation, having reportedly rejected a $3B Adobe acquisition offer).[^16thetools-9] **ElevenLabs** runs the dominant audio-AI layer underneath much of the new video work ($500m ARR by April 2026).[^16thetools-10]
 
 **Gemini Omni** (Google DeepMind), announced at Google I/O 2026, brings text, image, audio, video and live interaction into a single multimodal model — the first foundation-model release in this category that meaningfully unifies the modalities working creatives currently have to bridge across five different tools.[^16thetools-42] **Beeple Canvas**, Mike Winkelmann's gen-AI compositor — launched May 2026 — is the first AI-native compositing application to ship from a working visual-effects artist's own studio, and is structurally distinct from the AI-features-bolted-onto-existing-compositors pattern in the legacy-software section below.[^16thetools-43]
+
+The June–July 2026 cycle belonged to ByteDance and Runway. **Seedance 2.5** broke the thirty-second barrier for AI video generation, with **Seedance 2.0 Mini** shipping the quality-at-lower-cost tier into Dreamina and ComfyUI in the same month.[^16thetools-59] Runway, meanwhile, shipped **API Recipes** (production-ready generative-media features in a single API call), an MCP connection that puts Runway *inside ChatGPT*, and **Agent 2** ad localisation — the fastest single-vendor shipping cadence of the early summer.[^16thetools-60]
 
 If I had to name a single video product that, in my experience, working creatives have settled on as a default in 2026, it would be Veo 3.1 for finished work and Runway for iteration and integration. Sora is the brand name the audience knows. The actual production pipelines run on the other two.
 
@@ -4026,6 +4357,8 @@ The music layer split into three categories during this period, and the split is
 
 **Sound-effect foundation models** emerged as a new sub-category in May 2026. **Sony AI's Woosh** is the first foundation model explicitly trained for the professional sound-effects discipline — built for the people who design the sonic worlds behind games, film and interactive media, not for the consumer market.[^16thetools-44] **Mirelo SFX 1.6** shipped the first sound-effects model that lets you *edit* a generated sound rather than only regenerate it — a structural shift in the discipline equivalent to the move from rendered images to layered Photoshop files.[^16thetools-45] **Stable Audio 3.0** (Stability AI) shipped as an open-weight audio model family explicitly aimed at artistic experimentation.[^16thetools-46] **Tamber**, the ethically-trained AI music suite I describe in [Chapter 6](06_The_88_Percent.md), shipped alongside a gestural-control interface that lets the musician steer the generation with arm movements.[^16thetools-47] **Beatport's Track ID** rolled out as the real-time identification standard for the DJ market.[^16thetools-48]
 
+The *instrument turn* arrived in June 2026, and it is the music-layer development I would watch most closely. **Google Magenta RealTime 2** is a live music model you play as an instrument; **Daydream** bills itself as the first AI-native instrument for the DAW; Fender's **Studio Pro** DAW shipped with Moises stem separation and a smart studio assistant built in; and Maono's **PD500W** claimed the title of first AI-powered hybrid microphone.[^16thetools-61] Generative music capability arriving as *performance hardware and studio furniture*, rather than as another prompt box, is a structurally different adoption path from the Suno-shaped flood — it lands in the production layer, where the silent-adoption majority already lives. **Suno** itself, in the same period, launched **Spark**, an incubator programme for the next generation of creators — the flood-tier vendor of Chapter 5 repositioning itself as a patron.[^16thetools-62]
+
 The deal flow underneath this layer is the second-fastest-changing in the toolchain. The Stability AI / Universal Music alliance, the Stability AI / Warner Music deal, the Splice / Universal partnership, the GEMA / OpenAI lawsuit, the Wixen / Meta lawsuit, the UMG / Anthropic $3B suit — these are the structural moves I would track if I were a working musician trying to plan a five-year toolchain.[^16thetools-18]
 
 #### 3D, world models, spatial
@@ -4040,7 +4373,7 @@ The category that, more than any other, I think defines the next decade of creat
 
 The May 2026 world-model wave extended this layer further. **NVIDIA SANA-WM** is the first open-weight world model at meaningful scale (2.6B parameters), with 60-second video generation and explicit camera control.[^16thetools-49] **Odyssey Starchild-1** is, by Odyssey's own framing, *"the first ever real-time multimodal world model"* — a system that doesn't just generate a world but simulates and reasons about it.[^16thetools-50] **Odyssey Agora-1** is the multiplayer companion to Starchild, putting four players inside the same AI-generated world (built, in a small piece of provenance theatre, on the bones of a 1997 shooter).[^16thetools-51] **Apple Headsup** is a research-grade 3D Gaussian head-reconstruction pipeline built for multi-view captures from consumer iPhones, extending the Vision-Pro-Personas Gaussian-splat thread into the open research layer.[^16thetools-52]
 
-Underneath this layer, the Gaussian-splatting infrastructure has matured into a stable workflow: **SuperSplat** (PlayCanvas) for editing, **Spark 2.0** for open-source streaming of 100-million-splat scenes to browsers, the SOG / WebP equivalent compression standard.[^16thetools-24] Apple's confirmation that its Vision Pro Personas feature is powered by Gaussian splatting under the hood made it, by some margin, the most-deployed Gaussian-splat technology in consumer hardware as of late 2025.[^16thetools-25]
+Underneath this layer, the Gaussian-splatting infrastructure has matured into a stable workflow: **SuperSplat** (PlayCanvas) for editing, **Spark 2.0** for open-source streaming of 100-million-splat scenes to browsers, the SOG / WebP equivalent compression standard.[^16thetools-24] Apple's confirmation that its Vision Pro Personas feature is powered by Gaussian splatting under the hood made it, by some margin, the most-deployed Gaussian-splat technology in consumer hardware as of late 2025.[^16thetools-25] At WWDC 2026 Apple went further, announcing that Gaussian splatting is coming to **Apple Maps** — the Flyover feature rebuilt on splats — which will make it the most-deployed splat technology in consumer *software* as well.[^16thetools-67]
 
 For the 3D-asset and material side: **Hunyuan 3D-PolyGen 1.5** (Tencent's "art-grade" 3D generative model), **Hitem3D**, **Meshy**, **Rodin** — the rapidly-maturing 3D-asset generation layer that is being integrated, model-by-model, into Unreal Engine, Unity and Blender pipelines.
 
@@ -4062,6 +4395,8 @@ The category I think most working creatives are still underestimating, six month
 
 **Hugging Face**, **OpenEnv** (Meta / Hugging Face), the **Hugging Face / Google Cloud** partnership — the open-source agentic-development infrastructure.[^16thetools-35]
 
+By early July 2026 the orchestration story had a name, and the name was MCP. **Comfy MCP** launched in public beta as the first Model Context Protocol server built for production pipelines rather than one-off generations — point Claude, Codex or Cursor at it and the agent can build, edit and run ComfyUI workflows in plain language, with a shareable workflow URL that makes every generation reproducible across a team.[^16thetools-63] In the same four weeks, Epic announced **Unreal MCP** at the State of Unreal, and **Magnific**, **Higgsfield** and **Runway** all shipped MCP surfaces of their own.[^16thetools-64] The protocol the agentic ecosystem had been converging on all spring is now, in practice, the connective tissue of the creative toolchain — the shift, as ComfyUI's own framing put it, from AI that *makes* content to AI that can *operate* a creative system.
+
 For working creatives, the practical agent stack in 2026 is some combination of:
 
 1. A foundation model (Claude / GPT / Gemini) for the orchestration brain.
@@ -4075,9 +4410,9 @@ The team I work with at DreamLab runs this stack in production every week. The a
 
 The most under-reported strategic story of this period, in my view, has been the speed at which the legacy creative-software vendors have rebuilt their products as AI-agent platforms.
 
-**Adobe** — I have written enough about Adobe in Chapter 9 that I will not repeat it here. The short version: Creative Cloud is, today, a stack of AI agents wearing a Photoshop / Premiere / After Effects / Illustrator / InDesign / Acrobat skin. The agents are inside the apps; the apps are inside ChatGPT; the apps are inside Adobe Express; the apps are inside the new CX Enterprise platform. The repositioning is complete.
+**Adobe** — I have written enough about Adobe in Chapter 9 that I will not repeat it here. The short version: Creative Cloud is, today, a stack of AI agents wearing a Photoshop / Premiere / After Effects / Illustrator / InDesign / Acrobat skin. The agents are inside the apps; the apps are inside ChatGPT; the apps are inside Adobe Express; the apps are inside the new CX Enterprise platform. In June 2026 the **Creative Agent and AI Assistant** went into beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io — the agent layer moving from announcement to default surface.[^16thetools-65] The repositioning is complete.
 
-**Unreal Engine** (Epic) — the games engine that has, through plugins, integrations and the Nano Banana / Gemini partnership, become a hybrid game-engine / virtual-production / AI-generation hub. The Unreal Engine 5 AI Assistant, announced at the end of 2025[^16thetools-36], is one of the more consequential single-product launches of the period. The **ECABridge** connector, launched May 2026, is the most-cited Unreal-Engine MCP integration of the spring — providing the Model Context Protocol surface and a set of agentic capabilities Epic itself has not yet shipped to the launcher.[^16thetools-56] In a separate but related move, an **Epic Games veteran** announced an AI-heavy *"Fully European"* game-engine project in the same week — the first plausibly-credible new entrant in the AAA game-engine market since the early 2010s, framed explicitly around AI as the core operating layer.[^16thetools-57]
+**Unreal Engine** (Epic) — the games engine that has, through plugins, integrations and the Nano Banana / Gemini partnership, become a hybrid game-engine / virtual-production / AI-generation hub. The Unreal Engine 5 AI Assistant, announced at the end of 2025[^16thetools-36], is one of the more consequential single-product launches of the period. The **ECABridge** connector, launched May 2026, is the most-cited Unreal-Engine MCP integration of the spring — providing the Model Context Protocol surface and a set of agentic capabilities Epic itself has not yet shipped to the launcher.[^16thetools-56] That gap closed in June: at the **State of Unreal 2026**, Epic announced its own official **Unreal MCP** alongside LLM-powered tools and video-model rendering integrations — the clearest statement yet that Epic sees natural language as a first-class interface to the engine, and a deliberate bet on expanding *who* can become an Unreal developer rather than replacing the ones it has.[^16thetools-66] In a separate but related move, an **Epic Games veteran** announced an AI-heavy *"Fully European"* game-engine project in the same week — the first plausibly-credible new entrant in the AAA game-engine market since the early 2010s, framed explicitly around AI as the core operating layer.[^16thetools-57]
 
 **Unity** — Unity's AI Open Beta (May 2026), an in-editor AI suite for the full games-development pipeline, alongside the company's AI Council formation in October 2025.[^16thetools-37]
 
@@ -4119,17 +4454,17 @@ I do not, finally, use AI tools to produce work in the disciplines where my own 
 
 #### The complete toolchain: a categorised reference
 
-This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that *Dream Machine* tracked across its 32 issues, from October 2025 to June 2026. Some are dominant; some are niche; some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is *what existed*, in this period, in the creative-AI toolchain — so that the *shape* of the field is on the record.
+This section is a reference inventory, not a recommendation list. It catalogues every tool, model, platform, app, plugin, LoRA, workflow and service that *Dream Machine* tracked across its 36 issues, from October 2025 to July 2026. Some are dominant; some are niche; some have already been bought, renamed or discontinued by the time you read this. The point of the list is not "what to use." The point is *what existed*, in this period, in the creative-AI toolchain — so that the *shape* of the field is on the record.
 
 A word on the list's grain. I have tried to err on the side of inclusion. Where a single company ships multiple closely-related products — Adobe's *Sneaks* portfolio, the Runway Gen-4.5 family, the Qwen-Edit LoRA series — I have grouped them under the parent entry but called out the constituent tools, because in this period each constituent shipped to working creatives separately and changed at its own cadence. Where a tool was a one-issue demo I could not later verify, I have still listed it; that the demo existed *at all* is part of the field's history. Where a tool's name conflicts with another (there are at least three things called "Wonder" in the period the book covers) I have annotated.
 
-The list runs to roughly six hundred entries. Skim it. Use the categories. Come back to specific sections when you need them.
+The list runs to roughly six hundred and thirty entries. Skim it. Use the categories. Come back to specific sections when you need them.
 
 ##### Foundation models / LLMs
 
 - **ChatGPT / GPT-5 / GPT-5 Pro** (OpenAI) — the dominant consumer LLM and reference foundation model; 800–900M weekly active users; GPT-5 / GPT-5 Pro announced at DevDay 2025.
-- **Claude / Claude Code / Claude Apps / Claude Skills** (Anthropic) — the writers' and developers' favoured second; strong long-context performance; the agentic coding environment that underlies Sony's 49-agent / 72-skill stack; Claude for Legal launched May 2026.
-- **Gemini / Gemini 2.5 Flash / Gemini 3 / Gemini 3.1 Flash** (Google) — Google's multimodal LLM family; desktop users growing 155% YoY in 2025–26; Gemini 3.1 Flash TTS is the most controllable Google voice model as of spring 2026.
+- **Claude / Claude Code / Claude Apps / Claude Skills / Claude Fable 5 / Claude Sonnet 5** (Anthropic) — the writers' and developers' favoured second; strong long-context performance; the agentic coding environment that underlies Sony's 49-agent / 72-skill stack; Claude for Legal launched May 2026. **Fable 5**, the Mythos-class model released June 2026, had its access suspended within a week under a US export-control directive — the first frontier creative model to be withdrawn on national-security grounds; **Sonnet 5** (July 2026) shipped stronger agentic capabilities at lower pricing.
+- **Gemini / Gemini 2.5 Flash / Gemini 3 / Gemini 3.1 Flash / Gemini Omni Flash / Gemini 3.5 Live Translate** (Google) — Google's multimodal LLM family; desktop users growing 155% YoY in 2025–26; Gemini 3.1 Flash TTS is the most controllable Google voice model as of spring 2026; Gemini Omni Flash (July 2026) generates and edits video via the Gemini API, Google AI Studio and ComfyUI; Gemini 3.5 Live Translate ships low-latency voice translation across 70+ languages.
 - **Llama** (Meta) — the dominant open-weight foundation model.
 - **Mistral / Mistral Voxtral / Mistral Transcribe 2** — European open-source LLM; Voxtral is the next-generation speech-to-text family.
 - **Qwen / Qwen 3.5-Omni** (Alibaba) — Chinese open-source LLM, image, video and audio variants; Omni is the multimodal family covering text, images, audio and video.
@@ -4144,14 +4479,14 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 
 - **Sora / Sora 2** (OpenAI) — the model that opened the period; physical realism, audio integration, multi-shot world-state persistence; iOS app hit 1M downloads in 5 days; Sora 2 Character Creation surfaced on fal in March 2026.
 - **Veo 3 / Veo 3.1 / Veo 3.1 Ingredients to Video / Veo 3.1 Lite** (Google DeepMind) — the working filmmaker's preferred model for cinematic control; Ingredients to Video shipped to YouTube Shorts and YouTube Create; Veo 3.1 Lite is the lower-cost text- and image-to-video tier.
-- **Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising / Aleph 2.0** (Runway) — the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency. **Aleph 2.0** (June 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped.
+- **Runway Gen-4 / Gen-4.5 / Gen-4.5 Image-to-Video / Workflows / Story Panels / Characters API / Ad Concepter / Apps for Advertising / Aleph 2.0** (Runway) — the most-integrated commercial AI-video stack; Story Panels generate three-panel storyboards from a single image; Characters API ships real-time intelligent avatars; the Vera Rubin-powered real-time model runs <100 ms latency. **Aleph 2.0** (June 2026) lets the user edit a *single frame* in a video and propagates that edit consistently across the rest of the clip — the cleanest *frame-as-handle* video-editing pattern yet shipped. **API Recipes** (June 2026) drop production-ready generative-media features into any platform with one API call; the **Runway MCP** puts Runway generation and editing inside ChatGPT; **Agent 2** (July 2026) handles ad localisation.
 - **Kling / Kling 2.5 Turbo / Kling O1 / Kling 2.6 / Kling 3.0 / Kling X-Dub / Kling Motion Control 3.0** (Kuaishou) — strong on physics and trajectory control; 3.0 adds multi-shot control, multilingual audio and 4K image generation; X-Dub is the context-rich visual dubbing variant.
 - **Pika 2.0 / PikaStream 1.0** — iteration-speed-focused video generation; PikaStream brings AI agents into live video calls.
 - **Luma Dream Machine / UNI-1 / UNI-1.1 / Ray3 Modify / Luma Dream Brief** — Luma's video, world-and-reasoning, and modification stack; UNI-1.1 ships with prompt enhancement and built-in research; Dream Brief is the $1M Cannes Lions competition.
 - **Wan 2.2 / Wan 2.5 / Wan 2.6** (Alibaba Qwen) — camera-controlled video generation; 2.6 adds character reference and multishot capabilities.
 - **Hunyuan Video / Hunyuan Image-to-Video** (Tencent) — open-source video model.
-- **Seedance 2.0 / SeeDream 4 / SeeDream 4.5** (ByteDance) — image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026.
-- **Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin** — social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months; Shots produces multiple storyboard images from a single shot; the Adobe Premiere Pro and After Effects plugins (June 2026) bring Higgsfield generation directly into the professional editorial workflow.
+- **Seedance 2.0 / Seedance 2.0 Mini / Seedance 2.5 / SeeDream 4 / SeeDream 4.5** (ByteDance) — image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026; **Seedance 2.0 Mini** (June 2026) is the quality-at-lower-cost tier in Dreamina, and in ComfyUI (with 4K) from July; **Seedance 2.5** (June 2026) broke the thirty-second barrier for AI video generation.
+- **Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin / Higgsfield DaVinci Resolve Plugin / Higgsfield MCP** — social-media-marketer video platform; $80M raised at $1.3B valuation, $200M revenue in nine months (reportedly $500M by June 2026); Shots produces multiple storyboard images from a single shot; the Adobe Premiere Pro and After Effects plugins (June 2026) bring Higgsfield generation directly into the professional editorial workflow; the DaVinci Resolve plugin adds in-timeline generation, draw-to-edit and AI-generated LUTs; Higgsfield MCP (July 2026) lets agents such as Claude generate through the platform directly.
 - **Bernini** (ByteDance) — AI video generation and editing framework; a complementary video-editing layer to ByteDance's Seedance generation stack.
 - **LTX-2 / LTX-2.3 / LTX-2.3 Colorizer / LTX-HDR / LTX Studio / LTX-2 Audio-to-Video / LTX-2 Lip Sync / LTX-2 Real-Time** — open-source video generation with audio sync; LTX-2.3 is high-resolution, fast, cinematic with native lip-sync; LTX HDR (beta) ships HDR processing.
 - **Odyssey 2** — real-time interactive video generation.
@@ -4176,7 +4511,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **VFace** — training-free video face-swapping for any diffusion model.
 - **DreamActor M2.0** (fal) — drive characters from a single image + template video; multi-character supported.
 - **ByteDance ALIVE** — unified audio-video generation.
-- **Magnific Upscaler for Video / Magnific Precision v2 / Magnific Precision for Video** — upscaling and 4K detail enhancement, including dedicated video upscaling.
+- **Magnific Upscaler for Video / Magnific Precision v2 / Magnific Precision for Video / Magnific MCP / Magnific Plugin** — upscaling and 4K detail enhancement, including dedicated video upscaling; Magnific MCP (June 2026) connects every Magnific tool to your AI assistant; the Magnific Plugin (July 2026) puts the stack inside Premiere Pro, After Effects, DaVinci Resolve and Final Cut Pro.
 - **NetFlix VOID** — object removal from video with physics-interaction removal.
 - **Ponder** — agentic video editor.
 - **ArcReel** — multi-agent video generation from written stories.
@@ -4188,16 +4523,24 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Alibaba WonderClip** — all-in-one AI video creation platform from Alibaba Cloud (June 2026).
 - **Sony Vid-CamEdit** — post-capture camera trajectory editing; keeps scenes spatially coherent across large viewpoint changes (June 2026).
 - **Nvidia PiD (Pixel Diffusion Decoder)** — image / video decoder; new entry from Nvidia (June 2026).
+- **VEED Fabric 1.0** — hyper-realistic AI explainer and educational videos, up to five minutes, generated in seconds.
+- **NVIDIA SANA-Streaming** — high-resolution, real-time video-to-video editing on consumer GPUs; the streaming sibling of the SANA-WM world model.
+- **Viggle / Viggle API** — give any character any motion; one API call and it comes back alive in seconds.
+- **Pixelcut Video Background Remover** — video background removal, live on fal.
+- **LooseControlVideo** — directorial video control using spatial blocking; the research end of the *blocking-as-interface* pattern.
+- **Musavir LiveAI** — transforms a live video feed in real time.
+- **NVIDIA Metropolis VSS Blueprint 3** — video search and summarisation; lets a coding agent analyse massive live streams and video libraries from a natural-language prompt.
+- **MiniMax Hub** — all-in-one AI video generator hub, launched at the Shanghai Film Festival with the stated caveat that "creative direction and aesthetic judgment must ultimately be left to humans".
 
 ##### AI image models / tools
 
 - **Midjourney / Midjourney V8.1** — the aesthetic-leadership product; Discord/X-native; V8.1 ships native 2K HD rendering at 3× the speed and 3× the cost reduction.
 - **FLUX / FLUX 2 / FLUX 2 Max / FLUX.2 [klein]** (Black Forest Labs) — open-weight, fine-control, the open-source default through 2025–26; klein is the 4B-parameter lightweight model.
 - **Adobe Firefly / Firefly Image Model 5 / Firefly Foundry / Firefly Boards / Firefly Precision Flow** — Image Model 5, Foundry (custom corporate training), Firefly Boards (moodboards), Precision Flow (granular AI editing control, beta); 45% of Creative Cloud users active, 22B+ assets generated by April 2025.
-- **Imagen 3 / Nano Banana / Nano Banana Pro / Nano Banana 2** (Google) — most-integrated image model in the consumer toolchain; Photoshop and Unreal Engine plugins; Nano Banana Pro ships professional capabilities at lightning speed.
+- **Imagen 3 / Nano Banana / Nano Banana Pro / Nano Banana 2 / Nano Banana 2 Lite** (Google) — most-integrated image model in the consumer toolchain; Photoshop and Unreal Engine plugins; Nano Banana Pro ships professional capabilities at lightning speed; Nano Banana 2 Lite (aka Gemini 3.1 Flash-Lite, July 2026) targets low-cost, four-second enterprise image generation.
 - **Stable Diffusion / Stable Diffusion 3 / Stable-Layers** (Stability AI) — the foundational open-source image model; **Stable-Layers** (June 2026) splits generated images into editable compositional layers — a structural shift from regeneration to post-generation editing.
 - **Ideogram 4.0** — fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every Ideogram plan and via API.
-- **Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers** — real-time AI image generation, now open-source; Realtime Edit takes complex instructions in real time; the LoRA Trainers cover Qwen-2512 and Z-Image.
+- **Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers** — real-time AI image generation; Krea 2 shipped open weights in July 2026, with one model for inference and one for training; Realtime Edit takes complex instructions in real time; the LoRA Trainers cover Qwen-2512 and Z-Image.
 - **Qwen-Image-2512 / Qwen-Image-Edit-2511 / Qwen 2511 Time Travel / Qwen-Edit 2509** — the dominant open-source image-editing model family; constituent LoRAs (relighting, multi-angle, time-travel, AnyPose) discussed in the LoRAs section below.
 - **ChatGPT Images / ChatGPT Images 2.0** — image generation integrated with Adobe Express, Photoshop and Acrobat; 2.0 ships thinking-level intelligence.
 - **Grok Imagine / Grok Imagine API** (xAI) — image and video generation; the API bundles end-to-end creative workflows; reference-to-video and video extend added in March 2026.
@@ -4225,10 +4568,10 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 
 ##### AI music / audio tools
 
-- **Suno / Suno Studio / Suno 5.5** — the dominant prompt-to-track generative music platform; $400M raised at $5.4B valuation (June 2026), $300M ARR, 2M+ subscribers; Warner Music Group settled its lawsuit and signed a licensing partnership; UMG and Sony remain in active litigation; Suno Studio is the "world's first generative audio workstation"; 5.5 adds Voices.
+- **Suno / Suno Studio / Suno 5.5 / Suno Spark** — the dominant prompt-to-track generative music platform; $400M raised at $5.4B valuation (June 2026), $300M ARR, 2M+ subscribers; Warner Music Group settled its lawsuit and signed a licensing partnership; UMG and Sony remain in active litigation; Suno Studio is the "world's first generative audio workstation"; 5.5 adds Voices; Spark (July 2026) is the incubator programme for the next generation of creators.
 - **Udio** — prompt-to-music; partnered with Universal Music Group; indie-label licensing via Merlin.
 - **Mureka / Music Agent Studio** — six specialised AI agents covering songwriting, arrangement and production.
-- **ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2** — the dominant voice/audio synthesis stack; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.
+- **ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2 / ElevenLabs Avatars** — the dominant voice/audio synthesis stack; **Avatars** (June 2026) put a face on the voices inside ElevenCreative; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.
 - **iZotope Ozone 12 / Stem EQ** — AI-assisted mixing and mastering.
 - **LANDR** — AI mastering and distribution.
 - **Riffusion** — spectrogram-based music generation.
@@ -4277,7 +4620,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Ricercar** (Ars Electronica) — creative AI for artistic composition.
 - **Krotos Video-to-Sound** — expanded platform for audio professionals (foley, sound design).
 - **Jamu** — AI co-producer agent for Ableton Live.
-- **Moises** — AI music platform; Charlie Puth as Chief Music Officer.
+- **Moises** — AI music platform; Charlie Puth as Chief Music Officer; its stem separation now ships inside Fender's Studio Pro DAW.
 - **Music Mogul AI** — tour-booking automation.
 - **Sonilo + Shutterstock** — video-to-music AI training deal.
 - **Clearnote** — AI music-contract platform to end deal delays.
@@ -4286,8 +4629,16 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Rebel Audio** — AI podcast startup.
 - **ROLI Airwave & AI Music Coach** — hand-tracking (27 joints) with real-time AI piano practice coaching.
 - **Sony AI ICASSP papers** — music understanding and generative audio research papers (April 2026).
-
-##### 3D, world models and spatial
+- **Google Magenta RealTime 2 (MRT2)** — the live music model you can play as an instrument; the flagship of the June 2026 *instrument turn*.
+- **Daydream** — "the first AI-native instrument for your DAW."
+- **Fender Studio Pro** — Fender's DAW with Moises stem separation and a smart studio assistant built in; "AI isn't the destination. Making music is."
+- **Maono PD500W** — "the world's first AI-powered hybrid microphone"; AI processing arriving in the capture hardware itself.
+- **Orchestria** — AI music engine with granular stem control.
+- **Wubble** — ethically-created royalty-free music, AI voiceovers and sound effects from prompts.
+- **Tencent MMAE** — Massive Multitask Audio Editing benchmark; the first comprehensive evaluation benchmark for speech and audio editing.
+- **Bandsintown Boost / Laylo AI Ticket-Sales Agent** — AI tools for touring artists: promotion boosting and an agent that sells tickets.
+- **Artist** (LA) — music-tech startup letting artists re-record classic tracks with AI-assisted vocal technology; Boy George's *Karma Chameleon* re-record was the first release. (Not to be confused with the generic use of the word elsewhere in this book.)
+- **Tringbox** — Indian AI background-music startup; seed-funded June 2026, also working with live venues.
 
 - **Marble / Marble 1.1 / WorldLabs API / RTFM** (World Labs / Fei-Fei Li) — first commercial generative world model; 40× faster than legacy VP workflow; 1.1 adds real-world location 3D reconstruction and restyling; the API generates persistent 3D worlds from text, images and video; RTFM is the real-time frame model.
 - **Genie 3 / Project Genie** (Google DeepMind) — research-grade world model; *Time* Best Inventions 2025; rolled out to Google AI Ultra in January 2026.
@@ -4309,16 +4660,24 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **NVIDIA Lyra 2.0** — explorable generative 3D worlds.
 - **NVPanoptix-3D** (NVIDIA) — single-image 3D indoor-scene reconstruction.
 - **Kimodo** (NVIDIA) — kinematic motion-diffusion model trained on 700 hours of mocap.
+- **Animotive Kimodo** — AI text-to-animation directly inside Unreal Engine, on the FAB Marketplace (a name collision with NVIDIA's Kimodo above; the two are separate products).
+- **NVIDIA MotionBricks** — real-time character animation at scale, without hand-crafted transitions or fine-tuning.
+- **MAMMA** — markerless motion-capture pipeline recovering SMPL-X parameters from multi-view video for two-person interaction.
+- **MetaHuman Animator Markerless Mocap Plugin** (Epic) — turn any video into mocap animation in Unreal; live on FAB.
+- **Mint** — rigs and animates a 3D model in ten minutes.
 - **InSpatio-WorldFM** — open-source real-time generative frame model.
 - **Code2Worlds** — workflow for generating 4D scenes with environmental/object generation and feedback refinement.
+- **PARSE** — framework for procedurally generating spatially grounded 3D scenes from part-level relational descriptions.
+- **DreamForge** — a sandbox for interactive worlds (July 2026; one-issue sighting, listed for the record).
+- **NVIDIA XR AI** — public beta for building AI agents for AR glasses and XR devices.
 - **OpenArt Worlds** — 3D navigable environments from a single prompt.
-- **Rodin / Hyper3D / Rodin Hyper 3D Gen 2** — high-precision 3D model generation.
+- **Rodin / Hyper3D / Rodin Hyper 3D Gen 2 / Rodin Gen-2.5** — high-precision 3D model generation; Gen-2.5 (June 2026) is the world's first 10-million-polygon AI 3D model — 1 million polygons in 4 seconds, scaling to 10M with skin-level microstructure detail.
 - **Meshy / Meshy 6 / Meshy Image-to-3D** — 3D model generation; Meshy 6 ships natively inside ComfyUI; Image-to-3D generates poses.
 - **Hitem3D** — high-resolution 3D generation.
 - **Microsoft Trellis 2** — native compact structured latents for 3D.
 - **ByteDance Seed3D 2.0** — 3D object generation from image or text.
 - **Pixel3D** (Tencent) — 3D object generation.
-- **Tripo 3.1** — 3D-asset creation; ComfyUI partner nodes.
+- **Tripo 3.1 / Tripo 8K Texture** — 3D-asset creation; ComfyUI partner nodes; 8K Texture (June 2026) applies 8192×8192 detail directly onto 3D models, preserving surface fidelity without upscaling.
 - **PATINA** (fal) — image or text to full PBR material maps.
 - **M-XR PBR Model** — 4K PBR material maps for 3D assets.
 - **CHORD** (Ubisoft La Forge) — open-sourced end-to-end PBR-material generation.
@@ -4336,6 +4695,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **SCAIL** — studio-grade character animation via in-context learning.
 - **Vanast** — garment-transferred human animation from images.
 - **CompHairHead** — one-shot 3D head avatars with deformable hair.
+- **FlexAvatar** — 3D head-avatar generation with partial supervision from a single image.
+- **Face Anything** — 4D face reconstruction from any image sequence.
 - **Reallusion Headshot 3** — digital-double creation.
 - **MoRo** (Meta) — human motion recovery via masked modelling for occlusions.
 - **Meta Sapiens 2** — pose estimation, body-part segmentation and surface normals.
@@ -4344,7 +4705,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Apple SHARP / LiTo** — photorealistic 3D view synthesis from a single image in under a second; LiTo is the surface light-field tokenisation method.
 - **Pixel3DMM** — screen-space single-image 3D face reconstruction.
 - **VISTA4D** (Netflix + Eyeline) — live-action to navigable 4D point clouds.
-- **SuperSplat / SuperSplat v2.16** (PlayCanvas) — free, open-source Gaussian-splat editor.
+- **SuperSplat / SuperSplat v2.16** (PlayCanvas) — free, open-source Gaussian-splat editor; the July 2026 release added collision/proxy-mesh generation (via splat-transform, exportable to GLB), software attribution and a histogram view.
 - **Spark 2.0** — open-source Gaussian-splat streaming framework; streamable LoD for WebGL2.
 - **PlayCanvas SOG / SplatTransform v2.0.0** — WebP-equivalent compression for Gaussian splats; SplatTransform v2 ships automatic high-quality collisions for splats.
 - **Cesium / CesiumJS / Cesium for Unreal** — geospatial 3D platform; Cesium agentic workflows let natural-language commands interact with 3D geospatial data; supports Gaussian splats natively.
@@ -4353,10 +4714,11 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Open3Dmap** — crowdsourced 3D mapping with Gaussian splats.
 - **Hyperscape / Hyperscape Capture** (Meta) — Gaussian-splat capture on Quest.
 - **Apple Vision Pro Personas** — Gaussian-splatting consumer feature.
+- **Gaussian Splats in Apple Maps** — announced at WWDC 2026: the Flyover feature rebuilt on Gaussian splatting; the splat pipeline's arrival in mass-market consumer software.
 - **Common Sense Machines** — converts 2D images into 3D digital assets (Google acquisition).
 - **AI-Enhanced LiDAR** — generative-AI-augmented LiDAR capture pipeline (June 2026) for scanning and reconstruction work in spatial production.
 - **NVIDIA Omniverse Fixer** — rendering-artefact removal for Gaussians.
-- **DecartAI / Decart LSD v2 / Decart Lucy 2.0** — real-time world transformation by voice; LSD v2 is real-time video-to-video; Lucy 2.0 is realtime world editing at 1080p/30fps.
+- **DecartAI / Decart LSD v2 / Decart Lucy 2.0 / Decart Mirage** — real-time world transformation by voice; LSD v2 is real-time video-to-video; Lucy 2.0 is realtime world editing at 1080p/30fps; Mirage (June 2026) restyles a shared screen live — claymation, oil painting, anime, or your own prompt.
 - **VoxeloAI** — 3D creation for e-commerce.
 - **Mosaic / Mosaic 3D** — 3D reconstruction.
 - **Depth Anything 3** (ByteDance) — visual-space recovery from any view.
@@ -4377,6 +4739,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Live Avatar** (Alibaba) — streaming real-time audio-driven avatar generation with infinite length.
 - **Avatar Forcing** — real-time interactive head-avatar generation for natural conversation.
 - **PersonaLive** — real-time expressive portrait animation.
+- **LongCat-Video-Avatar 1.5** (Meituan) — production-ready, open-source framework for audio-driven avatar generation.
 - **Weclone** — digital avatar built from a user's chat history.
 - **Particle6 / Tilly Norwood** — AI-performer studio and synthetic actress.
 - **Xania Monet** — AI music artist; Billboard chart entries; $3M Hallwood Media deal.
@@ -4396,7 +4759,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **OpenAI AgentKit / Agent Builder / ChatKit / Connector Registry / Eval Framework** — the developer-facing agent platform underneath most third-party agentic creative tools.
 - **Anthropic Claude Apps / Claude Skills / Claude Code / Claude Design / Claude for Legal / Anthropic Academy** — interactive Claude in workplace tools; the Skills framework powers Sony's 49-agent / 72-skill game-development stack; Claude Design ships prototypes/slides/one-pagers; Anthropic Academy is free Claude Code training.
 - **Claude Code Game Studios** — 49-agent, 72-skill coordinated AI game-development team.
-- **Gemini API Agents / Google Antigravity / Opal / Fabula / Google Stitch** (Google) — agentic capability surface across Google's stack; Antigravity is the agentic development platform; Opal is the no-code mini-app builder; Fabula is the interactive AI writing tool; Stitch generates mobile/web UI.
+- **Gemini API Agents / Google Antigravity / Opal / Fabula / Google Stitch / Google Skills for AI Agents** (Google) — agentic capability surface across Google's stack; Antigravity is the agentic development platform; Opal is the no-code mini-app builder; Fabula is the interactive AI writing tool; Stitch generates mobile/web UI; the official Skills repository is Google's cross-vendor answer to Anthropic's Skills framework.
 - **Heygen Video Agent** — end-to-end video-assembly agent.
 - **Adobe CX Enterprise / GenStudio / Adobe Film & TV Fund / Adobe Ignite Day** — agentic creative intelligence across the full content lifecycle; GenStudio is the brand-intelligence system for personalised content at scale.
 - **NVIDIA + Google Cloud / Avid + Google Cloud / Speechmatics in Adobe Premiere** — agentic-creative infrastructure partnerships; on-device speech-to-text inside Premiere.
@@ -4430,10 +4793,12 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Amazon Creative Agent** — agentic AI generating professional-quality ads.
 - **Playad** — AI marketing agents for ad creative.
 - **Moltbook** (Meta acquisition) — AI agent social network.
+- **Buzzy Canvas** — "your AI co-director"; a canvas-shaped direction agent for creative work.
+- **Grok Voice Agent Builder** (xAI) — no-code platform for creating human-like voice agents with Grok Voice.
 
 ##### Legacy creative software, AI-augmented
 
-- **Adobe Creative Cloud** — Photoshop, Premiere Pro, After Effects, Illustrator, Express, Acrobat, plus the Express AI Assistant, the Premiere Object Mask, the Photoshop generative-fill, selection and Rotate Object tools, the Photoshop AI Assistant public beta, and Illustrator Turntable.
+- **Adobe Creative Cloud / Adobe Creative Agent** — Photoshop, Premiere Pro, After Effects, Illustrator, Express, Acrobat, plus the Express AI Assistant, the Premiere Object Mask, the Photoshop generative-fill, selection and Rotate Object tools, the Photoshop AI Assistant public beta, and Illustrator Turntable; the Creative Agent and AI Assistant went into beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io in June 2026.
 - **Adobe Sneaks 2025–26** — Adobe's research-preview portfolio shown at MAX 2025 and Summit 2026:
   - **Project Scene It** — image-to-3D and 3D-to-image with object tagging.
   - **Project Surface Swap** — AI-powered texture recognition and swap.
@@ -4449,8 +4814,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
   - **Corrective AI** — changes the emotional register of voice-overs.
   - **Edit-by-Track** (Adobe Research) — generative video motion editing with 3D point tracks.
 - **Adobe Acrobat** — AI converting PDFs into podcasts.
-- **Unreal Engine 5 / UE5 AI Assistant / UE5 AI Motion Plugin / Unreal to Gaussian Splat / Prompt-to-Player** (Epic) — official AI assistant; camera-only motion capture; UE5 scene-to-splat conversion; Prompt-to-Player generates 3D characters and auto-rigs/animates them.
-- **Unity / Unity AI Open Beta / Unity AI Council / Unity AI Tools Suite / Unity Prompt-a-Game** — in-editor AI suite for the full games pipeline; Prompt-a-Game demoed at GDC March 2026.
+- **Unreal Engine 5 / UE5 AI Assistant / UE5 AI Motion Plugin / Unreal to Gaussian Splat / Prompt-to-Player / Unreal MCP** (Epic) — official AI assistant; camera-only motion capture; UE5 scene-to-splat conversion; Prompt-to-Player generates 3D characters and auto-rigs/animates them; Unreal MCP and the AI rendering integrations were announced at the State of Unreal 2026.
+- **Unity / Unity AI Open Beta / Unity AI Council / Unity AI Tools Suite / Unity Prompt-a-Game** — in-editor AI suite for the full games pipeline; Prompt-a-Game demoed at GDC March 2026; the Unity AI tutorial series (June 2026) covers the AI Assistant and the official Unity MCP.
 - **Autodesk Maya / Autodesk Flow Studio / Autodesk Wonder 3D / Autodesk Flow Studio Rigging** — motion capture, 3D animation, generative 3D and neural rigging.
 - **Foundry / Nuke / Nano Banana × Nuke** — AI-augmented VFX; Weta FX / AWS collaboration; the Nuke node connecting Nano Banana through fal's API.
 - **SideFX Houdini** — procedural modelling with AI integration.
@@ -4498,6 +4863,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **escapeAI** (John Gaeta) — streaming apps for AI-generated content across Roku, Fire TV, Samsung and LG.
 - **Primordial Soup** (Darren Aronofsky) — AI production studio.
 - **Toonstar** — AI animation house.
+- **Utopai Studios** — AI film-and-TV studio; co-producing Silver Bear winner Hyo-Joo Yang's *Half Moon* and, with Huace, developing the fully AI-generated series *Journey to the West*.
 - **CinemersiveAbout Labs / Cinemersive Labs** — UK machine-learning and computer-vision company; acquired by Sony.
 - **My SMASH Media** — AI film startup with Allison Gardner (ex-Glasgow Film Festival).
 - **Framestore AI Platform / Framestore Futon** — ML and GenAI in the VFX pipeline.
@@ -4553,6 +4919,12 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Daughter of the Inner Stars** — Unreal Engine 5 AI-driven game.
 - **Genesis AI** — robot cooking and piano playing systems (demonstrating embodied agents).
 - **Quilty** — AI platform for script development and assessment.
+- **Higgsfield Games** — create and deploy multiplayer games from a single prompt.
+- **NVIDIA ACE Game Agent SDK** — with new Unreal Engine 5 plugins, for building responsive, on-device AI companions.
+- **The Sandbox Studio** — from idea to live multiplayer game in hours.
+- **ClarityQ** — game-native AI analytics platform for mobile game studios.
+- **Welevel SolidRiver** — AI-based city-building survival game; $8.5M in funding.
+- **Krafton PUBG AI Ally** — beta AI teammate in the new PUBG arcade mode.
 
 ##### Marketing and advertising AI
 
@@ -4575,6 +4947,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Runway Ad Concepter App** — ad-concept and composition exploration.
 - **TikTok AI Agents for Ads** — TikTok ad-creation agents.
 - **Instagram Edits** — AI video generation for advertisers.
+- **ElevenLabs Ads Engine** — localise existing ads across 50+ languages and push the finished creatives back to the ad platform.
+- **WPP Hex** — WPP's studio putting "a different type of ad talent" — AI-native creatives — to the test.
 
 ##### Open-source ecosystem and infrastructure
 
@@ -4593,6 +4967,12 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Open Vision Agents** — toolkit for building agents that watch, listen and understand video.
 - **NotebookLM** — Google's research-and-content-generation surface; cinematic video overviews launched March 2026.
 - **OpenAI Gym / Gym Retro / ARC** — research benchmarks (referenced in the games-AI literature).
+- **Awesome Stable Audio** (Stability AI) — curated list of integrations and extensions for Stable Audio.
+- **Open Generative AI** — open-source alternative to the commercial AI video platforms.
+- **Roboflow RF-DETR / RF-DETR Keypoints** — real-time transformer architecture for object detection and instance segmentation; the Keypoints release (June 2026) added state-of-the-art tracking.
+- **Roboflow supervision** — the open-source computer-vision utility library; 40,000 GitHub stars, powering 6,500+ open-source CV projects.
+- **NVIDIA TAO Skill Bank** — portable agent skills for training, evaluating and running inference on NVIDIA TAO models.
+- **Open Source Face Recognition SDK** (Faceplugin) — open-source face-recognition toolkit.
 
 ##### ComfyUI ecosystem — nodes, extensions and workflows
 
@@ -4617,7 +4997,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Kling 3.0 ComfyUI node** — Kling 3.0 partner node.
 - **Kling Video 2.6 Motion Control** (ComfyUI) — Kling motion control inside ComfyUI.
 - **Kling Motion Control 3.0** (ComfyUI) — the v3 motion control variant.
-- **Seedance** (ComfyUI partner node) — Seedance inside ComfyUI.
+- **Seedance** (ComfyUI partner node) — Seedance inside ComfyUI; Seedance 2.0 Mini and 4K available from July 2026.
 - **LTX-2** (ComfyUI native support) — audio-video model natively supported.
 - **LTX-2 ComfyUI Audio-to-Video** — audio-driven video inside ComfyUI.
 - **ACE-Step 1.5** (ComfyUI) — full songs in under 10 seconds on <4 GB VRAM.
@@ -4641,6 +5021,13 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **VibeComfy** — agents that understand, build and run ComfyUI workflows with Claude.
 - **MooshieUI** — beginner-friendly ComfyUI desktop frontend.
 - **Creative Control Using ComfyUI on NVIDIA RTX** — NVIDIA's official ComfyUI/RTX tutorial series.
+- **Comfy MCP** — the official Model Context Protocol server, in public beta from July 2026; the first MCP built for production pipelines — agents build, edit and run workflows in plain language, with shareable, reproducible workflow URLs, running on Comfy Cloud with no local GPU required.
+- **Comfy Desktop** — one app for every Comfy; the desktop consolidation of the ecosystem.
+- **ComfyUI Utility Passes workflow** — generates production-ready VFX utility passes directly from footage.
+- **ComfyUI Face Swap workflow** — de-aging and face-replacement demo workflow.
+- **ComfyUI + Seedance 2.0 Storyboard workflow** — turn one idea into a complete storyboard, then animate it in Seedance 2.0 from a reference image.
+- **ComfyUI Three.js Motion Reference node** — custom node generating a 3D motion reference with Three.js.
+- **ComfyUI for VFX (ActionVFX) / Advanced ComfyUI (fxphd)** — the VFX-pipeline training layer: ActionVFX's tutorial collection and fxphd's *Generative Video Production for VFX* course.
 
 ##### LoRAs, fine-tuning and training
 
@@ -4660,6 +5047,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Gaussian Splats Repair LoRA** — Klein-9b LoRA for repairing 3D views and geometry.
 - **LTX 2.3 Colorizer (LoRA)** — black-and-white footage colorisation.
 - **Music Finetunes in ElevenCreative** — stylistically consistent vocal and instrument generation.
+- **LTX 2.3 Audio Reactive LoRA** (fal) — open-source LoRA built for music-driven video generation.
+- **LTX 2.3 LoRA Trainers** (fal) — train custom LTX 2.3 LoRAs across 23 trainer endpoints.
 
 ##### IP licensing, governance and behavioural-licence platforms
 
@@ -4673,17 +5062,21 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **ElevenLabs Heritage Voices / Iconic Marketplace (with CMG Worldwide and partners)** — heritage-voice licensing pipeline confined to a single text-to-speech Reader app, walled off from the general voice-cloning database; voices include Judy Garland, James Dean, Burt Reynolds, Laurence Olivier, the Stan Lee estate and Michael Caine.
 - **Meta Celebrity Chatbots (2023)** — the closed-static likeness-rental anti-pattern referenced for contrast in [Appendix L](A12_Deep_Dive_Programmable_Brand.md): high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community.
 - **Cannes AI Disclosure Standard** — industry-coordination labelling standard for production-side AI use; the inter-industry analogue of the per-platform governance layers above.
+- **Human Consent Registry** — identity-protection registry backed by Cate Blanchett, Steven Soderbergh and Nikki Hexum, framing protection from AI identity theft as "a human right."
 
 ##### Provenance, watermarking and detection
 
 - **C2PA** (Content Authenticity Initiative / Adobe-led) — cryptographic provenance metadata standard.
-- **SynthID / SynthID Verification** (Google DeepMind) — synthetic-content watermark; deployed across Veo, Lyria and Imagen; verifiable inside Gemini.
+- **SynthID / SynthID Verification** (Google DeepMind) — synthetic-content watermark; deployed across Veo, Lyria and Imagen; verifiable inside Gemini; from June 2026, ElevenLabs-generated audio is detectable via SynthID under a DeepMind partnership.
 - **YouTube AI Detection / YouTube AI Deepfake Detection** — automated AI-content detection; *Tiny Grandma* false-positive case study.
-- **Deezer AI Music Detection** — identifies up to 75,000 fully AI-generated uploads per day.
+- **Deezer AI Music Detection** — identifies up to 75,000 fully AI-generated uploads per day; from June 2026, offered as a detector to *other* streaming services — the in-house tool becoming licensable infrastructure.
 - **Spotify AI Transparency Beta** — voluntary disclosure feature.
 - **Beeble** — detection and watermarking tools.
 - **Cloudflare AI Bot Classification** — public-web infrastructure tracking AI crawlers.
 - **Human Provenance AI Disclosure Standard (Cannes)** — industry-coordination labelling standard.
+- **RTM Audio UAI** — AI-music detector that issues a signed certificate with every verdict.
+- **Played By Humans** — verification badge for "human artistry in an AI age."
+- **Midnight Labs** — AI copyright-protection firm; Sony made a multi-million-dollar investment in June 2026.
 
 ##### Consumer surfaces and distribution platforms
 
@@ -4707,6 +5100,7 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Netflix** — AI in production (de-aging, plates, retention engine, Ben Affleck studio acquisition).
 - **Disney+** — user-generated AI content features.
 - **Luna** (Amazon) — AI-powered Snoop Dogg game.
+- **Meta AI Creator Assistant** — AI creator assistant on Facebook, followed by an AI companion app for creators (June 2026).
 
 ##### Studios, programmes, festivals and institutional infrastructure
 
@@ -4733,6 +5127,8 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Anthropic Joins Blender Development Fund** — patronage deal, May 2026.
 - **Sony AI ICASSP papers** — music-understanding and generative-audio research, April 2026.
 - **Google Flow Music + Believe Partnership** — AI music distribution partnership.
+- **Google Flow Resident Filmmaker Programme** — six-week Google Flow residency recruiting "the next wave of creatives across all mediums" (July 2026).
+- **VERSA Lab** (VERSA Studios) — future-format development platform for film and broadcast.
 
 ##### Techniques, methods and recurring workflows
 
@@ -4749,11 +5145,11 @@ The list runs to roughly six hundred entries. Skim it. Use the categories. Come 
 - **Camera Control / Multi-Angle Generation** — WAN Camera Control, ShotVerse, ATI, Multiple Angle Camera Control Node.
 - **Style Transfer (the ComfyUI handbook)** — the canonical workflow ladder for style transfer.
 - **Audio-Reactive Generation** — Audio Reactive Node Pack and the Lalal-API / ACE-Step pipelines.
-- **Real-Time Generation Pipelines** — Krea Realtime, MotionStream, Decart Lucy 2.0, Xmax X1, Phoenix-4, LTX-2.3 Real-Time on Scope; the *interactive-generation* category that emerged in Q1 2026.
+- **Real-Time Generation Pipelines** — Krea Realtime, MotionStream, Decart Lucy 2.0 and Mirage, Xmax X1, Phoenix-4, LTX-2.3 Real-Time on Scope, NVIDIA SANA-Streaming, Magenta RealTime 2; the *interactive-generation* category that emerged in Q1 2026 and reached instruments and screens by the summer.
 - **Agentic Workflows / Multi-Agent Stacks** — Sony Game Studios (49 agents, 72 skills), Adobe CX Enterprise, OpenAI AgentKit, Heygen Video Agent, Claude Skills.
 - **Provenance-First Capture** — C2PA + SynthID + on-device detection in Premiere and YouTube as the emerging *standard* of provenance-aware production.
 - **Music Stem Separation as a primitive** — Lalal AI, StemDeck, BandLab — stem separation moving from end-product to upstream primitive.
-- **MCP (Model Context Protocol) as the connective tissue** — Unity MCP, Blender MCP, fal MCP; the protocol the agentic creative ecosystem is converging on.
+- **MCP (Model Context Protocol) as the connective tissue** — Unity MCP, Blender MCP, fal MCP, and — in the June–July 2026 wave — Comfy MCP, Unreal MCP, Magnific MCP, Higgsfield MCP and the Runway MCP inside ChatGPT; the protocol the agentic creative ecosystem converged on.
 - **Brief-First, Generate-Second** — the workflow practice the book argues for in Chapter 11 (and Chapter 16's *toolchain in layers* section below).
 
 This is the catalogue. By the time you read it, it will be incomplete — new tools have shipped, some on this list have been bought, renamed or killed. Treat it as a snapshot of one year of toolchain at the moment the toolchain became a stack rather than a list, and use it to orient yourself in whatever the state of play is when you pick the book up.
@@ -4785,6 +5181,8 @@ The transition is going to keep going. The tools will keep changing. The work th
 [^16thetools-1]: OpenAI, "Sora 2 is here," 30 September 2025. <https://openai.com/index/sora-2/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
 [^16thetools-2]: LinkedIn News aggregation: "Sora Tops 1 Million Downloads in 5 Days." <https://www.linkedin.com/news/story/sora-tops-1m-downloads-in-5-days-6684988/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
+
+[^16thetools-2a]: OpenAI's staged wind-down of Sora, announced 24 March 2026 — consumer app and website ending late April, developer API closing late September; peak revenue reportedly ~$540k per month against operating costs in the billions. Sources and the corrected Disney–OpenAI record are set out in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md), references 15–16.
 
 [^16thetools-3]: Google DeepMind, Veo 3.1 launch, mid-October 2025. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
 
@@ -4897,6 +5295,24 @@ The transition is going to keep going. The tools will keep changing. The work th
 [^16thetools-57]: *Video Games Chronicle*, "Epic Games Veteran Claims He's Building AI-Heavy 'Fully European' Game Engine." <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 [^16thetools-58]: PhotoGIMP — the open-source GIMP skin that mimics Photoshop. <https://github.com/Diolinux/PhotoGIMP>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+[^16thetools-59]: *The Decoder*, "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation." <https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/>. Dreamina Seedance 2.0 Mini: <https://dreamina.capcut.com/seedance/seedance-2-0-mini>. Seedance 2.0 Mini and 4K in ComfyUI: <https://blog.comfy.org/p/seedance-20-mini-and-4k-is-now-available>. *Dream Machine* Issues [34](../Dream%20Machine%20MD/34.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^16thetools-60]: Runway API Recipes: <https://runwayml.com/api>. Runway MCP in ChatGPT: <https://runwayml.com/mcp>. Runway Agent 2 ad localisation: <https://runwayml.com/news/introducing-agent-2>. *Dream Machine* Issues [34](../Dream%20Machine%20MD/34.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^16thetools-61]: Google Magenta RealTime 2: <https://magenta.withgoogle.com/magenta-realtime-2>. Daydream: <https://daydream.live/>. *MusicRadar* on Fender Studio Pro and Moises: <https://www.musicradar.com/music-tech/daws/ai-isnt-the-destination-making-music-is-fender-looks-forward-as-its-studio-pro-daw-integrates-moises-stem-separation-and-a-smart-studio-assistant>. *MusicTech* on the Maono PD500W: <https://musictech.com/news/gear/maono-pd500w/>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [35](../Dream%20Machine%20MD/35.md).
+
+[^16thetools-62]: Suno, "Introducing Spark." <https://suno.com/blog/introducing-spark>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^16thetools-63]: Comfy MCP public beta. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+[^16thetools-64]: Epic Games, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. Magnific MCP: <https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp>. Higgsfield MCP: <https://higgsfield.ai/mcp>. Runway MCP: <https://runwayml.com/mcp>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+[^16thetools-65]: Adobe, "Adobe unveils major expansion" — Creative Agent and AI Assistant in beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io. <https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^16thetools-66]: Epic Games, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+[^16thetools-67]: Radiance Fields, "Apple Maps Flyover is getting a Gaussian splatting upgrade." <https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
 
 
 # Chapter 17 — Five Years Inside the Dream Machine
@@ -5148,7 +5564,7 @@ Welcome to the Dream Machine.
 
 - **Total fetched and parsed articles**: 1,388.
 - **Total captured words across the corpus**: ~1,099,216 (~6,945,361 characters of post-extraction text).
-- **Source span**: 32 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 4 June 2026 (the quantitative tables in §A1–A6 below cover the analytic window of Issues 1–29; **Issue 30** (21 May 2026), **Issue 31** (1 June 2026), and **Issue 32** (4 June 2026) are documented in §A7 as post-cut supplemental data, and are incorporated narratively into the closing material across the body chapters).
+- **Source span**: 36 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 2 July 2026 (the quantitative tables in §A1–A6 below cover the analytic window of Issues 1–29; **Issue 30** (21 May 2026), **Issue 31** (1 June 2026), and **Issue 32** (4 June 2026) are documented in §A7 as post-cut supplemental data; **Issues 33–36** (9 June – 2 July 2026) and the World Cup deep dive (Appendix M) are documented in §A8. All are incorporated narratively into the closing material across the body chapters).
 - **Average articles per newsletter edition** (in this corpus): ~48.
 - **Capture rate** against the full curated URL set: **91.4%** (1,438 of 1,574 URLs returned readable content; the remainder hit bot-detection, 404s, or live-page connection issues).
 
@@ -5377,6 +5793,38 @@ The analytic corpus underlying §A1–A6 closes at *Dream Machine* Issue 29. **I
 
 **Reading note.** Issue 30's headline tool releases (Gemini Omni, Beeple Canvas, Sony Woosh, Mirelo SFX 1.6, Tencent Ardot, Odyssey Starchild-1 / Agora-1, NVIDIA SANA-WM, Apple Headsup, Stable Audio 3.0, PhotoGIMP, Tamber, ECABridge, Claude/ComfyUI) lift the cumulative tool count in §A5 by roughly **a dozen entries in a single week**. The May-2026 cadence is the highest single-week tool-release count in the period the book covers, and reads — in the context of the §A5 average of 7.5 new platforms per *month* — as a Google-I/O-week saturation point. Issue 31 settles back toward that prior cadence, with the focus shifting from raw tool releases to the *IP-and-licensing turn* (Spotify–UMG, Hasbro Sixth Wall, the Disney–OpenAI corrected record) and the *creator-attitudes* data from the Epidemic Sound report — the dataset that anchors the closing argument of [Chapter 13](13_Coordination_Collapse.md) and the *three Cs* framework in [Chapter 6](06_The_88_Percent.md). Issue 32 brings a further cluster of major model releases (NVIDIA Cosmos 3 — omnimodal world model, released 31 May 2026, rated best open-source T2I and I2V by Artificial Analysis) and infrastructure investments (Roblox acquires Morpheus AI for video world models; Tripo AI raises ~$200M for AI 3D and world model tech / Project Eden) alongside the policy and industry datapoints recorded in the table above. The Issue 32 financial headline — Suno's $5.4B valuation alongside active UMG and Sony litigation — is the cleanest single data point on the financial reality of the creative-AI market in mid-2026: the licensing fights and the capital markets are running in parallel, not sequentially.
 
+### A8. June–July 2026 supplemental: the Issue-33 to Issue-36 and World Cup datapoints
+
+**Issue 33** (9 June 2026), **Issue 34** (16 June 2026), **Issue 35** (23 June 2026) and **Issue 36** (2 July 2026) extend the post-cut record established in §A7, alongside the World Cup deep dive of 12 June 2026 (preserved as Appendix M). Issue 33 catches the **AFM v. UMG/Warner suit and the UK's AI Adoption Plan for the Creative Industries**; Issue 34 catches the **licensing-and-labour-market turn** (NMPA–Udio/Klay, Runway–Lionsgate equity, the PwC salary-premium finding, the Steam disclosure count) and the **World Cup Editor's Pick**; Issue 35 catches the **Unreal Engine AI/MCP announcements, the NO FAKES letter and the A24–Google deal**; Issue 36 catches the **ComfyUI/Comfy MCP inflection, the Adobe–Topaz acquisition and the games-volume data**. The numerical datapoints worth recording here in standalone form:
+
+| Datapoint | Value | Source |
+|---|---:|---|
+| Salary premium for AI skills across UK sectors (PwC) | 34% | UKTN / PwC, June 2026 |
+| Monthly AI spend per employee, top 1% of firms (Ramp AI Index) | $7,500 | Ramp, June 2026 |
+| Steam releases in one week carrying AI disclosures | 120 of 300+ | *PC Gamer*, June 2026 |
+| Mobile games released in six months (AI and vibe coding) | 181,000 | *Digital Trends*, July 2026 |
+| Signatures on SAG-AFTRA letter demanding the NO FAKES Act | 16,000+ | *Variety*, June 2026 |
+| NMPA–Udio/Klay licensing split for songs and recordings | 50/50 | *Complete Music Update*, June 2026 |
+| Lionsgate annual AI savings claimed (Michael Burns), alongside an equity stake in Runway | "tens and tens of millions" | *Deadline* / Runway, June 2026 |
+| Claimed animation cost reduction with AI (filmmakers) | 90% less | *Bloomberg*, June 2026 |
+| ComfyUI users | 4M+ | *Dream Machine* Issue 36 |
+| ComfyUI GitHub stars / community-built nodes | 89,000+ / 60,000+ | *Dream Machine* Issue 36 |
+| ComfyUI April 2026 round / valuation / total raised | $30M / $500M / $48M | *Dream Machine* Issue 36 |
+| Odyssey Series B (world models) | $310M | Odyssey, June 2026 |
+| Higgsfield revenue (eyeing a $5B funding round) | $500M | *TechTimes*, June 2026 |
+| General Intuition raise / valuation (gameplay-trained frontier models) | $320M / $2.3B | *GamesBeat* / *TechCrunch*, June 2026 |
+| World Cup players scanned for photoreal digital twins / scan duration | 1,248 / 1 second each | FIFA / Lenovo, June 2026 |
+| World Cup teams / matches / projected viewers | 48 / 104 / 6bn | FIFA / Lenovo, June 2026 |
+| Projected incremental global ad spend, Q2 2026, on the tournament (WARC) | $10.5bn | WARC, June 2026 |
+| FIFA Roblox presence: total visits / daily gameplay sessions | 1.1bn+ / 1.5M | Gamefam / Roblox, June 2026 |
+| Fake FIFA-related websites identified before kick-off | 4,300+ | Security researchers, June 2026 |
+| Host-city sponsorship investment in the year before the tournament | $725M | SponsorUnited / Goal.com, June 2026 |
+| Adidas "Backyard Legends" campaign (AI de-aging of three legends) | ~$1bn | Mission Media, June 2026 |
+| US programmatic ad spend, 2026 (machine-bought) | $203bn+ | Appendix M, June 2026 |
+| Streaming share of all US TV viewing | 47.5% | Appendix M, June 2026 |
+
+**Reading note.** Two clusters carry the weight here. The first is the **labour-and-licensing cluster**: PwC's 34% salary premium and Ramp's $7,500-per-employee-per-month top-percentile spend are the two cleanest signals that AI capability had become a priced labour-market asset by mid-2026, while the NMPA's 50/50 split with Udio and Klay — set against the AFM's simultaneous suit over the UMG and Warner deals — shows the licensing architecture and the labour resistance maturing in the same fortnight. The second is the **scale cluster**: 120 AI disclosures in a single week of Steam releases and 181,000 mobile games in six months are the games-industry version of the Deezer 44% figure in [Chapter 5](05_The_Slop_Ceiling.md) — volume without gatekeeping — while the World Cup rows record the largest live deployment of the full AI stack in entertainment history, the empirical anchor for the storyworld argument of [Chapter 8](08_Worlds_Not_Pictures.md). The ComfyUI rows (4M users, 60,000+ community nodes, a $500m valuation) close the arc that §A5's tool table opens: the open node-graph layer, not any single model, is where the professional market consolidated.
+
 
 ---
 
@@ -5571,6 +6019,11 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - Reuters, *"European lawmakers seek EU-wide minimum age to access AI chatbots."* <https://www.reuters.com/legal/litigation/european-lawmakers-seek-eu-wide-minimum-age-access-ai-chatbots-social-media-2025-11-26/>
 - *The Verge*, *"New York's new law forces advertisers to say when they're using AI avatars."* <https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor>
 - *Digital Music News*, *"Nearly 800 Creatives Sign Responsible AI Declaration — 'Stealing Our Work Is Not Innovation'."* <https://www.digitalmusicnews.com/2026/01/22/stealing-isnt-innovation/>
+- *Complete Music Update*, *"US musicians' union sues Universal and Warner over AI deals, claims breach of 'new use' clause in record industry's performer agreement."* <https://completemusicupdate.com/us-musicians-union-sues-universal-and-warner-over-ai-deals-claims-breach-of-new-use-clause-in-record-industrys-performer-agreement/>
+- *Complete Music Update*, *"NMPA unveils AI licensing deals with Udio and Klay with 50/50 split for songs and recordings."* <https://completemusicupdate.com/nmpa-unveils-ai-licensing-deals-with-udio-and-klay-with-50-50-split-for-songs-and-recordings/>
+- *Digital Music News*, *"Google Doubles Down on 'Fair Use' AI Training, Stressing That 'Outputs' Not 'Inputs' Are Where Enforcement Should Be Focusing."* <https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/>
+- *Digital Music News*, *"Federal Judge Vacates Order Sealing Udio's Training Data."* <https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/>
+- Variety, *"More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos."* <https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/>
 
 ### VI. Studio strategy
 
@@ -5602,6 +6055,11 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Cartoon Brew*, *"Former Disney Animator: Marvel layoffs point to a bigger AI shift."* <https://www.cartoonbrew.com/artist-rights/former-disney-animator-marvel-layoffs-ai-shift-260601.html>
 - *Hollywood Reporter*, *"Bobby Berk: AI will make reality TV and 'verifiably human content' more valuable."* <https://www.hollywoodreporter.com/tv/tv-news/bobby-berk-ai-reality-tv-1236592920/>
 - *PC Gamer*, *"Take-Two's CEO: AI 'datasets by their very nature are backward looking'."* <https://www.pcgamer.com/games/take-two-ceo-ai-not-making-hits-backward-looking/>
+- Runway, *"Runway and Lionsgate Expand Partnership"* — Lionsgate takes an equity stake in Runway. <https://runwayml.com/news/runway-and-lionsgate-expand-partnership>
+- *Deadline*, *"Lionsgate's Michael Burns Says AI Will Save The Company 'Tens And Tens Of Millions Of Dollars A Year'."* <https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/>
+- *The Hollywood Reporter*, *"Google Investing in 'Backrooms' Studio A24."* <https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/>
+- *Futurism*, *"A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google."* <https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google>
+- *Bloomberg*, *"Animation's AI Reckoning: Filmmakers Say They Can Better Make Movies for 90% Less."* <https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less>
 
 ### VII. World models and the new medium
 
@@ -5679,6 +6137,10 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Amazon*, *"Alexa+ debuts feature to create AI-generated podcasts."* <https://www.aboutamazon.com/news/devices/alexa-plus-ai-podcasts>
 - ECABridge, *"Unreal Engine MCP integration."* <https://ecabridge.dev/>
 - *Video Games Chronicle*, *"Epic Games Veteran on AI-Heavy 'Fully European' Game Engine."* <https://www.videogameschronicle.com/news/epic-games-veteran-ai-heavy-fully-european-game-engine/>
+- Andrew Zhu (xhinker), *Medium*, *"The Rise of ComfyUI: How One Guy's Side Project Took Over AI Image Generation"* — 4M users, 89,000+ GitHub stars, 60,000+ community nodes, $500m valuation. <https://xhinker.medium.com/the-rise-of-comfyui-how-one-guys-side-project-took-over-ai-image-generation-558dca64bfd7>
+- Comfy Org, *"Comfy MCP"* — public-beta Model Context Protocol server for production creative pipelines. <https://comfy.org/mcp/>
+- Adobe, *"Adobe announces its intent to acquire Topaz Labs."* <https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs>
+- Unreal Engine, *"State of Unreal 2026: Top News From the Show"* — AI rendering integrations and Unreal MCP. <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>
 
 ### IX. Authenticity, provenance and disclosure
 
@@ -5698,6 +6160,7 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Bloomberg*, *"Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'."* <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>
 - Snap Newsroom, *"Snapchat Gen Z AI Creativity Research 2026 — 31% of 13–15 year-olds use AI to be creative."* <https://newsroom.snap.com/snapchat-gen-z-ai-creativity-research-2026>
 - YouGov AU, *"45% of Australians say AI-generated ads would make them trust a brand less."* <https://yougov.com.au/topics/consumer/articles-reports/2026/05/19/45-percent-australians-ai-generated-ads-trust-brand-less>
+- *Variety*, *"Cate Blanchett, Steven Soderbergh, Nikki Hexum on How the Human Consent Registry Helps People Protect Their Identity From AI Theft: It's a 'Human Right'."* <https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/>
 
 ### X. Labour, organisation and the new geography
 
@@ -5715,6 +6178,9 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - CNBC Africa, *"How AI is changing the landscape of the music industry in Africa."* <https://www.cnbcafrica.com/2025/how-ai-is-changing-the-landscape-of-the-music-industry-in-africa>
 - BBC Future, *"Lights, camera, algorithm: Why Indian cinema is awash with AI."* <https://www.bbc.co.uk/future/article/20251223-why-indian-cinema-is-awash-with-ai>
 - *Broadcast Pro Middle East*, *"Tunisian filmmaker wins $1 million AI Film Award for 'Lily'."* <https://www.broadcastprome.com/news/tunisian-filmmaker-wins-1-million-ai-film-award-for-lily/>
+- UKTN, *"AI hiring surges 'across all UK sectors', according to new findings from PwC, with a 34% salary premium for AI skills."* <https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615>
+- *The Hollywood Reporter*, *"Hollywood Workers Are Training AI Models as Job Prospects Grow Slim."* <https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/>
+- Ramp, *"Ramp AI Index, June 2026"* — top 1% of firms now spend $7,500 per employee per month on AI. <https://ramp.com/data/ai-index-june-2026>
 
 ### XI. The literacy turn — institutions and education
 
@@ -5723,10 +6189,26 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - McKinsey & Company, *"What AI could mean for film and TV production."* <https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future>
 - UK Government, *"Free AI training for all."* <https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030>
 - University of Wisconsin-Stout, *"AI Reshaping Industry: AI-use as Baseline Competency in Filmmaking."* <https://www.uwstout.edu/about-us/news-center/ai-reshaping-industry-new-uw-stout-course-sets-ai-use-baseline-competency-filmmaking>
+- UK Government (DSIT/DCMS), *"AI Adoption Plan: Creative Industries."* <https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries>
+
+### XI.a Live sport and the World Cup deployment
+
+*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the primary sources behind Appendix M and the Issue 34 Editor's Pick.*
+
+- FIFA Football Technology, *"FIFA and Lenovo unveil multiple AI-powered innovations ahead of FIFA World Cup 2026™"* — one-second player scans, semi-automated offside, Football AI Pro, AI-generated personalised highlights. <https://football-technology.fifa.com/organisation/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026>
+- *AI Magazine*, *"How AI Will Power the 2026 FIFA World Cup."* <https://aimagazine.com/news/how-ai-will-power-the-2026-fifa-world-cup>
+- Lenovo StoryHub, *"Lenovo Technology Powers FIFA World Cup 2026™ Operations and Strengthens AI-Driven Broadcast."* <https://news.lenovo.com/pressroom/press-releases/lenovo-technology-powers-fifa-world-cup-2026-operations-and-strengthens-ai-driven-broadcast/>
+- *GamesBeat*, *"FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer and Roblox"* — 1.1bn+ visits, 1.5M gameplay sessions a day. <https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/>
+- Social Media Today, *"TikTok introduces 2026 FIFA World Cup creator correspondents."* <https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/>
+- Global Brands Magazine, *"FIFA World Cup 2026: Inside the Biggest Brand Marketing Race"* — WARC's projected $10.5bn in incremental Q2 ad spend. <https://www.globalbrandsmagazine.com/fifa-world-cup-2026-marketing/>
+- Mercia AI, *"How AI Will Shape the 2026 World Cup"* — the fan-made content flood; 4,300+ fake FIFA websites before kick-off. <https://www.merciaai.com/post/how-ai-will-shape-the-2026-world-cup>
+- Google DeepMind, *"TacticAI — AI system simulating field scenarios and predicting open play up to 8 seconds in advance."* <https://x.com/GoogleDeepMind/status/2065093482088169719>
+- IBM / Red Hat, *"Serving faster innovation: how open source is supporting AI-powered fan experiences at Wimbledon."* <https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon>
+- SportsLawHub, *"Athlete Image Rights in the AI era: protection and legal challenges"* — biometric digital twins and "synthetic rights" clauses. <https://www.sportslawhub.com/athlete-image-rights-ai-deepfakes>
 
 ### XII. Newsletters and primary corpus
 
-- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–32 (6 October 2025 – 4 June 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
+- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–36 (6 October 2025 – 2 July 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
 - DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>
 - DreamLab Substack, "Some Predictions on Creative AI for 2026" — *Dream Machine* Issue 13 companion piece. <https://substack.com/home/post/p-183997149>
 
@@ -9410,9 +9892,9 @@ Every Industry - Jobbers, accessed on December 22, 2025,
 
 # Appendix H — The Dream Machine Source Index
 
-*A thematic catalogue of significant sources surfaced across the 32 issues of* Dream Machine *(October 2025 – June 2026).*
+*A thematic catalogue of significant sources surfaced across the 36 issues of* Dream Machine *(October 2025 – July 2026).*
 
-This index is a navigational tool, not an exhaustive list. The full *Dream Machine* archive contains nearly three thousand individual hyperlinks across its thirty-two issues, the great majority of which are primary-source links to industry coverage, research reports, official announcements, court filings, technical demos, creator showcases, and platform releases.
+This index is a navigational tool, not an exhaustive list. The full *Dream Machine* archive contains more than three thousand individual hyperlinks across its thirty-six issues, the great majority of which are primary-source links to industry coverage, research reports, official announcements, court filings, technical demos, creator showcases, and platform releases.
 
 What follows below is the thematic catalogue of the *significant* sources — the ones the book itself draws on, the ones a working creative or researcher tracking a specific topic would want as a starting point, and the ones that, taken together, define the public record of creative AI as it stood in the period this book covers. Within each theme, entries are organised chronologically by issue number. The format is:
 
@@ -9453,6 +9935,10 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 31]` **Alibaba WonderClip** — all-in-one AI video creation platform — June 2026
 - `[Issue 31]` **Sony Vid-CamEdit** — post-capture camera trajectory editing keeping scenes spatially coherent across viewpoint changes — June 2026
 - `[Issue 31]` **Nvidia PiD (Pixel Diffusion Decoder)** — new image/video decoder — June 2026
+- `[Issue 33]` **Video AI Wars: How Chinese Labs Are Winning The Race OpenAI Abandoned** — Forbes on the post-Sora competitive landscape — https://www.forbes.com/sites/edithyeung/2026/06/05/video-ai-wars-how-chinese-labs-are-winning-the-race-openai-abandoned/
+- `[Issue 35]` **Seedance 2.5 announced** — ByteDance breaks the 30-second barrier for AI video generation — https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/
+- `[Issue 36]` **Gemini Omni Flash** — generate and edit high-quality video via the Gemini API, AI Studio and ComfyUI — https://ai.google.dev/gemini-api/docs/omni
+- `[Issue 36]` **Krea 2 open weights** — open-source release with separate inference and training models — https://www.krea.ai/krea-2-open-source
 
 ### 2. AI Image — Models and Tools
 
@@ -9510,6 +9996,13 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 31]` **Tonada (Sweden)** — AI music for retailers; B2B-aligned synthetic background music — June 2026
 - `[Issue 31]` **Spotify NotebookLM-style Personalised Audio app** — competing with Google's NotebookLM podcasts — June 2026
 - `[Issue 31]` **Musician uses AI as Parkinson's affects ability to play guitar** — accessibility case for AI in music creation — June 2026
+- `[Issue 33]` **Google Magenta RealTime 2 (MRT2)** — the live music model you can play as an instrument — https://magenta.withgoogle.com/magenta-realtime-2
+- `[Issue 33]` **Fender Studio Pro DAW** — Moises stem separation and a smart studio assistant; "AI isn't the destination. Making music is" — https://www.musicradar.com/music-tech/daws/ai-isnt-the-destination-making-music-is-fender-looks-forward-as-its-studio-pro-daw-integrates-moises-stem-separation-and-a-smart-studio-assistant
+- `[Issue 35]` **Boy George re-records 'Karma Chameleon' via startup Artist** — AI-assisted vocal technology for re-recording classic tracks — https://www.musicbusinessworldwide.com/boy-george-uses-ai-to-re-record-karma-chameleon-as-first-release-from-tech-startup-artist-included/
+- `[Issue 35]` **Sony AI Woosh** — foundation model for sound effect generation — https://gamesbeat.com/sony-ai-releases-woosh-foundation-model-for-sound-effect-generation-exclusive-interview/
+- `[Issue 36]` **Google Lyria 3** — Gemini's new AI music model — https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/
+- `[Issue 36]` **Suno Spark incubator** — programme to support the next generation of creators — https://suno.com/blog/introducing-spark
+- `[Issue 36]` **Tidal allows AI-generated music — without royalties** — platform-policy split between hosting and monetisation — https://musically.com/2026/06/30/tidal-allows-ai-generated-music-but-it-wont-earn-royalties/
 
 ### 4. AI 3D / World Models / Spatial
 
@@ -9535,6 +10028,8 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 27]` **Vista4D** (Netflix + Eyeline) — live action to navigable 4D point clouds
 - `[Issue 31]` **TripoAI Project Eden** — persistent multiplayer world model decoupling world state from visual rendering — June 2026
 - `[Issue 31]` **AI-Enhanced LiDAR** — generative-AI-augmented LiDAR capture pipeline — June 2026
+- `[Issue 33]` **Gaussian splatting comes to Apple Maps** — WWDC Flyover upgrade; splats reach planetary-scale consumer mapping — https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade
+- `[Issue 35]` **Odyssey $310M Series B** — funding to accelerate world models — https://odyssey.ml/our-series-b
 
 ### 5. Voice, Avatars, Digital Humans
 
@@ -9556,6 +10051,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **Tilly Norwood Doubles Down** — AI as "more ethical" performance, urging actors to create avatars — https://variety.com/2026/digital/news/tilly-norwood-creator-tells-actors-to-create-ai-avatars-1236638940/
 - `[Issue 23]` **Death threats against Eline Van der Velden** — cultural-extreme response
 - `[Issue 31]` **Ozzy Osbourne AI avatar** — estate-led posthumous "live on as an AI avatar that talks with fans" — June 2026
+- `[Issue 33]` **New York Times roasted for "profiling" Tilly Northwood** — the AI-actress story crosses into media self-parody — https://futurism.com/artificial-intelligence/new-york-times-roasted-profiling-ai-actress
+- `[Issue 34]` **ElevenLabs Avatars** — "the best AI voices, now with a face" in ElevenCreative — https://elevenlabs.io/blog/introducing-avatars
+- `[Issue 36]` **Netflix to recreate Gene Wilder's voice with AI** — posthumous voice cloning for a Willy Wonka reality series — https://www.nbcnews.com/pop-culture/pop-culture-news/gene-wilder-ai-voice-netflix-willy-wonka-competiton-show-rcna352440
 
 ### 6. Agent Platforms / Orchestration
 
@@ -9575,6 +10073,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 21]` **Adobe + NVIDIA Strategic Partnership** — agentic creative intelligence
 - `[Issue 26]` **Adobe Summit 2026** — "agentic creative intelligence" headline category
 - `[Issue 29]` **Sony 49-Claude-agent / 72-skill stack** — game-dev multi-agent team
+- `[Issue 34]` **Runway in ChatGPT** — generate and edit video and images inside ChatGPT via MCP — https://runwayml.com/mcp
+- `[Issue 35]` **NVIDIA ACE Game Agent SDK** — on-device AI companions with Unreal Engine 5 plugins — https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/
+- `[Issue 36]` **Comfy MCP public beta** — "turn your agent into a creative technologist"; the first MCP server built for production creative pipelines — https://comfy.org/mcp/
 
 ### 7. Adobe and Creative Software
 
@@ -9595,6 +10096,11 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 15]` **Adobe at Sundance 2026** — $10M grants, Ignite Day — https://analyticsindiamag.com/ai-news-updates/adobe-unveils-ai-video-innovations-10-million-grants-ahead-of-sundance-film-festival/
 - `[Issue 16]` **Adobe Premiere Object Mask** — automated masking — https://www.linkedin.com/posts/robdewinter_ok-this-is-going-to-save-a-lot-of-time-in-ugcPost-7421617551690063872-yKmB
 - `[Issue 28]` **Unity AI Open Beta** — in-editor full AI suite
+- `[Issue 33]` **Higgsfield Plugin for DaVinci Resolve** — generate footage in the timeline, draw-to-edit, AI-generated LUTs — https://higgsfield.ai/plugins/davinci
+- `[Issue 35]` **State of Unreal 2026: Unreal MCP and AI integrations** — Epic embeds LLM-powered tools and video models into engine workflows — https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show
+- `[Issue 35]` **Adobe Creative Agent and AI Assistant in beta** — across Premiere, Photoshop, Illustrator, InDesign and Frame.io — https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion
+- `[Issue 35]` **Disney Imagineers adopt Adobe Firefly Foundry** — custom models as worldbuilding toolkit — https://business.adobe.com/blog/disney-imagineers-add-adobe-firefly-foundry-to-toolkit
+- `[Issue 36]` **Adobe to acquire Topaz Labs** — the AI upscaling/enhancement specialist folded into Creative Cloud — https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs
 
 ### 8. Games Industry — Adoption
 
@@ -9619,6 +10125,13 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 13]` **Razer $600M AI focus** — strategic investment — https://www.pymnts.com/news/artificial-intelligence/2026/razer-spends-600-million-dollars-sharpen-focus-ai-gaming/
 - `[Issue 15]` **Ubisoft cancels Prince of Persia + four** — AI refocus — https://metro.co.uk/2026/01/21/prince-persia-remake-five-games-cancelled-ubisoft-focuses-ai-26431926/
 - `[Issue 29]` **Sony all-in on AI for games** — 49-agent / 72-skill stack
+- `[Issue 33]` **The Sandbox Studio** — from idea to live multiplayer game in hours — https://www.youtube.com/watch?v=IdTVDRvQoWM
+- `[Issue 33]` **Amazon's new plan for games** — James Bond and an AI Snoop Dogg on Luna — https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna
+- `[Issue 33]` **Sega confirms generative AI content in new Crazy Taxi game** — https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game
+- `[Issue 34]` **120 of 300+ Steam releases in one week carried AI disclosures** — the disclosure regime meets the volume wave — https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/
+- `[Issue 35]` **Epic Games details how it's embracing generative AI in Unreal Engine** — https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/
+- `[Issue 36]` **EA: AI delivering "faster prototyping" and a "real rise in creativity"** — https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/
+- `[Issue 36]` **Epic CEO criticises Valve's AI disclosure policy for Steam** — access to AI tools framed as survival issue for smaller studios — https://80.lv/articles/epic-ceo-criticizes-valve-s-ai-disclosure-policy-for-steam
 
 ### 9. Games Industry — Refusal / Position
 
@@ -9630,6 +10143,8 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 14]` **Games Workshop rules out gen AI** — Warhammer 40K — https://decrypt.co/354482/warhammer-40000-maker-games-workshop-rules-out-generative-ai
 - `[Issue 14]` **Hooded Horse won't work with AI devs** — Manor Lords publisher — https://nichegamer.com/manor-lords-publisher-hooded-horse-wont-work-with-devs-using-gen-ai/
 - `[Issue 16]` **Jagex never AI** — RuneScape commitment — https://www.gamesindustry.biz/runescape-maker-jagex-says-it-will-never-use-generative-ai-to-make-in-game-content
+- `[Issue 35]` **CD Projekt boss warns games made solely by gen AI are already being made** — https://metro.co.uk/2026/06/22/cd-projekt-boss-warns-games-made-solely-gen-ai-already-made-28878296/
+- `[Issue 36]` **Godot will no longer accept AI-authored code contributions** — "we can't trust heavy users of AI to understand their code enough to fix it" — https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
 
 ### 10. Film Industry — Studios and Positions
 
@@ -9657,6 +10172,15 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **Andrii Daniels bomb-shelter Christmas clip** — viral Ukrainian AI film — https://variety.com/2026/digital/news/ai-video-deadpool-harry-potter-andrii-daniels-1236624632/
 - `[Issue 16]` **Tilly Norwood Doubles Down** — Variety — https://variety.com/2026/digital/news/tilly-norwood-creator-tells-actors-to-create-ai-avatars-1236638940/
 - `[Issue 16]` **Chris Pratt rejects AI villain** — Mercy pitch — https://variety.com/2026/film/news/chris-pratt-ai-actor-villain-mercy-amazon-mgm-1236640460/
+- `[Issue 33]` **Lionsgate's Michael Burns: AI will save "tens and tens of millions of dollars a year"** — https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/
+- `[Issue 33]` **Can AI tell if your script will make a hit film?** — Quilty's AI script analysis — https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood
+- `[Issue 34]` **Runway and Lionsgate expand partnership** — Lionsgate takes an equity stake in Runway — https://runwayml.com/news/runway-and-lionsgate-expand-partnership
+- `[Issue 34]` **Utopai Studios to co-produce 'Half Moon'** — AI firm co-producing a Silver Bear-winning filmmaker's feature — https://deadline.com/2026/06/utopai-studios-hyo-joo-yang-half-moon-ai-1236952730/
+- `[Issue 34]` **Asteria and LTX form strategic partnership** — advancing cinematic AI storytelling — https://deadline.com/2026/06/asteria-ltx-form-strategic-partnership-cinematic-ai-1236955140/
+- `[Issue 35]` **Google investing in 'Backrooms' studio A24** — DeepMind AI venture with the prestige indie — https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/
+- `[Issue 35]` **Fully AI-generated series 'Journey to the West'** — Utopai Studios and Huace development deal — https://variety.com/2026/tv/news/fully-ai-generated-journey-to-the-west-utopai-studios-huace-1236787171/
+- `[Issue 36]` **A24 full-on fan crisis after Google AI deal** — the authenticity brand meets the AI partnership — https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google
+- `[Issue 36]` **Animation's AI reckoning: movies for 90% less** — Bloomberg on filmmakers' cost claims — https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less
 
 ### 11. Celebrity / Director Positions on AI
 
@@ -9674,6 +10198,13 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 14]` **Wu-Tang Clan RZA** — case for AI in film/music — https://www.vice.com/en/article/wu-tang-clans-rza-makes-the-case-for-ai-in-film-and-music-an-amazing-thing-for-us/
 - `[Issue 15]` **Matthew McConaughey protects voice/image** — Lawyer Monthly — https://www.lawyer-monthly.com/2026/01/matthew-mcconaughey-protects-voice-image-ai/
 - `[Issue 15]` **Mara Wilson deepfake apocalypse fear** — Deadline — https://deadline.com/2026/01/matilda-mara-wilson-stranger-things-ai-deepfake-apocalypse-1236689474/
+- `[Issue 34]` **Ron Howard bullish on AI** — "Jim Henson would have been too" — https://www.hollywoodreporter.com/business/digital/ron-howard-ai-jim-henson-martin-scorsese-1236620457/
+- `[Issue 34]` **Gore Verbinski calls for an AI 'rating system' in films** — "If you use AI to write a script, you get an F" — https://variety.com/2026/film/global/gore-verbinski-ai-taormina-1236780502/
+- `[Issue 34]` **Emily Blunt refused Spielberg's offer to use AI for her alien voice** — https://www.aol.com/articles/emily-blunt-refused-steven-spielbergs-163209822.html
+- `[Issue 34]` **Lionel Richie trademarks the sound of his voice** — 'Hello, Is It Me You're Looking For?' — https://www.billboard.com/pro/lionel-richie-is-trademarking-the-sound-of-his-voice/
+- `[Issue 35]` **SZA hits out at 'disgusting' AI music** — after discovering her songs in training data — https://www.euronews.com/culture/2026/06/22/sza-hits-out-at-disgusting-ai-music-after-discovering-her-songs-were-used-in-ai-training
+- `[Issue 36]` **Backstreet Boys trademark their voices against deepfakes** — joining Taylor Swift and Lionel Richie — https://www.digitalmusicnews.com/2026/06/26/backstreet-boys-trademark/
+- `[Issue 36]` **Madonna: AI is 'the complete opposite of making art'** — https://www.digitalmusicnews.com/2026/06/28/madonna-ai-algorithm-commentary/
 
 ### 12. Music Industry — Labels, Deals, and Lawsuits
 
@@ -9698,6 +10229,12 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Deep Dive №14 — 4 Jun 2026]` **ElevenLabs heritage voices (with CMG Worldwide)** — Judy Garland, James Dean, Burt Reynolds, Laurence Olivier; Iconic Marketplace expansion to Stan Lee estate and Michael Caine — <https://www.cbsnews.com/news/ai-voices-dead-celebrities-judy-garland-james-dean-burt-reynolds/>
 - `[Deep Dive №14 — 4 Jun 2026]` **Meta celebrity chatbot anti-pattern (2023)** — Snoop Dogg, Kendall Jenner, MrBeast and others reportedly paid up to ~$5m each for closed, platform-controlled personas — <https://english.elpais.com/technology/2023-11-13/from-paris-hilton-to-snoop-dogg-meta-to-launch-speaking-ai-chatbots-played-by-celebrities.html>
 - `[Deep Dive №14 — 4 Jun 2026]` **Suno + Amazon Alexa+ integration** — *create-to-consume* demand floor; on-the-fly personalised songs via voice request — <https://www.billboard.com/pro/amazon-partners-ai-music-company-suno-alexa/>
+- `[Issue 33]` **US musicians' union (AFM) sues Universal and Warner over AI deals** — claimed breach of the 'new use' clause in the industry's performer agreement — https://completemusicupdate.com/us-musicians-union-sues-universal-and-warner-over-ai-deals-claims-breach-of-new-use-clause-in-record-industrys-performer-agreement/
+- `[Issue 33]` **Federal judge vacates order sealing Udio's training data** — the ingestion numbers move towards the public record — https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/
+- `[Issue 34]` **NMPA unveils AI licensing deals with Udio and Klay** — 50/50 split for songs and recordings — https://completemusicupdate.com/nmpa-unveils-ai-licensing-deals-with-udio-and-klay-with-50-50-split-for-songs-and-recordings/
+- `[Issue 34]` **Google moves to dismiss artists' AI lawsuit** — argues artists consented "to the use of their recordings" when uploading to YouTube — https://www.digitalmusicnews.com/2026/06/10/youtube-ai-lawsuit-dismissal-motion/
+- `[Issue 35]` **Open letter: musicians 'must not be pressured into AI deals' by rightsholders** — https://musically.com/2026/06/22/open-letter-musicians-must-not-be-pressured-into-ai-deals-by-rightsholders/
+- `[Issue 36]` **YouTube's AI training argument alarms indie music advocates** — 'not informed consent' — https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/
 
 ### 13. Copyright, Policy and Regulation
 
@@ -9710,6 +10247,11 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 28]` **Academy "You must be human to win" rule** — 2026 awards
 - `[Issue 29]` **Cannes AI Disclosure Standard** — industry coordination
 - `[Issue 32]` **Lisa Nandy: Government "got it wrong" on AI and creative copyright** — Culture Secretary's admission at SXSW London (1 June 2026) that the opt-out model was a mistake; no decisions on next steps — https://www.screendaily.com/news/we-got-it-wrong-says-uk-culture-secretary-lisa-nandy-of-government-misstep-on-ai-and-copyright-strategy/5217330.article
+- `[Issue 33]` **UK publishes AI Adoption Plan for the Creative Industries** — the policy follow-through on the Nandy admission — https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries
+- `[Issue 33]` **DSIT launches £1.1 billion AI Hardware Plan for the UK** — chips, computing power and skills — https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution
+- `[Issue 33]` **Google forced to allow news sites to opt out of AI scraping** — UK watchdog's 'world first' — https://fortune.com/2026/06/05/auto-draft-3/
+- `[Issue 34]` **UK regulator introduces "world first" controls on content use in Google generative AI features** — https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai
+- `[Issue 36]` **Google doubles down on 'fair use' AI training** — enforcement should focus on 'outputs', not 'inputs' — https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/
 
 ### 14. Unions and Labour
 
@@ -9719,6 +10261,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 11]` **NY AI Advertising Disclosure Law / SAG-AFTRA quote** — *op. cit.*
 - `[Issue 15]` **Equity welcomes improved offer** — film/TV AI protections — https://www.equity.org.uk/news/2026/equity-welcomes-improved-offer-in-ai-protection-negotiations-in-film-and-tv
 - `[Issue 26 / 29]` **SAG-AFTRA "Tilly Tax" contract provisions** — final spring 2026 contract
+- `[Issue 35]` **More than 16,000 sign SAG-AFTRA letter demanding the NO FAKES Act** — congressional pressure on unauthorised AI images and videos — https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/
+- `[Issue 35]` **The real battle is over likeness and who gets paid** — Hollywood's AI economics beneath the tooling debate — https://www.staradvertiser.com/2026/06/20/breaking-news/as-hollywood-leans-into-ai-the-real-battle-is-over-likeness-and-who-gets-paid/
+- `[Issue 36]` **Nearly 1,000 sign open letter over child actors' AI voice clauses** — the Peppa Pig contract backlash — https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/
 
 ### 15. Audience Response and Slop Ceiling
 
@@ -9736,6 +10281,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 31]` **Apple Music: AI <1% of plays** — clean platform-level confirmation — June 2026
 - `[Issue 31]` **Daniel Ek defends AI music: "better than slop"** — Spotify CEO framing — June 2026
 - `[Issue 31]` **Epidemic Sound *Future of the Creator Economy Report 2026*** — 94% of creators use AI; 89% feel pressure to use AI; 75% believe human-created content will become premium; survey of 3,000 professional creators — June 2026
+- `[Issue 33]` **'Say No To Suno' protesters at Santa Monica AI conference** — organised anti-AI-music protest reaches the industry circuit — https://www.digitalmusicnews.com/2026/06/04/say-no-to-suno-santa-monica-plane/
+- `[Issue 35]` **Faceless creators take a hit as YouTube cracks down on AI slop** — https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/
+- `[Issue 36]` **181,000 mobile games released in six months** — AI and vibe coding flood the market, "but not necessarily better ones" — https://www.digitaltrends.com/gaming/ai-and-vibe-coding-are-making-more-games-but-not-necessarily-better-ones/
 
 ### 16. Provenance, Watermarking, Detection
 
@@ -9749,6 +10297,15 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 31]` **YouTube auto-labels AI videos** — platform-default disclosure regime — June 2026
 - `[Issue 31]` **LinkedIn limits reach of AI-generated content** — distribution-side enforcement — June 2026
 - `[Issue 31]` **TikTok AI moderation false positives** — wrongly punished independent filmmakers — June 2026
+- `[Issue 33]` **Sony invests in AI copyright-protection firm Midnight Labs** — https://variety.com/2026/biz/news/ip-ai-firm-midnight-labs-sony-million-dollar-investment-1236766931/
+- `[Issue 34]` **Deezer launches an AI music detector for other streaming services** — detection as an exportable product — https://www.engadget.com/2192024/deezer-ai-music-detector/
+- `[Issue 34]` **Warner Music Group acquires AI detection company Sureel** — https://www.hollywoodreporter.com/music/music-industry-news/warner-music-group-buys-ai-detection-company-sureel-1236618266/
+- `[Issue 34]` **Played By Humans** — verifying 'human artistry in an AI age' — https://musically.com/2026/06/11/played-by-humans-is-verifying-human-artistry-in-an-ai-age/
+- `[Issue 35]` **RTM Audio launches AI music detector UAI** — a signed certificate with every verdict — https://www.musicbusinessworldwide.com/tech-startup-rtm-audio-launches-ai-music-detector-uai-which-issues-a-signed-certificate-with-every-verdict/
+- `[Issue 35]` **Artists can now check whether their music trained AI** — The Atlantic's dataset lookup — https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news
+- `[Issue 36]` **ElevenLabs partners with Google DeepMind on SynthID** — detecting ElevenLabs-generated audio — https://elevenlabs.io/blog/synthid
+- `[Issue 36]` **Human Consent Registry** — Cate Blanchett, Steven Soderbergh and Nikki Hexum on identity protection from AI theft as a 'human right' — https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/
+- `[Issue 36]` **Traxsource to label human-made and AI-assisted music** — https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/
 
 ### 17. Workplace AI Adoption / Shadow AI / Workforce Research
 
@@ -9775,6 +10332,10 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 31]` **Coordination Collapse research report (O'Hare / DreamLab AI Consulting)** — April 2026; preserved as Appendix K
 - `[Issue 31]` **The Process Trap** — generative abundance and the equivocation of the creative; preserved as Appendix J
 - `[Issue 31]` **The Doomer Mistake** — empirical rebuttal of the AI-driven civilizational-collapse case; preserved as Appendix I
+- `[Issue 34]` **PwC: AI hiring surges across all UK sectors** — 34% salary premium for AI skills — https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615
+- `[Issue 34]` **Ramp AI Index** — top 1% of firms now spend $7,500 per employee per month on AI — https://ramp.com/data/ai-index-june-2026
+- `[Issue 36]` **Hollywood workers are training AI models as job prospects grow slim** — https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/
+- `[Issue 36]` **Top CFOs: AI success depends on training employees, not just buying technology** — https://fortune.com/2026/06/25/cfo-hpe-prologis-smucker-moodys-ai-success-training-employees/
 
 ### 18. Advertising and Brand AI
 
@@ -9792,6 +10353,11 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 15]` **Avocados from Mexico skip TV for AI** — Digiday — https://digiday.com/marketing/avocados-from-mexico-turns-to-ai-to-advertise-around-the-super-bowl-instead-of-a-tv-buy/
 - `[Issue 16]` **Higgsfield + Madonna AI video** — Adweek — https://www.adweek.com/media/higgsfield-ai-marketing-startup/
 - `[Issue 27]` **WPP + Google Earth AI consumer journey** — *Dream Machine* coverage
+- `[Issue 33]` **WPP tests a different type of ad talent with new studio Hex** — https://www.marketingdive.com/news/wpp-puts-different-type-of-ad-talent-to-the-test-with-new-studio-hex/822227/
+- `[Issue 34]` **AI disclosure labels have minimal effect on ad performance** — MediaScience / Adelaide University study on brand recall and sentiment — https://www.marketingdive.com/news/ai-disclosure-labels-dont-hurt-ad-performance-heres-what-the-numbers-say/822711/
+- `[Issue 35]` **OpenAI moves to automate ad creative** — https://digiday.com/marketing/openai-moves-to-automate-ad-creative/
+- `[Issue 35]` **Brands using AI-generated influencers to promote products** — https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media
+- `[Issue 36]` **TikTok launches Agentic Hub** — third-party AI ad tools integrated with the platform's MCP server — https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/
 
 ### 19. Festivals, Institutions, Awards
 
@@ -9806,6 +10372,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **Adobe Sundance Film Festival 2026** — https://blog.adobe.com/en/publish/2026/01/20/sundance-film-festival-2026-creativity-community-power-storytelling
 - `[Issue 28]` **Academy "human to win" rule** — *Dream Machine* coverage
 - `[Issue 29]` **Cannes AI Disclosure Standard launched** — *Dream Machine* coverage
+- `[Issue 33]` **Tribeca doc 'AI: Probably Nothing to Worry About'** — Nick Holt on AI's origins as "the creation of a sort of species" — https://variety.com/2026/film/festivals/tribeca-ai-documentary-nick-hold-director-probably-nothing-to-worry-about-1236767764/
+- `[Issue 35]` **Dataland — Museum of AI Art opens in Los Angeles** — Refik Anadol's institution-scale landmark — https://www.theartnewspaper.com/2026/06/18/refik-anadol-dataland-opens-los-angeles
+- `[Issue 35]` **Shanghai Film Festival embraces cinema's future** — from AI to iPhone moviemaking — https://www.hollywoodreporter.com/movies/movie-news/shanghai-film-festival-cinema-future-ai-iphone-1236626463/
 
 ### 20. Geographic / Regional AI Production
 
@@ -9827,6 +10396,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 32]` ***Dreams of Violets* world premiere at Tribeca** — first fully AI-generated feature accepted by a major festival; cost $2,000; directed by Ash Koosha (Fountain 0); uses Kling AI, Claude, Gemini — https://variety.com/2026/film/festivals/tribeca-festival-ai-film-dreams-of-violets-fountain-0-1236759724/
 - `[Issue 32]` **Amazon AI Creators Fund + Punky Duck instant cancellation** — AI animated series commissioned and killed within 48 hours after audience derision; Jorge Gutierrez dropped out — https://futurism.com/artificial-intelligence/amazon-ai-generated-series-canceled
 - `[Issue 32]` **NVIDIA Cosmos 3** — omnimodal world model; text, images, video, audio, actions; best open-source T2I and I2V per Artificial Analysis — https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai
+- `[Issue 35]` **South Korea's movie industry is embracing AI** — will K-film lose its magic? — https://www.cnn.com/world/south-korea-film-industry-ai-hnk-spc
+- `[Issue 35]` **MiniMax launches all-in-one AI video hub at Shanghai Film Festival** — 'creative direction and aesthetic judgment must ultimately be left to humans' — https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/
+- `[Issue 36]` **Savvy Games Group expands AI access for Saudi developers** — partnership with Genvid and Massive Studios — https://www.pocketgamer.biz/savvy-games-group-partners-with-genvid-and-massive-studios-to-expands-ai-access-for-saudi-game-developers/
 
 - `[Issue 1]` **UCL, RCA, Brandtech Centre for Creative AI launch** — Broadcast Now — https://www.broadcastnow.co.uk/broadcasters/alex-mahon-joins-stellar-ai-creative-summit-line-up/5209227.article
 - `[Issue 11]` **Lovable for classrooms** — https://lovable.dev/classroom
@@ -9834,6 +10406,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 15]` **Google + Sundance Institute AI Education** — *op. cit.*
 - `[Issue 16]` **UK government "Free AI training for all"** — https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030
 - `[Issue 16]` **Adobe at Sundance: Ignite Day** — *op. cit.*
+- `[Issue 35]` **CoSTAR Emerge-AI opens** — accelerator for early-stage and SME creative-tech startups turning AI concepts into viable businesses — https://www.costarnetwork.co.uk/calls/emerge-AI
 
 ### 22. Open Source and Infrastructure
 
@@ -9849,6 +10422,11 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 27]` **ComfyUI $500M valuation** — *Dream Machine* coverage
 - `[Issue 27]` **Anthropic + Blender Foundation patronage** — *Dream Machine* coverage
 - `[Issue 27]` **Korin AI launch** — *op. cit.*
+- `[Issue 33]` **Comfy Desktop** — "one app for every Comfy" — https://x.com/ComfyUI/status/2064093003590111314
+- `[Issue 33]` **Cosine secures industry backing for Britain's first sovereign frontier model** — https://tech.eu/2026/06/08/cosine-secures-industry-backing-for-britain-s-first-sovereign-frontier-model/
+- `[Issue 36]` **The Rise of ComfyUI** — 4M users, 89,000+ GitHub stars, 60,000+ community nodes, $500m valuation; how one developer's side project became the professional layer — https://xhinker.medium.com/the-rise-of-comfyui-how-one-guys-side-project-took-over-ai-image-generation-558dca64bfd7
+- `[Issue 36]` **Comfy MCP public beta** — *op. cit.* (see §6)
+- `[Issue 36]` **Roboflow supervision hits 40,000 GitHub stars** — powering 6.5k+ open-source computer vision projects — https://github.com/roboflow/supervision
 
 ### 23. Web Infrastructure / Bots / Dead Internet
 
@@ -9875,6 +10453,28 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 25]` **ElevenLabs $500M ARR** — *Dream Machine* coverage
 - `[Issue 27]` **Google $40B investment in Anthropic** — *Dream Machine* coverage
 - `[Issue 27]` **ComfyUI $500M valuation** — *op. cit.*
+- `[Issue 35]` **Odyssey $310M Series B** — *op. cit.* (see §4)
+- `[Issue 36]` **Higgsfield hits $500M revenue, eyes $5B funding round** — https://www.techtimes.com/articles/319394/20260630/ai-video-startup-higgsfield-hits-500m-revenue-eyes-5b-funding-round.htm
+- `[Issue 36]` **General Intuition raises $320M at $2.3B valuation** — frontier models trained on gameplay; games as training data for real-world agents — https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/
+
+### 25. Live Sport, Events and the World Cup
+
+*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the Issue 34 Editor's Pick and the Deep Dive of 12 June 2026, preserved as [Appendix M](A13_Deep_Dive_World_Cup.md).*
+
+- `[Issue 34]` **Editor's Pick: The AI World Cup — When Sport Becomes a Living Digital System** — one-second player scans, digital twins, Football AI Pro, the multi-platform storyworld — *Dream Machine* Issue 34
+- `[Issue 34]` **TacticAI (Google DeepMind)** — simulating field scenarios and predicting open play up to 8 seconds in advance — https://x.com/GoogleDeepMind/status/2065093482088169719
+- `[Deep Dive — 12 Jun 2026]` **FIFA and Lenovo unveil AI-powered innovations for World Cup 2026** — 1,248 players scanned in one second each; semi-automated offside; AI-generated personalised highlights — https://football-technology.fifa.com/organisation/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026
+- `[Deep Dive — 12 Jun 2026]` **How AI Will Power the 2026 FIFA World Cup** — AI Magazine on the full stack: officiating, Football AI Pro for all 48 teams, broadcast avatars — https://aimagazine.com/news/how-ai-will-power-the-2026-fifa-world-cup
+- `[Deep Dive — 12 Jun 2026]` **Lenovo powers World Cup operations and AI-driven broadcast** — ultra-low-latency IPTV, stadium digital twins, 6bn viewers across 104 matches — https://news.lenovo.com/pressroom/press-releases/lenovo-technology-powers-fifa-world-cup-2026-operations-and-strengthens-ai-driven-broadcast/
+- `[Deep Dive — 12 Jun 2026]` **FIFA and Gamefam launch World Cup 2026 on Roblox** — 1.1bn+ visits, 1.5M gameplay sessions a day; the tournament's second venue — https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/
+- `[Deep Dive — 12 Jun 2026]` **TikTok's World Cup creator correspondents** — thirty creators from eleven countries; FIFA's "preferred platform" — https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/
+- `[Deep Dive — 12 Jun 2026]` **The biggest brand marketing race** — WARC's projected $10.5bn in incremental Q2 2026 ad spend — https://www.globalbrandsmagazine.com/fifa-world-cup-2026-marketing/
+- `[Deep Dive — 12 Jun 2026]` **$4.5bn sponsorship economy for host cities** — $725M in new host-city sponsorship in a year — https://www.goal.com/en-qa/lists/industry-report-reveals-usd4-5-billion-sports-sponsorship-economy-for-2026-world-cup-host-cities-in-the-u-s-and-canada/blt412a2f99ee2cf077
+- `[Deep Dive — 12 Jun 2026]` **Adidas's ~$1bn "Backyard Legends" campaign** — AI de-aging of three football legends; celebrity ensemble at record scale — https://missionmedia.asia/adidas-celebrity-marketing-world-cup-2026/
+- `[Deep Dive — 12 Jun 2026]` **How AI will shape the 2026 World Cup** — the fan-made content flood; 4,300+ fake FIFA websites before kick-off — https://www.merciaai.com/post/how-ai-will-shape-the-2026-world-cup
+- `[Deep Dive — 12 Jun 2026]` **Boston Dynamics robot dogs on World Cup security** — Hyundai as FIFA's first official robotics partner — https://www.newsweek.com/hyundais-robot-dogs-will-be-patrolling-the-fifa-world-cup-2026-12037758
+- `[Deep Dive — 12 Jun 2026]` **Wimbledon's watsonx stack** — IBM's AI commentary and open-source fan experiences at the All England Club — https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon
+- `[Deep Dive — 12 Jun 2026]` **Athlete image rights in the AI era** — biometric digital twins and "synthetic rights" clauses in player contracts — https://www.sportslawhub.com/athlete-image-rights-ai-deepfakes
 
 ---
 
@@ -9882,7 +10482,7 @@ For the complete primary-source archive — every link, in full, in original pub
 
 This thematic index covers the *significant* sources across the *Dream Machine* archive, organised by topic. For specific research, follow the bracketed Issue numbers back to the canonical issue file in `Dream Machine MD/`. Each issue file ends with the section "All embedded URLs (in document order)" which lists every URL the issue carried, including local navigation links, profile pages and platform housekeeping links that are not reproduced here.
 
-The newsletter is a continuous publication. The index above reflects the state of the archive at the time of book publication (June 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
+The newsletter is a continuous publication. The index above reflects the state of the archive as of Issue 36 (July 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
 
 For deeper analytical treatment of the data this index points to, see the deep-dive appendices:
 - [Appendix D: The Shadow AI Paradox](A4_Deep_Dive_Shadow_AI.md)
@@ -14867,6 +15467,165 @@ DEEP DIVE № 14 · THE PROGRAMMABLE BRAND · JUNE 2026
 - https://www.billboard.com/pro/amazon-partners-ai-music-company-suno-alexa/
 
 
+# Appendix M — The World Cup Storyworld: AI, Live Sport and the Largest Deployment in Entertainment History
+
+*Companion piece to [Chapter 5: The Slop Ceiling](05_The_Slop_Ceiling.md), [Chapter 7: The Studios Decide](07_The_Studios_Decide.md), [Chapter 8: Worlds, Not Pictures](08_Worlds_Not_Pictures.md), and [Chapter 12: Authenticity as the New Scarcity](12_Authenticity_New_Scarcity.md).*
+
+This deep dive is the book's single best live case study — the place where nearly every framework the preceding chapters develop can be watched operating simultaneously, at planetary scale, in real time. The 2026 FIFA World Cup is, on the evidence assembled here, the largest live deployment of artificial intelligence in entertainment history: computer vision officiating built on one-second full-body scans of all 1,248 players; a generative tactical assistant issued to all 48 nations on identical terms; digital twins of sixteen stadiums; AI-generated personalised highlights for an audience of six billion; a Roblox venue logging over a billion visits; TikTok as FIFA's "preferred platform" with thirty Creator Correspondents; four Boston Dynamics robot dogs on security patrol in Dallas.
+
+Three of the book's arguments come home to roost in this piece, and it is worth naming them before the material begins.
+
+**First, the storyworld thesis of [Chapter 8](08_Worlds_Not_Pictures.md).** The tournament is no longer an event with media coverage; it is a single canonical happening radiating simultaneously into a broadcast, a game engine, a Roblox carnival, a TikTok hub and a million bedroom edits — each surface rendering the same underlying reality for a different audience, in a different grammar, at a different depth. The football is the canon; everything else is adaptation, generated at machine speed. That architecture — one scarce, live, unscripted core wrapped in an infinitely expanding, AI-mediated halo of derivative worlds — is the template every cultural property will chase.
+
+**Second, the own-the-rails logic of [Chapter 7](07_The_Studios_Decide.md).** FIFA — owner of the most aggressively enforced rights regime in sport — has simultaneously handed its archival footage to creators for co-creation. The crown jewels, licensed at scale to the audience. That is not a contradiction; it is Position Five executed at tournament scale: control the canon, the live rights and the trademarks, and let the remix economy do the marketing. The same month supplies the counter-ledger — 4,300+ fake FIFA websites before kick-off, deepfaked Messi endorsements, Vinícius Júnior fighting AI-generated gambling adverts, Cole Palmer reduced to trademarking his own celebration — and, in the players' new "synthetic rights" clauses covering avatar use and training data, the quiet drafting of the next decade's contract architecture.
+
+**Third, the authenticity-premium argument of [Chapter 5](05_The_Slop_Ceiling.md) and [Chapter 12](12_Authenticity_New_Scarcity.md), resolved at its largest scale.** Follow the money — WARC's projected $10.5 billion in incremental Q2 ad spend, Adidas's roughly $1 billion campaign, a $203 billion programmatic market — and the reason it all concentrates here is the thing no other property can offer: one of the planet's last genuinely communal live experiences, the moment the machines cannot fake. Value migrates to whoever owns the canonical event and the data substrate beneath it; the halo, however vast, is abundant and therefore cheap. The premium experiences of the next decade will be the ones that are verifiably present, verifiably live, verifiably human. Harvard Business Review's line — "AI can optimize, but it cannot make people care" — is the Authenticity Premium restated as marketing doctrine.
+
+The piece below is preserved as the *Dream Machine* Deep Dive was published on 12 June 2026, with its citation markers and reference list intact. It was written in the tournament's opening week; the [Issue 34](../Dream%20Machine%20MD/34.md) Editor's Pick, *The AI World Cup — When Sport Becomes a Living Digital System*, is its newsletter-length companion.
+
+---
+
+### How the 2026 World Cup became the largest live deployment of artificial intelligence in entertainment history
+
+*Dream Machine | Creative AI — Deep Dive, 12 June 2026*
+
+Before any of the 1,248 players at this World Cup kicks a ball, they stand still for one second.
+
+That's all the scanner needs to render a photorealistic 3D avatar of every limb — a digital twin that will spend the next month adjudicating offsides, driving broadcast replays and feeding the most ambitious live deployment of artificial intelligence in entertainment history [1][2].
+
+The tournament that opened at the Estadio Azteca this week is nominally a football competition: 48 teams, 104 matches, sixteen cities across three countries, six billion people watching [3][4]. In practice, it's a planetary-scale stress test of the full AI stack — computer vision, generative models, digital twins, real-time personalisation — run live, with no second take. FIFA, with Lenovo as official technology partner, unveiled the lot at the Sphere in Las Vegas in January [1]. The venue was the tell. This is not a sports story with a technology subplot; it is a technology story wearing shin pads.
+
+Start with officiating.
+
+The Adidas Trionda match ball carries a 500Hz motion sensor in its core — five hundred snapshots per second of spin, velocity and contact — registering the precise instant of every touch [5]. Pair that "kick point" with the scanned avatars, tracked across twenty-nine body points by stadium camera arrays, and semi-automated offside stops being an argument about frozen frames and disputed armpits [5][6]. Decisions arrive in seconds rather than minutes and broadcast as 3D animations from any angle the director fancies [1][2]. AI-stabilised Referee View cameras put viewers at the centre of the pitch with the officials, and for the first time at a World Cup the VAR monitor footage plays live on stadium screens during reviews — transparency as spectacle [1][7]. The logic is sound: if fans are going to argue about the decision anyway, let them argue with the same evidence the referee saw. The system doesn't replace the referee's judgement; it replaces the referee's eyesight, then shows everyone what it saw.
+
+The quietly radical release is Football AI Pro, a generative tactical assistant built on FIFA's bespoke Football Language model with Lenovo's infrastructure, issued to all 48 teams on identical terms [1][2]. Coaches query it in natural language, in multiple languages — opponent tendencies, pressing patterns, fatigue markers, penalty habits — and it chews through hundreds of millions of data points per match, returning answers as text, clips, graphs and 3D visualisations [2][8]. Analysis that once took a back-room army days now takes hours, from penalty shoot-out preparation to injury-risk forecasting [9].
+
+FIFA frames this as democratisation: elite analytics, once the preserve of wealthy federations, handed to every qualifier alike — a small footballing nation drawn against a giant now arrives with the same machine intelligence in its corner [3][10]. Whether levelling the data playing field actually levels the pitch is one of the genuinely open experiments of the next five weeks; talent remains unevenly distributed in ways no language model can fix. And note the telling design decision: the assistant is locked during live play [2]. The machine prepares; the human decides. For now, the dugout remains a model-free zone.
+
+The broadcast layer is where the infrastructure shows its teeth. Lenovo's near-real-time AI platform handles ultra-low-latency IPTV distribution alongside traditional satellite — sub-five-second delays at planetary scale — feeding intelligent content delivery from the International Broadcast Centre in Dallas [3][5]. The scanned avatars do double duty here: the same 3D models that adjudicate offsides drive broadcast recreations of goals, fouls and tactical patterns from angles no physical camera occupies [1][2]. The match as captured and the match as rendered are beginning to blur, and an audience raised on game engines barely registers the seam. Beneath it all sits the sleeper story: hyper-accurate digital twins of all sixteen stadiums, ingesting live crowd-flow, security and systems data, letting operators spot a bottleneck at an Atlanta gate before it forms [5]. Operational AI nobody at home will ever see — and without which an event of this size, spread across three sovereign borders, is probably not stageable at all.
+
+And generative AI is doing more here than answering coaches' questions — it is making the pictures and the sound. The player avatars themselves are built with advanced generative AI, photoreal models constructed from one-second scans and deployed into live broadcast animation [10]. FIFA's personalised highlight packages are AI-generated end to end — assembled, cut and captioned around each fan's declared teams, players and interests, at a scale no human edit suite could touch [1][7].
+
+The same pattern is running concurrently at Wimbledon, where IBM's watsonx generates spoken commentary and captions for highlight reels, giving outside-court matches the feel of a live broadcast no human commentator was assigned to [11]. The line being held, for now, is the live microphone: Fox Sports has confirmed full human commentary teams for the tournament, with AI augmenting production workflows rather than replacing the voices [12].
+
+Around the official feeds, meanwhile, the fan-made flood has already arrived — an unprecedented surge of AI-assisted short-form content, generated previews, synthetic hype reels and machine-made supporter anthems pouring across TikTok and Shorts [12]. And the same tools cut both ways: security researchers identified more than 4,300 fake FIFA-related websites before kick-off, including phishing operations built with AI-generated content and cloned branding [12]. The tournament is simultaneously the showcase for generative media and the proving ground for its abuse.
+
+The tournament also has a second venue, and it's made of voxels. On 5 June, FIFA and Gamefam launched the official FIFA World Cup 2026 event on Roblox — the platform's biggest official sports activation to date — with FIFA Super Soccer transformed into a tournament hub featuring all 48 national teams, a World Cup stadium, connected quests and weekly digital rewards, extended across a six-game crossover whose titles collectively record 28 million gameplay sessions a week [13][14].
+
+The numbers deserve a pause: FIFA's Roblox presence has logged over 1.1 billion visits and averages 1.5 million gameplay sessions a day [14] — for an entire generation of Gen Z and Alpha fans, this is where the World Cup is happening. The crucial design choice is the live wire back to reality: real-time standings and scoreboards pipe the actual tournament into the game world, so the virtual carnival tracks the real one match by match [13]. And the connective tissue is AI at platform scale — Roblox's real-time machine translation of chat across languages, AI-assisted creation tools and automated moderation are what make a synchronous, global, multilingual event for tens of millions of children workable at all. The pattern from the broadcast layer repeats: the match as the data source, rendered differently for every audience — here, as a playable world.
+
+What happens downstream of all this is where the cultural shift actually lives. For the first time at a men's World Cup, FIFA has named TikTok its "preferred platform" — broadcast rights holders can livestream portions of all 104 matches inside a dedicated in-app hub, and a wide group of creators has been granted rights to co-create with FIFA's own archival footage [15][16]. TikTok has appointed thirty Creator Correspondents from eleven countries, with behind-the-scenes access once reserved for accredited press, feeding World Cup hubs powered by its GamePlan system [15]. YouTube struck its own deal: rights holders can stream the first ten minutes of matches live on the platform, and in Brazil an influencer-built operation will stream all 104 games [17].
+
+The advertisers have followed the eyeballs — Unilever has made this its largest sports activation ever, with thirty-five brands working through creators, a 24/7 social content hub, and half its total marketing investment now shifted into social and influencer channels [18]. The blunt statistic underneath: a majority of TikTok users say watching sports content on the platform is more entertaining than the games themselves [15]. Fans are no longer downstream of the broadcast; as one industry analysis put it, they are becoming broadcasters in their own right [19].
+
+And the engine of that entire downstream economy is AI, twice over. First, distribution: every clip, reaction, thread and stream is routed to its audience by recommendation models — the algorithmic feed is the new rights deal, deciding which goal reaches which fan in which country within seconds of it happening. Second, production: the race that defines creator economics — being *first*, in text, video, image or audio, live or near-real-time, or being *deepest* with a niche of devoted followers — is now run with machine assistance at every step. AI clipping and auto-captioning collapse the gap between the final whistle and the posted edit [12]; machine translation lets a pundit in Lagos or a Twitch watch-along in Seoul serve a global audience instantly; archival co-creation rights plus generative tools mean a bedroom creator can produce broadcast-grade packages that once required an edit suite and a licence [16][12].
+
+The Twitter pundit racing to call the tactical switch, the Redditor assembling the definitive thread, the YouTuber with the eleven-minute breakdown live before the press conference ends — each is amplified by the same stack, and each amplifies the tournament in turn. The result is a flywheel FIFA could never have built alone: one match generating millions of derivative artefacts within hours, every one of them optimised, translated, clipped and routed by machine. The World Cup is no longer a broadcast with a social media shadow. It is a content supernova, and AI is both the fuse and the blast radius.
+
+And here is where the tournament becomes a live experiment in intellectual property itself. Consider what FIFA has actually done: the organisation that built the most aggressively enforced rights regime in sport — official marks lists, ambush-marketing rules, three-tier sponsorship hierarchies, and real-time dynamic site-blocking injunctions that let Canadian courts block newly identified piracy domains *during* live broadcasts [35] — has simultaneously handed its archival footage to a wide group of creators for co-creation [16]. The crown jewels, licensed at scale to the audience. That is not a contradiction; it is a strategy.
+
+FIFA has concluded that in an attention economy the halo of derivative content is worth more than the exclusivity it dilutes — control the canon, the live rights and the trademarks, and let the remix economy do the marketing. But the same machinery is running far beyond FIFA's permission structure. Generative tools now openly sell match recreations "that look like real broadcast footage" and identity-locked images placing any fan inside a stadium they never entered — synthetic content with no licence anywhere in the chain. The players are the most exposed: UK law has no standalone image right, leaving footballers to defend their likenesses through a patchwork of trademark, passing-off and data-protection claims [36] — Cole Palmer has resorted to trademarking "Cold Palmer," his own name and his shivering celebration [36] — while the documented abuse mounts: deepfaked Messi endorsements for pyramid schemes and political candidates, Vinícius Júnior fighting AI-generated gambling adverts he never made [37][38].
+
+And note the response taking shape at the top of the game: elite players, following Neymar, have begun registering and licensing their own biometric "digital twins," with image-rights agreements now drafting explicit "synthetic rights" clauses covering avatar use and training data [38]. Which brings the question home to this tournament: FIFA scanned 1,248 bodies in a second each. The avatars officiate, they populate broadcasts, they could populate anything. The contracts governing what those digital bodies may be made to do — and who profits — are the quiet precedent being set this month. For the creative industries watching, the lesson is stark: copyright in the output is becoming unenforceable at the speed content now moves; the defensible assets are shifting upstream, to the verified event, the licensed body and the authenticated source. The World Cup is where that regime change is being prototyped in public.
+
+Follow the money and the scale snaps into focus.
+
+WARC projects brands will pour an additional $10.5 billion in global ad spend into Q2 2026 on the back of this tournament alone — more, for context, than the entire global video-game advertising market in a quarter [20][21]. The host cities have attracted $725 million in new sponsorship investment in the past year — Los Angeles leading at $178 million, New York/New Jersey at $124 million — within a $4.5 billion sponsorship economy across the North American venues [22]. Adidas has staked roughly $1 billion on "Backyard Legends," its largest celebrity ensemble ever (Messi, Bellingham, Bad Bunny, Timothée Chalamet), using AI to de-age three football legends for the nostalgic cast [23][21]. And the reason all this money is here is the thing no other property can offer: the World Cup remains one of the planet's last genuinely communal immersive experiences — the same match watched simultaneously in pubs in Birkenhead, living rooms in Lagos, fan festivals in sixteen host cities and watch parties everywhere between, a shared moment advertisers can no longer find anywhere else in a fragmented attention economy.
+
+AI is now the machinery of monetising it. US programmatic ad spend — algorithmically targeted, machine-bought — will exceed $203 billion in 2026 [23]; streaming now takes 47.5% of all US TV viewing and two-thirds of ad-supported viewing among 18–49s, with 43% of World Cup viewers planning to stream and ads in streaming sports measuring some 66% more effective than broadcast averages [24]. A single activation now demands real-time reactive creative in every duration, format and language simultaneously — work only generative pipelines can produce at tournament speed [24]. The early returns suggest it pays: 40% of US World Cup followers actively notice tournament sponsors, and 21% say sponsorship has led them to try a brand for the first time [21]. But the month has also delivered the cautionary tale — Coca-Cola's AI-generated World Cup visuals drew a public backlash, while Adidas's AI de-aging served the story and landed [21]. The lesson the industry is converging on was put crisply by Harvard Business Review: "AI can optimize, but it cannot make people care" [23]. The machines buy the audience, cut the creative and route the message; the reason six billion people are watching in the first place remains entirely human.
+
+Then there's the audience, which FIFA no longer treats as an audience but as six billion addressable individuals. AI-assembled highlight reels built around your team, your players, your stated interests; a personalised feed in the official app; NFC Fan ID cards unlocking localised content and AR experiences when tapped to a phone; fans navigating cavernous stadiums via the same digital twins the security teams use [7][5][25]. Even the players get the treatment — a dedicated app serving each one their physical and event data minutes after the final whistle [6]. Note the shape of the bargain. The pitch-side AI is sold as fairness: better decisions, equal data, transparent officiating. The fan-side AI is sold as serving you — and is, in the same motion, the most sophisticated identity-and-attention apparatus ever attached to a sporting event. One second per body to digitise the players; rather less, per fan, to know exactly who is watching.
+
+And this year, for the first time, the AI walks. Hyundai — FIFA's partner of twenty-seven years and now its first official robotics partner — has deployed four customised Boston Dynamics Spot robots on security operations at the International Broadcast Centre in Dallas and the New York/New Jersey Stadium: perimeter inspection, thermal imaging, 360-degree vision, suspicious-package investigation, patrolling continuously without fatigue across terrain wheeled machines can't manage [26][27]. In Mexico, police have their own four-legged units for initial intervention in dangerous situations, streaming live video back to officers [28]. The controversy arrived on schedule: within days of the Dallas deployment, a viral video claimed a robot dog was scanning ticket-holders' faces, and Boston Dynamics was forced to state, flatly, that the machines carry no facial recognition and exist to flag threats for human intervention [27][29]. That a denial was needed at all is the point. A camera on a pole is infrastructure; a camera that walks towards you is an actor. Four robot dogs is a modest fleet — as a precedent, embodied semi-autonomous machines normalised inside the world's most-watched event, it is anything but. Meanwhile Hyundai's humanoid Atlas performs the "Ghost Rabona" in the marketing campaign [29]; the embodied machine as mascot, athlete-in-waiting and brand asset all at once.
+
+And the World Cup is merely the loudest experiment in a month thick with them. The British grass-court season is running its own trials: Infosys and the LTA have rolled out AI-generated storytelling, real-time match insights and personalised content across the summer calendar, complete with Rally — a computer-vision-equipped humanoid holding personalised conversations with fans at Queen's Club [30]. Wimbledon, fresh from renewing its 36-year IBM partnership, arrives later this month with the next iteration of its watsonx-powered stack — generative Match Chat, AI commentary on highlight reels, personalised catch-ups — prototyped on last year's fans and refined since [31][11]. Prediction platforms timed their launches to kick-off itself [32], and the industry data tells the same story: more than 250 brands now run AI-driven activations across live sport and entertainment, with clubs like Barcelona deploying taste-modelling AI to tailor match-day experience to the individual fan [33][34]. June 2026 is a controlled experiment running on every screen at once — and the hypothesis being tested isn't whether AI can enhance sport, but whether there remains any layer of the live experience it doesn't mediate.
+
+It is tempting to file all this under sports trivia. Resist that. This is the first time the full stack has been deployed simultaneously, live, in front of most of the connected human species, and every media business, live-events operator and brand with an audience will be studying what holds and what breaks. The beautiful game itself survives intact — the moments that decide it remain stubbornly, gloriously human. Everything around those moments has been quietly rebuilt as software, and some of it now walks. That, more than any result, is what 2026 will be remembered for.
+
+And look at what the tournament has actually become, because it offers the clearest available clue to where all culture is heading. This is no longer an event with media coverage; it is a storyworld — a single canonical happening radiating simultaneously into a broadcast, a game engine, a Roblox carnival, a TikTok hub, thirty creator correspondents, a million bedroom edits, an advertising universe and a pack of robot dogs, each surface rendering the same underlying reality for a different audience, in a different grammar, at a different depth. The football is the canon; everything else is adaptation, generated at machine speed. That architecture — one scarce, live, unscripted core wrapped in an infinitely expanding, AI-mediated halo of derivative worlds — is the template every cultural property will chase: music, film, politics, education, faith. The strategic implications follow directly. Value migrates to whoever owns the canonical event and the data substrate beneath it; the halo, however vast, is abundant and therefore cheap. The premium experiences of the next decade will be the ones the machines cannot fake — being in the stadium, in the pub at the moment it happens, verifiably present, verifiably human. And the next generation of entertainment franchises won't add a transmedia strategy after the fact; they will be designed as storyworlds from inception — built, as this World Cup accidentally demonstrates, to be captured once and rendered everywhere. The 2026 tournament didn't set out to prototype the future of the creative economy. But for five weeks, in front of six billion people, that is precisely what it is doing.
+
+### References
+
+[1] FIFA Football Technology — "FIFA and Lenovo unveil multiple AI-powered innovations ahead of FIFA World Cup 2026™" — <https://football-technology.fifa.com/organisation/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026>
+
+[2] AI Magazine — "How AI Will Power the 2026 FIFA World Cup" — <https://aimagazine.com/news/how-ai-will-power-the-2026-fifa-world-cup>
+
+[3] Lenovo StoryHub — "Lenovo Technology Powers FIFA World Cup 2026™ Operations and Strengthens AI-Driven Broadcast" — <https://news.lenovo.com/pressroom/press-releases/lenovo-technology-powers-fifa-world-cup-2026-operations-and-strengthens-ai-driven-broadcast/>
+
+[4] Innovation & Tech Today — "8 Technologies Turning FIFA World Cup 2026 Into the Most Advanced Sporting Event Ever Held" — <https://innotechtoday.com/8-technologies-turning-fifa-world-cup-2026-into-the-most-advanced-sporting-event-ever-held/>
+
+[5] Technology Magazine — "The Technology Behind the FIFA World Cup 2026" — <https://technologymagazine.com/news/the-technology-behind-the-fifa-world-cup-2026>
+
+[6] Fast Company SA — "Inside the Tech behind the FIFA World Cup 2026" — <https://fastcompany.co.za/co-design/2026-06-11-inside-the-tech-behind-the-fifa-world-cup-2026/>
+
+[7] WION — "FIFA World Cup 2026 to debut AI-powered broadcasting, 3D player avatars and real-time data innovations" — <https://www.wionews.com/sports/fifa-world-cup-2026-to-debut-ai-powered-broadcasting-3d-player-avatars-and-real-time-data-innovations-1781098589485/amp>
+
+[8] Euronews — "AI avatars and smart footballs: Inside FIFA's high-tech 2026 World Cup" — <https://www.euronews.com/next/2026/06/01/ai-avatars-and-smart-footballs-inside-fifas-high-tech-2026-world-cup>
+
+[9] The Conversation — "AI at the World Cup: smarter tactics, healthy players, safer crowds – but new risks" — <https://theconversation.com/ai-at-the-world-cup-smarter-tactics-healthy-players-safer-crowds-but-new-risks-276520>
+
+[10] Lenovo StoryHub — "The Future of Football Is Here: AI Solutions To Power FIFA World Cup 2026™" — <https://news.lenovo.com/pressroom/press-releases/future-of-football-ai-solutions-power-fifa-world-cup-2026/>
+
+[11] IBM / Red Hat — "Serving faster innovation: how open source is supporting AI-powered fan experiences at Wimbledon" — <https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon>
+
+[12] Mercia AI — "How AI Will Shape the 2026 World Cup" — <https://www.merciaai.com/post/how-ai-will-shape-the-2026-world-cup>
+
+[13] PocketGamer.biz — "FIFA and Gamefam launch FIFA World Cup 2026 event across Roblox" — <https://www.pocketgamer.biz/fifa-and-gamefam-launch-fifa-world-cup-2026-event-across-roblox/>
+
+[14] GamesBeat — "FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer and Roblox" — <https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/>
+
+[15] Social Media Today — "TikTok introduces 2026 FIFA World Cup creator correspondents" — <https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/>
+
+[16] AP — "TikTok picked by FIFA as video content partner at 2026 World Cup" — <https://www.aol.com/articles/tiktok-picked-fifa-video-content-201423750.html>
+
+[17] FOX Sports — "As FIFA entices a new generation of fans, a Brazil influencer's platform will stream all 104 games" — <https://www.foxsports.com/articles/soccer/as-fifa-entices-a-new-generation-of-fans-a-brazil-influencers-platform-will-stream-all-104-games>
+
+[18] What's Trending — "FIFA Made TikTok the Official Platform of the World Cup" — <https://whatstrending.com/fifa-made-tiktok-the-official-platform-of-the-world-cup/>
+
+[19] Creative Salon — "The World Cup of Influencers" — <https://creative.salon/articles/features/the-world-cup-of-influencers-and-creators>
+
+[20] Global Brands Magazine — "FIFA World Cup 2026: Inside the Biggest Brand Marketing Race" — <https://www.globalbrandsmagazine.com/fifa-world-cup-2026-marketing/>
+
+[21] DesignRush — "FIFA World Cup 2026: Campaigns Setting the Bar Before Kickoff" — <https://news.designrush.com/fifa-world-cup-2026-brand-campaigns>
+
+[22] Goal.com — "Industry report reveals $4.5 billion sports sponsorship economy for 2026 World Cup host cities" — <https://www.goal.com/en-qa/lists/industry-report-reveals-usd4-5-billion-sports-sponsorship-economy-for-2026-world-cup-host-cities-in-the-u-s-and-canada/blt412a2f99ee2cf077>
+
+[23] Mission Media — "adidas $1B Celebrity Campaign vs Nike Algorithmic Strategy" — <https://missionmedia.asia/adidas-celebrity-marketing-world-cup-2026/>
+
+[24] The Gutenberg — "World Cup 2026 Marketing Playbook" — <https://www.thegutenberg.com/blog/world-cup-2026-marketing-playbook/>
+
+[25] WION — "5 New Ways 2026 FIFA World Cup Stadium Tech Enhances the Fan Experience Now" — <https://www.wionews.com/photos/5-new-ways-2026-fifa-world-cup-stadium-tech-enhances-the-fan-experience-now-1781111772410>
+
+[26] Newsweek — "Boston Dynamics' Robot Dogs Will Be Patrolling the FIFA World Cup 2026 Thanks to Hyundai" — <https://www.newsweek.com/hyundais-robot-dogs-will-be-patrolling-the-fifa-world-cup-2026-12037758>
+
+[27] Design News — "Hyundai Deploys Boston Dynamics Spot Robots for FIFA World Cup 2026 Security" — <https://www.designnews.com/automation/hyundai-deploys-boston-dynamics-spot-robots-for-fifa-world-cup-2026-security>
+
+[28] BusinessToday — "FIFA World Cup 2026: Mexico deploys robot dogs and AI to secure World Cup opener" — <https://www.businesstoday.in/sports/football/story/fifa-world-cup-2026-security-5-crucial-rules-fans-must-know-before-mexico-south-africa-opener-536410-2026-06-11>
+
+[29] WFAA — "No, the robots spotted around Dallas World Cup sites are not scanning fans' faces, company says" — <https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b>
+
+[30] Storyboard18 — "Infosys, LTA launch AI-powered fan experiences for grass court season" — <https://www.storyboard18.com/amp/brand-makers/infosys-lta-launch-ai-powered-fan-experiences-for-grass-court-season-100071.htm>
+
+[31] IBM Newsroom — "IBM Announces Long-Term Renewal as the Official AI, Cloud and Digital Transformation Partner for The All England Lawn Tennis Club" — <https://newsroom.ibm.com/2026-01-06-ibm-announces-long-term-renewal-as-the-official-ai,-cloud-and-digital-transformation-partner-for-the-all-england-lawn-tennis-club>
+
+[32] Quiver Quantitative — "SEGG Media Launches Sports.com Predict Ahead of FIFA World Cup 2026" — <https://www.quiverquant.com/news/SEGG+Media+Launches+Sports.com+Predict+Ahead+of+FIFA+World+Cup+2026>
+
+[33] SponsorUnited — "Breakout Plays 2026: Tech-Led Fan Experiences Redefine Sponsorship" — <https://www.sponsorunited.com/insights/breakout-plays-the-trends-winning-sports-sponsorship-in-2026-tech-led-experiences>
+
+[34] Bird & Bird — "Innovation in Sport: AI in the Sports Fans and Business Ecosystem" — <https://www.twobirds.com/en/insights/2026/innovation-in-sport-ai-in-the-sports-fans-and-business-ecosystem--ahead-of-the-game-sports-horizon-s>
+
+[35] Gowling WLG — "2026 FIFA World Cup: Trademark, copyright and enforcement considerations" — <https://gowlingwlg.com/en/insights-resources/articles/2026/fifa-world-cup-trademark-copyright-and-enforcement-considerations>
+
+[36] Yahoo Sports / BBC — "What can players and clubs do about 'AI slop'?" — <https://sports.yahoo.com/articles/players-clubs-ai-slop-074855503.html>
+
+[37] Tribuna — "How AI football fakes fool everyone" — <https://tribuna.com/en/blogs/the-world-cup-is-cancelled-how-ai-football-fakes-fooled-near/>
+
+[38] SportsLawHub — "Athlete Image Rights in the AI era: protection and legal challenges" — <https://www.sportslawhub.com/athlete-image-rights-ai-deepfakes>
+
+[39] DESIblitz — "Can Football Control the AI Slop?" — <https://www.desiblitz.com/content/can-football-control-the-ai-slop>
+
+
 # Citation Index
 
 *Dream Machine: Artificial Intelligence and the Next Creative Economy*
@@ -14886,7 +15645,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **4.** OpenAI, "Sora 2 is here," announcement page, 30 September 2025. <https://openai.com/index/sora-2/>. The model launched alongside an invite-only iOS app of the same name in the U.S. and Canada. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) carried the launch alongside contemporaneous coverage from NBC News and *The Guardian* on the model's first copyright and safety incidents.
 
-**5.** *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[32](../Dream%20Machine%20MD/32.md), October 2025 – June 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
+**5.** *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[36](../Dream%20Machine%20MD/36.md), October 2025 – July 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
 
 **6.** DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>. Referenced from [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md) onward.
 
@@ -15066,6 +15825,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **9.** *Digital Music News*, "Instagram Chief Says We Should 'Fingerprint Real Media' Instead of Tracking and Disclosing AI Slop." <https://www.digitalmusicnews.com/2026/01/05/instagram-chief-ai-slop-comments/>. See also *WebProNews*, "Instagram Head Warns AI Images Erode Trust, Calls for Verification Standards." <https://www.webpronews.com/instagram-head-warns-ai-images-erode-trust-calls-for-verification-standards/>. [*Dream Machine* Issue 13](../Dream%20Machine%20MD/13.md).
 
+**9a.** *The Guardian*, "Brands using AI-generated influencers to promote products on social media." <https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**9b.** *Social Media Today*, "TikTok bans AI-generated voices in shopping livestreams." <https://www.socialmediatoday.com/news/tiktok-bans-ai-generated-voices-in-shopping-livestreams/822977/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
 **10.** Sundance Institute, "Centering the Artist: Why We're Launching the AI Literacy Initiative." <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
 **11.** *Stereogum*, "Bandcamp bans AI music." <https://stereogum.com/2485199/bandcamp-bans-ai-music/news>. [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
@@ -15089,6 +15852,12 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **20.** *Adweek*, "Coca-Cola Uses AI to Rekindle the Magic of Its Holiday Ads." <https://www.adweek.com/creativity/coca-cola-uses-ai-to-rekindle-the-magic-of-its-holiday-ads/>. [*Dream Machine* Issue 6](../Dream%20Machine%20MD/6.md).
 
 **21.** *AI News*, "AI causes reduction in users' brain activity, MIT." <https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
+
+**22.** ElevenLabs, "Detecting audio generated by ElevenLabs with SynthID" (partnership with Google DeepMind). <https://elevenlabs.io/blog/synthid>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**23.** *Business Today*, "'We can fix the internet ...' says World Wide Web inventor Tim Berners-Lee." <https://www.businesstoday.in/technology/news/story/we-can-fix-the-internet-says-world-wide-web-inventor-tim-berners-lee-538947-2026-06-24>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**24.** *Social Media Today*, "YouTube adds AI-powered comment filtering." <https://www.socialmediatoday.com/news/youtube-adds-ai-powered-comment-filtering/823939/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 
 ## Chapter 5 — The Slop Ceiling
@@ -15203,6 +15972,20 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **45f.** Guillermo del Toro, subtweet responding to Amazon AI Creators Fund announcement, May/June 2026. Coverage in *Dream Machine* Issue 32. Cross-reference: del Toro's "rather die" statement in [Chapter 7](07_The_Studios_Decide.md), §"Position Three: We are not doing this."
 
+**46.** *Digital Trends*, "181,000 mobile games released in last 6 months — AI and vibe coding have unleashed a flood of new games, but not necessarily better ones." <https://www.digitaltrends.com/gaming/ai-and-vibe-coding-are-making-more-games-but-not-necessarily-better-ones/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**47.** *Metro*, "CD Projekt boss warns that games made solely by gen AI are already being made." <https://metro.co.uk/2026/06/22/cd-projekt-boss-warns-games-made-solely-gen-ai-already-made-28878296/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**48.** *The Guardian*, "Artists are making 'anti-slop' to rebel against AI: 'It's been rammed down our throats'." <https://www.theguardian.com/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**49.** *Variety*, "Behind the Movie Claiming to Be the First Straight-to-VHS Release in 20 Years — And Why It's a 'Middle Finger' to AI." <https://variety.com/2026/film/global/behind-the-fstraight-to-vhs-release-in-20-years-and-why-its-a-middle-finger-to-ai-1236767661/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**50.** *Digital Music News*, "'Say No To Suno' Protesters Bring the Drama to a Swanky Santa Monica AI Conference." <https://www.digitalmusicnews.com/2026/06/04/say-no-to-suno-santa-monica-plane/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**51.** *Musically*, "Tidal allows AI-generated music — but it won't earn royalties." <https://musically.com/2026/06/30/tidal-allows-ai-generated-music-but-it-wont-earn-royalties/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**52.** *The Hollywood Reporter*, "Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop." <https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
 
 ## Chapter 6 — The 88%
 
@@ -15293,6 +16076,30 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **38.** *MusicTech*, "Tamber is an 'ethically trained' AI tool to aid the creative process – and you can use arm gestures to control it." <https://musictech.com/news/gear/tamber-ai-ethically-trained-arm-gestures/>. Tamber product page: <https://tamber.ai/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 **39.** *Variety*, "Is 'AI Resistance' Setting the Music Sector Back? WMG's Robert Kyncl Sees 'An Incredible Value Creation Opportunity,' But Warns 'We Cannot Wait the Way the Industry Did 25 Years Ago'." <https://variety.com/2026/music/news/wmg-robert-kyncl-ai-resistance-1236748901/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**41.** *Digital Music News*, "Federal Judge Vacates Order Sealing Udio's Training Data — Are We About to Learn How Many Recordings the Platform Ingested?" <https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**42.** *Mixmag*, "Artists can now check whether their music has been used to train AI." <https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news>. See also *MusicRadar*, "Is your track in the datasets that are being used to train AI? The Atlantic unveils a way you can find out." <https://www.musicradar.com/music-tech/is-your-track-in-the-datasets-that-are-being-used-to-train-ai-the-atlantic-unveils-a-way-you-can-find-out>. *Dream Machine* Issues [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+**43.** *Euronews*, "SZA hits out at 'disgusting' AI music after discovering her songs were used in AI training." <https://www.euronews.com/culture/2026/06/22/sza-hits-out-at-disgusting-ai-music-after-discovering-her-songs-were-used-in-ai-training>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**44.** *Digital Music News*, "Google Moves to Dismiss Artists' AI Lawsuit, Says They Consented 'To the Use of Their Recordings' When Uploading to YouTube." <https://www.digitalmusicnews.com/2026/06/10/youtube-ai-lawsuit-dismissal-motion/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**45.** *Billboard*, "YouTube's AI Training Argument Raises Alarm Among Indie Music Advocates: 'Not Informed Consent'." <https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**46.** *Digital Music News*, "Google Doubles Down on 'Fair Use' AI Training, Stressing That 'Outputs' Not 'Inputs' Are Where Enforcement Should Be Focusing." <https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**47.** *Complete Music Update*, "US musicians' union sues Universal and Warner over AI deals, claims breach of 'new use' clause in record industry's performer agreement." <https://completemusicupdate.com/us-musicians-union-sues-universal-and-warner-over-ai-deals-claims-breach-of-new-use-clause-in-record-industrys-performer-agreement/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**48.** *Complete Music Update*, "NMPA unveils AI licensing deals with Udio and Klay with 50/50 split for songs and recordings." <https://completemusicupdate.com/nmpa-unveils-ai-licensing-deals-with-udio-and-klay-with-50-50-split-for-songs-and-recordings/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**49.** *Musically*, "Open letter: Musicians 'must not be pressured into AI deals' by rightsholders." <https://musically.com/2026/06/22/open-letter-musicians-must-not-be-pressured-into-ai-deals-by-rightsholders/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**50.** GOV.UK, "AI Adoption Plan for the Creative Industries." <https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**51.** GOV.UK / DSIT, "A decisive shift to power British AI: new £1.1 billion plan to back chip firms, boost computing power and skills for the AI revolution." <https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**52.** *Fortune*, "Google forced to allow news sites to opt out of AI scraping in 'world first,' UK watchdog says." <https://fortune.com/2026/06/05/auto-draft-3/>. See also *National Law Review*, "UK Regulator Introduces 'World First' Controls on the Use of Content in Google Generative AI Features." <https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [34](../Dream%20Machine%20MD/34.md).
 
 
 ## Chapter 7 — The Studios Decide
@@ -15423,6 +16230,44 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **57.** *Variety*, "Martin Scorsese Supports AI Company, Endorses AI for Storyboarding." <https://variety.com/2026/film/news/martin-scorsese-supports-ai-company-storyboard-movies-1236765037/>. Scorsese becomes advisor to Black Forest Labs (FLUX model); endorses AI storyboarding; Boots Riley and Guillermo del Toro respond critically. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
 
+**5b.** *The Verge*, "Amazon's new plan for games: James Bond and AI Snoop Dogg." <https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**56a.** *Variety*, "'Dreams of Violets' Review: What Does a Film Made Entirely with AI Look Like?" <https://variety.com/2026/film/reviews/dreams-of-violets-review-ash-koosha-tribeca-festival-1236784209/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**57a.** *The Hollywood Reporter*, "Ron Howard Is Bullish on AI and Thinks Jim Henson Would Have Been Too." <https://www.hollywoodreporter.com/business/digital/ron-howard-ai-jim-henson-martin-scorsese-1236620457/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**57b.** *Variety*, "Gore Verbinski Says We Need a 'Rating System' for AI Use in Films: 'If You Use AI to Write a Script, You Get an F'." <https://variety.com/2026/film/global/gore-verbinski-ai-taormina-1236780502/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**57c.** *The Guardian*, "'It has no taste whatsoever. It is a genius at helping you… Like a billionaire on acid': Star Wars director Gareth Edwards comes out in favour of AI." <https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**57d.** *AOL*, "Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'." <https://www.aol.com/articles/emily-blunt-refused-steven-spielbergs-163209822.html>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**58.** *The Hollywood Reporter*, "Google Investing in 'Backrooms' Studio A24." <https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**59.** *Futurism*, "A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google." <https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**60.** *Bloomberg*, "Animation's AI Reckoning: Filmmakers Say They Can Make Movies for 90% Less." <https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**61.** *CNN*, "South Korea's movie industry is embracing AI. Will K-film lose its magic?" <https://www.cnn.com/world/south-korea-film-industry-ai-hnk-spc>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**62.** *The Hollywood Reporter*, "How the Shanghai Film Festival Is Embracing Cinema's Future: From AI to iPhone Moviemaking." <https://www.hollywoodreporter.com/movies/movie-news/shanghai-film-festival-cinema-future-ai-iphone-1236626463/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**63.** *Variety*, "MiniMax Launches All-in-One AI Video Generator Hub at Shanghai Film Festival: 'Creative Direction and Aesthetic Judgment Must Ultimately Be Left to Humans'." <https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**64.** *Deadline*, "AI Firm Utopai Studios To Co-Produce Silver Bear-Winning Filmmaker Hyo-Joo Yang's Feature 'Half Moon'." <https://deadline.com/2026/06/utopai-studios-hyo-joo-yang-half-moon-ai-1236952730/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**65.** *Variety*, "Fully AI-Generated Series 'Journey to the West' in Development by Utopai Studios and Huace." <https://variety.com/2026/tv/news/fully-ai-generated-journey-to-the-west-utopai-studios-huace-1236787171/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**66.** *The Hollywood Reporter*, "'Sheep in the Box': Neon Drops First Trailer for Hirokazu Koreeda's AI Family Drama." <https://www.hollywoodreporter.com/movies/movie-news/sheep-in-the-box-neon-trailer-hirokazu-koreeda-ai-drama-1236629132/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**67.** *Deadline*, "Lionsgate's Michael Burns Says AI Will Save The Company 'Tens And Tens Of Millions Of Dollars A Year'." <https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**68.** Runway, "Runway and Lionsgate Expand Partnership" — Lionsgate takes an equity stake in Runway. <https://runwayml.com/news/runway-and-lionsgate-expand-partnership>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**69.** *Variety*, "AI Script-Analysis Start-Up Quilty Strikes Preferred-Look Deal With Giovanni Entertainment." <https://variety.com/2026/film/news/ai-script-quilty-preferred-look-deal-giovanni-entertainment-1236772175/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**70.** *The Verge*, "Can AI Tell if your script will make a hit film?" <https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
 
 ## Chapter 8 — Worlds, Not Pictures
 
@@ -15483,6 +16328,22 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **28.** Apple Machine Learning Research, "Headsup: a large-scale high-quality 3D Gaussian head reconstruction from multi-view captures." <https://machinelearning.apple.com/research/apple-headsup-3d-gaussian-head>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 **29.** WorldLens VR, "AI-powered 3D depth for Google Street View on Quest." <https://www.uploadvr.com/worldlens-vr-quest-street-view-3d-depth/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**30.** Odyssey, "Our Series B" — $310M raise to accelerate world models, June 2026. <https://odyssey.ml/our-series-b>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**31.** The Sandbox, "Announcing The Sandbox Studio: from idea to live multiplayer game in hours." <https://www.youtube.com/watch?v=IdTVDRvQoWM>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**32.** Higgsfield, "Higgsfield Games" — multiplayer games created and deployed from a single prompt. <https://higgsfield.ai/games-intro>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**33.** Unreal Engine, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. *Engadget*, "Epic Games details how it's embracing generative AI in Unreal Engine." <https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md), "Editor's Pick: Unreal Engine's AI Future — From Tools to Creative Partners," 23 June 2026.
+
+**34.** Roblox Newsroom, "Pioneering AI founders join to accelerate Roblox reality vision" — acquisition of Morpheus AI, Dynamics Lab and Lucid AI. <https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision>. *Dream Machine* Issues [32](../Dream%20Machine%20MD/32.md) and [34](../Dream%20Machine%20MD/34.md).
+
+**35.** [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md), "Editor's Pick: The AI World Cup — When Sport Becomes a Living Digital System," 16 June 2026. The full Deep Dive, with its complete reference list, is preserved as [Appendix M](A13_Deep_Dive_World_Cup.md).
+
+**36.** *GamesBeat*, "FIFA and Gamefam launch FIFA World Cup 2026 event in Super Soccer and Roblox." <https://gamesbeat.com/gamefam-launch-fifa-world-cup-2026-super-soccer-roblox/>. *PocketGamer.biz*, "FIFA and Gamefam launch FIFA World Cup 2026 event across Roblox." <https://www.pocketgamer.biz/fifa-and-gamefam-launch-fifa-world-cup-2026-event-across-roblox/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md) and [Appendix M](A13_Deep_Dive_World_Cup.md).
+
+**37.** Sphere Entertainment, "Sphere Studios announces *The Rocky Horror Picture Show* at Sphere." <https://www.sphereentertainmentco.com/sphere-studios-announces-the-rocky-horror-picture-show-at-sphere/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
 
 ## Chapter 9 — AI in Everything, Everywhere, All at Once
@@ -15585,6 +16446,28 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **48.** *Fortune*, "AI startup Viktor raises $75 million to put a virtual 'coworker' in Slack and Teams." <https://fortune.com/2026/05/19/ai-startup-viktor-75-million-virtual-coworker-slack-teams/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**49.** Adobe Newsroom, "Adobe unveils major expansion" — Adobe Creative Agent and AI Assistant in beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io, June 2026. <https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**50.** *MarTech Series*, "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency." <https://martechseries.com/predictive-ai/ai-platforms-machine-learning/adobe-introduces-firefly-foundry-to-support-custom-ai-models-for-enterprise-brand-consistency/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**51.** Adobe blog, "Disney Imagineers add Adobe Firefly Foundry to toolkit of worldbuilding superpowers." <https://business.adobe.com/blog/disney-imagineers-add-adobe-firefly-foundry-to-toolkit>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**52.** Adobe Newsroom, "Adobe to acquire Topaz Labs," June 2026. <https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**53.** Forrester, "Google Dethrones OpenAI As Agencies' Preferred AI Partner." <https://www.forrester.com/blogs/google-dethrones-openai-as-agencies-preferred-ai-partner/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**54.** *Digiday*, "OpenAI moves to automate ad creative." <https://digiday.com/marketing/openai-moves-to-automate-ad-creative/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**55.** Apple Newsroom, "Apple unveils next generation of Apple Intelligence, Siri AI and more," June 2026. <https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**56.** [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md), "Editor's Pick: ComfyUI MCP — the open source engine behind AI's creative future," 2 July 2026. Background: *Medium* (Andrew Zhu), "The Rise of ComfyUI: How One Guy's Side Project Took Over AI Image Generation." <https://xhinker.medium.com/the-rise-of-comfyui-how-one-guys-side-project-took-over-ai-image-generation-558dca64bfd7>.
+
+**57.** Comfy Org, "Comfy MCP" — public beta, July 2026. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**58.** *Forbes*, "Video AI Wars: How Chinese Labs Are Winning The Race OpenAI Abandoned," 5 June 2026. <https://www.forbes.com/sites/edithyeung/2026/06/05/video-ai-wars-how-chinese-labs-are-winning-the-race-openai-abandoned/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**59.** Anthropic, "Fable and Mythos access" — suspension of frontier AI tools following US export-control directive, June 2026. <https://www.anthropic.com/news/fable-mythos-access>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
 
 ## Chapter 10 — What is newly possible
 
@@ -15649,6 +16532,16 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **a1.** Variety, "AI Creator Behind Viral 'Deadpool,' 'Harry Potter' Christmas Clip Made His Film in a Ukrainian Bomb Shelter." <https://variety.com/2026/digital/news/ai-video-deadpool-harry-potter-andrii-daniels-1236624632/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
+**27.** *Variety*, "MiniMax Launches All-in-One AI Video Generator Hub at Shanghai Film Festival: 'Creative Direction and Aesthetic Judgment Must Ultimately Be Left to Humans'." <https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**28.** Comfy Org, "Comfy MCP" public beta, July 2026. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md), Editor's Pick.
+
+**29.** Unreal Engine, "State of Unreal 2026: top news from the show" (Unreal MCP announcement). <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md). Runway, "Runway in ChatGPT." <https://runwayml.com/mcp>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md). Magnific, "Connecting Magnific to AI assistants using MCP." <https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md). Higgsfield, "Higgsfield MCP." <https://higgsfield.ai/mcp>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**30.** *The Hollywood Reporter*, "Vibe Directing? An AI Startup Run by Ex-Googlers Say Their New Model Can Make It Happen (Exclusive)." <https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**31.** *Variety*, "'Backrooms' Director Kane Parsons Says Using AI 'Defeats the Purpose' of Filmmaking: 'I Get No Enjoyment From Using Those Tools'." <https://variety.com/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
+
 
 ## Chapter 12 — Authenticity as the New Scarcity
 
@@ -15670,9 +16563,17 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **7.** *Dream Machine* Issues [23](../Dream%20Machine%20MD/23.md), [27](../Dream%20Machine%20MD/27.md) reportage on Taylor Swift's voice/image trademark filings.
 
+**7a.** *Billboard*, "Lionel Richie Is Trademarking the Sound of His Voice: 'Hello, Is It Me You're Looking For?'" <https://www.billboard.com/pro/lionel-richie-is-trademarking-the-sound-of-his-voice/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**7b.** *Digital Music News*, "Backstreet Boys Look to Decommission AI Deepfakes by Trademarking Their Voices — Joining Taylor Swift, Lionel Richie, and Others." <https://www.digitalmusicnews.com/2026/06/26/backstreet-boys-trademark/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**7c.** *Songlines*, "A fake AI album released in my name made me realise why the law needs to change" (Emily Portman). <https://www.songlines.co.uk/features/emily-portman-faces-ai-fake-albums-on-streaming-platforms>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
 **8.** *Lawyer Monthly*, "Matthew McConaughey Draws a Line to Protect His Voice and Image From AI." <https://www.lawyer-monthly.com/2026/01/matthew-mcconaughey-protects-voice-image-ai/>. [*Dream Machine* Issue 15](../Dream%20Machine%20MD/15.md).
 
 **9.** *Adweek*, "Meet the $1.3 Billion Startup Behind Madonna and Will Smith's AI Video." <https://www.adweek.com/media/higgsfield-ai-marketing-startup/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
+
+**9a.** *Digital Music News*, "Madonna Calls AI 'the Complete Opposite of Making Art' While Advocating for a Completely Different Creative Process." <https://www.digitalmusicnews.com/2026/06/28/madonna-ai-algorithm-commentary/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 **10.** Variety, "George Clooney Says AI Actors Will Face the 'Same Problem We Have' in Hollywood: 'Making a Star Is Not So Easy'." <https://variety.com/2025/scene/columns/george-clooney-ai-actors-movie-stars-1236579661/>. [*Dream Machine* Issue 7](../Dream%20Machine%20MD/7.md).
 
@@ -15681,6 +16582,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **12.** *Complete Music Update*, "Johnny Cash estate uses ELVIS Act to sue Coke over tribute act ad soundtrack." <https://completemusicupdate.com/johnny-cash-estate-uses-elvis-act-to-sue-coke-over-tribute-act-ad-soundtrack/>. [*Dream Machine* Issue 9](../Dream%20Machine%20MD/9.md).
 
 **13.** *The Verge*, "New York's new law forces advertisers to say when they're using AI avatars." <https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor>. [*Dream Machine* Issue 11](../Dream%20Machine%20MD/11.md).
+
+**13a.** *Variety*, "More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos." <https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
 **14.** *Fast Company*, "Governments around the world are considering bans on Grok's app over AI sexual image scandal." <https://www.fastcompany.com/91474131/governments-around-the-world-are-considering-bans-on-groks-app-over-ai-sexual-image-scandal>. [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
 
@@ -15708,17 +16611,29 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **26.** Sundance Institute AI Literacy Initiative emphasis on documentation: <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
+**26a.** *PC Gamer*, "More than 300 games released on Steam last week, and 120 of them had AI disclosures." <https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**26b.** *80.lv*, "Epic Games CEO Criticizes Valve's AI Disclosure Policy for Steam." <https://80.lv/articles/epic-ceo-criticizes-valve-s-ai-disclosure-policy-for-steam>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
 **27.** Google DeepMind, "SynthID — 100 billion watermarks, expanding to partner ecosystems including OpenAI, ElevenLabs and Kakao." <https://deepmind.google/discover/blog/synthid-100-billion-watermarks-partners/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**27a.** ElevenLabs, "Detecting audio generated by ElevenLabs with SynthID" — partnership with Google DeepMind. <https://elevenlabs.io/blog/synthid>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 **28.** *Hollywood Reporter*, "Bobby Berk Says AI Will Make Reality TV & 'Verifiably Human Content' More Valuable." <https://www.hollywoodreporter.com/tv/tv-news/bobby-berk-ai-reality-tv-1236592920/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 **29.** *Rolling Stone*, "The Rolling Stones Release New Single 'In the Stars' — With a Music Video De-Aging the Rockers Courtesy of AI." <https://www.rollingstone.com/music/music-news/rolling-stones-in-the-stars-ai-de-aging-video-1235142200/>. *Hollywood Reporter*, "'South Park' Creators' AI Company Made The Rolling Stones Young Again for 'In The Stars' Music Video." <https://www.hollywoodreporter.com/tv/tv-news/south-park-creators-ai-rolling-stones-in-the-stars-1236592855/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**29a.** *Music Business Worldwide*, "Boy George uses AI to re-record 'Karma Chameleon' as first release from tech startup Artist." <https://www.musicbusinessworldwide.com/boy-george-uses-ai-to-re-record-karma-chameleon-as-first-release-from-tech-startup-artist-included/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
 **30.** *Variety*, "Cate Blanchett Co-Founds RSL Media, a Non-Profit to Address Consent Around AI Usage including creative work, name, image and likeness." <https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-consent-1236748255/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**30a.** *Variety*, "Cate Blanchett, Steven Soderbergh, Nikki Hexum on How the Human Consent Registry Helps People Protect Their Identity From AI Theft: It's a 'Human Right'." <https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 **31.** *Bloomberg*, "Apple Acquires Key Talent & Patents Behind AI Avatar Company 'Animato'." <https://www.bloomberg.com/news/articles/2026-05-19/apple-acquires-animato-ai-avatar-talent-patents>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
 **31a.** Estate of Ozzy Osbourne announces the late artist will "live on as an AI avatar that talks with fans," June 2026. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**31b.** *NBC News*, "Netflix says it will use AI to recreate the voice of the late Gene Wilder in a new reality TV series set in the world of Willy Wonka & the Chocolate Factory." <https://www.nbcnews.com/pop-culture/pop-culture-news/gene-wilder-ai-voice-netflix-willy-wonka-competiton-show-rcna352440>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 **32.** *The Drum*, "David Beckham Designs 'Henchester United' Chicken Coop in Lenovo Ad." <https://www.thedrum.com/news/2026/05/18/david-beckham-henchester-united-chicken-coop-lenovo-ai-ad>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
@@ -15729,6 +16644,20 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **32c.** Hasbro's Sixth Wall launch and the CharacterOS governance layer, 3 June 2026. BusinessWire: <https://www.businesswire.com/news/home/20260603297922/en/>. *The Wrap*: <https://www.thewrap.com/industry-news/business/hasbro-ai-studio-sixth-wall-launch/>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md). Cross-reference [Chapter 7 §"Position Five"](07_The_Studios_Decide.md) and [Chapter 6 §"The three Cs"](06_The_88_Percent.md).
 
 **32d.** Spotify–Universal Music Group landmark licensing agreements, 21 May 2026. Spotify Newsroom: <https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/>. *TechCrunch*: <https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/>. Detailed treatment in [Appendix L](A12_Deep_Dive_Programmable_Brand.md) and footnote ^37a in [Chapter 6](06_The_88_Percent.md).
+
+**32e.** *Variety*, "Nearly 1,000 Sign Open Letter Condemning Contract Clauses That Require Child Actors to Sign Over Their Voices for AI" (the *Peppa Pig* / Hasbro backlash). <https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**32f.** *The Hollywood Reporter*, "Warner Music Group Acquires AI Detection Company Sureel." <https://www.hollywoodreporter.com/music/music-industry-news/warner-music-group-buys-ai-detection-company-sureel-1236618266/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**32g.** *Variety*, "Sony Invests in AI Copyright-Protection Firm Midnight Labs." <https://variety.com/2026/biz/news/ip-ai-firm-midnight-labs-sony-million-dollar-investment-1236766931/>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**32h.** *Engadget*, "Deezer launches an AI music detector for other streaming services." <https://www.engadget.com/2192024/deezer-ai-music-detector/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**32i.** *Music Business Worldwide*, "Tech startup RTM Audio launches AI music detector UAI, which issues a signed certificate with every verdict." <https://www.musicbusinessworldwide.com/tech-startup-rtm-audio-launches-ai-music-detector-uai-which-issues-a-signed-certificate-with-every-verdict/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**32j.** *Music Ally*, "Played By Humans is verifying 'human artistry in an AI age'." <https://musically.com/2026/06/11/played-by-humans-is-verifying-human-artistry-in-an-ai-age/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**32k.** *MusicTech*, "Traxsource to introduce labels to identify both human-made and AI-assisted music." <https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
 
 ## Chapter 13 — Coordination Collapse
@@ -15827,6 +16756,14 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **46a.** Epidemic Sound, *Future of the Creator Economy Report 2026* (survey of 3,000 professional creators across UK and US, June 2026); *Musically* commentary on the report and creator attitudes towards AI. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md), Editor's Pick, June 2026.
 
+**47.** Ramp, "Ramp AI Index," June 2026. <https://ramp.com/data/ai-index-june-2026>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**48.** *AppleInsider*, "Adobe's glowing AI survey leaves out most of the creative industry." <https://appleinsider.com/articles/26/06/16/adobes-glowing-ai-survey-leaves-out-most-of-the-creative-industry>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**49.** *PC Gamer*, "Open source game engine Godot will no longer accept AI-authored code contributions: 'We can't trust heavy users of AI to understand their code enough to fix it'." <https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**50.** *Fortune*, "Top CFOs warn AI success depends on training employees, not just buying technology." <https://fortune.com/2026/06/25/cfo-hpe-prologis-smucker-moodys-ai-success-training-employees/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
 
 ## Chapter 14 — The New Jobs
 
@@ -15924,6 +16861,18 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **47.** The doomer frame is set out at length in OpenAI's spring 2026 policy paper on the "social contract for the intelligence age" (covered in [*Dream Machine* Issue 24](../Dream%20Machine%20MD/24.md)) and in Daniel Susskind's *A World Without Work*. The full empirical rebuttal — including the Stanford Digital Economy Lab's *Canaries in the Coal Mine?* findings (Brynjolfsson, Chandar & Chen, 2025), Brynjolfsson, Li & Raymond's *Generative AI at Work* (QJE, 2025; n = 5,179 agents), Acemoglu's *Simple Macroeconomics of AI* (Economic Policy, 2025), the Dallas Fed's labour analyses, the St. Louis Fed's AI-and-GDP tracking, the 2026 Stanford AI Index, and the 230-year history of identical predictions — is laid out in [Appendix I: The Doomer Mistake](A9_Deep_Dive_Doomer_Mistake.md). The deep dive is the analytical antibody to the policy framing this section is pushing back against.
 
+**48.** *Ad Age*, "PMG's hackathon at Cannes signals agencies' growing appetite for AI talent." <https://adage.com/technology/ai/aa-pmg-cannes-hackathon-agency-skilled-talent/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**49.** Anthropic, "Claude Corps: teaching 1,000 fellows to master Claude, matched with nonprofits across America." <https://www.anthropic.com/news/claude-corps>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**50.** GOV.UK, "AI Adoption Plan for the Creative Industries." <https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-creative-industries>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
+**51.** *The Hollywood Reporter*, "Hollywood Workers Are Training AI Models as Job Prospects Grow Slim." <https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**52.** *UKTN*, "AI hiring surges 'across all UK sectors', according to new findings from PwC, with a 34% salary premium for AI skills." <https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**53.** *PC Gamer*, "EA: AI is delivering 'faster prototyping' and a 'real rise in creativity' in its studios." <https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
 
 ## Chapter 15 — Choosing the Future
 
@@ -15939,6 +16888,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **1.** OpenAI, "Sora 2 is here," 30 September 2025. <https://openai.com/index/sora-2/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
 **2.** LinkedIn News aggregation: "Sora Tops 1 Million Downloads in 5 Days." <https://www.linkedin.com/news/story/sora-tops-1m-downloads-in-5-days-6684988/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
+
+**2a.** OpenAI's staged wind-down of Sora, announced 24 March 2026 — consumer app and website ending late April, developer API closing late September; peak revenue reportedly ~$540k per month against operating costs in the billions. Sources and the corrected Disney–OpenAI record are set out in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md), references 15–16.
 
 **3.** Google DeepMind, Veo 3.1 launch, mid-October 2025. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
 
@@ -16052,14 +17003,32 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **58.** PhotoGIMP — the open-source GIMP skin that mimics Photoshop. <https://github.com/Diolinux/PhotoGIMP>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**59.** *The Decoder*, "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation." <https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/>. Dreamina Seedance 2.0 Mini: <https://dreamina.capcut.com/seedance/seedance-2-0-mini>. Seedance 2.0 Mini and 4K in ComfyUI: <https://blog.comfy.org/p/seedance-20-mini-and-4k-is-now-available>. *Dream Machine* Issues [34](../Dream%20Machine%20MD/34.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+**60.** Runway API Recipes: <https://runwayml.com/api>. Runway MCP in ChatGPT: <https://runwayml.com/mcp>. Runway Agent 2 ad localisation: <https://runwayml.com/news/introducing-agent-2>. *Dream Machine* Issues [34](../Dream%20Machine%20MD/34.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+**61.** Google Magenta RealTime 2: <https://magenta.withgoogle.com/magenta-realtime-2>. Daydream: <https://daydream.live/>. *MusicRadar* on Fender Studio Pro and Moises: <https://www.musicradar.com/music-tech/daws/ai-isnt-the-destination-making-music-is-fender-looks-forward-as-its-studio-pro-daw-integrates-moises-stem-separation-and-a-smart-studio-assistant>. *MusicTech* on the Maono PD500W: <https://musictech.com/news/gear/maono-pd500w/>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [35](../Dream%20Machine%20MD/35.md).
+
+**62.** Suno, "Introducing Spark." <https://suno.com/blog/introducing-spark>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**63.** Comfy MCP public beta. <https://comfy.org/mcp/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**64.** Epic Games, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. Magnific MCP: <https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp>. Higgsfield MCP: <https://higgsfield.ai/mcp>. Runway MCP: <https://runwayml.com/mcp>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [35](../Dream%20Machine%20MD/35.md), [36](../Dream%20Machine%20MD/36.md).
+
+**65.** Adobe, "Adobe unveils major expansion" — Creative Agent and AI Assistant in beta across Premiere, Photoshop, Illustrator, InDesign and Frame.io. <https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**66.** Epic Games, "State of Unreal 2026: top news from the show." <https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**67.** Radiance Fields, "Apple Maps Flyover is getting a Gaussian splatting upgrade." <https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
+
 
 
 ---
 
 ## Summary
 
-- **Total footnotes**: 563
-- **Unique primary-source URLs cited**: 357
+- **Total footnotes**: 668
+- **Unique primary-source URLs cited**: 464
 - **Source corpus**: 32 editions of *Dream Machine | Creative AI* (October 2025 – June 2026)
 
 

@@ -1,8 +1,8 @@
 # Reader paths
 
-*This is a book about creative AI in the eight months between October 2025 and June 2026. It is not a tools guide. It is an argument, with the evidence underneath, about what kind of creative economy is being built right now and what we should do about it.*
+*This is a book about creative AI in the nine months between October 2025 and July 2026. It is not a tools guide. It is an argument, with the evidence underneath, about what kind of creative economy is being built right now and what we should do about it.*
 
-You can read this book straight through. It is built to reward that. The book has eighteen sections — a combined Foreword, seventeen chapters, an Epilogue — plus twelve appendices, sequenced so that each one earns the next.
+You can read this book straight through. It is built to reward that. The book has eighteen sections — a combined Foreword, seventeen chapters, an Epilogue — plus thirteen appendices, sequenced so that each one earns the next.
 
 If you don't have time for that, here are six ways into the book that will save you from reading something that doesn't serve you yet. Pick one. Come back to the rest later.
 
@@ -24,7 +24,7 @@ Read **Chapter 5 (The Slop Ceiling)** first — it's where most of the music-spe
 
 ### If you are working in (or covering) film, TV or games
 
-Read **Chapter 1 (The Day Sora Landed)** for the watershed scene-setter, **Chapter 7 (The Studios Decide)** for the strategic map of how the industry has positioned itself, **Chapter 8 (Worlds, Not Pictures)** for what is coming next, **Chapter 11 (The Orchestrator)** for what it means for working roles, and **Chapter 14 (The New Jobs)** for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read **Appendix J (The Process Trap)**.
+Read **Chapter 1 (The Day Sora Landed)** for the watershed scene-setter, **Chapter 7 (The Studios Decide)** for the strategic map of how the industry has positioned itself, **Chapter 8 (Worlds, Not Pictures)** for what is coming next, **Chapter 11 (The Orchestrator)** for what it means for working roles, and **Chapter 14 (The New Jobs)** for the labour-market data. For the harder underlying argument about why the *creative* / *creatives* equivocation collapses under generative abundance, read **Appendix J (The Process Trap)**. And for the storyworld template that Chapter 8 argues is coming for every entertainment franchise — demonstrated live, at six-billion-viewer scale — read **Appendix M (The World Cup Storyworld)**.
 
 ### If you want the empirical case against the AI-doomer policy framing
 
@@ -33,6 +33,10 @@ Read the **Foreword**, **Chapter 14 (The New Jobs)** for the labour-market readi
 ### If you are working in (or covering) IP, licensing, brand strategy or legal architecture
 
 Read **Chapter 6 (The 88%)** for the political mandate the licensing-side conversation rests on, then **Chapter 7 (The Studios Decide)** — particularly the new *Position Five: Own the rails* section on Hasbro's Sixth Wall, the CharacterOS governance layer and the corrected record on the Disney–OpenAI deal that never executed — and then **Chapter 12 (Authenticity as the New Scarcity)** for the provenance and disclosure infrastructure that the IP layer sits inside. **Appendix L (The Programmable Brand)** is the long-form treatment: the *three Cs* (consent, credit, compensation) framework, the five-licensing-model comparison, the Coase / Williamson / Barney economic foundations, and the conceptual move from *IP as asset* to *IP as environment*.
+
+### If you are working in (or covering) sport, live events or broadcast
+
+Read **Appendix M (The World Cup Storyworld)** first — the 2026 FIFA World Cup as the largest live deployment of AI in entertainment history: officiating, broadcast, the Roblox second venue, the creator flywheel, the synthetic-rights precedent and the robot dogs. Then **Chapter 8 (Worlds, Not Pictures)** for the storyworld architecture it demonstrates, **Chapter 12 (Authenticity as the New Scarcity)** for why the live, verifiably human moment is where the premium migrates, and **Chapter 7 (The Studios Decide)** for the own-the-rails strategy FIFA is executing.
 
 ### If you are reading this in a class, a book club, or as part of training
 

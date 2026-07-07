@@ -12,9 +12,9 @@ I sat down on a Monday morning in early October, opened a blank LinkedIn article
 
 *"It's time to take AI seriously."*
 
-I sent that issue out to a few hundred people in my network. I assumed I'd do it for a month, maybe two — that the wave would pass, or that I'd run out of material, or that someone with a bigger platform would do it better. Eight months later, the newsletter has 3,800-odd subscribers, thirty-two published editions, several thousand curated links, and a community of people in the North West of England — the **DreamLab Collective**, around fifty of us across labs in Manchester, Liverpool, Cumbria and London — who help me read, sift, argue and build around it every week.[^5]
+I sent that issue out to a few hundred people in my network. I assumed I'd do it for a month, maybe two — that the wave would pass, or that I'd run out of material, or that someone with a bigger platform would do it better. Nine months later, the newsletter has 3,800-odd subscribers, thirty-six published editions, several thousand curated links, and a community of people in the North West of England — the **DreamLab Collective**, around fifty of us across labs in Manchester, Liverpool, Cumbria and London — who help me read, sift, argue and build around it every week.[^5]
 
-This book is the thing that happens when you keep a careful, public record of an industry coming apart and putting itself back together inside the same eight months.
+This book is the thing that happens when you keep a careful, public record of an industry coming apart and putting itself back together inside the same nine months.
 
 ---
 
@@ -30,10 +30,10 @@ In parallel to the studio work I've developed innovation and investment programm
 
 I'm not an AI evangelist. I'm also not an AI sceptic. I'm the kind of practitioner who has had Marble running on a beta key for months and who has also sat in a room with a games studio CEO who used the phrase "AI was an expensive mistake" without breaking eye contact.[^7] I have built things with these tools and I have watched them break. I'm writing this book from inside the work — and writing it, by the way, in the same voice I write the newsletter in, which is the same voice I argue with my team in, which is the same voice (give or take a bracket) you'll hear if we ever end up in a pub together. A fuller version of the bio and a fuller picture of DreamLab — including the studio's client list, recognition and structural position inside the UK creative-tech ecosystem — sits in the [About the author, and about DreamLab](Z1_About.md) section at the back of the book.
 
-Through the eight months the book covers, I have been doing three things in parallel:
+Through the nine months the book covers, I have been doing three things in parallel:
 
 - **Running DreamLab**, the ~50-person studio above, which uses every major AI platform discussed in this book in live production. We have been a closed-beta partner for World Labs' Marble since October 2025.
-- **Writing the *Dream Machine* newsletter** — thirty-two weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives at the time of publication.
+- **Writing the *Dream Machine* newsletter** — thirty-six weekly issues, several thousand curated source links across film, music, games, advertising and broadcast, a subscriber base of roughly 3,800 working creatives at the time of publication.
 - **Building out a small set of analytical frameworks** — the *Human–AI Agency Continuum* (Chapter 3), the *Slop Ceiling* (Chapter 5), the *Four Positions* map of studio strategy (Chapter 7), the *Year of the Orchestrator* (Chapter 11), *Coordination Collapse* and the *Consumption Gap* (Chapter 13), the *AI Literacy Premium* and the *Apprenticeship Gap* (Chapter 14), the *Four Principles* of a humane creative economy (Chapter 15), and the *Seven-Layer Toolchain* model (Chapter 16) — that have begun, over the period, to circulate in the wider industry conversation.
 
 The combination of the three is unusual. The trade-press journalists write the coverage but do not, on the whole, run studios. The studio operators run studios but do not, on the whole, publish a public weekly record. The academics produce research, sometimes excellent, but at the cadence of academia rather than the cadence of the transition. The platform companies produce material at the cadence of their own product cycles. Working from across the three positions at once, week by week, has produced a particular kind of vantage point — neither outside the work nor confined to one slice of it — that I have not seen anyone else holding consistently through this period.
@@ -158,7 +158,12 @@ Welcome to the Dream Machine.
 - **[Appendix E: Dynamics of Generative AI Adoption](A5_Deep_Dive_Adoption_Dynamics.md)** — the consumption-gap evidence
 - **[Appendix F: AI, Stigma, Privilege, Democratisation](A6_Deep_Dive_AI_Stigma.md)** — the class question
 - **[Appendix G: The Age of Intent](A7_Deep_Dive_AI_Intent.md)** — the philosophical spine
-- **[Appendix H: The Dream Machine Source Index](A8_Source_Index.md)** — thematic catalogue of every significant source across the 32 issues
+- **[Appendix H: The Dream Machine Source Index](A8_Source_Index.md)** — thematic catalogue of every significant source across the 36 issues
+- **[Appendix I: The Doomer Mistake](A9_Deep_Dive_Doomer_Mistake.md)** — the long-form rebuttal of the AI-eliminates-creative-jobs framing
+- **[Appendix J: The Process Trap](A10_Deep_Dive_Process_Trap.md)** — why the *creative* / *creatives* equivocation collapses under generative abundance
+- **[Appendix K: Coordination Collapse (extended)](A11_Deep_Dive_Coordination_Collapse.md)** — hierarchy as information-routing protocol, and what replaces it
+- **[Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md)** — from IP-as-asset to IP-as-environment
+- **[Appendix M: The World Cup Storyworld](A13_Deep_Dive_World_Cup.md)** — the 2026 World Cup as the largest live AI deployment in entertainment history
 
 [^1]: Variety, "SAG-AFTRA Condemns Tilly Norwood: AI Actress Is Not an Actor," 30 September 2025. <https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/>. See also NBC News, "Tilly Norwood, fully AI 'actor,' blasted by actors union SAG-AFTRA for 'devaluing human artistry'." <https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-fully-ai-actor-blasted-actors-union-sag-aftra-devaluing-rcna234685>. Discussed in [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) (6 October 2025).
 
@@ -168,7 +173,7 @@ Welcome to the Dream Machine.
 
 [^4]: OpenAI, "Sora 2 is here," announcement page, 30 September 2025. <https://openai.com/index/sora-2/>. The model launched alongside an invite-only iOS app of the same name in the U.S. and Canada. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) carried the launch alongside contemporaneous coverage from NBC News and *The Guardian* on the model's first copyright and safety incidents.
 
-[^5]: *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[32](../Dream%20Machine%20MD/32.md), October 2025 – June 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
+[^5]: *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[36](../Dream%20Machine%20MD/36.md), October 2025 – July 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
 
 [^6]: DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>. Referenced from [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md) onward.
 
