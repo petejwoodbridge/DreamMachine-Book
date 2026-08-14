@@ -7,12 +7,13 @@
 
 @page {
   size: 6in 9in;
-  /* KDP gutter requirement scales with page count; at 700+ pages it is
-     0.875in. Set left/right margins symmetrically to 0.875in so the
-     binding-side gutter meets the requirement on every page regardless of
-     which side binds (Chromium's headless print does not reliably honour
-     mirrored @page :left/:right margins). Top/bottom stay well above the
-     0.25in minimum. */
+  /* Mirrored margins for print binding. The gutter (spine-side) margin is
+     wide (0.95in) to clear KDP's 0.875in minimum for 700+ page books; the
+     outer edge is narrower (0.6in) so the text block sits correctly on the
+     page instead of floating toward the spine. The :left/:right rules below
+     swap the wide margin to the binding side per page — Edge/Chromium
+     headless honours differential @page :left/:right margins. Top/bottom
+     stay well above the 0.25in minimum. This base rule is the fallback. */
   margin: 0.75in 0.95in 0.85in 0.95in;
 
   @top-left {
@@ -34,6 +35,16 @@
     font-size: 10pt;
     color: #333;
   }
+}
+
+/* Recto (right-hand, odd) pages: spine/gutter on the LEFT.
+   All four margins set explicitly (top right bottom left). */
+@page :right {
+  margin: 0.7in 0.55in 0.78in 0.95in;
+}
+/* Verso (left-hand, even) pages: spine/gutter on the RIGHT. */
+@page :left {
+  margin: 0.7in 0.95in 0.78in 0.55in;
 }
 
 @page :first {
