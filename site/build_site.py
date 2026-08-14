@@ -733,14 +733,11 @@ def parse_chapters() -> list[dict]:
         "16_Choosing_the_Future.md", "17_The_Tools.md",
         "18_Five_Years_Inside_the_Dream_Machine.md", "19_Epilogue.md",
     ]
+    # Printed-book appendices only (A–D). The nine long-form deep-dive
+    # documents remain in the repo but are not listed as book appendices.
     appendices = [
         "A1_Appendix_Quantitative_Anatomy.md", "A2_Glossary.md",
-        "A3_Bibliography_by_Topic.md", "A4_Deep_Dive_Shadow_AI.md",
-        "A5_Deep_Dive_Adoption_Dynamics.md", "A6_Deep_Dive_AI_Stigma.md",
-        "A7_Deep_Dive_AI_Intent.md", "A8_Source_Index.md",
-        "A9_Deep_Dive_Doomer_Mistake.md", "A10_Deep_Dive_Process_Trap.md",
-        "A11_Deep_Dive_Coordination_Collapse.md", "A12_Deep_Dive_Programmable_Brand.md",
-        "A13_Deep_Dive_World_Cup.md",
+        "A3_Bibliography_by_Topic.md", "A8_Source_Index.md",
     ]
     out = []
     for name in chapter_files + appendices:

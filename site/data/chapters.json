@@ -168,73 +168,10 @@
     "is_appendix": true
   },
   {
-    "file": "A4_Deep_Dive_Shadow_AI.md",
-    "title": "Appendix D — The Shadow AI Paradox in the Creative Industries",
-    "subtitle": "Page 1",
-    "path": "Book/A4_Deep_Dive_Shadow_AI.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A5_Deep_Dive_Adoption_Dynamics.md",
-    "title": "Appendix E — Dynamics of Generative AI Adoption in the Creative Industries",
-    "subtitle": "Page 1",
-    "path": "Book/A5_Deep_Dive_Adoption_Dynamics.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A6_Deep_Dive_AI_Stigma.md",
-    "title": "Appendix F — AI, Stigma, Privilege and the Democratisation of Creative Expression",
-    "subtitle": "Page 1",
-    "path": "Book/A6_Deep_Dive_AI_Stigma.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A7_Deep_Dive_AI_Intent.md",
-    "title": "Appendix G — The Age of Intent: Artistic Mastery and the Inversion of Value",
-    "subtitle": "Page 1",
-    "path": "Book/A7_Deep_Dive_AI_Intent.md",
-    "is_appendix": true
-  },
-  {
     "file": "A8_Source_Index.md",
     "title": "Appendix D — The Dream Machine Source Index",
     "subtitle": "1. AI Video — Models and Releases",
     "path": "Book/A8_Source_Index.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A9_Deep_Dive_Doomer_Mistake.md",
-    "title": "Appendix I — The Doomer Mistake: Why the Case for AI-Driven Civilizational Collapse Keeps Losing the Argument with the Data",
-    "subtitle": "Page 1",
-    "path": "Book/A9_Deep_Dive_Doomer_Mistake.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A10_Deep_Dive_Process_Trap.md",
-    "title": "Appendix J — The Process Trap: Generative Abundance and the Equivocation of the Creative",
-    "subtitle": "4.1 The originating problem",
-    "path": "Book/A10_Deep_Dive_Process_Trap.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A11_Deep_Dive_Coordination_Collapse.md",
-    "title": "Appendix K — The Coordination Collapse: How AI Is Dissolving the Information Tax That Created Hierarchy",
-    "subtitle": "Page 1",
-    "path": "Book/A11_Deep_Dive_Coordination_Collapse.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A12_Deep_Dive_Programmable_Brand.md",
-    "title": "Appendix L — The Programmable Brand: Behavioural Licensing and the Governance Layer of the Generative Economy",
-    "subtitle": "Page 1",
-    "path": "Book/A12_Deep_Dive_Programmable_Brand.md",
-    "is_appendix": true
-  },
-  {
-    "file": "A13_Deep_Dive_World_Cup.md",
-    "title": "Appendix M — The World Cup Storyworld: AI, Live Sport and the Largest Deployment in Entertainment History",
-    "subtitle": "How the 2026 World Cup became the largest live deployment of artificial intelligence in entertainment history",
-    "path": "Book/A13_Deep_Dive_World_Cup.md",
     "is_appendix": true
   }
 ]
