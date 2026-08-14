@@ -80,16 +80,7 @@ APPENDIX_FILES = [
     "A1_Appendix_Quantitative_Anatomy.md",
     "A2_Glossary.md",
     "A3_Bibliography_by_Topic.md",
-    "A4_Deep_Dive_Shadow_AI.md",
-    "A5_Deep_Dive_Adoption_Dynamics.md",
-    "A6_Deep_Dive_AI_Stigma.md",
-    "A7_Deep_Dive_AI_Intent.md",
     "A8_Source_Index.md",
-    "A9_Deep_Dive_Doomer_Mistake.md",
-    "A10_Deep_Dive_Process_Trap.md",
-    "A11_Deep_Dive_Coordination_Collapse.md",
-    "A12_Deep_Dive_Programmable_Brand.md",
-    "A13_Deep_Dive_World_Cup.md",
 ]
 
 # Back-matter files appended after the Citation Index — biographical / studio

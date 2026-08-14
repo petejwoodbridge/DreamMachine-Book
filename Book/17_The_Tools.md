@@ -42,7 +42,7 @@ With that frame, the inventory.
 
 The video layer changed faster than any other modality between October 2025 and July 2026, and is the one most likely to look different again by the time you read this. Treat the names as snapshots, not as a stable league table.
 
-**Sora 2** (OpenAI) is the model that opened the period this book covers. Its September 2025 launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter 1 is about.[^1] The iOS app launched alongside it hit a million downloads in five days.[^2] By March 2026, however, the platform was shutting down. OpenAI announced a staged wind-down on **24 March 2026** — consumer app and website ending late April, developer API closing late September — with peak revenue reportedly at around $540k per month against operating costs in the billions, and compute reallocated toward higher-margin coding and enterprise products.[^2a] The Disney–OpenAI $1bn licensing announcement of 11 December 2025 was never executed; no formal agreement was signed and no money changed hands. The contractual *framework* underneath that deal — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against; the deep treatment of that architecture and the broader IP-economics shift it sits inside is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md). For working filmmakers in mid-2026, the practical implication of the Sora collapse is that the *consumer-facing edge* of the AI-video market has rotated to ByteDance's CapCut/Dreamina/Seedance stack, to the YouTube Shorts integrations of Veo 3.1, and to the Sora app's various TikTok-and-Reels-shaped successors. The professional pipeline never depended on Sora 2 in the first place — most working filmmakers I know used it less than its cultural prominence suggested — and so on the production side the collapse changes less than the headlines implied.
+**Sora 2** (OpenAI) is the model that opened the period this book covers. Its September 2025 launch — physical realism, audio integration, multi-shot world-state persistence — is the moment Chapter 1 is about.[^1] The iOS app launched alongside it hit a million downloads in five days.[^2] By March 2026, however, the platform was shutting down. OpenAI announced a staged wind-down on **24 March 2026** — consumer app and website ending late April, developer API closing late September — with peak revenue reportedly at around $540k per month against operating costs in the billions, and compute reallocated toward higher-margin coding and enterprise products.[^2a] The Disney–OpenAI $1bn licensing announcement of 11 December 2025 was never executed; no formal agreement was signed and no money changed hands. The contractual *framework* underneath that deal — IP-not-training, talent-likeness excluded, jointly-governed steering committee, equity-and-warrants structure — survived the platform's collapse and is now the reference architecture other studios negotiate against; the deeper treatment of that architecture and the broader IP-economics shift it sits inside sits in DreamLab's published research. For working filmmakers in mid-2026, the practical implication of the Sora collapse is that the *consumer-facing edge* of the AI-video market has rotated to ByteDance's CapCut/Dreamina/Seedance stack, to the YouTube Shorts integrations of Veo 3.1, and to the Sora app's various TikTok-and-Reels-shaped successors. The professional pipeline never depended on Sora 2 in the first place — most working filmmakers I know used it less than its cultural prominence suggested — and so on the production side the collapse changes less than the headlines implied.
 
 **Veo 3.1** (Google DeepMind), released in mid-October 2025, is the model the professional filmmaking community has, on average, gravitated toward — for narrative coherence, controllable camera composition, cinematic lighting vocabulary and sound integration.[^3] Sora 2 wins on raw physics in single clips; Veo 3.1 wins on the kind of sustained directorial control most actual production pipelines need.
 
@@ -82,7 +82,7 @@ The music layer split into three categories during this period, and the split is
 
 **Generative music tools** that produce finished tracks from prompts — **Suno** (Studio launched late 2025[^13]), **Udio**, **Mureka** (with its Music Agent Studio, six specialised AI agents for songwriting, arrangement and production[^14]). These are the tools that produce most of the AI-music flood Chapter 5 describes. They are also, paradoxically, the tools most working musicians use the least directly — the consumer market for AI-generated finished tracks is large and growing, but professional musicians overwhelmingly use AI tools at a different layer.
 
-**Production and post-production AI** — the tools that handle audio restoration, mixing, mastering and isolation. The 1,100-creator music survey discussed in [Appendix D](A4_Deep_Dive_Shadow_AI.md) found that 58% of professional producers used AI for audio restoration, 38% for mixing assistance, 33.9% for automated mastering. **iZotope Ozone 12**, **LANDR**, the Pro Tools and Logic Pro AI suites, **CleanvoiceAI** for podcast post — this is where the silent-adoption majority of the music industry lives.
+**Production and post-production AI** — the tools that handle audio restoration, mixing, mastering and isolation. The 1,100-creator music survey found that 58% of professional producers used AI for audio restoration, 38% for mixing assistance, 33.9% for automated mastering. **iZotope Ozone 12**, **LANDR**, the Pro Tools and Logic Pro AI suites, **CleanvoiceAI** for podcast post — this is where the silent-adoption majority of the music industry lives.
 
 **Voice and audio synthesis** — **ElevenLabs** is the dominant player, with $500m ARR, BlackRock / NVIDIA backing, and meaningful share across audiobook narration, dubbing, podcast synthesis and AI character voice work.[^15] The Cardiff band that found their music had been used to train an "AI artist" outperforming them on Spotify[^16] is one of the cautionary tales of this layer; the Andrii Daniels bomb-shelter clip[^17] is one of the success cases.
 
@@ -809,7 +809,7 @@ The list runs to roughly six hundred and thirty entries. Skim it. Use the catego
 
 #### IP licensing, governance and behavioural-licence platforms
 
-*The contract-and-governance layer that emerged through 2025–26. The deep analytical treatment of how these models work — the* three Cs *of consent, credit, compensation; the five-model comparison; the corrected Disney–OpenAI record; the transaction-cost reframe — is in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md).*
+*The contract-and-governance layer that emerged through 2025–26. The deep analytical treatment of how these models work — the* three Cs *of consent, credit, compensation; the five-model comparison; the corrected Disney–OpenAI record; the transaction-cost reframe — sits in DreamLab's published research.*
 
 - **Hasbro Sixth Wall / CharacterOS** — in-house AI studio launched 3 June 2026 to license the *behaviour* of Hasbro characters (Optimus Prime, Megatron, Cobra Commander, the *Clue* cast) under a runtime governance layer that encodes canon, voice, personality, lore and safety limits; B2B programmatic licence with a talent-participation pay-out structure for original performers; initial 12-character catalogue; 13+/enterprise focus.
 - **Verified by Spotify / Spotify–UMG fan-remix product** — Spotify's *Verified by Spotify* badge and the opt-in catalogue infrastructure underneath the May 2026 Spotify–Universal Music Group landmark licensing agreement for fan-made AI covers and remixes; *consent / credit / compensation* framework; paid Premium add-on; new royalty stream to artists and songwriters.
@@ -817,7 +817,7 @@ The list runs to roughly six hundred and thirty entries. Skim it. Use the catego
 - **Elf.tech / GrimesAI** (CreateSafe, Triniti API) — Grimes's open-voice platform; upload your vocal, get back a synthesised GrimesAI performance, release commercially with a ~50% master-royalty split; analogised by her team to fan-fiction and fan-art cultures; ~15,000 tracks generated under the licence.
 - **Holly+ / Holly Herndon DAO** — public digital twin of the artist's voice wrapped in collective DAO governance for commercial-use decisions and the distribution of proceeds; paired with the *Have I Been Trained?* (Spawning) consent-layer tooling.
 - **ElevenLabs Heritage Voices / Iconic Marketplace (with CMG Worldwide and partners)** — heritage-voice licensing pipeline confined to a single text-to-speech Reader app, walled off from the general voice-cloning database; voices include Judy Garland, James Dean, Burt Reynolds, Laurence Olivier, the Stan Lee estate and Michael Caine.
-- **Meta Celebrity Chatbots (2023)** — the closed-static likeness-rental anti-pattern referenced for contrast in [Appendix L](A12_Deep_Dive_Programmable_Brand.md): high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community.
+- **Meta Celebrity Chatbots (2023)** — the closed-static likeness-rental anti-pattern often cited for contrast: high flat fee (reportedly up to ~$5m per celebrity over two years) for platform-owned, frozen personas with no participatory layer for users or the wider creator community.
 - **Cannes AI Disclosure Standard** — industry-coordination labelling standard for production-side AI use; the inter-industry analogue of the per-platform governance layers above.
 - **Human Consent Registry** — identity-protection registry backed by Cate Blanchett, Steven Soderbergh and Nikki Hexum, framing protection from AI identity theft as "a human right."
 
@@ -911,7 +911,7 @@ The list runs to roughly six hundred and thirty entries. Skim it. Use the catego
 
 This is the catalogue. By the time you read it, it will be incomplete — new tools have shipped, some on this list have been bought, renamed or killed. Treat it as a snapshot of one year of toolchain at the moment the toolchain became a stack rather than a list, and use it to orient yourself in whatever the state of play is when you pick the book up.
 
-For a deeper analytical treatment of the adoption telemetry behind many of these tools — Firefly's 22B-asset growth curve, ChatGPT's 800–900M WAU figures, the Veo / Sora professional split, the GDC sentiment-vs-usage divergence — see [Appendix E: Dynamics of Generative AI Adoption](A5_Deep_Dive_Adoption_Dynamics.md).
+The adoption telemetry behind many of these tools — Firefly's 22B-asset growth curve, ChatGPT's 800–900M WAU figures, the Veo / Sora professional split, the GDC sentiment-vs-usage divergence — is analysed at length in DreamLab's published research.
 
 ### How to build a toolchain you can defend
 
@@ -939,7 +939,7 @@ The transition is going to keep going. The tools will keep changing. The work th
 
 [^2]: LinkedIn News aggregation: "Sora Tops 1 Million Downloads in 5 Days." <https://www.linkedin.com/news/story/sora-tops-1m-downloads-in-5-days-6684988/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
 
-[^2a]: OpenAI's staged wind-down of Sora, announced 24 March 2026 — consumer app and website ending late April, developer API closing late September; peak revenue reportedly ~$540k per month against operating costs in the billions. Sources and the corrected Disney–OpenAI record are set out in [Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md), references 15–16.
+[^2a]: OpenAI's staged wind-down of Sora, announced 24 March 2026 — consumer app and website ending late April, developer API closing late September; peak revenue reportedly ~$540k per month against operating costs in the billions. Sources and the corrected Disney–OpenAI record are set out in DreamLab's published research on the programmable brand.
 
 [^3]: Google DeepMind, Veo 3.1 launch, mid-October 2025. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md).
 
@@ -957,7 +957,7 @@ The transition is going to keep going. The tools will keep changing. The work th
 
 [^10]: ElevenLabs $500m ARR reporting, April 2026. [*Dream Machine* Issue 25](../Dream%20Machine%20MD/25.md).
 
-[^11]: Adobe Firefly milestone data, in [*Dynamics of Generative AI Adoption*](A5_Deep_Dive_Adoption_Dynamics.md), §"The Ubiquity of AI in Visual and Digital Arts."
+[^11]: Adobe Firefly milestone data, from DreamLab's published research on the dynamics of generative AI adoption, §"The Ubiquity of AI in Visual and Digital Arts."
 
 [^12]: Nano Banana inside Photoshop and inside Unreal Engine cross-integrations, October–November 2025. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
@@ -1011,7 +1011,7 @@ The transition is going to keep going. The tools will keep changing. The work th
 
 [^37]: Unity AI Council (October 2025); Unity AI Open Beta (May 2026). *Dream Machine* Issues [1](../Dream%20Machine%20MD/1.md), [28](../Dream%20Machine%20MD/28.md).
 
-[^38]: VFX AI integration metrics. See [*Dynamics of Generative AI Adoption*](A5_Deep_Dive_Adoption_Dynamics.md), §"Visual Effects (VFX) Automation."
+[^38]: VFX AI integration metrics, from DreamLab's published research on the dynamics of generative AI adoption, §"Visual Effects (VFX) Automation."
 
 [^39]: Anthropic / Blender Foundation patronage. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md).
 

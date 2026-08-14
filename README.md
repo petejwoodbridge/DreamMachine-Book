@@ -64,7 +64,7 @@ The book has a [Reader Paths](Book/00a_Reader_Paths.md) guide with ten different
 
 ## What's in it
 
-**~286,000 words, ~710 pages.** Foreword, eighteen chapters, an Epilogue, and thirteen deep-dive appendices.
+**~197,000 words, ~570 pages.** Foreword, eighteen chapters, an Epilogue, and four appendices.
 
 ### The argument in one paragraph
 
@@ -114,23 +114,16 @@ Creative work is being re-platformed inside a twelve-month window. This is not t
 
 ### Appendices
 
-Thirteen deep-dive appendices that extend the book's core arguments with longer-form evidence and analysis.
+Four appendices that extend the book's core arguments with reference material.
 
 | | Title | What it adds |
 |---|---|---|
 | A | [Quantitative Anatomy](Book/A1_Appendix_Quantitative_Anatomy.md) | The data behind the book's empirical claims in one place |
 | B | [Glossary](Book/A2_Glossary.md) | Every term of art defined, including the book's own frameworks |
 | C | [Bibliography by Topic](Book/A3_Bibliography_by_Topic.md) | Curated reading, organised by chapter theme |
-| D | [The Shadow AI Paradox](Book/A4_Deep_Dive_Shadow_AI.md) | Covert adoption, corporate hypocrisy, and the displacement evidence |
-| E | [Dynamics of Generative AI Adoption](Book/A5_Deep_Dive_Adoption_Dynamics.md) | The consumption-gap evidence base |
-| F | [AI, Stigma, Privilege, Democratisation](Book/A6_Deep_Dive_AI_Stigma.md) | The class question: who AI actually democratises, and for whom |
-| G | [The Age of Intent](Book/A7_Deep_Dive_AI_Intent.md) | The philosophical spine: what authorship means when execution is automated |
-| H | [The Dream Machine Source Index](Book/A8_Source_Index.md) | Thematic catalogue of every significant source across all 41 issues |
-| I | [The Doomer Mistake](Book/A9_Deep_Dive_Doomer_Mistake.md) | Long-form rebuttal of the AI-eliminates-creative-jobs framing, from the Stanford Digital Economy Lab data through Brynjolfsson, Acemoglu, and 230 years of identical wrong predictions |
-| J | [The Process Trap](Book/A10_Deep_Dive_Process_Trap.md) | Why the *creative* / *creatives* equivocation collapses under generative abundance, and what that means for how studios and guilds defend creative work |
-| K | [Coordination Collapse (extended)](Book/A11_Deep_Dive_Coordination_Collapse.md) | The 2,000-year history of hierarchy as an information-routing protocol; the jagged frontier; three competing post-hierarchical models; a 90-day implementation roadmap |
-| L | [The Programmable Brand](Book/A12_Deep_Dive_Programmable_Brand.md) | From IP-as-asset to IP-as-environment: the three-Cs framework (consent, credit, compensation), five licensing-model comparison, Coase / Williamson / Barney economic foundations |
-| M | [The World Cup Storyworld](Book/A13_Deep_Dive_World_Cup.md) | The 2026 FIFA World Cup as the largest live AI deployment in entertainment history — digital-twin officiating, the Roblox second venue, the creator flywheel, synthetic rights, and the storyworld template |
+| D | [The Dream Machine Source Index](Book/A8_Source_Index.md) | Thematic catalogue of every significant source across all 41 issues |
+
+The longer deep-dive research documents that informed the book's arguments remain available in the repo (`Book/A4_…` through `Book/A13_…`), though they are no longer printed as appendices in the book.
 
 ---
 
@@ -140,7 +133,7 @@ Thirteen deep-dive appendices that extend the book's core arguments with longer-
 Book/
 ├── 00_Foreword.md ... 19_Epilogue.md     # Foreword, 18 chapters + epilogue
 ├── 00a_Reader_Paths.md                   # Ten routes through the material
-├── A1_…md ... A13_…md                    # 13 deep-dive appendices
+├── A1_…md ... A13_…md                    # 4 printed appendices + deep-dive research docs
 ├── Z1_About.md                           # About the author
 ├── assets/
 │   ├── cover.png, back_cover.png         # Cover art

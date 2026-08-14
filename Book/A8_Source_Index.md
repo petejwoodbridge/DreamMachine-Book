@@ -1,4 +1,4 @@
-# Appendix H — The Dream Machine Source Index
+# Appendix D — The Dream Machine Source Index
 
 *A thematic catalogue of significant sources surfaced across the 41 issues of* Dream Machine *(October 2025 – August 2026).*
 
@@ -478,9 +478,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **PRS for Music AI Survey 2026** — https://www.prsformusic.com/m-magazine/news/prs-for-music-ai-survey-2026
 - `[Issue 24]` **OpenAI public-policy on disruption** — robot tax, 4-day workweek, wealth funds
 - `[Issue 31]` **Epidemic Sound *Future of the Creator Economy Report 2026*** — 94% of creators use AI; 89% feel pressure; 75% premium-human-content thesis — *Musically* coverage — June 2026
-- `[Issue 31]` **Coordination Collapse research report (O'Hare / DreamLab AI Consulting)** — April 2026; preserved as Appendix K
-- `[Issue 31]` **The Process Trap** — generative abundance and the equivocation of the creative; preserved as Appendix J
-- `[Issue 31]` **The Doomer Mistake** — empirical rebuttal of the AI-driven civilizational-collapse case; preserved as Appendix I
+- `[Issue 31]` **Coordination Collapse research report (O'Hare / DreamLab AI Consulting)** — April 2026
+- `[Issue 31]` **The Process Trap** — generative abundance and the equivocation of the creative
+- `[Issue 31]` **The Doomer Mistake** — empirical rebuttal of the AI-driven civilizational-collapse case
 - `[Issue 34]` **PwC: AI hiring surges across all UK sectors** — 34% salary premium for AI skills — https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615
 - `[Issue 34]` **Ramp AI Index** — top 1% of firms now spend $7,500 per employee per month on AI — https://ramp.com/data/ai-index-june-2026
 - `[Issue 36]` **Hollywood workers are training AI models as job prospects grow slim** — https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/
@@ -611,7 +611,7 @@ For the complete primary-source archive — every link, in full, in original pub
 
 ## 25. Live Sport, Events and the World Cup
 
-*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the Issue 34 Editor's Pick and the Deep Dive of 12 June 2026, preserved as [Appendix M](A13_Deep_Dive_World_Cup.md).*
+*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the Issue 34 Editor's Pick and the Deep Dive of 12 June 2026.*
 
 - `[Issue 34]` **Editor's Pick: The AI World Cup — When Sport Becomes a Living Digital System** — one-second player scans, digital twins, Football AI Pro, the multi-platform storyworld — *Dream Machine* Issue 34
 - `[Issue 34]` **TacticAI (Google DeepMind)** — simulating field scenarios and predicting open play up to 8 seconds in advance — https://x.com/GoogleDeepMind/status/2065093482088169719
@@ -635,9 +635,3 @@ For the complete primary-source archive — every link, in full, in original pub
 This thematic index covers the *significant* sources across the *Dream Machine* archive, organised by topic. For specific research, follow the bracketed Issue numbers back to the canonical issue file in `Dream Machine MD/`. Each issue file ends with the section "All embedded URLs (in document order)" which lists every URL the issue carried, including local navigation links, profile pages and platform housekeeping links that are not reproduced here.
 
 The newsletter is a continuous publication. The index above reflects the state of the archive as of Issue 41 (August 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
-
-For deeper analytical treatment of the data this index points to, see the deep-dive appendices:
-- [Appendix D: The Shadow AI Paradox](A4_Deep_Dive_Shadow_AI.md)
-- [Appendix E: Dynamics of Generative AI Adoption](A5_Deep_Dive_Adoption_Dynamics.md)
-- [Appendix F: AI, Stigma, Privilege, Democratisation](A6_Deep_Dive_AI_Stigma.md)
-- [Appendix G: The Age of Intent](A7_Deep_Dive_AI_Intent.md)

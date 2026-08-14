@@ -68,9 +68,9 @@ This is **not a tools guide**. Chapter 17 lists every significant tool that surf
 
 This is **not a manifesto**. I do not believe the cleanest five-point plans for the future of creative work, and I have refused to write one. What this book argues for, in Chapter 16, is a *test* you can apply to any policy, any contract, any platform decision: *Agency, Attribution, Access, Audience.* The test is not a programme. It is a way of staying oriented in a fast-moving environment.
 
-This is **not a chronicle**. The newsletter is the chronicle. Every issue is online, every link is preserved, and the comprehensive thematic source index at the back of this book (Appendix H) catalogues the entire archive by topic for the reader who wants to follow specific threads.
+This is **not a chronicle**. The newsletter is the chronicle. Every issue is online, every link is preserved, and the comprehensive thematic source index at the back of this book (Appendix D) catalogues the entire archive by topic for the reader who wants to follow specific threads.
 
-What this book *is* is an argument, in eighteen chapters and thirteen appendices, that creative work is being re-platformed in a twelve-month window — that this is not the internet of 1995 or the mobile phone of 2007, this is a faster, deeper, more thorough re-platforming of the economic and cultural rails on which creative work travels — and that the choices being made *right now*, by studios, by unions, by governments, by toolmakers, by individual creatives at their kitchen tables, will set the terms for the next decade. The book is here to help you make those choices on better information than you would otherwise have.
+What this book *is* is an argument, in eighteen chapters and four appendices, that creative work is being re-platformed in a twelve-month window — that this is not the internet of 1995 or the mobile phone of 2007, this is a faster, deeper, more thorough re-platforming of the economic and cultural rails on which creative work travels — and that the choices being made *right now*, by studios, by unions, by governments, by toolmakers, by individual creatives at their kitchen tables, will set the terms for the next decade. The book is here to help you make those choices on better information than you would otherwise have.
 
 That re-platforming has a name. It's the title of the book. *The New Creative Economy*. I don't think it's a metaphor and I don't think we have very long to decide what we want it to look like.
 
@@ -92,7 +92,7 @@ A critic-friendly note, because it makes for a more honest read.
 
 This book is more confident about the *creative-industries* layer of the AI transition than it is about the layers above and below. The environmental and energy footprint of the systems the book describes is something I touch on in Chapter 16 and otherwise under-treat; a fuller account is the subject of a different book, by a different writer, that I hope is being written now. The labour conditions of the global data-supply chain — the labellers, evaluators and content moderators that the platform companies depend on — sit underneath every chapter of this book without being centred in any of them; the same caveat applies. The geopolitics of AI, the macro-economic question of the platform-company stock-market valuations, the wider policy questions about national AI strategy, the philosophical questions about machine consciousness — none of these is the book's subject, and the book is shorter and more useful for not pretending otherwise.
 
-The book is also, by design, anglophone-skewed and Global-North-skewed in its primary sourcing. The 88% in Chapter 6 is a UK number. The Sundance turn in Chapters 9 and 10 is a US story. The platform-company analysis in Chapter 10 is, in the main, an analysis of US and European companies, with significant Chinese coverage but less than the Chinese open-source ecosystem deserves. The Indian, African, Latin American and Southeast Asian stories I cover in Chapters 7, 12 and 13 are real but I cover them, in places, from the wrong side of a translation gap. The next edition, if there is one, should fix this. The deep-dive appendices begin the work but do not finish it.
+The book is also, by design, anglophone-skewed and Global-North-skewed in its primary sourcing. The 88% in Chapter 6 is a UK number. The Sundance turn in Chapters 9 and 10 is a US story. The platform-company analysis in Chapter 10 is, in the main, an analysis of US and European companies, with significant Chinese coverage but less than the Chinese open-source ecosystem deserves. The Indian, African, Latin American and Southeast Asian stories I cover in Chapters 7, 12 and 13 are real but I cover them, in places, from the wrong side of a translation gap. The next edition, if there is one, should fix this. DreamLab's deep-dive research begins the work but does not finish it.
 
 Finally: the book is written *while the transition is happening*. Some of the specific claims, particularly in the tools chapter and in the predictions, will age in ways I am not yet able to predict. The frameworks should outlast their evidence. The evidence should be checked, when you read the book, against whatever the state of play is by then.
 
@@ -155,16 +155,7 @@ Welcome to the Dream Machine.
 - **[Appendix A: Quantitative Anatomy](A1_Appendix_Quantitative_Anatomy.md)** — the numbers behind the book
 - **[Appendix B: Glossary](A2_Glossary.md)** — terms of art
 - **[Appendix C: Bibliography by Topic](A3_Bibliography_by_Topic.md)** — curated reading
-- **[Appendix D: The Shadow AI Paradox](A4_Deep_Dive_Shadow_AI.md)** — covert adoption, displacement, hypocrisy
-- **[Appendix E: Dynamics of Generative AI Adoption](A5_Deep_Dive_Adoption_Dynamics.md)** — the consumption-gap evidence
-- **[Appendix F: AI, Stigma, Privilege, Democratisation](A6_Deep_Dive_AI_Stigma.md)** — the class question
-- **[Appendix G: The Age of Intent](A7_Deep_Dive_AI_Intent.md)** — the philosophical spine
-- **[Appendix H: The Dream Machine Source Index](A8_Source_Index.md)** — thematic catalogue of every significant source across the 41 issues
-- **[Appendix I: The Doomer Mistake](A9_Deep_Dive_Doomer_Mistake.md)** — the long-form rebuttal of the AI-eliminates-creative-jobs framing
-- **[Appendix J: The Process Trap](A10_Deep_Dive_Process_Trap.md)** — why the *creative* / *creatives* equivocation collapses under generative abundance
-- **[Appendix K: Coordination Collapse (extended)](A11_Deep_Dive_Coordination_Collapse.md)** — hierarchy as information-routing protocol, and what replaces it
-- **[Appendix L: The Programmable Brand](A12_Deep_Dive_Programmable_Brand.md)** — from IP-as-asset to IP-as-environment
-- **[Appendix M: The World Cup Storyworld](A13_Deep_Dive_World_Cup.md)** — the 2026 World Cup as the largest live AI deployment in entertainment history
+- **[Appendix D: The Dream Machine Source Index](A8_Source_Index.md)** — thematic catalogue of every significant source across the 41 issues
 
 [^1]: Variety, "SAG-AFTRA Condemns Tilly Norwood: AI Actress Is Not an Actor," 30 September 2025. <https://variety.com/2025/film/news/sag-aftra-tilly-norwood-ai-actress-1236534779/>. See also NBC News, "Tilly Norwood, fully AI 'actor,' blasted by actors union SAG-AFTRA for 'devaluing human artistry'." <https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-fully-ai-actor-blasted-actors-union-sag-aftra-devaluing-rcna234685>. Discussed in [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) (6 October 2025).
 

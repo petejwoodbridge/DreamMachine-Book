@@ -9,7 +9,7 @@
 
 - **Total fetched and parsed articles**: 1,388.
 - **Total captured words across the corpus**: ~1,099,216 (~6,945,361 characters of post-extraction text).
-- **Source span**: 41 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 12 August 2026 (the quantitative tables in §A1–A6 below cover the analytic window of Issues 1–29; **Issue 30** (21 May 2026), **Issue 31** (1 June 2026), and **Issue 32** (4 June 2026) are documented in §A7 as post-cut supplemental data; **Issues 33–36** (9 June – 2 July 2026) and the World Cup deep dive (Appendix M) are documented in §A8; **Issues 37–41** (9 July – 12 August 2026) are documented in §A9. All are incorporated narratively into the closing material across the body chapters).
+- **Source span**: 41 editions of *Dream Machine | Creative AI*, published between 6 October 2025 and 12 August 2026 (the quantitative tables in §A1–A6 below cover the analytic window of Issues 1–29; **Issue 30** (21 May 2026), **Issue 31** (1 June 2026), and **Issue 32** (4 June 2026) are documented in §A7 as post-cut supplemental data; **Issues 33–36** (9 June – 2 July 2026) and the World Cup deep dive are documented in §A8; **Issues 37–41** (9 July – 12 August 2026) are documented in §A9. All are incorporated narratively into the closing material across the body chapters).
 - **Average articles per newsletter edition** (in this corpus): ~48.
 - **Capture rate** against the full curated URL set: **91.4%** (1,438 of 1,574 URLs returned readable content; the remainder hit bot-detection, 404s, or live-page connection issues).
 
@@ -240,7 +240,7 @@ The analytic corpus underlying §A1–A6 closes at *Dream Machine* Issue 29. **I
 
 ## A8. June–July 2026 supplemental: the Issue-33 to Issue-36 and World Cup datapoints
 
-**Issue 33** (9 June 2026), **Issue 34** (16 June 2026), **Issue 35** (23 June 2026) and **Issue 36** (2 July 2026) extend the post-cut record established in §A7, alongside the World Cup deep dive of 12 June 2026 (preserved as Appendix M). Issue 33 catches the **AFM v. UMG/Warner suit and the UK's AI Adoption Plan for the Creative Industries**; Issue 34 catches the **licensing-and-labour-market turn** (NMPA–Udio/Klay, Runway–Lionsgate equity, the PwC salary-premium finding, the Steam disclosure count) and the **World Cup Editor's Pick**; Issue 35 catches the **Unreal Engine AI/MCP announcements, the NO FAKES letter and the A24–Google deal**; Issue 36 catches the **ComfyUI/Comfy MCP inflection, the Adobe–Topaz acquisition and the games-volume data**. The numerical datapoints worth recording here in standalone form:
+**Issue 33** (9 June 2026), **Issue 34** (16 June 2026), **Issue 35** (23 June 2026) and **Issue 36** (2 July 2026) extend the post-cut record established in §A7, alongside the World Cup deep dive of 12 June 2026. Issue 33 catches the **AFM v. UMG/Warner suit and the UK's AI Adoption Plan for the Creative Industries**; Issue 34 catches the **licensing-and-labour-market turn** (NMPA–Udio/Klay, Runway–Lionsgate equity, the PwC salary-premium finding, the Steam disclosure count) and the **World Cup Editor's Pick**; Issue 35 catches the **Unreal Engine AI/MCP announcements, the NO FAKES letter and the A24–Google deal**; Issue 36 catches the **ComfyUI/Comfy MCP inflection, the Adobe–Topaz acquisition and the games-volume data**. The numerical datapoints worth recording here in standalone form:
 
 | Datapoint | Value | Source |
 |---|---:|---|
@@ -265,8 +265,8 @@ The analytic corpus underlying §A1–A6 closes at *Dream Machine* Issue 29. **I
 | Fake FIFA-related websites identified before kick-off | 4,300+ | Security researchers, June 2026 |
 | Host-city sponsorship investment in the year before the tournament | $725M | SponsorUnited / Goal.com, June 2026 |
 | Adidas "Backyard Legends" campaign (AI de-aging of three legends) | ~$1bn | Mission Media, June 2026 |
-| US programmatic ad spend, 2026 (machine-bought) | $203bn+ | Appendix M, June 2026 |
-| Streaming share of all US TV viewing | 47.5% | Appendix M, June 2026 |
+| US programmatic ad spend, 2026 (machine-bought) | $203bn+ | *Dream Machine* World Cup analysis, June 2026 |
+| Streaming share of all US TV viewing | 47.5% | *Dream Machine* World Cup analysis, June 2026 |
 
 **Reading note.** Two clusters carry the weight here. The first is the **labour-and-licensing cluster**: PwC's 34% salary premium and Ramp's $7,500-per-employee-per-month top-percentile spend are the two cleanest signals that AI capability had become a priced labour-market asset by mid-2026, while the NMPA's 50/50 split with Udio and Klay — set against the AFM's simultaneous suit over the UMG and Warner deals — shows the licensing architecture and the labour resistance maturing in the same fortnight. The second is the **scale cluster**: 120 AI disclosures in a single week of Steam releases and 181,000 mobile games in six months are the games-industry version of the Deezer 44% figure in [Chapter 5](05_The_Slop_Ceiling.md) — volume without gatekeeping — while the World Cup rows record the largest live deployment of the full AI stack in entertainment history, the empirical anchor for the storyworld argument of [Chapter 9](09_Worlds_Not_Pictures.md). The ComfyUI rows (4M users, 60,000+ community nodes, a $500m valuation) close the arc that §A5's tool table opens: the open node-graph layer, not any single model, is where the professional market consolidated.
 

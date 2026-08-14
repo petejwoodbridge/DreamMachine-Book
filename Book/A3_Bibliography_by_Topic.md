@@ -187,10 +187,10 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 
 - Epidemic Sound, *"Future of the Creator Economy Report 2026"* — survey of 3,000 professional creators across UK and US; 94% of creators use AI tools, 72% expect to increase usage in the next 12 months, 89% feel pressure to use AI to keep up with industry expectations, 75% believe human-created content will become a premium product, 83% say human-made sound creates a stronger emotional connection. *Dream Machine* Issue 31.
 - *Musically*, *"Creator attitudes towards AI: nuanced embrace plus transparency, licensing and identity demands."* Coverage of the same report. *Dream Machine* Issue 31.
-- O'Hare, J. (2026). *The Coordination Collapse: How AI Is Dissolving the Information Tax That Created Hierarchy — And What Replaces It.* DreamLab AI Consulting Ltd, April 2026. Preserved as Appendix K.
-- *The Process Trap: Generative Abundance and the Equivocation of the Creative.* Preserved as Appendix J.
-- *The Doomer Mistake: Why the Case for AI-Driven Civilizational Collapse Keeps Losing the Argument with the Data.* Preserved as Appendix I. Underlying empirical work draws on Acemoglu (2025), Brynjolfsson, Li & Raymond (2025), Brynjolfsson, Chandar & Chen (2025), the 2026 Stanford AI Index, Dallas Fed, St. Louis Fed, Bessen (2015), Autor (2016), AEI, Susskind (2020), and CCIA (2026).
-- *The Programmable Brand: How AI Is Reshaping IP Licensing in the Generative Economy.* Dream Machine Deep Dive №14, 4 June 2026. Preserved as Appendix L. Five-licensing-model comparison (Hasbro Sixth Wall / Behavioural Licensing; Spotify–UMG embedded remixing; Disney–OpenAI as cautionary tale; the independent-artist commons-and-DAO models — Grimes / Elf.tech, Holly Herndon / Holly+, ElevenLabs heritage voices, Meta likeness-rental anti-pattern; Suno / Alexa as the *create-to-consume* demand floor) against the three Cs (consent, credit, compensation). Theoretical foundations: Coase (1937), Williamson (1979), Barney (1991) VRIN resource-based view, Henry Jenkins on participatory culture. Primary sources:
+- O'Hare, J. (2026). *The Coordination Collapse: How AI Is Dissolving the Information Tax That Created Hierarchy — And What Replaces It.* DreamLab AI Consulting Ltd, April 2026.
+- *The Process Trap: Generative Abundance and the Equivocation of the Creative.*
+- *The Doomer Mistake: Why the Case for AI-Driven Civilizational Collapse Keeps Losing the Argument with the Data.* Underlying empirical work draws on Acemoglu (2025), Brynjolfsson, Li & Raymond (2025), Brynjolfsson, Chandar & Chen (2025), the 2026 Stanford AI Index, Dallas Fed, St. Louis Fed, Bessen (2015), Autor (2016), AEI, Susskind (2020), and CCIA (2026).
+- *The Programmable Brand: How AI Is Reshaping IP Licensing in the Generative Economy.* Dream Machine Deep Dive №14, 4 June 2026. Five-licensing-model comparison (Hasbro Sixth Wall / Behavioural Licensing; Spotify–UMG embedded remixing; Disney–OpenAI as cautionary tale; the independent-artist commons-and-DAO models — Grimes / Elf.tech, Holly Herndon / Holly+, ElevenLabs heritage voices, Meta likeness-rental anti-pattern; Suno / Alexa as the *create-to-consume* demand floor) against the three Cs (consent, credit, compensation). Theoretical foundations: Coase (1937), Williamson (1979), Barney (1991) VRIN resource-based view, Henry Jenkins on participatory culture. Primary sources:
   - Hasbro BusinessWire: <https://www.businesswire.com/news/home/20260603297922/en/>
   - *The Wrap*, Hasbro Sixth Wall launch: <https://www.thewrap.com/industry-news/business/hasbro-ai-studio-sixth-wall-launch/>
   - *Screen Daily*, Hasbro launches subsidiary AI studio: <https://www.screendaily.com/news/hasbro-launches-subsidiary-ai-studio-sixth-wall-to-exploit-ip/5217380.article>
@@ -210,7 +210,7 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
   - *Digital Music News* on Amazon + Suno: <https://www.digitalmusicnews.com/2025/02/27/amazon-suno-team-up-for-gen-ai-songs/>
   - MIDiA Research on *create to consume*: <https://www.midiaresearch.com/blog/suno-alexa-and-the-rise-of-create-to-consume>
 - Dell'Acqua et al. (2026). Preregistered Boston Consulting Group experiment on the jagged technological frontier (n = 758 consultants).
-- Mollick, E. (2023). *"Secret cyborgs"* and the shadow-AI phenomenon. Coverage in [Appendix D](A4_Deep_Dive_Shadow_AI.md) and [Appendix K](A11_Deep_Dive_Coordination_Collapse.md).
+- Mollick, E. (2023). *"Secret cyborgs"* and the shadow-AI phenomenon.
 - Edmondson, A. & Lei, Z. (2025). Psychological safety and AI adoption in teams.
 - Epoch AI / Ipsos KnowledgePanel (March 2026). Probability-based survey of 2,021 US adults (665 employed past-week AI users).
 
@@ -295,7 +295,7 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 
 ## XI.a Live sport and the World Cup deployment
 
-*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the primary sources behind Appendix M and the Issue 34 Editor's Pick.*
+*The 2026 FIFA World Cup as the largest live deployment of AI in entertainment history — the primary sources behind the Issue 34 Editor's Pick.*
 
 - FIFA Football Technology, *"FIFA and Lenovo unveil multiple AI-powered innovations ahead of FIFA World Cup 2026™"* — one-second player scans, semi-automated offside, Football AI Pro, AI-generated personalised highlights. <https://football-technology.fifa.com/organisation/media-releases/lenovo-tech-world-ai-powered-innovations-world-cup-2026>
 - *AI Magazine*, *"How AI Will Power the 2026 FIFA World Cup."* <https://aimagazine.com/news/how-ai-will-power-the-2026-fifa-world-cup>
