@@ -7,9 +7,13 @@
 
 @page {
   size: 6in 9in;
-  /* KDP requires >= 0.75in gutter for books >= 301 pages.
-     Set all side margins to 0.75in to meet that requirement. */
-  margin: 0.75in 0.75in 0.85in 0.75in;
+  /* KDP gutter requirement scales with page count; at 700+ pages it is
+     0.875in. Set left/right margins symmetrically to 0.875in so the
+     binding-side gutter meets the requirement on every page regardless of
+     which side binds (Chromium's headless print does not reliably honour
+     mirrored @page :left/:right margins). Top/bottom stay well above the
+     0.25in minimum. */
+  margin: 0.75in 0.95in 0.85in 0.95in;
 
   @top-left {
     content: string(book-title);
@@ -124,10 +128,23 @@ blockquote {
 }
 
 ul, ol {
-  margin: 0.4em 0 0.4em 1.4em;
-  padding: 0;
+  /* Use padding-left (not margin-left) for the indent so that outside
+     list markers render INSIDE the content box and never hang into the
+     page/gutter margin — KDP rejects content that crosses the gutter. */
+  margin: 0.4em 0;
+  padding-left: 1.8em;
 }
 li { margin-bottom: 0.15em; }
+
+/* Break long URLs and other unspaced strings so they wrap inside the text
+   column instead of overflowing into the outer/gutter margin (KDP rejects
+   any content that crosses the gutter). Scoped to prose and reference lists
+   where raw citation URLs appear — deliberately NOT table cells, where
+   break-word would collapse columns to one character per line. */
+p, li, dd, dt, blockquote,
+section.footnotes li {
+  overflow-wrap: break-word;
+}
 
 code, pre {
   font-family: "Consolas", "Menlo", monospace;
