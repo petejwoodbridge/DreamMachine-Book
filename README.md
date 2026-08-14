@@ -2,7 +2,7 @@
 
 ### *Artificial Intelligence and the Next Creative Economy*
 
-A practitioner's account of the year generative AI re-platformed the creative industries — written from inside the work, week by week, between October 2025 and June 2026.
+A practitioner's account of the year generative AI re-platformed the creative industries — written from inside the work, week by week, between October 2025 and August 2026.
 
 <p align="center">
   <a href="Book/build/Dream_Machine.pdf">
@@ -24,7 +24,8 @@ Each rebuild of the book ships as its own dated PDF, so earlier editions stay re
 
 | Edition | Newsletter span | PDF |
 |---|---|---|
-| **7 July 2026** *(current)* | Issues 1–36 | [Dream_Machine_2026-07-07.pdf](Book/build/Dream_Machine_2026-07-07.pdf) |
+| **14 August 2026** *(current)* | Issues 1–41 | [Dream_Machine_2026-08-14.pdf](Book/build/Dream_Machine_2026-08-14.pdf) |
+| 7 July 2026 | Issues 1–36 | [Dream_Machine_2026-07-07.pdf](Book/build/Dream_Machine_2026-07-07.pdf) |
 | 4 June 2026 | Issues 1–32 | [Dream_Machine_2026-06-04.pdf](Book/build/Dream_Machine_2026-06-04.pdf) |
 | 21 May 2026 | Issues 1–30 | [Dream_Machine_2026-05-21.pdf](Book/build/Dream_Machine_2026-05-21.pdf) |
 | 14 May 2026 | Issues 1–29 | [Dream_Machine_2026-05-14.pdf](Book/build/Dream_Machine_2026-05-14.pdf) |
@@ -39,7 +40,7 @@ If you've read it once, the version you read next month will be different — so
 
 ## Where the book comes from
 
-- **[Dream Machine newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/)** — the weekly LinkedIn newsletter that the book is built out of, with ~3,800 subscribers and 36 published editions.
+- **[Dream Machine newsletter](https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/)** — the weekly LinkedIn newsletter that the book is built out of, with ~4,100 subscribers and 41 published editions.
 - **[Dream Machine podcast](https://open.spotify.com/show/2ptbLwVWeyO7ooPGHoYTqk?si=0566baf9826242c0)** — long-form conversations on the same material.
 - **[DreamLab AI Collective](https://dreamlab.org.uk/)** — the ~50-person deep-tech studio in the North West of England where the work is done.
 
@@ -53,17 +54,17 @@ Written by [Pete Woodbridge](https://dreamlab.org.uk/) — creative technologist
 
 **Working creatives** — writers, directors, songwriters, games designers, photographers, illustrators, editors, producers, agency creatives, indie filmmakers, YouTubers, freelance designers, students, senior practitioners — who are trying to figure out what creative life looks like in 2026 and beyond. The book gives you frameworks for making decisions under uncertainty, not a tools guide you'll need to throw away in three months.
 
-**Studio, agency, label and production company leadership** trying to make organisational decisions about AI integration in a year when the cost of getting it wrong is the next decade of cultural authority. Chapter 7 maps the strategic positions; Chapter 13 explains why so many organisations are discovering their AI strategy and their organisational structure are fighting each other.
+**Studio, agency, label and production company leadership** trying to make organisational decisions about AI integration in a year when the cost of getting it wrong is the next decade of cultural authority. Chapter 7 maps the strategic positions; Chapter 8 shows what the capital markets have done to them; Chapter 14 explains why so many organisations are discovering their AI strategy and their organisational structure are fighting each other.
 
 **Policy, union, institute and platform people** deciding the rails the next decade of creative work will run on. The 88% turned up to the UK copyright consultation. The Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract — these are the decisions the book is here to inform.
 
-The book has a [Reader Paths](Book/00a_Reader_Paths.md) guide with seven different routes through the material depending on which of these you are.
+The book has a [Reader Paths](Book/00a_Reader_Paths.md) guide with ten different routes through the material depending on which of these you are.
 
 ---
 
 ## What's in it
 
-**~265,000 words, ~650 pages.** Foreword, seventeen chapters, an Epilogue, and thirteen deep-dive appendices.
+**~286,000 words, ~710 pages.** Foreword, eighteen chapters, an Epilogue, and thirteen deep-dive appendices.
 
 ### The argument in one paragraph
 
@@ -87,27 +88,29 @@ Creative work is being re-platformed inside a twelve-month window. This is not t
 
 **[Chapter 7: The Studios Decide](Book/07_The_Studios_Decide.md)** — A map of the five strategic positions studios are choosing between: Replace, Augment, Automate, Hold, and Own the Rails. The trap the legacy industries built for themselves. The new Position Five — own the infrastructure your IP runs on — illustrated by Hasbro's Sixth Wall and the CharacterOS governance layer. A corrected record on the Disney–OpenAI deal that never executed.
 
-**[Chapter 8: Worlds, Not Pictures](Book/08_Worlds_Not_Pictures.md)** — The spatial turn. World Labs' Marble and the shift from flat video to 3D-navigable environments as the default creative medium. What it means for storytelling, for production, and for the creative roles that video has sustained for a century. DreamLab's closed-beta experience as the evidence base.
+**[Chapter 8: The Machine Gets the Money](Book/08_The_Machine_Gets_the_Money.md)** — AI is getting funded; the work is not. How AI re-priced the machinery that finances film, games, TV and immersive. The Seven-Year Problem and the duration discount: capital pricing *cannot know* as *will end*. Four sector verdicts read from the allocation data — games' venture collapse and sovereign patience, film's seized completion-bond machinery, television's flight down the duration curve into the microdrama, and the immersive inversion where the discount changes sign.
 
-**[Chapter 9: AI in Everything](Book/09_AI_In_Everything.md)** — The platform layer. Adobe's "AI in everything, everywhere, all at once." The underlying economics of platform concentration: why the toolchain is collapsing into a small number of integrated suites, and what that means for independent tool-makers and for the creatives who depend on independent tools.
+**[Chapter 9: Worlds, Not Pictures](Book/09_Worlds_Not_Pictures.md)** — The spatial turn. World Labs' Marble and the shift from flat video to 3D-navigable environments as the default creative medium. What it means for storytelling, for production, and for the creative roles that video has sustained for a century. DreamLab's closed-beta experience as the evidence base.
 
-**[Chapter 10: What is Newly Possible](Book/10_What_Is_Newly_Possible.md)** — Six categories of creative work that were not economically viable before 2024 and are now. The finite-attention ceiling: why new supply cannot simply create new demand, and what this implies for the studios and labels betting on volume.
+**[Chapter 10: AI in Everything](Book/10_AI_In_Everything.md)** — The platform layer. Adobe's "AI in everything, everywhere, all at once." The underlying economics of platform concentration: why the toolchain is collapsing into a small number of integrated suites, and what that means for independent tool-makers and for the creatives who depend on independent tools.
 
-**[Chapter 11: The Orchestrator](Book/11_The_Orchestrator.md)** — The working creative's new role. The Year of the Orchestrator: directing AI systems rather than executing technical steps. What the role actually looks like in practice, why it requires the same skills creative direction has always required plus a new literacy layer, and why it does not look like the programming jobs the tech-transfer narrative was always promising creatives.
+**[Chapter 11: What is Newly Possible](Book/11_What_Is_Newly_Possible.md)** — Six categories of creative work that were not economically viable before 2024 and are now. The finite-attention ceiling: why new supply cannot simply create new demand, and what this implies for the studios and labels betting on volume.
 
-**[Chapter 12: Authenticity as the New Scarcity](Book/12_Authenticity_New_Scarcity.md)** — The provenance economy. How scarcity migrates from execution (which AI has commoditised) to intent (which it cannot). The disclosure infrastructure — the Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract — as the institutional architecture of a post-scarcity creative economy.
+**[Chapter 12: The Orchestrator](Book/12_The_Orchestrator.md)** — The working creative's new role. The Year of the Orchestrator: directing AI systems rather than executing technical steps. What the role actually looks like in practice, why it requires the same skills creative direction has always required plus a new literacy layer, and why it does not look like the programming jobs the tech-transfer narrative was always promising creatives.
 
-**[Chapter 13: Coordination Collapse](Book/13_Coordination_Collapse.md)** — What happens when AI adoption inside organisations outpaces organisational structure. Shadow AI: the gap between what organisations officially permit and what employees are actually doing. The Consumption Gap: why the platforms are racing ahead of the institutions meant to govern them. What organisations should do — and what most are actually doing instead.
+**[Chapter 13: Authenticity as the New Scarcity](Book/13_Authenticity_New_Scarcity.md)** — The provenance economy. How scarcity migrates from execution (which AI has commoditised) to intent (which it cannot). The disclosure infrastructure — the Cannes Disclosure Standard, the Academy rule, the SAG-AFTRA contract — as the institutional architecture of a post-scarcity creative economy.
 
-**[Chapter 14: The New Jobs](Book/14_The_New_Jobs.md)** — The labour-market restructuring, argued from the data rather than from either the booster or doomer position. The AI Literacy Premium: the measurable wage and opportunity gap opening between creatives who can direct AI systems and those who cannot. The Apprenticeship Gap: how the junior-level entry routes that have always trained the next generation are closing before replacement routes are open.
+**[Chapter 14: Coordination Collapse](Book/14_Coordination_Collapse.md)** — What happens when AI adoption inside organisations outpaces organisational structure. Shadow AI: the gap between what organisations officially permit and what employees are actually doing. The Consumption Gap: why the platforms are racing ahead of the institutions meant to govern them. What organisations should do — and what most are actually doing instead.
 
-**[Chapter 15: Choosing the Future](Book/15_Choosing_the_Future.md)** — The closing argument. The four principles: *Agency, Attribution, Access, Audience* — a test you can apply to any policy, any contract, any platform decision. The assistive-amplifier conviction. The Age of the Why. The chess-grandmaster frame: what happens to the grandmaster when Deep Blue wins, and why the answer is the spine of the book's entire strategic argument for creative practitioners.
+**[Chapter 15: The New Jobs](Book/15_The_New_Jobs.md)** — The labour-market restructuring, argued from the data rather than from either the booster or doomer position. The AI Literacy Premium: the measurable wage and opportunity gap opening between creatives who can direct AI systems and those who cannot. The Apprenticeship Gap: how the junior-level entry routes that have always trained the next generation are closing before replacement routes are open.
 
-**[Chapter 16: The Tools](Book/16_The_Tools.md)** — A complete, categorised inventory of 570+ tools, platforms and models from the October 2025 – June 2026 period. Organised by creative discipline and workflow stage. The most comprehensive single catalogue of the period's toolchain.
+**[Chapter 16: Choosing the Future](Book/16_Choosing_the_Future.md)** — The closing argument. The four principles: *Agency, Attribution, Access, Audience* — a test you can apply to any policy, any contract, any platform decision. The assistive-amplifier conviction. The Age of the Why. The chess-grandmaster frame: what happens to the grandmaster when Deep Blue wins, and why the answer is the spine of the book's entire strategic argument for creative practitioners.
 
-**[Chapter 17: Five Years Inside the Dream Machine](Book/17_Five_Years_Inside_the_Dream_Machine.md)** — A speculative five-year future-cast argued directly from the book's frameworks. Not prediction for its own sake — a test of whether the analytical frames are load-bearing.
+**[Chapter 17: The Tools](Book/17_The_Tools.md)** — A complete, categorised inventory of 660+ tools, platforms and models from the October 2025 – August 2026 period. Organised by creative discipline and workflow stage. The most comprehensive single catalogue of the period's toolchain.
 
-**[Epilogue](Book/18_Epilogue.md)** — A letter to 2030.
+**[Chapter 18: Five Years Inside the Dream Machine](Book/18_Five_Years_Inside_the_Dream_Machine.md)** — A speculative five-year future-cast argued directly from the book's frameworks. Not prediction for its own sake — a test of whether the analytical frames are load-bearing.
+
+**[Epilogue](Book/19_Epilogue.md)** — A letter to 2030.
 
 ### Appendices
 
@@ -122,7 +125,7 @@ Thirteen deep-dive appendices that extend the book's core arguments with longer-
 | E | [Dynamics of Generative AI Adoption](Book/A5_Deep_Dive_Adoption_Dynamics.md) | The consumption-gap evidence base |
 | F | [AI, Stigma, Privilege, Democratisation](Book/A6_Deep_Dive_AI_Stigma.md) | The class question: who AI actually democratises, and for whom |
 | G | [The Age of Intent](Book/A7_Deep_Dive_AI_Intent.md) | The philosophical spine: what authorship means when execution is automated |
-| H | [The Dream Machine Source Index](Book/A8_Source_Index.md) | Thematic catalogue of every significant source across all 36 issues |
+| H | [The Dream Machine Source Index](Book/A8_Source_Index.md) | Thematic catalogue of every significant source across all 41 issues |
 | I | [The Doomer Mistake](Book/A9_Deep_Dive_Doomer_Mistake.md) | Long-form rebuttal of the AI-eliminates-creative-jobs framing, from the Stanford Digital Economy Lab data through Brynjolfsson, Acemoglu, and 230 years of identical wrong predictions |
 | J | [The Process Trap](Book/A10_Deep_Dive_Process_Trap.md) | Why the *creative* / *creatives* equivocation collapses under generative abundance, and what that means for how studios and guilds defend creative work |
 | K | [Coordination Collapse (extended)](Book/A11_Deep_Dive_Coordination_Collapse.md) | The 2,000-year history of hierarchy as an information-routing protocol; the jagged frontier; three competing post-hierarchical models; a 90-day implementation roadmap |
@@ -135,8 +138,8 @@ Thirteen deep-dive appendices that extend the book's core arguments with longer-
 
 ```
 Book/
-├── 00_Foreword.md ... 18_Epilogue.md     # Foreword, 17 chapters + epilogue
-├── 00a_Reader_Paths.md                   # Seven routes through the material
+├── 00_Foreword.md ... 19_Epilogue.md     # Foreword, 18 chapters + epilogue
+├── 00a_Reader_Paths.md                   # Ten routes through the material
 ├── A1_…md ... A13_…md                    # 13 deep-dive appendices
 ├── Z1_About.md                           # About the author
 ├── assets/
@@ -148,7 +151,7 @@ Book/
 ├── build_book.py                         # The build pipeline
 └── watch_book.py                         # Auto-rebuild on file change
 
-Dream Machine MD/                         # Newsletter issue archives (Issues 1–36)
+Dream Machine MD/                         # Newsletter issue archives (Issues 1–41)
 Dream Machine PDFs/                       # Newsletter PDF archives
 Deep Dive MD/                             # Deep-dive research source material
 ```
@@ -179,7 +182,7 @@ python Book/watch_book.py
 
 ## Reading the book without building it
 
-If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-07-07.pdf](Book/build/Dream_Machine_2026-07-07.pdf)) or any prior edition from the table above.
+If you don't want to run the toolchain, every dated edition is committed in [Book/build/](Book/build/) — open the most recent one (currently [Dream_Machine_2026-08-14.pdf](Book/build/Dream_Machine_2026-08-14.pdf)) or any prior edition from the table above.
 
 ## The companion website
 
@@ -199,7 +202,7 @@ Rebuild only the site (without rebuilding the book PDF):
 python site/build_site.py
 ```
 
-The site mirrors the book's content into four entry points: **Toolkit** (the 570+ tool inventory from Chapter 16, with live search and faceted filtering), **Use Cases** (the Reader Paths persona stacks), **Issues & Challenges** (the structural debates anchored to chapters) and a **Newsletter archive** of every issue.
+The site mirrors the book's content into four entry points: **Toolkit** (the 570+ tool inventory from Chapter 17, with live search and faceted filtering), **Use Cases** (the Reader Paths persona stacks), **Issues & Challenges** (the structural debates anchored to chapters) and a **Newsletter archive** of every issue.
 
 ## Get in touch
 

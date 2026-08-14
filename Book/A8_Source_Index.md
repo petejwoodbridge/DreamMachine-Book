@@ -1,8 +1,8 @@
 # Appendix H — The Dream Machine Source Index
 
-*A thematic catalogue of significant sources surfaced across the 36 issues of* Dream Machine *(October 2025 – July 2026).*
+*A thematic catalogue of significant sources surfaced across the 41 issues of* Dream Machine *(October 2025 – August 2026).*
 
-This index is a navigational tool, not an exhaustive list. The full *Dream Machine* archive contains more than three thousand individual hyperlinks across its thirty-six issues, the great majority of which are primary-source links to industry coverage, research reports, official announcements, court filings, technical demos, creator showcases, and platform releases.
+This index is a navigational tool, not an exhaustive list. The full *Dream Machine* archive contains more than three thousand individual hyperlinks across its forty-one issues, the great majority of which are primary-source links to industry coverage, research reports, official announcements, court filings, technical demos, creator showcases, and platform releases.
 
 What follows below is the thematic catalogue of the *significant* sources — the ones the book itself draws on, the ones a working creative or researcher tracking a specific topic would want as a starting point, and the ones that, taken together, define the public record of creative AI as it stood in the period this book covers. Within each theme, entries are organised chronologically by issue number. The format is:
 
@@ -47,6 +47,8 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **Seedance 2.5 announced** — ByteDance breaks the 30-second barrier for AI video generation — https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/
 - `[Issue 36]` **Gemini Omni Flash** — generate and edit high-quality video via the Gemini API, AI Studio and ComfyUI — https://ai.google.dev/gemini-api/docs/omni
 - `[Issue 36]` **Krea 2 open weights** — open-source release with separate inference and training models — https://www.krea.ai/krea-2-open-source
+- `[Issue 39]` **FLUX 3** — Black Forest Labs model generating images and 20-second video with audio — https://bfl.ai/blog/flux-3
+- `[Issue 41]` **Alibaba Wan 3** — video model in public beta with 30-second clips and multimodal inputs — https://technode.global/2026/08/10/chinas-alibaba-releases-wan3-0-ai-video-model-in-public-beta-with-30s-clips-multimodal-inputs/
 
 ## 2. AI Image — Models and Tools
 
@@ -62,6 +64,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 9]` **FLUX 2** — Black Forest Labs image generation — https://bfl.ai/models/flux-2-max
 - `[Issue 10]` **FLUX 2 klein** — fast image generation under one second — https://huggingface.co/unsloth/FLUX.2-klein-4B-GGUF
 - `[Issue 13]` **ChatGPT Images Upgrade** — major feature improvements — https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-just-got-a-major-upgrade-and-it-could-change-how-we-all-create
+- `[Issue 37]` **Seedream 5.0 Pro** — ByteDance image model with character/product consistency, precision region editing and in-image text in 14 languages — https://blog.comfy.org/p/seedream-50-pro
 
 ## 3. AI Music and Audio
 
@@ -111,6 +114,10 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 36]` **Google Lyria 3** — Gemini's new AI music model — https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/
 - `[Issue 36]` **Suno Spark incubator** — programme to support the next generation of creators — https://suno.com/blog/introducing-spark
 - `[Issue 36]` **Tidal allows AI-generated music — without royalties** — platform-policy split between hosting and monetisation — https://musically.com/2026/06/30/tidal-allows-ai-generated-music-but-it-wont-earn-royalties/
+- `[Issue 37]` **Suno explores developer API** — seeking apps that 'unlock experiences generative music makes possible for the first time' — https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/
+- `[Issue 37]` **The BBC's policy on the use of AI in music** — public broadcaster sets out its position — https://radiotoday.co.uk/2026/07/the-bbcs-policy-on-the-use-of-ai-in-music/
+- `[Issue 38]` **Spotify is now an AI chatbot, too** — conversational interface across music, audiobooks and podcasts — https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts
+- `[Issue 38]` **FL Studio agentic AI chatbot** — control the DAW with an AI chatbot from inside it — https://www.musicradar.com/music-tech/you-can-now-control-fl-studio-with-an-ai-chatbot-from-inside-the-daw
 
 ## 4. AI 3D / World Models / Spatial
 
@@ -162,6 +169,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 33]` **New York Times roasted for "profiling" Tilly Northwood** — the AI-actress story crosses into media self-parody — https://futurism.com/artificial-intelligence/new-york-times-roasted-profiling-ai-actress
 - `[Issue 34]` **ElevenLabs Avatars** — "the best AI voices, now with a face" in ElevenCreative — https://elevenlabs.io/blog/introducing-avatars
 - `[Issue 36]` **Netflix to recreate Gene Wilder's voice with AI** — posthumous voice cloning for a Willy Wonka reality series — https://www.nbcnews.com/pop-culture/pop-culture-news/gene-wilder-ai-voice-netflix-willy-wonka-competiton-show-rcna352440
+- `[Issue 37]` **AI 'actor' Tilly Norwood to star in feature film 'Misaligned'** — the synthetic performer lands a lead role — https://deadline.com/2026/07/tilly-norwood-ai-actor-misaligned-1236974639/
 
 ## 6. Agent Platforms / Orchestration
 
@@ -240,6 +248,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **Epic Games details how it's embracing generative AI in Unreal Engine** — https://www.engadget.com/2196807/epic-games-details-how-its-embracing-gen-ai-in-unreal-engine/
 - `[Issue 36]` **EA: AI delivering "faster prototyping" and a "real rise in creativity"** — https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/
 - `[Issue 36]` **Epic CEO criticises Valve's AI disclosure policy for Steam** — access to AI tools framed as survival issue for smaller studios — https://80.lv/articles/epic-ceo-criticizes-valve-s-ai-disclosure-policy-for-steam
+- `[Issue 37]` **Epic Games' CEO argues AI could've made Destiny profitable** — Tim Sweeney on AI and studio economics — https://www.videogameschronicle.com/news/epic-games-ceo-argues-ai-couldve-made-destiny-profitable/
+- `[Issue 38]` **Nvidia and Sega team up on games for RTX Spark AI computers** — 30 years after their first partnership — https://gamesbeat.com/nvidia-and-sega-team-up-on-games-for-rtx-spark-ai-computers-30-years-after-1st-partnership/
+- `[Issue 39]` **Epic Games adds AI voices to Fortnite NPCs** — for an upcoming in-game conversations feature — https://www.videogameschronicle.com/news/fortnite-has-started-adding-ai-voices-to-its-npcs-for-an-upcoming-conversations-feature/
 
 ## 9. Games Industry — Refusal / Position
 
@@ -253,6 +264,8 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 16]` **Jagex never AI** — RuneScape commitment — https://www.gamesindustry.biz/runescape-maker-jagex-says-it-will-never-use-generative-ai-to-make-in-game-content
 - `[Issue 35]` **CD Projekt boss warns games made solely by gen AI are already being made** — https://metro.co.uk/2026/06/22/cd-projekt-boss-warns-games-made-solely-gen-ai-already-made-28878296/
 - `[Issue 36]` **Godot will no longer accept AI-authored code contributions** — "we can't trust heavy users of AI to understand their code enough to fix it" — https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
+- `[Issue 39]` **Why China is embracing AI and "very few" studios refuse to adopt it** — the contrasting adoption culture — https://www.pocketgamer.biz/why-china-is-embracing-ai-and-very-few-studios-refuse-to-adopt-it/
+- `[Issue 41]` **GDC 2026 State of the Game Industry** — 52% of developers now say generative AI is having a negative impact, up from 30% — https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/
 
 ## 10. Film Industry — Studios and Positions
 
@@ -289,6 +302,14 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **Fully AI-generated series 'Journey to the West'** — Utopai Studios and Huace development deal — https://variety.com/2026/tv/news/fully-ai-generated-journey-to-the-west-utopai-studios-huace-1236787171/
 - `[Issue 36]` **A24 full-on fan crisis after Google AI deal** — the authenticity brand meets the AI partnership — https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google
 - `[Issue 36]` **Animation's AI reckoning: movies for 90% less** — Bloomberg on filmmakers' cost claims — https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less
+- `[Issue 37]` **Midjourney wants Hollywood studios to reveal their AI usage** — pressing Disney, Universal and Warner Bros to disclose — https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
+- `[Issue 38]` **The AI 'Star Wars' film that is giving Hollywood a wake-up call** — Forbes on the independent AI film rattling the industry — https://www.forbes.com/sites/carolinereid/2026/07/10/the-ai-star-wars-film-that-is-giving-hollywood-a-wake-up-call/
+- `[Issue 38]` **Homer epic 'The Odyssey' gets a full-length AI-generated film** — a classical text rendered entirely with AI — https://www.forbes.com/sites/lesliekatz/2026/07/14/homer-epic-the-odyssey-gets-a-full-length-ai-generated-film/
+- `[Issue 39]` **About 300 Netflix titles used generative AI this year** — the company reveals the scale in Q2 earnings — https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/
+- `[Issue 39]` **'The Lord of the Rings: The Hunt for Gollum' will use AI to de-age actors** — AI in a tentpole production — https://futurism.com/artificial-intelligence/lord-of-the-rings-ai-de-age
+- `[Issue 39]` **Netflix paid $587M for Ben Affleck's AI filmmaking startup** — a marquee acquisition in AI production — https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/
+- `[Issue 40]` **Hollywood fights AI in public while quietly building it into movies** — the industry's open secret — https://www.yahoo.com/entertainment/movies/articles/hollywoods-open-secret-battling-ai-100100156.html
+- `[Issue 41]` **Disney's J.A.R.V.I.S. AI live for 2,000+ Imagineers** — seven decades of Disney creative knowledge at their fingertips — https://wdwnt.com/2026/08/josh-damaro-outlines-how-new-ai-tool-will-be-used-by-disney-imagineering-for-attractions-more/
 
 ## 11. Celebrity / Director Positions on AI
 
@@ -313,6 +334,8 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **SZA hits out at 'disgusting' AI music** — after discovering her songs in training data — https://www.euronews.com/culture/2026/06/22/sza-hits-out-at-disgusting-ai-music-after-discovering-her-songs-were-used-in-ai-training
 - `[Issue 36]` **Backstreet Boys trademark their voices against deepfakes** — joining Taylor Swift and Lionel Richie — https://www.digitalmusicnews.com/2026/06/26/backstreet-boys-trademark/
 - `[Issue 36]` **Madonna: AI is 'the complete opposite of making art'** — https://www.digitalmusicnews.com/2026/06/28/madonna-ai-algorithm-commentary/
+- `[Issue 38]` **George Lucas says AI makes filmmaking 'easier' and 'there's nothing you can do about it'** — likens AI sceptics to luddites clinging to horses — https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/
+- `[Issue 41]` **Brad Pitt says AI could help more 'mid-budget films' get made** — if it's 'used as a tool' — https://variety.com/2026/film/news/brad-pitt-ai-could-help-mid-budget-movies-1236831201/
 
 ## 12. Music Industry — Labels, Deals, and Lawsuits
 
@@ -343,6 +366,11 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 34]` **Google moves to dismiss artists' AI lawsuit** — argues artists consented "to the use of their recordings" when uploading to YouTube — https://www.digitalmusicnews.com/2026/06/10/youtube-ai-lawsuit-dismissal-motion/
 - `[Issue 35]` **Open letter: musicians 'must not be pressured into AI deals' by rightsholders** — https://musically.com/2026/06/22/open-letter-musicians-must-not-be-pressured-into-ai-deals-by-rightsholders/
 - `[Issue 36]` **YouTube's AI training argument alarms indie music advocates** — 'not informed consent' — https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/
+- `[Issue 37]` **Suno seizes on Udio's legal victory against Sony Music** — over admissible infringed works — https://www.digitalmusicnews.com/2026/07/05/suno-admissible-infringed-works-argument/
+- `[Issue 39]` **Major labels and top indies unite to ban unlicensed AI music from chart rankings** — https://www.digitalmusicnews.com/2026/07/29/labels-indies-unite-to-ban-ai-music-charts/
+- `[Issue 40]` **Suno loses landmark AI copyright lawsuit to GEMA** — German music rights society prevails — https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/
+- `[Issue 40]` **Spotify partners with Merlin to let fans legally create AI remixes and covers** — licensed fan-made derivatives of catalogue tracks — https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/
+- `[Issue 41]` **Warner Music expects AI music deals to boost subscription streaming revenue from late 2026** — https://www.musicbusinessworldwide.com/warner-music-expects-ai-music-deals-to-boost-subscription-streaming-revenue-from-late-2026/
 
 ## 13. Copyright, Policy and Regulation
 
@@ -360,6 +388,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 33]` **Google forced to allow news sites to opt out of AI scraping** — UK watchdog's 'world first' — https://fortune.com/2026/06/05/auto-draft-3/
 - `[Issue 34]` **UK regulator introduces "world first" controls on content use in Google generative AI features** — https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai
 - `[Issue 36]` **Google doubles down on 'fair use' AI training** — enforcement should focus on 'outputs', not 'inputs' — https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/
+- `[Issue 39]` **BAFTA adds AI clause to submission rules** — disclosure requirement from the 2027 awards — https://deadline.com/2026/07/bafta-ai-clause-submission-rules-2027-1237000067/
+- `[Issue 40]` **AI labels to be compulsory on authentic-looking content under EU rules** — https://www.aol.co.uk/articles/ai-labels-compulsory-authentic-looking-094628000.html
+- `[Issue 40]` **Key EU AI Act rules now being enforced** — how it affects the music industry — https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/
 
 ## 14. Unions and Labour
 
@@ -372,6 +403,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **More than 16,000 sign SAG-AFTRA letter demanding the NO FAKES Act** — congressional pressure on unauthorised AI images and videos — https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/
 - `[Issue 35]` **The real battle is over likeness and who gets paid** — Hollywood's AI economics beneath the tooling debate — https://www.staradvertiser.com/2026/06/20/breaking-news/as-hollywood-leans-into-ai-the-real-battle-is-over-likeness-and-who-gets-paid/
 - `[Issue 36]` **Nearly 1,000 sign open letter over child actors' AI voice clauses** — the Peppa Pig contract backlash — https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/
+- `[Issue 38]` **Session musicians' AI pay clause cannot function, Warner Music tells court** — https://www.techtimes.com/articles/320485/20260714/session-musicians-ai-pay-clause-cannot-function-warner-music-tells-court.htm
+- `[Issue 39]` **The AI game-dev boom has a dark side: fewer jobs for people starting out** — https://www.digitaltrends.com/cool-tech/the-ai-game-dev-boom-has-a-dark-side-fewer-jobs-for-the-people-starting-out/
+- `[Issue 41]` **UMG asks court to dismiss US musicians' union lawsuit over Udio AI deal** — https://www.musicbusinessworldwide.com/umg-asks-court-to-dismiss-us-musicians-union-lawsuit-over-udio-ai-deal/
 
 ## 15. Audience Response and Slop Ceiling
 
@@ -392,6 +426,10 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 33]` **'Say No To Suno' protesters at Santa Monica AI conference** — organised anti-AI-music protest reaches the industry circuit — https://www.digitalmusicnews.com/2026/06/04/say-no-to-suno-santa-monica-plane/
 - `[Issue 35]` **Faceless creators take a hit as YouTube cracks down on AI slop** — https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/
 - `[Issue 36]` **181,000 mobile games released in six months** — AI and vibe coding flood the market, "but not necessarily better ones" — https://www.digitaltrends.com/gaming/ai-and-vibe-coding-are-making-more-games-but-not-necessarily-better-ones/
+- `[Issue 37]` **Our interest in AI slop is hitting a ceiling** — Fast Company on the audience's tolerance limit — https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling
+- `[Issue 40]` **AI-generated stories rated better quality than human-written ones, study finds** — audiences often can't tell which is which — https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds
+- `[Issue 40]` **Snapchat will no longer recommend AI slop** — platform pulls back on surfacing synthetic content — https://www.socialmediatoday.com/news/snapchat-will-no-longer-recommend-ai-slop/826782/
+- `[Issue 41]` **Luminate study: 48-point generational gap on AI music** — 13–17s at +19% net interest versus 18–24s at −29% — https://musically.com/2026/07/27/luminate-study-explores-americans-interest-in-genai-content/
 
 ## 16. Provenance, Watermarking, Detection
 
@@ -414,6 +452,9 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 36]` **ElevenLabs partners with Google DeepMind on SynthID** — detecting ElevenLabs-generated audio — https://elevenlabs.io/blog/synthid
 - `[Issue 36]` **Human Consent Registry** — Cate Blanchett, Steven Soderbergh and Nikki Hexum on identity protection from AI theft as a 'human right' — https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/
 - `[Issue 36]` **Traxsource to label human-made and AI-assisted music** — https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/
+- `[Issue 38]` **RIAA, A2IM, IMPALA announce track-level 'labeling program' for AI audio** — targeting broad global adoption across DSPs — https://www.digitalmusicnews.com/2026/07/10/ai-music-tags-riaa-a2im-impala/
+- `[Issue 40]` **NVIDIA creates a tool for detecting AI content in videos** — designed for newsroom use — https://www.broadcastnow.co.uk/tech-innovation/nvidia-creates-ai-video-detector/5219075.article
+- `[Issue 41]` **Spotify introduces a new 'AI Persona' label** — transparency badges for AI-generated artist identities — https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/
 
 ## 17. Workplace AI Adoption / Shadow AI / Workforce Research
 
@@ -466,6 +507,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **OpenAI moves to automate ad creative** — https://digiday.com/marketing/openai-moves-to-automate-ad-creative/
 - `[Issue 35]` **Brands using AI-generated influencers to promote products** — https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media
 - `[Issue 36]` **TikTok launches Agentic Hub** — third-party AI ad tools integrated with the platform's MCP server — https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/
+- `[Issue 41]` **Warner Bros. uses AI dog podcast to promote 'The End of Oak Street'** — a synthetic-host marketing experiment — https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/
 
 ## 19. Festivals, Institutions, Awards
 
@@ -483,6 +525,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 33]` **Tribeca doc 'AI: Probably Nothing to Worry About'** — Nick Holt on AI's origins as "the creation of a sort of species" — https://variety.com/2026/film/festivals/tribeca-ai-documentary-nick-hold-director-probably-nothing-to-worry-about-1236767764/
 - `[Issue 35]` **Dataland — Museum of AI Art opens in Los Angeles** — Refik Anadol's institution-scale landmark — https://www.theartnewspaper.com/2026/06/18/refik-anadol-dataland-opens-los-angeles
 - `[Issue 35]` **Shanghai Film Festival embraces cinema's future** — from AI to iPhone moviemaking — https://www.hollywoodreporter.com/movies/movie-news/shanghai-film-festival-cinema-future-ai-iphone-1236626463/
+- `[Issue 40]` **Es Devlin's 'A National Portrait' at the National Portrait Gallery** — every UK adult can become a co-author of the AI-driven artwork — https://www.npg.org.uk/whatson/display/2026/national-portrait-for-npg/
 
 ## 20. Geographic / Regional AI Production
 
@@ -564,6 +607,7 @@ For the complete primary-source archive — every link, in full, in original pub
 - `[Issue 35]` **Odyssey $310M Series B** — *op. cit.* (see §4)
 - `[Issue 36]` **Higgsfield hits $500M revenue, eyes $5B funding round** — https://www.techtimes.com/articles/319394/20260630/ai-video-startup-higgsfield-hits-500m-revenue-eyes-5b-funding-round.htm
 - `[Issue 36]` **General Intuition raises $320M at $2.3B valuation** — frontier models trained on gameplay; games as training data for real-world agents — https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/
+- `[Issue 37]` **Kling AI raises record $2.8 billion** — the largest AI video raise to date, with strings under Beijing law — https://www.techtimes.com/articles/319708/20260704/kling-ai-raises-record-28-billion-what-creators-owe-china-under-beijing-law.htm
 
 ## 25. Live Sport, Events and the World Cup
 
@@ -590,7 +634,7 @@ For the complete primary-source archive — every link, in full, in original pub
 
 This thematic index covers the *significant* sources across the *Dream Machine* archive, organised by topic. For specific research, follow the bracketed Issue numbers back to the canonical issue file in `Dream Machine MD/`. Each issue file ends with the section "All embedded URLs (in document order)" which lists every URL the issue carried, including local navigation links, profile pages and platform housekeeping links that are not reproduced here.
 
-The newsletter is a continuous publication. The index above reflects the state of the archive as of Issue 36 (July 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
+The newsletter is a continuous publication. The index above reflects the state of the archive as of Issue 41 (August 2026). Subsequent issues will extend the catalogue. The newsletter archive itself, on LinkedIn, remains the canonical primary source for every link the book builds on.
 
 For deeper analytical treatment of the data this index points to, see the deep-dive appendices:
 - [Appendix D: The Shadow AI Paradox](A4_Deep_Dive_Shadow_AI.md)

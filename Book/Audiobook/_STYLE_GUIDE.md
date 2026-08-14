@@ -173,7 +173,7 @@ After the first occurrence in a chapter, use the plain form.
 ## URLs and links
 
 - Strip Markdown link syntax. Read the link text only.
-- For chapter cross-references like "[Chapter 11](11_The_Orchestrator.md)" → "Chapter Eleven, *The Orchestrator*".
+- For chapter cross-references like "[Chapter 12](12_The_Orchestrator.md)" → "Chapter Twelve, *The Orchestrator*".
 - "Visit the project website for more information" — only if the URL is essential.
 
 ## Visual references
@@ -206,8 +206,8 @@ Preserve the author's voice — North-West English, opinionated, conversational,
 
 ## Chapter cross-references
 
-When the author writes "as I argue in Chapter 11" or "[Chapter 11](11_The_Orchestrator.md)", convert to:
-"as I argue in Chapter Eleven".
+When the author writes "as I argue in Chapter 12" or "[Chapter 12](12_The_Orchestrator.md)", convert to:
+"as I argue in Chapter Twelve".
 
 ## End-of-chapter
 

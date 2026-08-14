@@ -92,6 +92,8 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - Daniel Ek (Spotify), *"AI music is better than 'slop'"* — interview / statement (June 2026). *Dream Machine* Issue 31.
 - Tonada, *"Swedish startup supplies AI music for retailers"* (June 2026). *Dream Machine* Issue 31.
 - Estate of Ozzy Osbourne, *"Ozzy to live on as an AI avatar that talks with fans"* (June 2026). *Dream Machine* Issue 31.
+- *Startup Fortune*, *"An Atlantic Investigation Just Blew Open the AI Music Industry's Data Provenance Problem"* — the datasets that may have trained the major AI-music platforms. <https://startupfortune.com/an-atlantic-investigation-just-blew-open-the-ai-music-industrys-data-provenance-problem/>
+- *Musically*, *"Luminate study explores Americans' interest in GenAI content"* — a 48-percentage-point generational gap between 13–17-year-olds (+19% net interest in AI music) and 18–24-year-olds (−29%). <https://musically.com/2026/07/27/luminate-study-explores-americans-interest-in-genai-content/>
 
 ## V. Copyright, consultation and the legal architecture
 
@@ -112,6 +114,9 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *Digital Music News*, *"Google Doubles Down on 'Fair Use' AI Training, Stressing That 'Outputs' Not 'Inputs' Are Where Enforcement Should Be Focusing."* <https://www.digitalmusicnews.com/2026/06/29/google-fair-use-ai-training/>
 - *Digital Music News*, *"Federal Judge Vacates Order Sealing Udio's Training Data."* <https://www.digitalmusicnews.com/2026/06/05/udio-training-number-order-vacated/>
 - Variety, *"More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos."* <https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/>
+- *Variety*, *"Suno Loses Landmark AI Copyright Lawsuit to German Music Rights Society GEMA."* <https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/>
+- *Musically*, *"Key EU AI Act rules now being enforced — so how does that affect the music industry?"* <https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/> — see also *AOL*, *"AI labels to be compulsory on authentic-looking content under EU rules."* <https://www.aol.co.uk/articles/ai-labels-compulsory-authentic-looking-094628000.html>
+- *Billboard*, *"ABBA's Björn Ulvaeus Says We Might Be Doing AI Licensing Deals Wrong"* — 'tracing the output was always the wrong question'. <https://www.billboard.com/pro/abba-bjorn-ulvaeus-music-ai-un-global-summit/>
 
 ## VI. Studio strategy
 
@@ -148,6 +153,11 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - *The Hollywood Reporter*, *"Google Investing in 'Backrooms' Studio A24."* <https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/>
 - *Futurism*, *"A24 Is Dealing With a Full-on Crisis Among Fans After Signing an AI Deal With Google."* <https://futurism.com/artificial-intelligence/a24-crisis-fans-signing-ai-deal-google>
 - *Bloomberg*, *"Animation's AI Reckoning: Filmmakers Say They Can Better Make Movies for 90% Less."* <https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less>
+- *Variety*, *"About 300 Netflix Titles Used Generative AI This Year, Company Reveals."* <https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/>
+- *Variety*, *"George Lucas Says AI Makes Filmmaking 'Easier' and 'There's Nothing You Can Do About It'."* <https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/>
+- *Variety*, *"Brad Pitt Says AI Could Help More 'Mid-Budget Films' Get Made if It's 'Used as a Tool'."* <https://variety.com/2026/film/news/brad-pitt-ai-could-help-mid-budget-movies-1236831201/>
+- *BlogMickey*, *"Disney Imagineering rolls out its internal J.A.R.V.I.S. AI to 2,000+ Imagineers"* — seven decades of accumulated creative knowledge, archives and workflows made searchable. <https://blogmickey.com/2026/08/damaro-details-ai-use-imagineering-disney-company/>
+- Wikipedia, *"Leveraged buyout of Electronic Arts"* — the $55bn PIF / Silver Lake / Affinity Partners take-private (completed 4 August 2026), the largest leveraged buyout in history. <https://en.wikipedia.org/wiki/Leveraged_buyout_of_Electronic_Arts> — see also *CNBC*, *"Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA deal."* <https://www.cnbc.com/2026/08/05/saudi-wealth-fund-jared-kushner-ea-sports-deal.html>
 
 ## VII. World models and the new medium
 
@@ -249,6 +259,7 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - Snap Newsroom, *"Snapchat Gen Z AI Creativity Research 2026 — 31% of 13–15 year-olds use AI to be creative."* <https://newsroom.snap.com/snapchat-gen-z-ai-creativity-research-2026>
 - YouGov AU, *"45% of Australians say AI-generated ads would make them trust a brand less."* <https://yougov.com.au/topics/consumer/articles-reports/2026/05/19/45-percent-australians-ai-generated-ads-trust-brand-less>
 - *Variety*, *"Cate Blanchett, Steven Soderbergh, Nikki Hexum on How the Human Consent Registry Helps People Protect Their Identity From AI Theft: It's a 'Human Right'."* <https://variety.com/2026/biz/news/cate-blanchett-steven-soderbergh-nikki-hexum-ai-human-registry-1236791271/>
+- *The Guardian*, *"AI-generated stories rated better quality than human-written ones, study finds"* — readers frequently preferred the machine-written work and could not reliably tell which was which. <https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds>
 
 ## X. Labour, organisation and the new geography
 
@@ -269,6 +280,9 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 - UKTN, *"AI hiring surges 'across all UK sectors', according to new findings from PwC, with a 34% salary premium for AI skills."* <https://www.uktech.news/ai/ai-hiring-surges-across-all-uk-sectors-20260615>
 - *The Hollywood Reporter*, *"Hollywood Workers Are Training AI Models as Job Prospects Grow Slim."* <https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/>
 - Ramp, *"Ramp AI Index, June 2026"* — top 1% of firms now spend $7,500 per employee per month on AI. <https://ramp.com/data/ai-index-june-2026>
+- GDC, *"State of the Game Industry 2026"* — 52% of game developers now say generative AI is having a negative impact on the industry, up from 30% a year earlier and 18% the year before that. <https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/>
+- KPMG, *"Analysis of 1.4 million AI interactions identifies the employee behaviours behind effective AI use — and how they can be taught at scale."* <https://kpmg.com/us/en/articles/2026/sophisticated-ai.html>
+- Institute for the Future, *"The High-Impact Individual Contributor (HI-C)"* — the individual who can deliver a project of business value end-to-end on their own by combining deep expertise with a capable AI stack; the framing behind the Issue 37 Editor's Pick on economies of scale giving way to economies of capability. *Dream Machine* Issue 37.
 
 ## XI. The literacy turn — institutions and education
 
@@ -296,6 +310,6 @@ The full corpus — 1,438 successfully fetched and archived articles — is pres
 
 ## XII. Newsletters and primary corpus
 
-- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–36 (6 October 2025 – 2 July 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
+- *Dream Machine | Creative AI* — LinkedIn newsletter, archive of Issues 1–41 (6 October 2025 – 12 August 2026). <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>
 - DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>
 - DreamLab Substack, "Some Predictions on Creative AI for 2026" — *Dream Machine* Issue 13 companion piece. <https://substack.com/home/post/p-183997149>

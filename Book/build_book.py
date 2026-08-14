@@ -62,17 +62,18 @@ CHAPTER_FILES = [
     "05_The_Slop_Ceiling.md",
     "06_The_88_Percent.md",
     "07_The_Studios_Decide.md",
-    "08_Worlds_Not_Pictures.md",
-    "09_AI_In_Everything.md",
-    "10_What_Is_Newly_Possible.md",
-    "11_The_Orchestrator.md",
-    "12_Authenticity_New_Scarcity.md",
-    "13_Coordination_Collapse.md",
-    "14_The_New_Jobs.md",
-    "15_Choosing_the_Future.md",
-    "16_The_Tools.md",
-    "17_Five_Years_Inside_the_Dream_Machine.md",
-    "18_Epilogue.md",
+    "08_The_Machine_Gets_the_Money.md",
+    "09_Worlds_Not_Pictures.md",
+    "10_AI_In_Everything.md",
+    "11_What_Is_Newly_Possible.md",
+    "12_The_Orchestrator.md",
+    "13_Authenticity_New_Scarcity.md",
+    "14_Coordination_Collapse.md",
+    "15_The_New_Jobs.md",
+    "16_Choosing_the_Future.md",
+    "17_The_Tools.md",
+    "18_Five_Years_Inside_the_Dream_Machine.md",
+    "19_Epilogue.md",
 ]
 
 APPENDIX_FILES = [
@@ -101,10 +102,10 @@ TITLE = "Dream Machine"
 SUBTITLE = "Artificial Intelligence and the Next Creative Economy"
 AUTHOR = "Pete Woodbridge"
 PLACE = "DreamLab, the North West, UK"
-DATE = "7 July 2026"
+DATE = "14 August 2026"
 # Used both in the colophon and in the output PDF filename. Each new edition
 # of the book gets a fresh dated PDF so prior versions are retained alongside.
-EDITION_SLUG = "2026-07-07"
+EDITION_SLUG = "2026-08-14"
 OUT_PDF = BUILD / f"Dream_Machine_{EDITION_SLUG}.pdf"
 # KDP interior is the content PDF only (no front/back cover), used for
 # uploading to Amazon KDP where the cover is supplied separately.
@@ -281,7 +282,7 @@ def build_static_front_matter(kdp: bool = False) -> str:
         f'© 2026 {AUTHOR}. All rights reserved.<br/>'
         f'Edition of {DATE}.<br/><br/>'
         f'Written and edited at DreamLab in the North West of England, '
-        f'between October 2025 and June 2026, in parallel with thirty-two '
+        f'between October 2025 and August 2026, in parallel with forty-one '
         f'editions of the <em>Dream Machine</em> newsletter.<br/><br/>'
         f'All footnoted claims are sourced. Every footnote links either to a '
         f'primary source or to the issue of <em>Dream Machine</em> in which the '
@@ -317,7 +318,7 @@ def build_static_front_matter(kdp: bool = False) -> str:
         f'<p class="blurb">'
         f'In September 2025, a synthetic actress walked onto a Zurich film '
         f'festival stage, OpenAI shipped Sora 2, and Pete Woodbridge sat down '
-        f'to write a newsletter about it. Thirty-two weekly issues later, what '
+        f'to write a newsletter about it. Forty-one weekly issues later, what '
         f'began as a one-month experiment had become <em>Dream Machine</em> — '
         f'the most-read working-creative record of the AI transition.'
         f'</p>'
@@ -481,7 +482,7 @@ def build_citation_index(chapter_data: list[tuple[str, str]]) -> str:
     lines.append("## Summary\n")
     lines.append(f"- **Total footnotes**: {total}")
     lines.append(f"- **Unique primary-source URLs cited**: {len(unique_urls)}")
-    lines.append("- **Source corpus**: 32 editions of *Dream Machine | Creative AI* (October 2025 – June 2026)\n")
+    lines.append("- **Source corpus**: 41 editions of *Dream Machine | Creative AI* (October 2025 – August 2026)\n")
 
     return "\n".join(lines)
 

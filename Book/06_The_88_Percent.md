@@ -47,6 +47,8 @@ I think a lot of the international coverage of the UK consultation has under-emp
 
 In **Germany**, the music rights society **GEMA** sued OpenAI in the Munich Regional Court over the training of large language models on copyrighted music lyrics. In November 2025, the court ruled for GEMA in a decision that intellectual-property lawyers across Europe — including Dr Barry Scannell, whose detailed LinkedIn breakdown of the ruling I have read more times than I will admit — described as a *major* precedent for European copyright law.[^6]
 
+That precedent held, and then it compounded. In August 2026, GEMA won again — this time against **Suno**, the largest of the AI music-generation platforms, in a landmark ruling that turned the November 2025 decision from an outlier into a line of authority: the same collecting society, the same court system, and now a generative-music company losing on the training question itself.[^6a] *Creative Bloq*'s question in the aftermath — what does the biggest AI copyright payout in history actually change for creatives? — deserves, I think, a precise answer: not a windfall for individual artists, but a *price signal*. Training now has a cost on the books, which means licensing now has a floor to negotiate up from.[^6b] And the platforms were fighting the same war docket by docket, taking whatever procedural ground each ruling offered — only a month earlier, Suno had publicly seized on Udio's procedural win against Sony Music over which infringed works were admissible in that case.[^6c] Neither side was treating any single judgment as the end of the argument. Both sides were treating every judgment as a rate-setting input for the licensing table.
+
 In **the United States**, a coalition of music rights organisations sued **Suno**, with the press release describing the action, in a phrase the litigators clearly knew would travel, as "the biggest theft in music history."[^7] **Wixen Music Publishing** filed a $50m copyright suit against **Meta** in January 2026.[^8] **Universal Music Group** filed a $3B suit against **Anthropic**.[^9] **The Johnny Cash estate** sued Coca-Cola under the **ELVIS Act** — Tennessee's new AI-impersonation law — for using a Cash sound-alike in a tribute-act advertisement.[^10] By the spring of 2026, the litigation landscape was so dense that *Music Business Worldwide* was running weekly summary columns just to keep track of which cases were still active.
 
 In **the European Union**, lawmakers tabled a bill in November 2025 seeking an EU-wide minimum age to access AI chatbots and social media, an early acknowledgement that the regulatory question was not just about copyright but about the wider integration of AI into the social fabric.[^11]
@@ -115,6 +117,8 @@ The first prong is *consent by terms of service*. In June 2026, Google moved to 
 
 The second prong is *outputs, not inputs*. In the same month, Google doubled down on its position that AI training is fair use, arguing that copyright enforcement should focus on what models *output*, not what they *ingest*.[^46] I want to be precise about what this framing does, because it is the exact structural inverse of the 88%. Licensing-in-all-cases puts the legal event at *ingestion* — the moment the work enters the training set, which is knowable, auditable, and licensable in bulk, and which the GEMA ruling treated as the operative act. Outputs-not-inputs moves the legal event to *generation* — millions of individual outputs, each requiring a case-by-case similarity analysis, each expensive to litigate, each disputable. It converts one collectively-negotiable question into an unbounded number of individually-unwinnable ones. That is not a compromise position. It is the training-pipeline status quo, restated as a principle of enforcement priority.
 
+The sharpest rebuttal to the outputs-not-inputs move came, that same midsummer, from inside the industry rather than the courtroom. **Björn Ulvaeus** of ABBA — no one's idea of an AI maximalist — told a UN summit that the music business might be doing its AI licensing deals wrong, and that *"tracing the output was always the wrong question."*[^46a] He meant it as a licensing critique, not a legal one, but it lands on Google's framing like a hammer. If even a rights-holder helping to build the licensing table agrees that chasing individual outputs is a category error, then outputs-not-inputs is not a principle of enforcement at all — it is a way of making enforcement impossible, and everyone serious about getting paid knows the operative event is ingestion.
+
 ### The levy precedent: why Petrillo matters here
 
 I want to take a long detour, because the 88% — and the institutional response forming around it — is, on the historical reading I laid out in [Chapter 2](02_A_History_of_Resistance.md), a *Petrillo-template* moment that the trade press has, in the main, declined to recognise as such.
@@ -179,7 +183,7 @@ The category, with the models I would name as its leading examples:
 - **Bria** — image and video foundation models trained on a 100%-licensed dataset assembled from partners including Getty Images, Alamy and a network of independent rights holders. Bria publishes a per-output attribution and royalty mechanism on which the broader creative-weight-attribution conversation has drawn.[^26]
 - **Getty Images Generative AI** (built with NVIDIA Picasso) — trained exclusively on Getty's licensed library, with contributor royalties paid through Getty's existing rights infrastructure.[^27]
 - **Moonvalley Marey** — a generative-video model positioned explicitly as the "clean" alternative to Sora and Veo, trained on a licensed video dataset.[^28]
-- **AIODE** — a music-creation DAW trained on ethically-licensed audio, listed in the toolchain map in [Chapter 16](16_The_Tools.md).[^29]
+- **AIODE** — a music-creation DAW trained on ethically-licensed audio, listed in the toolchain map in [Chapter 17](17_The_Tools.md).[^29]
 - **Tamber** — an ethically-trained AI music suite launched in May 2026, controllable via arm gestures, positioned explicitly as a tool that moves *with* the musician rather than substituting for them.[^38]
 - The **Stability AI / Universal Music Group** alliance, the **Stability AI / Warner Music** deal and the **Splice / Universal Music** partnership — data-alliance arrangements that build music models on rights-cleared catalogues, with the per-creator distribution handled through the labels' existing royalty infrastructure.[^30]
 
@@ -218,7 +222,7 @@ For working creatives, agencies and studios making procurement decisions in 2026
 
 ### The literacy problem
 
-None of this — the consent-trained category, the indemnity framework, the C2PA provenance stack in [Chapter 12](12_Authenticity_New_Scarcity.md), the legislative reversal earlier in this chapter — works without a corresponding investment in *literacy*. And the literacy gap, in mid-2026, is the place where I am most worried about the architecture failing.
+None of this — the consent-trained category, the indemnity framework, the C2PA provenance stack in [Chapter 13](13_Authenticity_New_Scarcity.md), the legislative reversal earlier in this chapter — works without a corresponding investment in *literacy*. And the literacy gap, in mid-2026, is the place where I am most worried about the architecture failing.
 
 Policy and infrastructure can constrain the supply side. They cannot, on their own, redirect the demand side. The question of whether a working illustrator chooses Firefly over Midjourney, whether a marketing team specifies Bria over a scraped open-source model in its agency brief, whether a record label's A&R department uses a Stability / UMG-aligned tool rather than Suno for demo work, whether a film commissioner asks for Marey provenance on a generative-video shot, whether an audience member streams a SynthID-watermarked track over an unlabelled one — these are *consumption* questions. They sit downstream of every law and every standard. They are decided, ten thousand times a day, by people choosing tools and content from a menu, without anyone telling them what the choices on the menu actually mean.
 
@@ -252,7 +256,7 @@ The artists answered it themselves within weeks. In late June 2026, an open lett
 
 They also — and this part I find most interesting — aligned with their *audiences*. The Adobe Creators' Toolkit Report found that **69%** of creators worried about their work being used to train AI without consent.[^24] That number rhymes with the 88% in the U.K. consultation. It also rhymes with the audience behaviour I described in Chapter 5 — the slop ceiling, the AI-music underperformance, the cultural rejection of synthetic content that doesn't disclose itself. The creators wanted protection. The audience, given a choice, wanted to listen to the protected work. The two interests, for the first time in a long time, sat on the same side of the line.
 
-That alignment is the most powerful political asset the creative industries have had this century. They built it in six months. The question for the next six months — which Chapter 13 of this book is going to come back to — is what they do with it.
+That alignment is the most powerful political asset the creative industries have had this century. They built it in six months. The question for the next six months — which Chapter 14 of this book is going to come back to — is what they do with it.
 
 ### The government admits it got it wrong
 
@@ -334,7 +338,7 @@ It *does not* mean the fight is over. Nandy's statement at SXSW was accompanied 
 
 [^28]: Moonvalley Marey, generative-video foundation model trained on licensed video. [TODO: confirm citation — Moonvalley launch coverage in *The Verge* / *TechCrunch*.]
 
-[^29]: AIODE, ethically-trained music creation DAW. See [Chapter 16: The Tools](16_The_Tools.md), §"Audio modality models."
+[^29]: AIODE, ethically-trained music creation DAW. See [Chapter 17: The Tools](17_The_Tools.md), §"Audio modality models."
 
 [^30]: Stability AI / Universal Music Group strategic alliance: <https://stability.ai/news/universal-music-group-and-stability-ai-announce-strategic-alliance>. Stability AI / Warner Music: <https://stability.ai/news/warner-music-group-and-stability-ai-join-forces-to-build-next-gen-tools>. Universal Music / Splice partnership: <https://www.universalmusic.com/universal-music-group-and-splice-to-collaborate-on-the-next-generation-of-ai-powered-music-creation-tools-for-artists/>. *Dream Machine* Issues [5](../Dream%20Machine%20MD/5.md), [8](../Dream%20Machine%20MD/8.md), [12](../Dream%20Machine%20MD/12.md).
 
@@ -348,7 +352,7 @@ It *does not* mean the fight is over. Nandy's statement at SXSW was accompanied 
 
 [^35]: IBM watsonx uncapped indemnity for enterprise customers. [TODO: confirm citation.]
 
-[^36]: Sundance AI Literacy Initiative, in [Chapter 12: Authenticity, the New Scarcity](12_Authenticity_New_Scarcity.md), §"The provenance infrastructure, named."
+[^36]: Sundance AI Literacy Initiative, in [Chapter 13: Authenticity, the New Scarcity](13_Authenticity_New_Scarcity.md), §"The provenance infrastructure, named."
 
 [^37]: *Musically*, "BPI sets out transparency and sovereignty demands to secure 'AI licensing boom'." <https://musically.com/2026/05/19/bpi-transparency-sovereignty-ai-licensing-boom/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
@@ -385,3 +389,11 @@ It *does not* mean the fight is over. Nandy's statement at SXSW was accompanied 
 [^51]: GOV.UK / DSIT, "A decisive shift to power British AI: new £1.1 billion plan to back chip firms, boost computing power and skills for the AI revolution." <https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
 
 [^52]: *Fortune*, "Google forced to allow news sites to opt out of AI scraping in 'world first,' UK watchdog says." <https://fortune.com/2026/06/05/auto-draft-3/>. See also *National Law Review*, "UK Regulator Introduces 'World First' Controls on the Use of Content in Google Generative AI Features." <https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [34](../Dream%20Machine%20MD/34.md).
+
+[^6a]: *Variety*, "Suno has lost a landmark AI copyright lawsuit to German music rights society GEMA." <https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+[^6b]: *Creative Bloq*, "What does the biggest AI copyright payout in history actually change for creatives?" <https://www.creativebloq.com/ai/what-does-the-biggest-ai-copyright-payout-in-history-actually-change-for-creatives>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+[^6c]: *Digital Music News*, "Suno Quickly Seizes on Udio’s Legal Victory Against Sony Music Over Admissible Infringed Works." <https://www.digitalmusicnews.com/2026/07/05/suno-admissible-infringed-works-argument/>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+[^46a]: *Billboard*, "ABBA’s Björn Ulvaeus Says We Might Be Doing AI Licensing Deals Wrong." <https://www.billboard.com/pro/abba-bjorn-ulvaeus-music-ai-un-global-summit/>. See also *Musically*, "‘Tracing the output was always the wrong question’." <https://musically.com/2026/07/13/bjorn-ulvaeus-on-ai-tracing-the-output-was-always-the-wrong-question/>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).

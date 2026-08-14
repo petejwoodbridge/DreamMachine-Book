@@ -63,80 +63,87 @@
     "is_appendix": false
   },
   {
-    "file": "08_Worlds_Not_Pictures.md",
+    "file": "08_The_Machine_Gets_the_Money.md",
     "title": "Chapter 8",
-    "subtitle": "Worlds, Not Pictures",
-    "path": "Book/08_Worlds_Not_Pictures.md",
+    "subtitle": "The Machine Gets the Money",
+    "path": "Book/08_The_Machine_Gets_the_Money.md",
     "is_appendix": false
   },
   {
-    "file": "09_AI_In_Everything.md",
+    "file": "09_Worlds_Not_Pictures.md",
     "title": "Chapter 9",
-    "subtitle": "AI in Everything, Everywhere, All at Once",
-    "path": "Book/09_AI_In_Everything.md",
+    "subtitle": "Worlds, Not Pictures",
+    "path": "Book/09_Worlds_Not_Pictures.md",
     "is_appendix": false
   },
   {
-    "file": "10_What_Is_Newly_Possible.md",
+    "file": "10_AI_In_Everything.md",
     "title": "Chapter 10",
-    "subtitle": "What is newly possible",
-    "path": "Book/10_What_Is_Newly_Possible.md",
+    "subtitle": "AI in Everything, Everywhere, All at Once",
+    "path": "Book/10_AI_In_Everything.md",
     "is_appendix": false
   },
   {
-    "file": "11_The_Orchestrator.md",
+    "file": "11_What_Is_Newly_Possible.md",
     "title": "Chapter 11",
-    "subtitle": "The Orchestrator",
-    "path": "Book/11_The_Orchestrator.md",
+    "subtitle": "What is newly possible",
+    "path": "Book/11_What_Is_Newly_Possible.md",
     "is_appendix": false
   },
   {
-    "file": "12_Authenticity_New_Scarcity.md",
+    "file": "12_The_Orchestrator.md",
     "title": "Chapter 12",
-    "subtitle": "Authenticity as the New Scarcity",
-    "path": "Book/12_Authenticity_New_Scarcity.md",
+    "subtitle": "The Orchestrator",
+    "path": "Book/12_The_Orchestrator.md",
     "is_appendix": false
   },
   {
-    "file": "13_Coordination_Collapse.md",
+    "file": "13_Authenticity_New_Scarcity.md",
     "title": "Chapter 13",
-    "subtitle": "Coordination Collapse",
-    "path": "Book/13_Coordination_Collapse.md",
+    "subtitle": "Authenticity as the New Scarcity",
+    "path": "Book/13_Authenticity_New_Scarcity.md",
     "is_appendix": false
   },
   {
-    "file": "14_The_New_Jobs.md",
+    "file": "14_Coordination_Collapse.md",
     "title": "Chapter 14",
-    "subtitle": "The New Jobs",
-    "path": "Book/14_The_New_Jobs.md",
+    "subtitle": "Coordination Collapse",
+    "path": "Book/14_Coordination_Collapse.md",
     "is_appendix": false
   },
   {
-    "file": "15_Choosing_the_Future.md",
+    "file": "15_The_New_Jobs.md",
     "title": "Chapter 15",
-    "subtitle": "Choosing the Future",
-    "path": "Book/15_Choosing_the_Future.md",
+    "subtitle": "The New Jobs",
+    "path": "Book/15_The_New_Jobs.md",
     "is_appendix": false
   },
   {
-    "file": "16_The_Tools.md",
+    "file": "16_Choosing_the_Future.md",
     "title": "Chapter 16",
-    "subtitle": "The Tools",
-    "path": "Book/16_The_Tools.md",
+    "subtitle": "Choosing the Future",
+    "path": "Book/16_Choosing_the_Future.md",
     "is_appendix": false
   },
   {
-    "file": "17_Five_Years_Inside_the_Dream_Machine.md",
+    "file": "17_The_Tools.md",
     "title": "Chapter 17",
-    "subtitle": "Five Years Inside the Dream Machine",
-    "path": "Book/17_Five_Years_Inside_the_Dream_Machine.md",
+    "subtitle": "The Tools",
+    "path": "Book/17_The_Tools.md",
     "is_appendix": false
   },
   {
-    "file": "18_Epilogue.md",
+    "file": "18_Five_Years_Inside_the_Dream_Machine.md",
+    "title": "Chapter 18",
+    "subtitle": "Five Years Inside the Dream Machine",
+    "path": "Book/18_Five_Years_Inside_the_Dream_Machine.md",
+    "is_appendix": false
+  },
+  {
+    "file": "19_Epilogue.md",
     "title": "Epilogue",
     "subtitle": "A Letter from the Dream Machine",
-    "path": "Book/18_Epilogue.md",
+    "path": "Book/19_Epilogue.md",
     "is_appendix": false
   },
   {
@@ -193,6 +200,41 @@
     "title": "Appendix H — The Dream Machine Source Index",
     "subtitle": "1. AI Video — Models and Releases",
     "path": "Book/A8_Source_Index.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A9_Deep_Dive_Doomer_Mistake.md",
+    "title": "Appendix I — The Doomer Mistake: Why the Case for AI-Driven Civilizational Collapse Keeps Losing the Argument with the Data",
+    "subtitle": "Page 1",
+    "path": "Book/A9_Deep_Dive_Doomer_Mistake.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A10_Deep_Dive_Process_Trap.md",
+    "title": "Appendix J — The Process Trap: Generative Abundance and the Equivocation of the Creative",
+    "subtitle": "4.1 The originating problem",
+    "path": "Book/A10_Deep_Dive_Process_Trap.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A11_Deep_Dive_Coordination_Collapse.md",
+    "title": "Appendix K — The Coordination Collapse: How AI Is Dissolving the Information Tax That Created Hierarchy",
+    "subtitle": "Page 1",
+    "path": "Book/A11_Deep_Dive_Coordination_Collapse.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A12_Deep_Dive_Programmable_Brand.md",
+    "title": "Appendix L — The Programmable Brand: Behavioural Licensing and the Governance Layer of the Generative Economy",
+    "subtitle": "Page 1",
+    "path": "Book/A12_Deep_Dive_Programmable_Brand.md",
+    "is_appendix": true
+  },
+  {
+    "file": "A13_Deep_Dive_World_Cup.md",
+    "title": "Appendix M — The World Cup Storyworld: AI, Live Sport and the Largest Deployment in Entertainment History",
+    "subtitle": "How the 2026 World Cup became the largest live deployment of artificial intelligence in entertainment history",
+    "path": "Book/A13_Deep_Dive_World_Cup.md",
     "is_appendix": true
   }
 ]

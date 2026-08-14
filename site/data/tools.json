@@ -1,7 +1,7 @@
 [
   {
-    "name": "ChatGPT / GPT-5 / GPT-5 Pro",
-    "blurb": "the dominant consumer LLM and reference foundation model; 800–900M weekly active users; GPT-5 / GPT-5 Pro announced at DevDay 2025.",
+    "name": "ChatGPT / GPT-5 / GPT-5 Pro / GPT-Live",
+    "blurb": "the dominant consumer LLM and reference foundation model; 800–900M weekly active users; GPT-5 / GPT-5 Pro announced at DevDay 2025; **GPT-Live** (July 2026) is a new generation of voice models for natural, real-time human-AI interaction.",
     "category": "Foundation models / LLMs",
     "category_slug": "foundation",
     "layer": "Foundation",
@@ -21,7 +21,7 @@
     "issues": [
       34
     ],
-    "_s": "chatgpt / gpt-5 / gpt-5 pro openai the dominant consumer llm and reference foundation model; 800–900m weekly active users; gpt-5 / gpt-5 pro announced at devday 2025. foundation models / llms foundation film tv music games animation design marketing immersive"
+    "_s": "chatgpt / gpt-5 / gpt-5 pro / gpt-live openai the dominant consumer llm and reference foundation model; 800–900m weekly active users; gpt-5 / gpt-5 pro announced at devday 2025; **gpt-live** (july 2026) is a new generation of voice models for natural, real-time human-ai interaction. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
     "name": "Claude / Claude Code / Claude Apps / Claude Skills / Claude Fable 5 / Claude Sonnet 5",
@@ -48,7 +48,9 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38
     ],
     "_s": "claude / claude code / claude apps / claude skills / claude fable 5 / claude sonnet 5 anthropic the writers' and developers' favoured second; strong long-context performance; the agentic coding environment that underlies sony's 49-agent / 72-skill stack; claude for legal launched may 2026. **fable 5**, the mythos-class model released june 2026, had its access suspended within a week under a us export-control directive — the first frontier creative model to be withdrawn on national-security grounds; **sonnet 5** (july 2026) shipped stronger agentic capabilities at lower pricing. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
@@ -121,8 +123,8 @@
     "_s": "mistral / mistral voxtral / mistral transcribe 2  european open-source llm; voxtral is the next-generation speech-to-text family. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
-    "name": "Qwen / Qwen 3.5-Omni",
-    "blurb": "Chinese open-source LLM, image, video and audio variants; Omni is the multimodal family covering text, images, audio and video.",
+    "name": "Qwen / Qwen 3.5-Omni / Qwen 3.8 Max",
+    "blurb": "Chinese open-source LLM, image, video and audio variants; Omni is the multimodal family covering text, images, audio and video; **Qwen 3.8 Max** (August 2026) set a new bar for coding and agentic \"cowork\".",
     "category": "Foundation models / LLMs",
     "category_slug": "foundation",
     "layer": "Foundation",
@@ -139,8 +141,10 @@
     "url": "https://qwen.ai/blog?id=qwen-image-2512",
     "parent": null,
     "vendor": "Alibaba",
-    "issues": [],
-    "_s": "qwen / qwen 3.5-omni alibaba chinese open-source llm, image, video and audio variants; omni is the multimodal family covering text, images, audio and video. foundation models / llms foundation film tv music games animation design marketing immersive"
+    "issues": [
+      40
+    ],
+    "_s": "qwen / qwen 3.5-omni / qwen 3.8 max alibaba chinese open-source llm, image, video and audio variants; omni is the multimodal family covering text, images, audio and video; **qwen 3.8 max** (august 2026) set a new bar for coding and agentic \"cowork\". foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
     "name": "DeepSeek",
@@ -189,13 +193,16 @@
       33,
       34,
       35,
-      36
+      36,
+      38,
+      40,
+      41
     ],
     "_s": "phi / phi mini microsoft lightweight foundation models. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
-    "name": "Lyria / Lyria 3 / Lyria 3 Pro",
-    "blurb": "text-to-music foundation model family; Lyria 3 ships with SynthID watermarking and the Lyria Camera interactive demo.",
+    "name": "Lyria / Lyria 3 / Lyria 3 Pro / Lyria 3.5",
+    "blurb": "text-to-music foundation model family; Lyria 3 ships with SynthID watermarking and the Lyria Camera interactive demo; **Lyria 3.5** (July 2026) shipped inside Google Flow Music.",
     "category": "Foundation models / LLMs",
     "category_slug": "foundation",
     "layer": "Foundation",
@@ -214,9 +221,10 @@
     "vendor": "Google DeepMind",
     "issues": [
       35,
-      36
+      36,
+      39
     ],
-    "_s": "lyria / lyria 3 / lyria 3 pro google deepmind text-to-music foundation model family; lyria 3 ships with synthid watermarking and the lyria camera interactive demo. foundation models / llms foundation film tv music games animation design marketing immersive"
+    "_s": "lyria / lyria 3 / lyria 3 pro / lyria 3.5 google deepmind text-to-music foundation model family; lyria 3 ships with synthid watermarking and the lyria camera interactive demo; **lyria 3.5** (july 2026) shipped inside google flow music. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
     "name": "Grok",
@@ -283,7 +291,9 @@
     "url": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action/",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "microsoft vibevoice  open-source frontier voice ai model. foundation models / llms foundation film tv music games animation design marketing immersive"
   },
   {
@@ -355,13 +365,14 @@
       30,
       34,
       35,
-      36
+      36,
+      38
     ],
     "_s": "kling / kling 2.5 turbo / kling o1 / kling 2.6 / kling 3.0 / kling x-dub / kling motion control 3.0 kuaishou strong on physics and trajectory control; 3.0 adds multi-shot control, multilingual audio and 4k image generation; x-dub is the context-rich visual dubbing variant. ai video models modality film marketing animation"
   },
   {
-    "name": "Pika 2.0 / PikaStream 1.0",
-    "blurb": "iteration-speed-focused video generation; PikaStream brings AI agents into live video calls.",
+    "name": "Pika 2.0 / PikaStream 1.0 / Pika Director's Suite",
+    "blurb": "iteration-speed-focused video generation; PikaStream brings AI agents into live video calls; **Director's Suite** (July 2026) is Pika's experimental, invite-only director-controls video product.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -374,11 +385,11 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "pika 2.0 / pikastream 1.0  iteration-speed-focused video generation; pikastream brings ai agents into live video calls. ai video models modality film marketing animation"
+    "_s": "pika 2.0 / pikastream 1.0 / pika director's suite  iteration-speed-focused video generation; pikastream brings ai agents into live video calls; **director's suite** (july 2026) is pika's experimental, invite-only director-controls video product. ai video models modality film marketing animation"
   },
   {
-    "name": "Luma Dream Machine / UNI-1 / UNI-1.1 / Ray3 Modify / Luma Dream Brief",
-    "blurb": "Luma's video, world-and-reasoning, and modification stack; UNI-1.1 ships with prompt enhancement and built-in research; Dream Brief is the $1M Cannes Lions competition.",
+    "name": "Luma Dream Machine / UNI-1 / UNI-1.1 / Ray3 Modify / Luma Dream Brief / Luma Layers",
+    "blurb": "Luma's video, world-and-reasoning, and modification stack; UNI-1.1 ships with prompt enhancement and built-in research; Dream Brief is the $1M Cannes Lions competition; **Layers** (August 2026), live in Luma Agents, extracts editable layers from any image on request.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -393,11 +404,11 @@
     "issues": [
       31
     ],
-    "_s": "luma dream machine / uni-1 / uni-1.1 / ray3 modify / luma dream brief  luma's video, world-and-reasoning, and modification stack; uni-1.1 ships with prompt enhancement and built-in research; dream brief is the $1m cannes lions competition. ai video models modality film marketing animation"
+    "_s": "luma dream machine / uni-1 / uni-1.1 / ray3 modify / luma dream brief / luma layers  luma's video, world-and-reasoning, and modification stack; uni-1.1 ships with prompt enhancement and built-in research; dream brief is the $1m cannes lions competition; **layers** (august 2026), live in luma agents, extracts editable layers from any image on request. ai video models modality film marketing animation"
   },
   {
-    "name": "Wan 2.2 / Wan 2.5 / Wan 2.6",
-    "blurb": "camera-controlled video generation; 2.6 adds character reference and multishot capabilities.",
+    "name": "Wan 2.2 / Wan 2.5 / Wan 2.6 / Wan 3 / Wan-Dancer-14B / Wan Animate 2",
+    "blurb": "camera-controlled video generation; 2.6 adds character reference and multishot capabilities; **Wan 3** (August 2026) entered public beta with 30-second clips and multimodal inputs; **Wan-Dancer-14B** (July 2026) is the open-source \"music-to-dance\" model that generates long-duration rhythmic dance video locally; **Wan Animate 2** (August 2026) is a state-of-the-art character-animation model that transfers motion from a reference video onto a single character image.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -409,8 +420,15 @@
     "url": "https://wan.video/blog/wan2.6-introduction",
     "parent": null,
     "vendor": "Alibaba Qwen",
-    "issues": [],
-    "_s": "wan 2.2 / wan 2.5 / wan 2.6 alibaba qwen camera-controlled video generation; 2.6 adds character reference and multishot capabilities. ai video models modality film marketing animation"
+    "issues": [
+      30,
+      32,
+      34,
+      37,
+      40,
+      41
+    ],
+    "_s": "wan 2.2 / wan 2.5 / wan 2.6 / wan 3 / wan-dancer-14b / wan animate 2 alibaba qwen camera-controlled video generation; 2.6 adds character reference and multishot capabilities; **wan 3** (august 2026) entered public beta with 30-second clips and multimodal inputs; **wan-dancer-14b** (july 2026) is the open-source \"music-to-dance\" model that generates long-duration rhythmic dance video locally; **wan animate 2** (august 2026) is a state-of-the-art character-animation model that transfers motion from a reference video onto a single character image. ai video models modality film marketing animation"
   },
   {
     "name": "Hunyuan Video / Hunyuan Image-to-Video",
@@ -426,12 +444,14 @@
     "url": null,
     "parent": null,
     "vendor": "Tencent",
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "hunyuan video / hunyuan image-to-video tencent open-source video model. ai video models modality film marketing animation"
   },
   {
-    "name": "Seedance 2.0 / Seedance 2.0 Mini / Seedance 2.5 / SeeDream 4 / SeeDream 4.5",
-    "blurb": "image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026; **Seedance 2.0 Mini** (June 2026) is the quality-at-lower-cost tier in Dreamina, and in ComfyUI (with 4K) from July; **Seedance 2.5** (June 2026) broke the thirty-second barrier for AI video generation.",
+    "name": "Seedance 2.0 / Seedance 2.0 Mini / Seedance 2.5 / SeeDream 4 / SeeDream 4.5 / Seedream 5.0 Pro",
+    "blurb": "image-to-video and finished-video models, integrated into CapCut / Dreamina and Freepik; per-second cost fell below $0.14 by March 2026; **Seedance 2.0 Mini** (June 2026) is the quality-at-lower-cost tier in Dreamina, and in ComfyUI (with 4K) from July; **Seedance 2.5** (June 2026) broke the thirty-second barrier for AI video generation and went live across fal, Dreamina and ComfyUI Partner Nodes through July–August 2026; **Seedream 5.0 Pro** (July 2026) is ByteDance's latest image model — character and product consistency across edits, precision region editing and in-image text across 14 languages.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -446,9 +466,12 @@
     "issues": [
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
-    "_s": "seedance 2.0 / seedance 2.0 mini / seedance 2.5 / seedream 4 / seedream 4.5 bytedance image-to-video and finished-video models, integrated into capcut / dreamina and freepik; per-second cost fell below $0.14 by march 2026; **seedance 2.0 mini** (june 2026) is the quality-at-lower-cost tier in dreamina, and in comfyui (with 4k) from july; **seedance 2.5** (june 2026) broke the thirty-second barrier for ai video generation. ai video models modality film marketing animation"
+    "_s": "seedance 2.0 / seedance 2.0 mini / seedance 2.5 / seedream 4 / seedream 4.5 / seedream 5.0 pro bytedance image-to-video and finished-video models, integrated into capcut / dreamina and freepik; per-second cost fell below $0.14 by march 2026; **seedance 2.0 mini** (june 2026) is the quality-at-lower-cost tier in dreamina, and in comfyui (with 4k) from july; **seedance 2.5** (june 2026) broke the thirty-second barrier for ai video generation and went live across fal, dreamina and comfyui partner nodes through july–august 2026; **seedream 5.0 pro** (july 2026) is bytedance's latest image model — character and product consistency across edits, precision region editing and in-image text across 14 languages. ai video models modality film marketing animation"
   },
   {
     "name": "Higgsfield / Higgsfield Sketch-to-Video / Higgsfield Popcorn / Higgsfield Relight / Higgsfield Shots / WAN Camera Control / Higgsfield Adobe Premiere Plugin / Higgsfield After Effects Plugin / Higgsfield DaVinci Resolve Plugin / Higgsfield MCP",
@@ -468,7 +491,10 @@
       32,
       33,
       34,
-      36
+      36,
+      38,
+      40,
+      41
     ],
     "_s": "higgsfield / higgsfield sketch-to-video / higgsfield popcorn / higgsfield relight / higgsfield shots / wan camera control / higgsfield adobe premiere plugin / higgsfield after effects plugin / higgsfield davinci resolve plugin / higgsfield mcp  social-media-marketer video platform; $80m raised at $1.3b valuation, $200m revenue in nine months (reportedly $500m by june 2026); shots produces multiple storyboard images from a single shot; the adobe premiere pro and after effects plugins (june 2026) bring higgsfield generation directly into the professional editorial workflow; the davinci resolve plugin adds in-timeline generation, draw-to-edit and ai-generated luts; higgsfield mcp (july 2026) lets agents such as claude generate through the platform directly. ai video models modality film marketing animation"
   },
@@ -492,8 +518,8 @@
     "_s": "bernini bytedance ai video generation and editing framework; a complementary video-editing layer to bytedance's seedance generation stack. ai video models modality film marketing animation"
   },
   {
-    "name": "LTX-2 / LTX-2.3 / LTX-2.3 Colorizer / LTX-HDR / LTX Studio / LTX-2 Audio-to-Video / LTX-2 Lip Sync / LTX-2 Real-Time",
-    "blurb": "open-source video generation with audio sync; LTX-2.3 is high-resolution, fast, cinematic with native lip-sync; LTX HDR (beta) ships HDR processing.",
+    "name": "LTX-2 / LTX-2.3 / LTX-2.3 Colorizer / LTX-HDR / LTX Studio / LTX-2 Audio-to-Video / LTX-2 Lip Sync / LTX-2 Real-Time / LTX-2.5",
+    "blurb": "open-source video generation with audio sync; LTX-2.3 is high-resolution, fast, cinematic with native lip-sync; LTX HDR (beta) ships HDR processing; **LTX-2.5** (August 2026) is Lightricks' open-world, open-source model.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -506,7 +532,7 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "ltx-2 / ltx-2.3 / ltx-2.3 colorizer / ltx-hdr / ltx studio / ltx-2 audio-to-video / ltx-2 lip sync / ltx-2 real-time  open-source video generation with audio sync; ltx-2.3 is high-resolution, fast, cinematic with native lip-sync; ltx hdr (beta) ships hdr processing. ai video models modality film marketing animation"
+    "_s": "ltx-2 / ltx-2.3 / ltx-2.3 colorizer / ltx-hdr / ltx studio / ltx-2 audio-to-video / ltx-2 lip sync / ltx-2 real-time / ltx-2.5  open-source video generation with audio sync; ltx-2.3 is high-resolution, fast, cinematic with native lip-sync; ltx hdr (beta) ships hdr processing; **ltx-2.5** (august 2026) is lightricks' open-world, open-source model. ai video models modality film marketing animation"
   },
   {
     "name": "Odyssey 2",
@@ -525,7 +551,8 @@
     "issues": [
       30,
       32,
-      35
+      35,
+      38
     ],
     "_s": "odyssey 2  real-time interactive video generation. ai video models modality film marketing animation"
   },
@@ -548,7 +575,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "vidi 2 bytedance multimodal video understanding and creation. ai video models modality film marketing animation"
   },
@@ -639,7 +668,12 @@
       32,
       33,
       34,
-      35
+      35,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "time-to-move  motion control for generated video. ai video models modality film marketing animation"
   },
@@ -896,13 +930,15 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      32
+      32,
+      37,
+      40
     ],
     "_s": "bytedance alive  unified audio-video generation. ai video models modality film marketing animation"
   },
   {
     "name": "Magnific Upscaler for Video / Magnific Precision v2 / Magnific Precision for Video / Magnific MCP / Magnific Plugin",
-    "blurb": "upscaling and 4K detail enhancement, including dedicated video upscaling; Magnific MCP (June 2026) connects every Magnific tool to your AI assistant; the Magnific Plugin (July 2026) puts the stack inside Premiere Pro, After Effects, DaVinci Resolve and Final Cut Pro.",
+    "blurb": "upscaling and 4K detail enhancement, including dedicated video upscaling; Magnific MCP (June 2026) connects every Magnific tool to your AI assistant; the Magnific Plugin (July 2026) puts the stack inside Premiere Pro, After Effects, DaVinci Resolve, Final Cut Pro and Adobe Illustrator.",
     "category": "AI video models",
     "category_slug": "video",
     "layer": "Modality",
@@ -914,8 +950,10 @@
     "url": "https://www.magnific.com/academy/tutorial/connecting-magnific-to-ai-assistants-using-mcp",
     "parent": null,
     "vendor": null,
-    "issues": [],
-    "_s": "magnific upscaler for video / magnific precision v2 / magnific precision for video / magnific mcp / magnific plugin  upscaling and 4k detail enhancement, including dedicated video upscaling; magnific mcp (june 2026) connects every magnific tool to your ai assistant; the magnific plugin (july 2026) puts the stack inside premiere pro, after effects, davinci resolve and final cut pro. ai video models modality film marketing animation"
+    "issues": [
+      37
+    ],
+    "_s": "magnific upscaler for video / magnific precision v2 / magnific precision for video / magnific mcp / magnific plugin  upscaling and 4k detail enhancement, including dedicated video upscaling; magnific mcp (june 2026) connects every magnific tool to your ai assistant; the magnific plugin (july 2026) puts the stack inside premiere pro, after effects, davinci resolve, final cut pro and adobe illustrator. ai video models modality film marketing animation"
   },
   {
     "name": "NetFlix VOID",
@@ -934,7 +972,9 @@
     "issues": [
       30,
       32,
-      36
+      36,
+      39,
+      41
     ],
     "_s": "netflix void  object removal from video with physics-interaction removal. ai video models modality film marketing animation"
   },
@@ -1065,7 +1105,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "google m2svid  monocular-to-stereo video conversion. ai video models modality film marketing animation"
   },
@@ -1160,7 +1205,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      41
     ],
     "_s": "nvidia sana-streaming  high-resolution, real-time video-to-video editing on consumer gpus; the streaming sibling of the sana-wm world model. ai video models modality film marketing animation"
   },
@@ -1200,7 +1246,8 @@
     "issues": [
       34,
       35,
-      36
+      36,
+      37
     ],
     "_s": "pixelcut video background remover  video background removal, live on fal. ai video models modality film marketing animation"
   },
@@ -1276,13 +1323,85 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      35
+      35,
+      40,
+      41
     ],
     "_s": "minimax hub  all-in-one ai video generator hub, launched at the shanghai film festival with the stated caveat that \"creative direction and aesthetic judgment must ultimately be left to humans\". ai video models modality film marketing animation"
   },
   {
-    "name": "Midjourney / Midjourney V8.1",
-    "blurb": "the aesthetic-leadership product; Discord/X-native; V8.1 ships native 2K HD rendering at 3× the speed and 3× the cost reduction.",
+    "name": "MiniMax H3 / MiniMax H3 LoRA trainer",
+    "blurb": "open-weights video model with day-0 ComfyUI node support (August 2026); runs locally, even on a Mac; a fal-hosted LoRA trainer lets creators fine-tune it, and the model anchors a widely-shared music-video workflow. (Distinct from MiniMax Hub and the MiniMax Music Generator.)",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": "https://www.minimax.io/audio/music",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      35,
+      40,
+      41
+    ],
+    "_s": "minimax h3 / minimax h3 lora trainer  open-weights video model with day-0 comfyui node support (august 2026); runs locally, even on a mac; a fal-hosted lora trainer lets creators fine-tune it, and the model anchors a widely-shared music-video workflow. (distinct from minimax hub and the minimax music generator.) ai video models modality film marketing animation"
+  },
+  {
+    "name": "NVIDIA DeepStream 9.1",
+    "blurb": "video-analytics pipeline SDK shipping 13 agentic skills for building multi-camera 3D-tracking and video-understanding applications (August 2026).",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": "https://research.nvidia.com/labs/adlr/MF/",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      40
+    ],
+    "_s": "nvidia deepstream 9.1  video-analytics pipeline sdk shipping 13 agentic skills for building multi-camera 3d-tracking and video-understanding applications (august 2026). ai video models modality film marketing animation"
+  },
+  {
+    "name": "Google Video Remix",
+    "blurb": "in-app AI video editing (July 2026): swap backgrounds, fix lighting, and apply artistic effects such as watercolour and oil painting.",
+    "category": "AI video models",
+    "category_slug": "video",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Animation"
+    ],
+    "url": "https://sites.google.com/view/gaussian-vrm",
+    "parent": null,
+    "vendor": "Google Photos",
+    "issues": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "_s": "google video remix google photos in-app ai video editing (july 2026): swap backgrounds, fix lighting, and apply artistic effects such as watercolour and oil painting. ai video models modality film marketing animation"
+  },
+  {
+    "name": "Midjourney / Midjourney V8.1 / Midjourney 8.2",
+    "blurb": "the aesthetic-leadership product; Discord/X-native; V8.1 ships native 2K HD rendering at 3× the speed and 3× the cost reduction; **8.2** (July 2026) is the latest release.",
     "category": "AI image models / tools",
     "category_slug": "image",
     "layer": "Modality",
@@ -1296,13 +1415,15 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      35
+      35,
+      37,
+      39
     ],
-    "_s": "midjourney / midjourney v8.1  the aesthetic-leadership product; discord/x-native; v8.1 ships native 2k hd rendering at 3× the speed and 3× the cost reduction. ai image models / tools modality design marketing film animation"
+    "_s": "midjourney / midjourney v8.1 / midjourney 8.2  the aesthetic-leadership product; discord/x-native; v8.1 ships native 2k hd rendering at 3× the speed and 3× the cost reduction; **8.2** (july 2026) is the latest release. ai image models / tools modality design marketing film animation"
   },
   {
-    "name": "FLUX / FLUX 2 / FLUX 2 Max / FLUX.2 [klein]",
-    "blurb": "open-weight, fine-control, the open-source default through 2025–26; klein is the 4B-parameter lightweight model.",
+    "name": "FLUX / FLUX 2 / FLUX 2 Max / FLUX.2 [klein] / FLUX 3 / FLUX 3 Video",
+    "blurb": "open-weight, fine-control, the open-source default through 2025–26; klein is the 4B-parameter lightweight model; **FLUX 3** (July 2026) generates images and 20-second video with audio; **FLUX 3 Video** (August 2026) is the dedicated video model.",
     "category": "AI image models / tools",
     "category_slug": "image",
     "layer": "Modality",
@@ -1316,7 +1437,36 @@
     "parent": null,
     "vendor": "Black Forest Labs",
     "issues": [],
-    "_s": "flux / flux 2 / flux 2 max / flux.2 [klein] black forest labs open-weight, fine-control, the open-source default through 2025–26; klein is the 4b-parameter lightweight model. ai image models / tools modality design marketing film animation"
+    "_s": "flux / flux 2 / flux 2 max / flux.2 [klein] / flux 3 / flux 3 video black forest labs open-weight, fine-control, the open-source default through 2025–26; klein is the 4b-parameter lightweight model; **flux 3** (july 2026) generates images and 20-second video with audio; **flux 3 video** (august 2026) is the dedicated video model. ai image models / tools modality design marketing film animation"
+  },
+  {
+    "name": "Meta Muse Image / Muse Code / Muse Spark 1.2",
+    "blurb": "Meta's Muse creative-AI family: **Muse Image** (July 2026) is the consumer image generator; **Muse Code** and **Muse Spark 1.2** (August 2026) extend the family into generative coding and rapid experience-building.",
+    "category": "AI image models / tools",
+    "category_slug": "image",
+    "layer": "Modality",
+    "disciplines": [
+      "Design",
+      "Marketing",
+      "Film",
+      "Animation"
+    ],
+    "url": "https://www.meta.com/en-gb/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/",
+    "parent": null,
+    "vendor": "Meta",
+    "issues": [
+      30,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "_s": "meta muse image / muse code / muse spark 1.2 meta meta's muse creative-ai family: **muse image** (july 2026) is the consumer image generator; **muse code** and **muse spark 1.2** (august 2026) extend the family into generative coding and rapid experience-building. ai image models / tools modality design marketing film animation"
   },
   {
     "name": "Adobe Firefly / Firefly Image Model 5 / Firefly Foundry / Firefly Boards / Firefly Precision Flow",
@@ -1333,7 +1483,9 @@
     "url": "https://news.adobe.com/news/2025/10/adobe-max-2025-express-ai-assistant",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "adobe firefly / firefly image model 5 / firefly foundry / firefly boards / firefly precision flow  image model 5, foundry (custom corporate training), firefly boards (moodboards), precision flow (granular ai editing control, beta); 45% of creative cloud users active, 22b+ assets generated by april 2025. ai image models / tools modality design marketing film animation"
   },
   {
@@ -1375,8 +1527,8 @@
     "_s": "stable diffusion / stable diffusion 3 / stable-layers stability ai the foundational open-source image model; **stable-layers** (june 2026) splits generated images into editable compositional layers — a structural shift from regeneration to post-generation editing. ai image models / tools modality design marketing film animation"
   },
   {
-    "name": "Ideogram 4.0",
-    "blurb": "fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every Ideogram plan and via API.",
+    "name": "Ideogram 4.0 / Ideogram Object Remover",
+    "blurb": "fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every Ideogram plan and via API; the **Object Remover** (July 2026) ships state-of-the-art object removal.",
     "category": "AI image models / tools",
     "category_slug": "image",
     "layer": "Modality",
@@ -1390,9 +1542,10 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      32
+      32,
+      39
     ],
-    "_s": "ideogram 4.0  fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every ideogram plan and via api. ai image models / tools modality design marketing film animation"
+    "_s": "ideogram 4.0 / ideogram object remover  fourth-generation image model; open weights, fine-tuneable on own data, runs on own hardware; available on every ideogram plan and via api; the **object remover** (july 2026) ships state-of-the-art object removal. ai image models / tools modality design marketing film animation"
   },
   {
     "name": "Krea / Krea AI / Krea 2 / Krea Realtime / Krea Realtime Edit / Krea Nodes / Krea LoRA Trainers",
@@ -1411,7 +1564,8 @@
     "vendor": null,
     "issues": [
       33,
-      35
+      35,
+      40
     ],
     "_s": "krea / krea ai / krea 2 / krea realtime / krea realtime edit / krea nodes / krea lora trainers  real-time ai image generation; krea 2 shipped open weights in july 2026, with one model for inference and one for training; realtime edit takes complex instructions in real time; the lora trainers cover qwen-2512 and z-image. ai image models / tools modality design marketing film animation"
   },
@@ -1470,7 +1624,10 @@
     "vendor": "xAI",
     "issues": [
       31,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "grok imagine / grok imagine api xai image and video generation; the api bundles end-to-end creative workflows; reference-to-video and video extend added in march 2026. ai image models / tools modality design marketing film animation"
   },
@@ -1493,7 +1650,9 @@
       31,
       32,
       35,
-      36
+      36,
+      40,
+      41
     ],
     "_s": "vision banana  unified model for image understanding and generation. ai image models / tools modality design marketing film animation"
   },
@@ -1844,7 +2003,9 @@
     "issues": [
       32,
       34,
-      35
+      35,
+      40,
+      41
     ],
     "_s": "earth cinema  chrome extension using google earth for cinematic images. ai image models / tools modality design marketing film animation"
   },
@@ -1886,7 +2047,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40
     ],
     "_s": "suno / suno studio / suno 5.5 / suno spark  the dominant prompt-to-track generative music platform; $400m raised at $5.4b valuation (june 2026), $300m arr, 2m+ subscribers; warner music group settled its lawsuit and signed a licensing partnership; umg and sony remain in active litigation; suno studio is the \"world's first generative audio workstation\"; 5.5 adds voices; spark (july 2026) is the incubator programme for the next generation of creators. ai music / audio tools modality music"
   },
@@ -1909,7 +2074,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "udio  prompt-to-music; partnered with universal music group; indie-label licensing via merlin. ai music / audio tools modality music"
   },
@@ -1929,8 +2099,115 @@
     "_s": "mureka / music agent studio  six specialised ai agents covering songwriting, arrangement and production. ai music / audio tools modality music"
   },
   {
-    "name": "ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2 / ElevenLabs Avatars",
-    "blurb": "the dominant voice/audio synthesis stack; **Avatars** (June 2026) put a face on the voices inside ElevenCreative; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026) is the next-generation dubbing model. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.",
+    "name": "Google Flow Music",
+    "blurb": "Google's generative-music studio inside Flow (July 2026); upload and remix your own tracks, with song creation, editing and stem-splitting added through the summer; powered by Lyria 3.5.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://sites.google.com/view/gaussian-vrm",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "_s": "google flow music  google's generative-music studio inside flow (july 2026); upload and remix your own tracks, with song creation, editing and stem-splitting added through the summer; powered by lyria 3.5. ai music / audio tools modality music"
+  },
+  {
+    "name": "MuScriptor",
+    "blurb": "audio-to-MIDI transcription (July 2026): takes a finished recording, identifies the instruments and returns separate MIDI tracks for voice, drums, bass, keys and more.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Mirelo AI / Kyutai Labs",
+    "issues": [
+      38
+    ],
+    "_s": "muscriptor mirelo ai / kyutai labs audio-to-midi transcription (july 2026): takes a finished recording, identifies the instruments and returns separate midi tracks for voice, drums, bass, keys and more. ai music / audio tools modality music"
+  },
+  {
+    "name": "SCENA",
+    "blurb": "reference-driven, multi-speaker audio-scene generation (July 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Lightricks",
+    "issues": [
+      34,
+      38
+    ],
+    "_s": "scena lightricks reference-driven, multi-speaker audio-scene generation (july 2026). ai music / audio tools modality music"
+  },
+  {
+    "name": "Sonilo Sound Effects 1.0",
+    "blurb": "realistic sound effects generated from video and text (July 2026); distinct from the earlier Sonilo × Shutterstock training deal.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Sonilo + fal",
+    "issues": [
+      30,
+      31,
+      32,
+      34,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "_s": "sonilo sound effects 1.0 sonilo + fal realistic sound effects generated from video and text (july 2026); distinct from the earlier sonilo × shutterstock training deal. ai music / audio tools modality music"
+  },
+  {
+    "name": "ByteDance SwanTale",
+    "blurb": "a unified audio model (August 2026) that collapses voice, sound and music into a single system.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://seed.bytedance.com/en/seedream4_5",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      32,
+      37,
+      40
+    ],
+    "_s": "bytedance swantale  a unified audio model (august 2026) that collapses voice, sound and music into a single system. ai music / audio tools modality music"
+  },
+  {
+    "name": "ElevenLabs / ElevenLabs v3 / Scribe v2 Realtime / ElevenMusic / ElevenCreative / ElevenLabs Flows / ElevenAgents Expressive Mode / ElevenLabs Voice Changer / ElevenLabs Music v2 / ElevenLabs Dubbing v2 / ElevenLabs Character Casting / ElevenLabs Avatars",
+    "blurb": "the dominant voice/audio synthesis stack; **Avatars** (June 2026) put a face on the voices inside ElevenCreative; $500M ARR; BlackRock + NVIDIA backed; Scribe v2 transcribes in 150 ms across 90+ languages; ElevenMusic is the discovery/creation/earning marketplace; Flows is the node-based creative canvas; **Music v2** (June 2026) is the next-generation generative-music model; **Dubbing v2** (June 2026, on ElevenAPI) is the next-generation dubbing model; **Character Casting** (August 2026) finds and assigns a distinct voice to every character in an ElevenCreative audiobook. ElevenLabs also partnered with Hasbro's Sixth Wall AI studio in June 2026, providing the voice layer for Hasbro's Behavioral Licensing / CharacterOS programme — enabling licensed AI voices for Transformers, Mr. Potato Head, Peppa Pig and more.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -1941,9 +2218,10 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      40
     ],
-    "_s": "elevenlabs / elevenlabs v3 / scribe v2 realtime / elevenmusic / elevencreative / elevenlabs flows / elevenagents expressive mode / elevenlabs voice changer / elevenlabs music v2 / elevenlabs dubbing v2 / elevenlabs avatars  the dominant voice/audio synthesis stack; **avatars** (june 2026) put a face on the voices inside elevencreative; $500m arr; blackrock + nvidia backed; scribe v2 transcribes in 150 ms across 90+ languages; elevenmusic is the discovery/creation/earning marketplace; flows is the node-based creative canvas; **music v2** (june 2026) is the next-generation generative-music model; **dubbing v2** (june 2026) is the next-generation dubbing model. elevenlabs also partnered with hasbro's sixth wall ai studio in june 2026, providing the voice layer for hasbro's behavioral licensing / characteros programme — enabling licensed ai voices for transformers, mr. potato head, peppa pig and more. ai music / audio tools modality music"
+    "_s": "elevenlabs / elevenlabs v3 / scribe v2 realtime / elevenmusic / elevencreative / elevenlabs flows / elevenagents expressive mode / elevenlabs voice changer / elevenlabs music v2 / elevenlabs dubbing v2 / elevenlabs character casting / elevenlabs avatars  the dominant voice/audio synthesis stack; **avatars** (june 2026) put a face on the voices inside elevencreative; $500m arr; blackrock + nvidia backed; scribe v2 transcribes in 150 ms across 90+ languages; elevenmusic is the discovery/creation/earning marketplace; flows is the node-based creative canvas; **music v2** (june 2026) is the next-generation generative-music model; **dubbing v2** (june 2026, on elevenapi) is the next-generation dubbing model; **character casting** (august 2026) finds and assigns a distinct voice to every character in an elevencreative audiobook. elevenlabs also partnered with hasbro's sixth wall ai studio in june 2026, providing the voice layer for hasbro's behavioral licensing / characteros programme — enabling licensed ai voices for transformers, mr. potato head, peppa pig and more. ai music / audio tools modality music"
   },
   {
     "name": "iZotope Ozone 12 / Stem EQ",
@@ -1972,7 +2250,9 @@
     "url": "https://www.landr.com/ai?srsltid=AfmBOoppA3lG7cm9Tall-RdVjoCB7wRyJMlknVLoIr_DQgTFsEacIrjx",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      38
+    ],
     "_s": "landr  ai mastering and distribution. ai music / audio tools modality music"
   },
   {
@@ -2059,7 +2339,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "music lens musixmatch catalog-intelligence agent. ai music / audio tools modality music"
   },
@@ -2141,7 +2426,10 @@
       31,
       34,
       35,
-      36
+      36,
+      38,
+      39,
+      41
     ],
     "_s": "youtube music ai hub  ai music hosting and dj features. ai music / audio tools modality music"
   },
@@ -2174,7 +2462,9 @@
     "url": "https://aiode.com/",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39
+    ],
     "_s": "aiode  ethically-trained music creation daw. ai music / audio tools modality music"
   },
   {
@@ -2206,7 +2496,8 @@
     "vendor": "Google DeepMind",
     "issues": [
       34,
-      35
+      35,
+      41
     ],
     "_s": "space dj google deepmind interactive music exploration. ai music / audio tools modality music"
   },
@@ -2224,7 +2515,8 @@
     "vendor": null,
     "issues": [
       33,
-      35
+      35,
+      37
     ],
     "_s": "minimax music generator  song generation. ai music / audio tools modality music"
   },
@@ -2240,7 +2532,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39
+    ],
     "_s": "roland ai pedal  concept for ai audio processing. ai music / audio tools modality music"
   },
   {
@@ -2255,7 +2549,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39
+    ],
     "_s": "roland + sony csl melody flip  ai music tool. ai music / audio tools modality music"
   },
   {
@@ -2270,7 +2566,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39
+    ],
     "_s": "bandlab voice cleaner / bandlab palette  background-noise removal; ai loop-matching. ai music / audio tools modality music"
   },
   {
@@ -2307,7 +2605,10 @@
       33,
       34,
       35,
-      36
+      36,
+      38,
+      39,
+      40
     ],
     "_s": "fish audio s1 / fish audio s2  text-to-speech; s2 ships expressive tts with emotional control (6× cheaper than elevenlabs at s1). ai music / audio tools modality music"
   },
@@ -2357,7 +2658,9 @@
       32,
       33,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "lalal ai / lalal ai plugin / lalal ai api v1  ai stem separation, music removal, voice changing; first stem-separation plugin native to a daw. ai music / audio tools modality music"
   },
@@ -2385,10 +2688,12 @@
     "disciplines": [
       "Music"
     ],
-    "url": null,
+    "url": "https://mirelo.ai/blog/turning-audio-to-midi",
     "parent": null,
     "vendor": "Berlin",
-    "issues": [],
+    "issues": [
+      38
+    ],
     "_s": "mirelo berlin automatic sound-effect generation for video. ai music / audio tools modality music"
   },
   {
@@ -2513,7 +2818,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      38
+    ],
     "_s": "voicebox  open-source local voice cloning from a 3-second audio clip. ai music / audio tools modality music"
   },
   {
@@ -2532,7 +2839,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40
     ],
     "_s": "voice-pro  ai speech recognition / translation / transcription / multilingual dubbing. ai music / audio tools modality music"
   },
@@ -2583,7 +2894,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia d-rex  photorealistic digital humans under any lighting. ai music / audio tools modality music"
   },
@@ -2666,7 +2979,10 @@
       33,
       34,
       35,
-      36
+      36,
+      38,
+      39,
+      40
     ],
     "_s": "smol-audio  local audio model notebooks and scripts. ai music / audio tools modality music"
   },
@@ -2766,7 +3082,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "music mogul ai  tour-booking automation. ai music / audio tools modality music"
   },
@@ -2891,7 +3212,8 @@
     "vendor": null,
     "issues": [
       33,
-      35
+      35,
+      40
     ],
     "_s": "google magenta realtime 2 (mrt2)  the live music model you can play as an instrument; the flagship of the june 2026 *instrument turn*. ai music / audio tools modality music"
   },
@@ -2925,7 +3247,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      33
+      33,
+      41
     ],
     "_s": "fender studio pro  fender's daw with moises stem separation and a smart studio assistant built in; \"ai isn't the destination. making music is.\" ai music / audio tools modality music"
   },
@@ -2994,7 +3317,9 @@
     "vendor": null,
     "issues": [
       30,
-      33
+      33,
+      38,
+      41
     ],
     "_s": "tencent mmae  massive multitask audio editing benchmark; the first comprehensive evaluation benchmark for speech and audio editing. ai music / audio tools modality music"
   },
@@ -3031,7 +3356,10 @@
       30,
       33,
       34,
-      35
+      35,
+      37,
+      38,
+      41
     ],
     "_s": "artist la music-tech startup letting artists re-record classic tracks with ai-assisted vocal technology; boy george's *karma chameleon* re-record was the first release. (not to be confused with the generic use of the word elsewhere in this book.) ai music / audio tools modality music"
   },
@@ -3082,7 +3410,8 @@
     "vendor": "Google DeepMind",
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "genie 3 / project genie google deepmind research-grade world model; *time* best inventions 2025; rolled out to google ai ultra in january 2026. ai music / audio tools modality music"
   },
@@ -3117,8 +3446,8 @@
     "_s": "uni-1 / uni-1.1 luma world generation + reasoning combined; 1.1 adds prompt enhancement and built-in research. ai music / audio tools modality music"
   },
   {
-    "name": "Hunyuan 3D / Hunyuan 3D Studio / Hunyuan 3D-PolyGen 1.5 / HY3D 3.0 / HY-Motion 1.0",
-    "blurb": "art-grade 3D generative model family; PolyGen 1.5 is the art-grade text/image/sketch-to-3D model; HY-Motion 1.0 is text-to-3D human motion.",
+    "name": "Hunyuan 3D / Hunyuan 3D Studio / Hunyuan 3D-PolyGen 1.5 / HY3D 3.0 / HY-Motion 1.0 / Hunyuan3D-Buffalo 1.0",
+    "blurb": "art-grade 3D generative model family; PolyGen 1.5 is the art-grade text/image/sketch-to-3D model; HY-Motion 1.0 is text-to-3D human motion; **Hunyuan3D-Buffalo 1.0** (August 2026) is a unified foundation for 3D generation, understanding and editing.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -3128,12 +3457,14 @@
     "url": null,
     "parent": null,
     "vendor": "Tencent",
-    "issues": [],
-    "_s": "hunyuan 3d / hunyuan 3d studio / hunyuan 3d-polygen 1.5 / hy3d 3.0 / hy-motion 1.0 tencent art-grade 3d generative model family; polygen 1.5 is the art-grade text/image/sketch-to-3d model; hy-motion 1.0 is text-to-3d human motion. ai music / audio tools modality music"
+    "issues": [
+      40
+    ],
+    "_s": "hunyuan 3d / hunyuan 3d studio / hunyuan 3d-polygen 1.5 / hy3d 3.0 / hy-motion 1.0 / hunyuan3d-buffalo 1.0 tencent art-grade 3d generative model family; polygen 1.5 is the art-grade text/image/sketch-to-3d model; hy-motion 1.0 is text-to-3d human motion; **hunyuan3d-buffalo 1.0** (august 2026) is a unified foundation for 3d generation, understanding and editing. ai music / audio tools modality music"
   },
   {
-    "name": "HY World 1.5 / HY-World 2.0 / WorldCompass / ShotVerse",
-    "blurb": "open-source real-time world-model frameworks; WorldCompass is the RL post-training framework; ShotVerse handles cinematic multi-shot camera control.",
+    "name": "HY World 1.5 / HY-World 2.0 / WorldCompass / ShotVerse / WorldClaw",
+    "blurb": "open-source real-time world-model frameworks; WorldCompass is the RL post-training framework; ShotVerse handles cinematic multi-shot camera control; **WorldClaw** (August 2026) is agentic 3D open-world generation at scale.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -3144,7 +3475,7 @@
     "parent": null,
     "vendor": "Tencent",
     "issues": [],
-    "_s": "hy world 1.5 / hy-world 2.0 / worldcompass / shotverse tencent open-source real-time world-model frameworks; worldcompass is the rl post-training framework; shotverse handles cinematic multi-shot camera control. ai music / audio tools modality music"
+    "_s": "hy world 1.5 / hy-world 2.0 / worldcompass / shotverse / worldclaw tencent open-source real-time world-model frameworks; worldcompass is the rl post-training framework; shotverse handles cinematic multi-shot camera control; **worldclaw** (august 2026) is agentic 3d open-world generation at scale. ai music / audio tools modality music"
   },
   {
     "name": "ECHO / Echo-2",
@@ -3205,13 +3536,15 @@
     "vendor": null,
     "issues": [
       34,
-      35
+      35,
+      37,
+      39
     ],
     "_s": "amd micro-world  amd's entry into world models. ai music / audio tools modality music"
   },
   {
-    "name": "LingBot-World",
-    "blurb": "free/open-source world model on Wan 2.2; real-time interaction at 16 fps.",
+    "name": "LingBot-World / LingBot-World 2.0",
+    "blurb": "free/open-source world model on Wan 2.2; real-time interaction at 16 fps; **2.0** (July 2026, from Reactor) is the new real-time world-generation model.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -3221,8 +3554,11 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
-    "_s": "lingbot-world  free/open-source world model on wan 2.2; real-time interaction at 16 fps. ai music / audio tools modality music"
+    "issues": [
+      37,
+      38
+    ],
+    "_s": "lingbot-world / lingbot-world 2.0  free/open-source world model on wan 2.2; real-time interaction at 16 fps; **2.0** (july 2026, from reactor) is the new real-time world-generation model. ai music / audio tools modality music"
   },
   {
     "name": "Moonlake",
@@ -3253,7 +3589,8 @@
     "vendor": "TripoAI",
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project eden tripoai persistent, multiplayer world model (june 2026) that fundamentally breaks from existing paradigms by *decoupling the underlying world state from visual rendering*; the most ambitious state-vs-rendering separation in the world-model layer at the time of writing. tripoai raised nearly $200m in june 2026 to advance this work. ai music / audio tools modality music"
   },
@@ -3291,7 +3628,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia cosmos 3  omnimodal world model (released may 31, 2026) that connects understanding, generation, simulation and action through a shared architecture moving fluidly across text, images, video, audio and actions; two-tower mixture-of-transformers design; ranked best open-source t2i and i2v models by artificial analysis; explicitly targets robotics, autonomous vehicles and warehouse monitoring. the most significant nvidia world-model release in the period. ai music / audio tools modality music"
   },
@@ -3346,7 +3685,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia lyra 2.0  explorable generative 3d worlds. ai music / audio tools modality music"
   },
@@ -3416,6 +3757,70 @@
       34
     ],
     "_s": "nvidia motionbricks  real-time character animation at scale, without hand-crafted transitions or fine-tuning. ai music / audio tools modality music"
+  },
+  {
+    "name": "NVIDIA ARDY",
+    "blurb": "real-time interactive human-motion generation model (July 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://research.nvidia.com/labs/adlr/MF/",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      31,
+      32,
+      34,
+      35,
+      36,
+      38,
+      40
+    ],
+    "_s": "nvidia ardy  real-time interactive human-motion generation model (july 2026). ai music / audio tools modality music"
+  },
+  {
+    "name": "Disney Generative Motion Rig",
+    "blurb": "a generative motion rig for artist-driven motion authoring (July 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Disney Research Zurich / ETH Zurich",
+    "issues": [
+      30,
+      32,
+      33,
+      34,
+      35,
+      37,
+      38,
+      39
+    ],
+    "_s": "disney generative motion rig disney research zurich / eth zurich a generative motion rig for artist-driven motion authoring (july 2026). ai music / audio tools modality music"
+  },
+  {
+    "name": "Rokoko Vision 3.0",
+    "blurb": "markerless, video-based motion capture (August 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://www.rokoko.com/insights/introducing-rokoko-vision-3-0",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      40
+    ],
+    "_s": "rokoko vision 3.0  markerless, video-based motion capture (august 2026). ai music / audio tools modality music"
   },
   {
     "name": "MAMMA",
@@ -3546,7 +3951,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia xr ai  public beta for building ai agents for ar glasses and xr devices. ai music / audio tools modality music"
   },
@@ -3566,8 +3973,61 @@
     "_s": "openart worlds  3d navigable environments from a single prompt. ai music / audio tools modality music"
   },
   {
+    "name": "Wonder by Adobe",
+    "blurb": "a real-time interactive 3D world model for navigating generated worlds (July 2026). (One of at least three unrelated products called \"Wonder\" in the period this book covers.)",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://news.adobe.com/news/2025/10/adobe-max-2025-express-ai-assistant",
+    "parent": null,
+    "vendor": "Adobe Research",
+    "issues": [
+      30,
+      31,
+      39
+    ],
+    "_s": "wonder by adobe adobe research a real-time interactive 3d world model for navigating generated worlds (july 2026). (one of at least three unrelated products called \"wonder\" in the period this book covers.) ai music / audio tools modality music"
+  },
+  {
+    "name": "AlayaWorld",
+    "blurb": "open-source long-horizon, playable video-world generation (July 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Alaya Lab",
+    "issues": [
+      37
+    ],
+    "_s": "alayaworld alaya lab open-source long-horizon, playable video-world generation (july 2026). ai music / audio tools modality music"
+  },
+  {
+    "name": "Wayve GAIA-4",
+    "blurb": "the latest evolution of Wayve's line of world models (August 2026), rooted in the autonomous-driving lineage.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://wayve.ai/thinking/gaia-4/",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      40
+    ],
+    "_s": "wayve gaia-4  the latest evolution of wayve's line of world models (august 2026), rooted in the autonomous-driving lineage. ai music / audio tools modality music"
+  },
+  {
     "name": "Rodin / Hyper3D / Rodin Hyper 3D Gen 2 / Rodin Gen-2.5",
-    "blurb": "high-precision 3D model generation; Gen-2.5 (June 2026) is the world's first 10-million-polygon AI 3D model — 1 million polygons in 4 seconds, scaling to 10M with skin-level microstructure detail.",
+    "blurb": "high-precision 3D model generation; Gen-2.5 (July 2026) is the world's first 10-million-polygon AI 3D model — 1 million polygons in 4 seconds, scaling to 10M with skin-level microstructure detail, plus dreamy emissive bloom textures; 8K textures became free for all Hyper3d users the same month.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -3578,9 +4038,10 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      39
     ],
-    "_s": "rodin / hyper3d / rodin hyper 3d gen 2 / rodin gen-2.5  high-precision 3d model generation; gen-2.5 (june 2026) is the world's first 10-million-polygon ai 3d model — 1 million polygons in 4 seconds, scaling to 10m with skin-level microstructure detail. ai music / audio tools modality music"
+    "_s": "rodin / hyper3d / rodin hyper 3d gen 2 / rodin gen-2.5  high-precision 3d model generation; gen-2.5 (july 2026) is the world's first 10-million-polygon ai 3d model — 1 million polygons in 4 seconds, scaling to 10m with skin-level microstructure detail, plus dreamy emissive bloom textures; 8k textures became free for all hyper3d users the same month. ai music / audio tools modality music"
   },
   {
     "name": "Meshy / Meshy 6 / Meshy Image-to-3D",
@@ -3624,7 +4085,9 @@
     "url": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action/",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "microsoft trellis 2  native compact structured latents for 3d. ai music / audio tools modality music"
   },
   {
@@ -3640,7 +4103,9 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      32
+      32,
+      37,
+      40
     ],
     "_s": "bytedance seed3d 2.0  3d object generation from image or text. ai music / audio tools modality music"
   },
@@ -3672,7 +4137,9 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      37,
+      39
     ],
     "_s": "tripo 3.1 / tripo 8k texture  3d-asset creation; comfyui partner nodes; 8k texture (june 2026) applies 8192×8192 detail directly onto 3d models, preserving surface fidelity without upscaling. ai music / audio tools modality music"
   },
@@ -3710,7 +4177,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "m-xr pbr model  4k pbr material maps for 3d assets. ai music / audio tools modality music"
   },
@@ -3741,7 +4213,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "autodesk wonder 3d  generative ai tool creating editable 3d assets from text or images. ai music / audio tools modality music"
   },
   {
@@ -3756,7 +4230,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "autodesk flow studio rigging  ai rigging and neural layers. ai music / audio tools modality music"
   },
   {
@@ -3828,10 +4304,12 @@
     "disciplines": [
       "Music"
     ],
-    "url": null,
+    "url": "https://mesh2motion.org/news",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "mesh2motion  auto-assigns and exports 3d model animations. ai music / audio tools modality music"
   },
   {
@@ -3851,13 +4329,16 @@
       32,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      41
     ],
     "_s": "one-to-all animation  alignment-free character animation and image pose transfer. ai music / audio tools modality music"
   },
   {
-    "name": "Cascadeur / Cascadeur AI Animation v2025.3",
-    "blurb": "AI animation tool for character movement; local interpolation.",
+    "name": "Cascadeur / Cascadeur AI Animation v2025.3 / Cascadeur 2026.2",
+    "blurb": "AI animation tool for character movement; local interpolation; **2026.2** (August 2026) adds additive animation layers (alpha), eased interpolation, AutoPosing improvements, FBX material import and custom UI via a Python API.",
     "category": "AI music / audio tools",
     "category_slug": "music-audio",
     "layer": "Modality",
@@ -3867,8 +4348,10 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
-    "_s": "cascadeur / cascadeur ai animation v2025.3  ai animation tool for character movement; local interpolation. ai music / audio tools modality music"
+    "issues": [
+      41
+    ],
+    "_s": "cascadeur / cascadeur ai animation v2025.3 / cascadeur 2026.2  ai animation tool for character movement; local interpolation; **2026.2** (august 2026) adds additive animation layers (alpha), eased interpolation, autoposing improvements, fbx material import and custom ui via a python api. ai music / audio tools modality music"
   },
   {
     "name": "Move AI",
@@ -3887,7 +4370,9 @@
       31,
       32,
       34,
-      35
+      35,
+      37,
+      39
     ],
     "_s": "move ai  motion capture. ai music / audio tools modality music"
   },
@@ -3908,7 +4393,10 @@
       33,
       34,
       35,
-      36
+      36,
+      38,
+      40,
+      41
     ],
     "_s": "mocap / ue5 motion  camera-only motion capture. ai music / audio tools modality music"
   },
@@ -4067,6 +4555,23 @@
     "_s": "nvidia unirelight  shot relighting technology. ai music / audio tools modality music"
   },
   {
+    "name": "Disney Neural Render Proxies",
+    "blurb": "neural render proxies for interactive and differentiable lighting (July 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "Disney Research",
+    "issues": [
+      37
+    ],
+    "_s": "disney neural render proxies disney research neural render proxies for interactive and differentiable lighting (july 2026). ai music / audio tools modality music"
+  },
+  {
     "name": "Apple SHARP / LiTo",
     "blurb": "photorealistic 3D view synthesis from a single image in under a second; LiTo is the surface light-field tokenisation method.",
     "category": "AI music / audio tools",
@@ -4146,9 +4651,97 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      36
+      36,
+      37,
+      38,
+      41
     ],
     "_s": "spark 2.0  open-source gaussian-splat streaming framework; streamable lod for webgl2. ai music / audio tools modality music"
+  },
+  {
+    "name": "Gracia AI",
+    "blurb": "4D Gaussian splatting in Unreal Engine (July 2026): real-time splat relighting and self-shadowing, with drag-and-drop 4DGS import and synchronised playback and transitions.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://gracia.ai/",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      37
+    ],
+    "_s": "gracia ai  4d gaussian splatting in unreal engine (july 2026): real-time splat relighting and self-shadowing, with drag-and-drop 4dgs import and synchronised playback and transitions. ai music / audio tools modality music"
+  },
+  {
+    "name": "Atlux",
+    "blurb": "Unreal Engine to 4D Gaussian Splat conversion (July 2026), including UE 5.8 support.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://atlux.one/4dgs",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      37
+    ],
+    "_s": "atlux  unreal engine to 4d gaussian splat conversion (july 2026), including ue 5.8 support. ai music / audio tools modality music"
+  },
+  {
+    "name": "Notch 2026.2",
+    "blurb": "adds native Gaussian-splat import and rendering to Notch (July 2026).",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      37
+    ],
+    "_s": "notch 2026.2  adds native gaussian-splat import and rendering to notch (july 2026). ai music / audio tools modality music"
+  },
+  {
+    "name": "InfiniSplat",
+    "blurb": "turns a single image into a navigable 3DGS scene.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": "SIGGRAPH Asia 2026",
+    "issues": [
+      40
+    ],
+    "_s": "infinisplat siggraph asia 2026 turns a single image into a navigable 3dgs scene. ai music / audio tools modality music"
+  },
+  {
+    "name": "Insta360 X6",
+    "blurb": "360 capture camera whose new Spatial Capture mode (August 2026) turns a recorded place into a navigable in-app 3D model.",
+    "category": "AI music / audio tools",
+    "category_slug": "music-audio",
+    "layer": "Modality",
+    "disciplines": [
+      "Music"
+    ],
+    "url": "https://www.insta360.com/product/insta360-x6",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      41
+    ],
+    "_s": "insta360 x6  360 capture camera whose new spatial capture mode (august 2026) turns a recorded place into a navigable in-app 3d model. ai music / audio tools modality music"
   },
   {
     "name": "PlayCanvas SOG / SplatTransform v2.0.0",
@@ -4209,7 +4802,9 @@
     "vendor": "4DV.ai",
     "issues": [
       30,
-      32
+      32,
+      37,
+      40
     ],
     "_s": "animated gaussian splats 4dv.ai 4d gaussian-splat animation. ai music / audio tools modality music"
   },
@@ -4273,7 +4868,8 @@
     "issues": [
       30,
       32,
-      33
+      33,
+      37
     ],
     "_s": "gaussian splats in apple maps  announced at wwdc 2026: the flyover feature rebuilt on gaussian splatting; the splat pipeline's arrival in mass-market consumer software. ai music / audio tools modality music"
   },
@@ -4490,7 +5086,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "sprite booth  pixel-character animation tool (comfyui api required). ai music / audio tools modality music"
   },
   {
@@ -4526,8 +5124,8 @@
     "_s": "synthesia  ai avatar platform; $4b valuation; rejected $3b adobe offer. voice, avatar, digital human modality film marketing music"
   },
   {
-    "name": "Heygen / Heygen Video Agent / Heygen Motion Designer / LiveAvatar / Heygen Elements / Heygen CLI / HyperFrames",
-    "blurb": "AI-avatar and end-to-end video generation; LiveAvatar is hyper-realistic real-time interactive; Elements builds scenes from reusable components; CLI ships videos from the command line; **HyperFrames** (June 2026) is an open-source framework for turning HTML, CSS, media and seekable animations into deterministic MP4 videos — bringing deterministic video export to web-stack creative workflows.",
+    "name": "Heygen / Heygen Video Agent / Heygen Motion Designer / LiveAvatar / Heygen Elements / Heygen CLI / HyperFrames / Heygen Video Podcast",
+    "blurb": "AI-avatar and end-to-end video generation; LiveAvatar is hyper-realistic real-time interactive; Elements builds scenes from reusable components; CLI ships videos from the command line; **HyperFrames** (June 2026) is an open-source framework for turning HTML, CSS, media and seekable animations into deterministic MP4 videos — bringing deterministic video export to web-stack creative workflows; **Video Podcast** (July 2026) turns any doc, link or idea into a two-host video show with studio scenes, multi-cam cuts and B-roll.",
     "category": "Voice, avatar, digital human",
     "category_slug": "voice-avatar",
     "layer": "Modality",
@@ -4542,7 +5140,7 @@
     "issues": [
       32
     ],
-    "_s": "heygen / heygen video agent / heygen motion designer / liveavatar / heygen elements / heygen cli / hyperframes  ai-avatar and end-to-end video generation; liveavatar is hyper-realistic real-time interactive; elements builds scenes from reusable components; cli ships videos from the command line; **hyperframes** (june 2026) is an open-source framework for turning html, css, media and seekable animations into deterministic mp4 videos — bringing deterministic video export to web-stack creative workflows. voice, avatar, digital human modality film marketing music"
+    "_s": "heygen / heygen video agent / heygen motion designer / liveavatar / heygen elements / heygen cli / hyperframes / heygen video podcast  ai-avatar and end-to-end video generation; liveavatar is hyper-realistic real-time interactive; elements builds scenes from reusable components; cli ships videos from the command line; **hyperframes** (june 2026) is an open-source framework for turning html, css, media and seekable animations into deterministic mp4 videos — bringing deterministic video export to web-stack creative workflows; **video podcast** (july 2026) turns any doc, link or idea into a two-host video show with studio scenes, multi-cam cuts and b-roll. voice, avatar, digital human modality film marketing music"
   },
   {
     "name": "Hedra / Hedra Audio Tags / Hedra Elements",
@@ -4617,6 +5215,25 @@
     "vendor": null,
     "issues": [],
     "_s": "personalive  real-time expressive portrait animation. voice, avatar, digital human modality film marketing music"
+  },
+  {
+    "name": "LeapTalk",
+    "blurb": "real-time audio-driven talking-head generation (August 2026).",
+    "category": "Voice, avatar, digital human",
+    "category_slug": "voice-avatar",
+    "layer": "Modality",
+    "disciplines": [
+      "Film",
+      "Marketing",
+      "Music"
+    ],
+    "url": null,
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      40
+    ],
+    "_s": "leaptalk  real-time audio-driven talking-head generation (august 2026). voice, avatar, digital human modality film marketing music"
   },
   {
     "name": "LongCat-Video-Avatar 1.5",
@@ -4737,7 +5354,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      31
+      31,
+      39
     ],
     "_s": "breaking rust  ai country artist; #1 country digital song sales. voice, avatar, digital human modality film marketing music"
   },
@@ -4789,7 +5407,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "roxi  ai-generated tv presenters. voice, avatar, digital human modality film marketing music"
   },
   {
@@ -4861,7 +5481,11 @@
       32,
       33,
       34,
-      35
+      35,
+      37,
+      39,
+      40,
+      41
     ],
     "_s": "character.ai  play characters in your favourite books; ovi open-source video with speech sync. voice, avatar, digital human modality film marketing music"
   },
@@ -4939,7 +5563,10 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      39,
+      40
     ],
     "_s": "claude code game studios  49-agent, 72-skill coordinated ai game-development team. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
@@ -4987,7 +5614,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      32
+      32,
+      39
     ],
     "_s": "heygen video agent  end-to-end video-assembly agent. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
@@ -5171,7 +5799,7 @@
   },
   {
     "name": "Unity Official MCP / Unity MCP",
-    "blurb": "Unity Editor control via MCP protocol.",
+    "blurb": "Unity Editor control via MCP protocol; from July 2026 the Unity MCP server is free, with no limits on concurrency.",
     "category": "Agent platforms and orchestration",
     "category_slug": "agents",
     "layer": "Agent",
@@ -5191,9 +5819,10 @@
     "issues": [
       30,
       33,
-      35
+      35,
+      39
     ],
-    "_s": "unity official mcp / unity mcp  unity editor control via mcp protocol. agent platforms and orchestration agent film tv music games animation design marketing immersive"
+    "_s": "unity official mcp / unity mcp  unity editor control via mcp protocol; from july 2026 the unity mcp server is free, with no limits on concurrency. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
   {
     "name": "Blender MCP / Blender Buddy / OpenClaw + Blender MCP",
@@ -5482,7 +6111,11 @@
       30,
       32,
       33,
-      36
+      36,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "atlas ai agents  game-production pipeline agents. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
@@ -5574,7 +6207,9 @@
     "issues": [
       32,
       34,
-      35
+      35,
+      37,
+      40
     ],
     "_s": "auto-dream myclawai personal ai assistant wrapper. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
@@ -5644,7 +6279,10 @@
     "issues": [
       31,
       35,
-      36
+      36,
+      37,
+      38,
+      39
     ],
     "_s": "tiktok ai agents for ads  tiktok's automated ad-creation agents. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
@@ -5673,7 +6311,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "amazon creative agent  agentic ai generating professional-quality ads. agent platforms and orchestration agent film tv music games animation design marketing immersive"
   },
@@ -5795,7 +6437,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "adobe creative cloud / adobe creative agent  photoshop, premiere pro, after effects, illustrator, express, acrobat, plus the express ai assistant, the premiere object mask, the photoshop generative-fill, selection and rotate object tools, the photoshop ai assistant public beta, and illustrator turntable; the creative agent and ai assistant went into beta across premiere, photoshop, illustrator, indesign and frame.io in june 2026. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5842,7 +6488,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project scene it  image-to-3d and 3d-to-image with object tagging. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5867,7 +6514,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project surface swap  ai-powered texture recognition and swap. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5892,7 +6540,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project turn style  edit and transform 2d objects as if they were 3d. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5917,7 +6566,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project trace erase  removes objects, shadows, reflections and distortions. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5942,7 +6592,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project new depths  edit depth like brightness. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5967,7 +6618,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project frame forward  apply changes across video from a single frame plus text. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -5992,7 +6644,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project motion map  bring static vector graphics to life. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6017,7 +6670,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project sound stager  analyses video visuals and generates synchronised soundscapes. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6042,7 +6696,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project clean take  corrects mispronunciations and isolates voices. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6067,7 +6722,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project light touch  spatial lighting mode for relighting photos. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6092,7 +6748,8 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project graph  node-based workflow editor in the comfyui / weavy lineage. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6141,7 +6798,12 @@
       30,
       31,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "edit-by-track adobe research generative video motion editing with 3d point tracks. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6211,7 +6873,9 @@
     "url": "https://unity.com/features/ai",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "unity / unity ai open beta / unity ai council / unity ai tools suite / unity prompt-a-game  in-editor ai suite for the full games pipeline; prompt-a-game demoed at gdc march 2026; the unity ai tutorial series (june 2026) covers the ai assistant and the official unity mcp. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
@@ -6233,7 +6897,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "autodesk maya / autodesk flow studio / autodesk wonder 3d / autodesk flow studio rigging  motion capture, 3d animation, generative 3d and neural rigging. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
@@ -6257,7 +6923,8 @@
     "vendor": null,
     "issues": [
       35,
-      36
+      36,
+      37
     ],
     "_s": "foundry / nuke / nano banana × nuke  ai-augmented vfx; weta fx / aws collaboration; the nuke node connecting nano banana through fal's api. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6426,7 +7093,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40
     ],
     "_s": "pro tools  audio editorial with ai features; claude integration in ableton. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6449,7 +7120,9 @@
     "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      41
+    ],
     "_s": "logic pro / apple logic pro ai  music production with ai; synth player and music-theory expert. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
   {
@@ -6516,7 +7189,8 @@
     "parent": null,
     "vendor": "ByteDance / Snapchat",
     "issues": [
-      34
+      34,
+      40
     ],
     "_s": "capcut / dreamina / snapchat ai clips in lens studio bytedance / snapchat mobile video editing with ai; snapchat ai clips in lens studio. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6540,7 +7214,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      36
+      36,
+      37
     ],
     "_s": "final cut pro  editorial with fx factory plugins. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6608,7 +7283,10 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      36
+      36,
+      38,
+      39,
+      40
     ],
     "_s": "deep pan  animated stills in premiere pro. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6656,7 +7334,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      37
     ],
     "_s": "veed transitions  ai transition generation. legacy creative software, ai-augmented legacy software film tv music games animation design marketing immersive"
   },
@@ -6717,7 +7396,10 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      39,
+      40
     ],
     "_s": "wonder studios  ai-native film studio; $12m raise; wonder film festival. ai-native creative studios and apps studios & apps film animation"
   },
@@ -6919,7 +7601,8 @@
       33,
       34,
       35,
-      36
+      36,
+      41
     ],
     "_s": "lkdn ai production  node-based ai filmmaking. ai-native creative studios and apps studios & apps film animation"
   },
@@ -6960,7 +7643,10 @@
       32,
       34,
       35,
-      36
+      36,
+      37,
+      40,
+      41
     ],
     "_s": "palo creators mrbeast alumni ai for viral video creation. ai-native creative studios and apps studios & apps film animation"
   },
@@ -7009,7 +7695,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39
+    ],
     "_s": "gossip goblin  ai filmmaking studio. ai-native creative studios and apps studios & apps film animation"
   },
   {
@@ -7111,7 +7799,10 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      39,
+      40
     ],
     "_s": "utopai studios  ai film-and-tv studio; co-producing silver bear winner hyo-joo yang's *half moon* and, with huace, developing the fully ai-generated series *journey to the west*. ai-native creative studios and apps studios & apps film animation"
   },
@@ -7180,6 +7871,24 @@
     "_s": "mito ai  $4.5m-raised platform empowering video professionals. ai-native creative studios and apps studios & apps film animation"
   },
   {
+    "name": "Filmera",
+    "blurb": "early-stage agentic AI filmmaking platform and workspace taking creators through the full film pipeline — idea, script, shot planning, generation and editing — in one place (August 2026).",
+    "category": "AI-native creative studios and apps",
+    "category_slug": "studios",
+    "layer": "Studios & apps",
+    "disciplines": [
+      "Film",
+      "Animation"
+    ],
+    "url": "https://www.filmera.ai/",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      41
+    ],
+    "_s": "filmera  early-stage agentic ai filmmaking platform and workspace taking creators through the full film pipeline — idea, script, shot planning, generation and editing — in one place (august 2026). ai-native creative studios and apps studios & apps film animation"
+  },
+  {
     "name": "Filmax DinoGames",
     "blurb": "AI-driven 3D animated film project.",
     "category": "AI-native creative studios and apps",
@@ -7234,7 +7943,8 @@
       33,
       34,
       35,
-      36
+      36,
+      41
     ],
     "_s": "luma production studio + wonder project  feature collaboration. ai-native creative studios and apps studios & apps film animation"
   },
@@ -7320,7 +8030,9 @@
     "url": null,
     "parent": null,
     "vendor": "the studio that produced this book",
-    "issues": [],
+    "issues": [
+      38
+    ],
     "_s": "dreamlab ai collective the studio that produced this book ai-augmented creative practice across film, games and immersive. ai-native creative studios and apps studios & apps film animation"
   },
   {
@@ -7434,7 +8146,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40
     ],
     "_s": "epic xai studio  elon-musk-affiliated game-dev ai. games-development ai modality games"
   },
@@ -7488,7 +8204,10 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      39,
+      40
     ],
     "_s": "halo studios  ai woven into the production pipeline. games-development ai modality games"
   },
@@ -7601,7 +8320,8 @@
     "vendor": "Razer",
     "issues": [
       31,
-      36
+      36,
+      39
     ],
     "_s": "project motoko razer ai-powered gaming headset. games-development ai modality games"
   },
@@ -7745,7 +8465,10 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      39,
+      40
     ],
     "_s": "xbox game studios \"git gud\" ai  xbox patent for ai tech that plays games for you. games-development ai modality games"
   },
@@ -7781,7 +8504,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia dlss 5  gaming upscaling. games-development ai modality games"
   },
@@ -7814,6 +8539,41 @@
     "vendor": "Meta acquisition",
     "issues": [],
     "_s": "gizmo meta acquisition vibe-coding app for creating mini-games. games-development ai modality games"
+  },
+  {
+    "name": "Meta Pocket",
+    "blurb": "vibe-coded gaming app that turns descriptions into little AI games and experiences, with every play feeding back as training data (July 2026).",
+    "category": "Games-development AI",
+    "category_slug": "games",
+    "layer": "Modality",
+    "disciplines": [
+      "Games"
+    ],
+    "url": "https://www.meta.com/en-gb/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/",
+    "parent": null,
+    "vendor": "Meta",
+    "issues": [
+      37,
+      38
+    ],
+    "_s": "meta pocket meta vibe-coded gaming app that turns descriptions into little ai games and experiences, with every play feeding back as training data (july 2026). games-development ai modality games"
+  },
+  {
+    "name": "Tesana",
+    "blurb": "prompt-driven \"make any game you can imagine\" creation platform (July 2026).",
+    "category": "Games-development AI",
+    "category_slug": "games",
+    "layer": "Modality",
+    "disciplines": [
+      "Games"
+    ],
+    "url": "https://tesana.ai/en",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      39
+    ],
+    "_s": "tesana  prompt-driven \"make any game you can imagine\" creation platform (july 2026). games-development ai modality games"
   },
   {
     "name": "Voyage",
@@ -7899,10 +8659,12 @@
     "disciplines": [
       "Games"
     ],
-    "url": null,
+    "url": "https://www.reactor.inc/models/lingbot-world-2",
     "parent": null,
     "vendor": "Disney",
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "reactor disney rl motion-transfer method. games-development ai modality games"
   },
   {
@@ -7986,7 +8748,10 @@
       32,
       33,
       34,
-      36
+      36,
+      38,
+      40,
+      41
     ],
     "_s": "higgsfield games  create and deploy multiplayer games from a single prompt. games-development ai modality games"
   },
@@ -8007,7 +8772,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia ace game agent sdk  with new unreal engine 5 plugins, for building responsive, on-device ai companions. games-development ai modality games"
   },
@@ -8024,7 +8791,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      33
+      33,
+      38
     ],
     "_s": "the sandbox studio  from idea to live multiplayer game in hours. games-development ai modality games"
   },
@@ -8098,7 +8866,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "wpp open pro  agency-wide ai marketing platform. marketing and advertising ai native marketing"
   },
@@ -8264,7 +9036,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39
+    ],
     "_s": "sky studio challenge  interactive ai ad creation via starlink. marketing and advertising ai native marketing"
   },
   {
@@ -8286,7 +9060,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "google demand gen  ai-powered image tools for the ad platform. marketing and advertising ai native marketing"
   },
@@ -8327,7 +9106,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "amazon creative agent  agentic ad creator. marketing and advertising ai native marketing"
   },
@@ -8376,7 +9159,10 @@
     "issues": [
       31,
       35,
-      36
+      36,
+      37,
+      38,
+      39
     ],
     "_s": "tiktok ai agents for ads  tiktok ad-creation agents. marketing and advertising ai native marketing"
   },
@@ -8392,7 +9178,10 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      38,
+      39
+    ],
     "_s": "instagram edits  ai video generation for advertisers. marketing and advertising ai native marketing"
   },
   {
@@ -8414,7 +9203,8 @@
       33,
       34,
       35,
-      36
+      36,
+      40
     ],
     "_s": "elevenlabs ads engine  localise existing ads across 50+ languages and push the finished creatives back to the ad platform. marketing and advertising ai native marketing"
   },
@@ -8458,7 +9248,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "comfyui  node-based ai workflow editor; the operating system of the open-source creative ai ecosystem; $17m raise (october 2025), $500m valuation (may 2026). open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
@@ -8705,6 +9498,30 @@
     "_s": "llmfit  hardware scanner for local-model compatibility. open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
   {
+    "name": "Unsloth Desktop",
+    "blurb": "the first desktop app to run and train models locally (August 2026).",
+    "category": "Open-source ecosystem and infrastructure",
+    "category_slug": "open-source",
+    "layer": "Open source",
+    "disciplines": [
+      "Film",
+      "TV",
+      "Music",
+      "Games",
+      "Animation",
+      "Design",
+      "Marketing",
+      "Immersive"
+    ],
+    "url": "https://unsloth.ai/docs/desktop",
+    "parent": null,
+    "vendor": null,
+    "issues": [
+      41
+    ],
+    "_s": "unsloth desktop  the first desktop app to run and train models locally (august 2026). open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
+  },
+  {
     "name": "Open Vision Agents",
     "blurb": "toolkit for building agents that watch, listen and understand video.",
     "category": "Open-source ecosystem and infrastructure",
@@ -8727,7 +9544,9 @@
       31,
       32,
       35,
-      36
+      36,
+      40,
+      41
     ],
     "_s": "open vision agents  toolkit for building agents that watch, listen and understand video. open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
@@ -8778,7 +9597,10 @@
       30,
       31,
       33,
-      35
+      35,
+      37,
+      38,
+      41
     ],
     "_s": "openai gym / gym retro / arc  research benchmarks (referenced in the games-ai literature). open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
@@ -8830,7 +9652,10 @@
       32,
       33,
       34,
-      35
+      35,
+      37,
+      38,
+      39
     ],
     "_s": "open generative ai  open-source alternative to the commercial ai video platforms. open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
@@ -8907,7 +9732,9 @@
       32,
       34,
       35,
-      36
+      36,
+      38,
+      40
     ],
     "_s": "nvidia tao skill bank  portable agent skills for training, evaluating and running inference on nvidia tao models. open-source ecosystem and infrastructure open source film tv music games animation design marketing immersive"
   },
@@ -8951,10 +9778,12 @@
       "Marketing",
       "Immersive"
     ],
-    "url": null,
+    "url": "https://mesh2motion.org/news",
     "parent": null,
     "vendor": "ComfyUI",
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "mesh2motion comfyui mesh-to-motion conversion node. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -9004,7 +9833,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "comfyui music tools  professional-grade music-processing node pack. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9033,7 +9865,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "comfyui hy-motion1 plugin  tencent hy-motion implementation. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9170,7 +10005,9 @@
     "vendor": null,
     "issues": [
       35,
-      36
+      36,
+      37,
+      41
     ],
     "_s": "camera tracking & body pose tools (comfyui)  work-in-progress camera and pose tracking. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9261,7 +10098,10 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      40,
+      41
+    ],
     "_s": "sora 2 api nodes  sora 2 access from comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -9309,7 +10149,9 @@
     "vendor": null,
     "issues": [
       30,
-      36
+      36,
+      38,
+      41
     ],
     "_s": "street view url parser  google street view ingestion. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9334,7 +10176,9 @@
     "vendor": null,
     "issues": [
       34,
-      35
+      35,
+      40,
+      41
     ],
     "_s": "minim  comfyui model-linker extension. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9357,7 +10201,9 @@
     "url": null,
     "parent": null,
     "vendor": "ComfyUI partner nodes",
-    "issues": [],
+    "issues": [
+      40
+    ],
     "_s": "hunyuan 3d 3.0 comfyui partner nodes hy3d 3.0 inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -9385,7 +10231,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "kling 3.0 comfyui node  kling 3.0 partner node. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9412,7 +10261,8 @@
       30,
       34,
       35,
-      36
+      36,
+      38
     ],
     "_s": "kling video 2.6 motion control comfyui kling motion control inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9439,7 +10289,8 @@
       30,
       34,
       35,
-      36
+      36,
+      38
     ],
     "_s": "kling motion control 3.0 comfyui the v3 motion control variant. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9465,7 +10316,10 @@
     "issues": [
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "seedance comfyui partner node seedance inside comfyui; seedance 2.0 mini and 4k available from july 2026. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9516,7 +10370,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "ltx-2 comfyui audio-to-video  audio-driven video inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9571,7 +10428,8 @@
       33,
       34,
       35,
-      36
+      36,
+      40
     ],
     "_s": "elevenlabs comfyui partner nodes  elevenlabs inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9600,7 +10458,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "luma uni-1 comfyui partner node  uni-1 inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9647,7 +10508,10 @@
     "vendor": "ComfyUI",
     "issues": [
       31,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "grok imagine comfyui xai image generation inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9695,7 +10559,8 @@
     "issues": [
       31,
       32,
-      34
+      34,
+      37
     ],
     "_s": "tripo 3.1 comfyui partner nodes tripo 3.1 inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9793,7 +10658,10 @@
     "vendor": null,
     "issues": [
       34,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "sora 2 full loop workflow  end-to-end sora 2 pipeline. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9816,7 +10684,10 @@
     "url": "https://www.krea.ai/krea-2",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      40,
+      41
+    ],
     "_s": "krea nodes  krea inside comfyui. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
   {
@@ -9841,7 +10712,8 @@
     "issues": [
       30,
       32,
-      33
+      33,
+      37
     ],
     "_s": "gaussian splats + qwen edit workflow  explore 2d images and generate new camera views. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9892,7 +10764,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "comfyui simple mode  share and iterate complex workflows more easily. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9921,7 +10796,10 @@
       32,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "comfyui cloud (private models)  private model hosting inside comfyui cloud. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9948,7 +10826,8 @@
       31,
       32,
       33,
-      35
+      35,
+      37
     ],
     "_s": "comfyui action director  interactive 3d viewport for controlnet. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -9974,7 +10853,8 @@
     "issues": [
       34,
       35,
-      36
+      36,
+      41
     ],
     "_s": "complete style transfer handbook (comfyui)  style-transfer guide. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10047,7 +10927,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "creative control using comfyui on nvidia rtx  nvidia's official comfyui/rtx tutorial series. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10077,7 +10961,10 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40,
+      41
     ],
     "_s": "comfy mcp  the official model context protocol server, in public beta from july 2026; the first mcp built for production pipelines — agents build, edit and run workflows in plain language, with shareable, reproducible workflow urls, running on comfy cloud with no local gpu required. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10102,7 +10989,9 @@
     "vendor": null,
     "issues": [
       31,
-      33
+      33,
+      38,
+      41
     ],
     "_s": "comfy desktop  one app for every comfy; the desktop consolidation of the ecosystem. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10127,7 +11016,10 @@
     "vendor": null,
     "issues": [
       34,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "comfyui utility passes workflow  generates production-ready vfx utility passes directly from footage. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10152,7 +11044,10 @@
     "vendor": null,
     "issues": [
       34,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "comfyui face swap workflow  de-aging and face-replacement demo workflow. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10202,7 +11097,9 @@
     "vendor": null,
     "issues": [
       34,
-      36
+      36,
+      38,
+      41
     ],
     "_s": "comfyui three.js motion reference node  custom node generating a 3d motion reference with three.js. comfyui ecosystem — nodes, extensions and workflows open source film tv music games animation design marketing immersive"
   },
@@ -10269,7 +11166,9 @@
     "url": "https://qwen.ai/blog?id=qwen-image-2512",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "qwen-edit relighting lora  atmospheric relighting control. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
   {
@@ -10357,7 +11256,10 @@
     "url": "https://qwen.ai/blog?id=qwen-image-2512",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39,
+      41
+    ],
     "_s": "qwen edit lora object removal  bounding-box-precision edits. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
   {
@@ -10382,7 +11284,8 @@
     "issues": [
       30,
       32,
-      33
+      33,
+      37
     ],
     "_s": "qwen-image-edit 2511 gaussian splash 3d camera motion  3d gaussian-splat motion control. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
@@ -10407,7 +11310,10 @@
     "vendor": null,
     "issues": [
       34,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "qwen 2511 time travel workflow  temporal image effects. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
@@ -10526,7 +11432,11 @@
       32,
       33,
       34,
-      35
+      35,
+      37,
+      39,
+      40,
+      41
     ],
     "_s": "ltx-2.3 character lora training (ai toolkit)  character lora training tutorial. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
@@ -10552,7 +11462,8 @@
     "issues": [
       30,
       32,
-      33
+      33,
+      37
     ],
     "_s": "gaussian splats repair lora  klein-9b lora for repairing 3d views and geometry. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
@@ -10598,7 +11509,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      40
     ],
     "_s": "music finetunes in elevencreative  stylistically consistent vocal and instrument generation. loras, fine-tuning and training open source film tv music games animation design marketing immersive"
   },
@@ -10715,7 +11627,8 @@
     "vendor": null,
     "issues": [
       30,
-      34
+      34,
+      38
     ],
     "_s": "disney–openai licensing framework (announced 11 december 2025; never executed)  the $1bn licensing announcement that became the reference contract architecture for legacy-ip × frontier-ai deals despite the deal itself collapsing when openai shut down sora on 24 march 2026. ip-not-training, talent-voice-and-likeness excluded, jointly-governed steering committee, equity-and-warrants structure. the framework survived the platform's death. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
   },
@@ -10783,7 +11696,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      37
     ],
     "_s": "elevenlabs heritage voices / iconic marketplace (with cmg worldwide and partners)  heritage-voice licensing pipeline confined to a single text-to-speech reader app, walled off from the general voice-cloning database; voices include judy garland, james dean, burt reynolds, laurence olivier, the stan lee estate and michael caine. ip licensing, governance and behavioural-licence platforms other film tv music games animation design marketing immersive"
   },
@@ -10923,7 +11837,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      39
     ],
     "_s": "youtube ai detection / youtube ai deepfake detection  automated ai-content detection; *tiny grandma* false-positive case study. provenance, watermarking and detection infrastructure film tv music games animation design marketing immersive"
   },
@@ -10947,7 +11862,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      39
     ],
     "_s": "deezer ai music detection  identifies up to 75,000 fully ai-generated uploads per day; from june 2026, offered as a detector to *other* streaming services — the in-house tool becoming licensable infrastructure. provenance, watermarking and detection infrastructure film tv music games animation design marketing immersive"
   },
@@ -11038,7 +11954,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "human provenance ai disclosure standard (cannes)  industry-coordination labelling standard. provenance, watermarking and detection infrastructure film tv music games animation design marketing immersive"
   },
   {
@@ -11067,7 +11985,10 @@
       33,
       34,
       35,
-      36
+      36,
+      38,
+      39,
+      40
     ],
     "_s": "rtm audio uai  ai-music detector that issues a signed certificate with every verdict. provenance, watermarking and detection infrastructure film tv music games animation design marketing immersive"
   },
@@ -11091,7 +12012,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      34
+      34,
+      38
     ],
     "_s": "played by humans  verification badge for \"human artistry in an ai age.\" provenance, watermarking and detection infrastructure film tv music games animation design marketing immersive"
   },
@@ -11161,13 +12083,14 @@
     "parent": null,
     "vendor": "ByteDance",
     "issues": [
-      34
+      34,
+      40
     ],
     "_s": "capcut / dreamina bytedance consumer video editing + ai generation. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
   {
-    "name": "Gemini app",
-    "blurb": "Google's consumer AI surface.",
+    "name": "Gemini app / Gemini in Chrome",
+    "blurb": "Google's consumer AI surface; **Gemini in Chrome** launched to UK desktop users in July 2026.",
     "category": "Consumer surfaces and distribution platforms",
     "category_slug": "consumer",
     "layer": "Consumer",
@@ -11187,9 +12110,11 @@
     "issues": [
       33,
       35,
-      36
+      36,
+      38,
+      41
     ],
-    "_s": "gemini app google google's consumer ai surface. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
+    "_s": "gemini app / gemini in chrome google google's consumer ai surface; **gemini in chrome** launched to uk desktop users in july 2026. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
   {
     "name": "ChatGPT app",
@@ -11258,7 +12183,10 @@
     "vendor": null,
     "issues": [
       31,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "grok / grok imagine  xai consumer surfaces. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11284,7 +12212,10 @@
     "issues": [
       31,
       35,
-      36
+      36,
+      37,
+      38,
+      39
     ],
     "_s": "tiktok / reels / shorts  ai-content distribution surfaces. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11311,7 +12242,10 @@
       31,
       34,
       35,
-      36
+      36,
+      38,
+      39,
+      41
     ],
     "_s": "youtube shorts / youtube create  destinations for veo 3.1 ingredients-to-video. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11383,7 +12317,11 @@
     "vendor": null,
     "issues": [
       31,
-      36
+      36,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "spotify  declined an ai-music filter; voluntary disclosure beta; *personal podcasts* agent feature. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11410,7 +12348,10 @@
       31,
       34,
       35,
-      36
+      36,
+      38,
+      39,
+      41
     ],
     "_s": "youtube music  labelling, the ai detection tool, viewership of ai content. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11435,7 +12376,8 @@
     "vendor": null,
     "issues": [
       34,
-      36
+      36,
+      41
     ],
     "_s": "steam  ai-content labelling controversy; *clair obscur* game of the year stripping. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11461,7 +12403,8 @@
     "issues": [
       30,
       33,
-      35
+      35,
+      39
     ],
     "_s": "sweden's official music chart  banned ai-generated entries. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11509,7 +12452,9 @@
     "issues": [
       31,
       32,
-      34
+      34,
+      39,
+      40
     ],
     "_s": "roblox  creator-tools ai with continued controversy. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11533,7 +12478,9 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      35
+      35,
+      38,
+      39
     ],
     "_s": "fortnite  chapter 8 ai-art controversy; disney partnership. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11559,7 +12506,9 @@
     "issues": [
       30,
       32,
-      36
+      36,
+      39,
+      41
     ],
     "_s": "netflix  ai in production (de-aging, plates, retention engine, ben affleck studio acquisition). consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11585,7 +12534,10 @@
     "issues": [
       30,
       32,
-      35
+      35,
+      37,
+      38,
+      41
     ],
     "_s": "disney+  user-generated ai content features. consumer surfaces and distribution platforms consumer film tv music games animation design marketing immersive"
   },
@@ -11704,7 +12656,10 @@
     "issues": [
       33,
       35,
-      36
+      36,
+      37,
+      38,
+      39
     ],
     "_s": "aimici training program  screenskills-accredited ai training. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -11822,7 +12777,11 @@
     "issues": [
       31,
       32,
-      35
+      35,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "runway ai festival  film and creative-discipline awards. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -11848,7 +12807,11 @@
     "issues": [
       31,
       32,
-      35
+      35,
+      38,
+      39,
+      40,
+      41
     ],
     "_s": "wonder film festival  ai-native film festival. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -11964,7 +12927,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      35
+      35,
+      41
     ],
     "_s": "prs for music ai survey 2026  uk music-creator sentiment data. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -11987,7 +12951,10 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      39,
+      40
+    ],
     "_s": "gema  german rights society; won against openai. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
   {
@@ -12128,7 +13095,10 @@
     "vendor": null,
     "issues": [
       33,
-      35
+      35,
+      37,
+      39,
+      41
     ],
     "_s": "anthropic joins blender development fund  patronage deal, may 2026. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -12175,7 +13145,8 @@
     "vendor": null,
     "issues": [
       34,
-      36
+      36,
+      38
     ],
     "_s": "google flow music + believe partnership  ai music distribution partnership. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -12203,7 +13174,10 @@
       31,
       32,
       34,
-      36
+      36,
+      37,
+      39,
+      41
     ],
     "_s": "google flow resident filmmaker programme  six-week google flow residency recruiting \"the next wave of creatives across all mediums\" (july 2026). studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -12230,7 +13204,8 @@
       31,
       33,
       35,
-      36
+      36,
+      37
     ],
     "_s": "versa lab versa studios future-format development platform for film and broadcast. studios, programmes, festivals and institutional infrastructure institutions film tv music games animation design marketing immersive"
   },
@@ -12254,7 +13229,9 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      36
+      36,
+      38,
+      40
     ],
     "_s": "vibe coding  prompt-led creative prototyping, especially for games and interactive apps; rosebud, spawn, gizmo, gambo are the canonical surfaces. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12303,7 +13280,9 @@
     "vendor": "Veo 3.1 + Gemini",
     "issues": [
       34,
-      36
+      36,
+      38,
+      41
     ],
     "_s": "reference-to-video veo 3.1 + gemini consistent character generation from a reference image. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12330,7 +13309,8 @@
       30,
       34,
       35,
-      36
+      36,
+      38
     ],
     "_s": "motion control nodes / time-to-move  frame- and segment-level motion controls in generated video. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12422,7 +13402,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      33
+      33,
+      37
     ],
     "_s": "3d gaussian splatting  the spatial backbone running through playcanvas sog, hyperscape, apple personas and the open-source splat ecosystem. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12449,7 +13430,11 @@
       32,
       34,
       35,
-      36
+      36,
+      37,
+      39,
+      40,
+      41
     ],
     "_s": "world models  recurring topic spanning marble, genie, hy-world, uni-1, echo, matrix-game, lingbot-world, moonlake. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12473,7 +13458,8 @@
     "parent": null,
     "vendor": null,
     "issues": [
-      36
+      36,
+      37
     ],
     "_s": "multi-shot consistency  kling 3.0, shotverse, higgsfield shots, veo 3.1 — the multi-shot turn that defined the spring-2026 video pipeline. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12502,7 +13488,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "camera control / multi-angle generation  wan camera control, shotverse, ati, multiple angle camera control node. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12525,7 +13515,9 @@
     "url": "https://comfyui.org/en/tripo-31-in-comfyui",
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      41
+    ],
     "_s": "style transfer (the comfyui handbook)  the canonical workflow ladder for style transfer. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -12553,7 +13545,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "audio-reactive generation  audio reactive node pack and the lalal-api / ace-step pipelines. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12582,7 +13578,11 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
     "_s": "real-time generation pipelines  krea realtime, motionstream, decart lucy 2.0 and mirage, xmax x1, phoenix-4, ltx-2.3 real-time on scope, nvidia sana-streaming, magenta realtime 2; the *interactive-generation* category that emerged in q1 2026 and reached instruments and screens by the summer. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
@@ -12605,7 +13605,11 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37,
+      39,
+      41
+    ],
     "_s": "agentic workflows / multi-agent stacks  sony game studios (49 agents, 72 skills), adobe cx enterprise, openai agentkit, heygen video agent, claude skills. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -12627,7 +13631,9 @@
     "url": null,
     "parent": null,
     "vendor": null,
-    "issues": [],
+    "issues": [
+      37
+    ],
     "_s": "provenance-first capture  c2pa + synthid + on-device detection in premiere and youtube as the emerging *standard* of provenance-aware production. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
@@ -12656,7 +13662,7 @@
   },
   {
     "name": "MCP (Model Context Protocol) as the connective tissue",
-    "blurb": "Unity MCP, Blender MCP, fal MCP, and — in the June–July 2026 wave — Comfy MCP, Unreal MCP, Magnific MCP, Higgsfield MCP and the Runway MCP inside ChatGPT; the protocol the agentic creative ecosystem converged on.",
+    "blurb": "Unity MCP (free and unlimited-concurrency from July 2026), Blender MCP, fal MCP, and — in the June–July 2026 wave — Comfy MCP, Unreal MCP, Magnific MCP, Higgsfield MCP (running Claude Code inside After Effects) and the Runway MCP inside ChatGPT; the protocol the agentic creative ecosystem converged on.",
     "category": "Techniques, methods and recurring workflows",
     "category_slug": "techniques",
     "layer": "Technique",
@@ -12674,11 +13680,11 @@
     "parent": null,
     "vendor": null,
     "issues": [],
-    "_s": "mcp (model context protocol) as the connective tissue  unity mcp, blender mcp, fal mcp, and — in the june–july 2026 wave — comfy mcp, unreal mcp, magnific mcp, higgsfield mcp and the runway mcp inside chatgpt; the protocol the agentic creative ecosystem converged on. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
+    "_s": "mcp (model context protocol) as the connective tissue  unity mcp (free and unlimited-concurrency from july 2026), blender mcp, fal mcp, and — in the june–july 2026 wave — comfy mcp, unreal mcp, magnific mcp, higgsfield mcp (running claude code inside after effects) and the runway mcp inside chatgpt; the protocol the agentic creative ecosystem converged on. techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   },
   {
     "name": "Brief-First, Generate-Second",
-    "blurb": "the workflow practice the book argues for in Chapter 11 (and Chapter 16's *toolchain in layers* section below).",
+    "blurb": "the workflow practice the book argues for in Chapter 12 (and Chapter 17's *toolchain in layers* section below).",
     "category": "Techniques, methods and recurring workflows",
     "category_slug": "techniques",
     "layer": "Technique",
@@ -12702,8 +13708,12 @@
       33,
       34,
       35,
-      36
+      36,
+      37,
+      38,
+      40,
+      41
     ],
-    "_s": "brief-first, generate-second  the workflow practice the book argues for in chapter 11 (and chapter 16's *toolchain in layers* section below). techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
+    "_s": "brief-first, generate-second  the workflow practice the book argues for in chapter 12 (and chapter 17's *toolchain in layers* section below). techniques, methods and recurring workflows technique film tv music games animation design marketing immersive"
   }
 ]

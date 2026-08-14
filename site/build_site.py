@@ -1,7 +1,7 @@
 """Build the Dream Machine website data.
 
 Parses:
-  * Book/16_The_Tools.md             -> data/tools.json, data/categories.json
+  * Book/17_The_Tools.md             -> data/tools.json, data/categories.json
   * Dream Machine MD/*.md            -> data/issues.json, data/editions.json
   * Book/00a_Reader_Paths.md         -> data/use-cases.json
   * Book/0..18 chapter files         -> data/chapters.json, data/issues_topics.json
@@ -187,7 +187,7 @@ CATEGORY_MAP: dict[str, dict] = {
 
 
 def parse_tools_chapter() -> tuple[list[dict], list[dict]]:
-    text = (BOOK / "16_The_Tools.md").read_text(encoding="utf-8")
+    text = (BOOK / "17_The_Tools.md").read_text(encoding="utf-8")
     lines = text.splitlines()
 
     tools: list[dict] = []
@@ -201,7 +201,7 @@ def parse_tools_chapter() -> tuple[list[dict], list[dict]]:
             start_idx = i
             break
     if start_idx is None:
-        print("WARN: could not find reference inventory section in 16_The_Tools.md")
+        print("WARN: could not find reference inventory section in 17_The_Tools.md")
         return tools, categories
 
     current_cat = None
@@ -627,9 +627,18 @@ ISSUES_CATALOG = [
         "icon": "building",
     },
     {
+        "slug": "the-machine-gets-the-money",
+        "title": "The Machine Gets the Money",
+        "chapter": "08_The_Machine_Gets_the_Money.md",
+        "blurb": "AI is getting funded; the work is not. The Seven-Year Problem, the duration discount, and how capital went long the machine and short the work across games, film, TV and immersive.",
+        "tags": ["Strategy", "Policy", "Film", "Games"],
+        "accent": "purple",
+        "icon": "building",
+    },
+    {
         "slug": "worlds-not-pictures",
         "title": "Worlds, Not Pictures",
-        "chapter": "08_Worlds_Not_Pictures.md",
+        "chapter": "09_Worlds_Not_Pictures.md",
         "blurb": "World models replacing flat video as the default creative medium of the next decade — and the spatial pipeline that is already shipping.",
         "tags": ["Games", "Immersive", "Film"],
         "accent": "pink",
@@ -638,7 +647,7 @@ ISSUES_CATALOG = [
     {
         "slug": "ai-in-everything",
         "title": "AI in Everything, Everywhere",
-        "chapter": "09_AI_In_Everything.md",
+        "chapter": "10_AI_In_Everything.md",
         "blurb": "The absorption pattern: how the legacy creative-software vendors quietly became the dominant AI-creative platforms by burying capability inside the apps people already used.",
         "tags": ["Platforms", "Tools"],
         "accent": "cyan",
@@ -647,7 +656,7 @@ ISSUES_CATALOG = [
     {
         "slug": "newly-possible",
         "title": "What Is Newly Possible",
-        "chapter": "10_What_Is_Newly_Possible.md",
+        "chapter": "11_What_Is_Newly_Possible.md",
         "blurb": "The new categories of creative work the transition has opened up — what you can build now that you literally could not in 2024.",
         "tags": ["Craft", "Tools"],
         "accent": "purple",
@@ -656,7 +665,7 @@ ISSUES_CATALOG = [
     {
         "slug": "the-orchestrator",
         "title": "The Orchestrator",
-        "chapter": "11_The_Orchestrator.md",
+        "chapter": "12_The_Orchestrator.md",
         "blurb": "The new working role of the period — briefing, allocating, judging and integrating across an agent fleet — and the AI Literacy Premium.",
         "tags": ["Craft", "Agents"],
         "accent": "pink",
@@ -665,7 +674,7 @@ ISSUES_CATALOG = [
     {
         "slug": "authenticity-premium",
         "title": "Authenticity as the New Scarcity",
-        "chapter": "12_Authenticity_New_Scarcity.md",
+        "chapter": "13_Authenticity_New_Scarcity.md",
         "blurb": "Why verifiably-human, verifiably-provenanced creative work commands a structural premium — and how the provenance stack is being built.",
         "tags": ["Provenance", "Audience"],
         "accent": "cyan",
@@ -674,7 +683,7 @@ ISSUES_CATALOG = [
     {
         "slug": "coordination-collapse",
         "title": "Coordination Collapse",
-        "chapter": "13_Coordination_Collapse.md",
+        "chapter": "14_Coordination_Collapse.md",
         "blurb": "Why traditional collective bargaining, industry standards and inter-studio coordination are failing under the speed of the transition — and what organisations should do.",
         "tags": ["Labour", "Policy", "Strategy"],
         "accent": "purple",
@@ -683,7 +692,7 @@ ISSUES_CATALOG = [
     {
         "slug": "new-jobs",
         "title": "The New Jobs",
-        "chapter": "14_The_New_Jobs.md",
+        "chapter": "15_The_New_Jobs.md",
         "blurb": "The labour-market evidence: which jobs are appearing, which are restructuring, which are vanishing, and the policy frame the data demands.",
         "tags": ["Labour", "Policy"],
         "accent": "pink",
@@ -692,7 +701,7 @@ ISSUES_CATALOG = [
     {
         "slug": "choosing-the-future",
         "title": "Choosing the Future",
-        "chapter": "15_Choosing_the_Future.md",
+        "chapter": "16_Choosing_the_Future.md",
         "blurb": "The four principles the book argues for, and what working creatives should do on Monday morning.",
         "tags": ["Strategy", "Craft"],
         "accent": "cyan",
@@ -701,7 +710,7 @@ ISSUES_CATALOG = [
     {
         "slug": "five-years",
         "title": "Five Years Inside the Dream Machine",
-        "chapter": "17_Five_Years_Inside_the_Dream_Machine.md",
+        "chapter": "18_Five_Years_Inside_the_Dream_Machine.md",
         "blurb": "A speculative future-cast: what the creative economy looks like in 2031 if the current trajectory holds, and the off-ramps that are still available.",
         "tags": ["Strategy", "Future"],
         "accent": "purple",
@@ -716,18 +725,22 @@ def parse_chapters() -> list[dict]:
         "01_The_Day_Sora_Landed.md", "02_A_History_of_Resistance.md",
         "03_The_Human_AI_Agency_Continuum.md", "04_Dead_Internet_Living_Web.md",
         "05_The_Slop_Ceiling.md", "06_The_88_Percent.md",
-        "07_The_Studios_Decide.md", "08_Worlds_Not_Pictures.md",
-        "09_AI_In_Everything.md", "10_What_Is_Newly_Possible.md",
-        "11_The_Orchestrator.md", "12_Authenticity_New_Scarcity.md",
-        "13_Coordination_Collapse.md", "14_The_New_Jobs.md",
-        "15_Choosing_the_Future.md", "16_The_Tools.md",
-        "17_Five_Years_Inside_the_Dream_Machine.md", "18_Epilogue.md",
+        "07_The_Studios_Decide.md", "08_The_Machine_Gets_the_Money.md",
+        "09_Worlds_Not_Pictures.md",
+        "10_AI_In_Everything.md", "11_What_Is_Newly_Possible.md",
+        "12_The_Orchestrator.md", "13_Authenticity_New_Scarcity.md",
+        "14_Coordination_Collapse.md", "15_The_New_Jobs.md",
+        "16_Choosing_the_Future.md", "17_The_Tools.md",
+        "18_Five_Years_Inside_the_Dream_Machine.md", "19_Epilogue.md",
     ]
     appendices = [
         "A1_Appendix_Quantitative_Anatomy.md", "A2_Glossary.md",
         "A3_Bibliography_by_Topic.md", "A4_Deep_Dive_Shadow_AI.md",
         "A5_Deep_Dive_Adoption_Dynamics.md", "A6_Deep_Dive_AI_Stigma.md",
         "A7_Deep_Dive_AI_Intent.md", "A8_Source_Index.md",
+        "A9_Deep_Dive_Doomer_Mistake.md", "A10_Deep_Dive_Process_Trap.md",
+        "A11_Deep_Dive_Coordination_Collapse.md", "A12_Deep_Dive_Programmable_Brand.md",
+        "A13_Deep_Dive_World_Cup.md",
     ]
     out = []
     for name in chapter_files + appendices:

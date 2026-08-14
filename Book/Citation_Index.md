@@ -17,7 +17,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **4.** OpenAI, "Sora 2 is here," announcement page, 30 September 2025. <https://openai.com/index/sora-2/>. The model launched alongside an invite-only iOS app of the same name in the U.S. and Canada. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md) carried the launch alongside contemporaneous coverage from NBC News and *The Guardian* on the model's first copyright and safety incidents.
 
-**5.** *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[36](../Dream%20Machine%20MD/36.md), October 2025 – July 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
+**5.** *Dream Machine | Creative AI*, LinkedIn newsletter, archive of Issues [1](../Dream%20Machine%20MD/1.md)–[41](../Dream%20Machine%20MD/41.md), October 2025 – August 2026. <https://www.linkedin.com/newsletters/dream-machine-creative-ai-7379776527871381505/>.
 
 **6.** DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>. Referenced from [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md) onward.
 
@@ -88,6 +88,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **22.** Deezer, "AI-generated tracks now represent 44% of all new uploaded music," April 2026 newsroom release. <https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/>. Companion analysis: *Music Business Worldwide*, "75,000 AI-generated tracks now flood Deezer daily, representing 44% of all new music uploaded to the platform." <https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/>. Daily AI uploads to Deezer rose from approximately 50,000 per day in November 2025 ([*Dream Machine* Issue 7](../Dream%20Machine%20MD/7.md), citing Deezer / *Musically*) to 75,000 per day by April 2026, with consumer streams of fully-AI tracks holding between 1% and 3% of total platform plays — and up to 85% of those streams identified as fraudulent in 2025. *Dream Machine* Issues [7](../Dream%20Machine%20MD/7.md), [26](../Dream%20Machine%20MD/26.md), [27](../Dream%20Machine%20MD/27.md), [28](../Dream%20Machine%20MD/28.md).
 
+**23.** *Deadline*, "AI 'Actor' Tilly Norwood To Star In Feature Film 'Misaligned'." <https://deadline.com/2026/07/tilly-norwood-ai-actor-misaligned-1236974639/>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
 
 ## Chapter 2 — A History of Resistance
 
@@ -100,6 +102,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **4.** *Grand Upright Music, Ltd. v. Warner Bros. Records Inc.*, 780 F. Supp. 182 (S.D.N.Y. 1991). Full text: <https://law.justia.com/cases/federal/district-courts/FSupp/780/182/1445286/>. The "Thou shalt not steal" opening is the most-quoted line from a US copyright opinion of the late twentieth century.
 
 **5.** Tippett's account of the Jurassic Park digital test is documented across multiple ASC and contemporaneous press accounts. American Society of Cinematographers, *"Jurassic Park: Effects Team Brings Dinosaurs Back from Extinction,"* <https://theasc.com/articles/jurassic-park-effects-team-brings-dinosaurs-back>. Wikipedia, *"Phil Tippett,"* <https://en.wikipedia.org/wiki/Phil_Tippett>. The dialogue paraphrase Spielberg incorporated into the film is Goldblum/Malcolm's response to Grant's "I think we're out of a job": "Don't you mean *extinct*?"
+
+**5a.** *Variety*, "George Lucas Says AI Makes Filmmaking 'Easier' and 'There's Nothing You Can Do About It'." <https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/>; *AOL*, "George Lucas likens AI sceptics to luddites clinging to horses and carts." <https://www.aol.co.uk/articles/george-lucas-likens-ai-sceptics-122913000.html>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
 
 **6.** Charles Baudelaire, *"Le Public Moderne et la Photographie,"* *Revue Française*, 1859 (part of the *Salon de 1859* essays). English translation widely available; the original French in PDF form: <https://gallowayexploringart.wordpress.com/wp-content/uploads/2014/08/baudelaire_the-modern-public-photography.pdf>. Smithsonian Archives institutional overview: *"Photography Murdered Painting, Right?"*, <https://siarchives.si.edu/blog/photography-murdered-painting-right>.
 
@@ -201,6 +205,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **9b.** *Social Media Today*, "TikTok bans AI-generated voices in shopping livestreams." <https://www.socialmediatoday.com/news/tiktok-bans-ai-generated-voices-in-shopping-livestreams/822977/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
+**9c.** *Search Engine Journal*, "TikTok Targets AI-Generated Spam Accounts In High-Risk Topics." <https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
+
+**9d.** *Digit*, "YouTube, X funnel millions of visits to AI deepfake 'nudify' apps, new study shows: Key findings." <https://www.digit.in/news/general/millions-of-users-reached-ai-nudify-sites-through-youtube-and-x-report.html>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
+
 **10.** Sundance Institute, "Centering the Artist: Why We're Launching the AI Literacy Initiative." <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
 **11.** *Stereogum*, "Bandcamp bans AI music." <https://stereogum.com/2485199/bandcamp-bans-ai-music/news>. [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
@@ -226,6 +234,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **21.** *AI News*, "AI causes reduction in users' brain activity, MIT." <https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
 **22.** ElevenLabs, "Detecting audio generated by ElevenLabs with SynthID" (partnership with Google DeepMind). <https://elevenlabs.io/blog/synthid>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**22a.** *Digital Music News*, "TikTok Quietly Starts Testing AI Deepfake Detection Tech." <https://www.digitalmusicnews.com/2026/07/20/tiktok-starts-testing-ai-deepfake-detection-tech/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
 
 **23.** *Business Today*, "'We can fix the internet ...' says World Wide Web inventor Tim Berners-Lee." <https://www.businesstoday.in/technology/news/story/we-can-fix-the-internet-says-world-wide-web-inventor-tim-berners-lee-538947-2026-06-24>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
@@ -358,6 +368,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **52.** *The Hollywood Reporter*, "Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop." <https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
+**53.** *Fast Company*, "Our interest in AI slop is hitting a ceiling." <https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**54.** *Digital Music News*, "Band Wakes Up to Find AI Has Stolen 94% of Their Spotify Royalties by Duplicating Their Album and Altering the Speed." <https://www.digitalmusicnews.com/2026/07/12/ai-steals-artist-royalties-speed-altering/>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
+
 
 ## Chapter 6 — The 88%
 
@@ -421,7 +435,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **28.** Moonvalley Marey, generative-video foundation model trained on licensed video. [TODO: confirm citation — Moonvalley launch coverage in *The Verge* / *TechCrunch*.]
 
-**29.** AIODE, ethically-trained music creation DAW. See [Chapter 16: The Tools](16_The_Tools.md), §"Audio modality models."
+**29.** AIODE, ethically-trained music creation DAW. See [Chapter 17: The Tools](17_The_Tools.md), §"Audio modality models."
 
 **30.** Stability AI / Universal Music Group strategic alliance: <https://stability.ai/news/universal-music-group-and-stability-ai-announce-strategic-alliance>. Stability AI / Warner Music: <https://stability.ai/news/warner-music-group-and-stability-ai-join-forces-to-build-next-gen-tools>. Universal Music / Splice partnership: <https://www.universalmusic.com/universal-music-group-and-splice-to-collaborate-on-the-next-generation-of-ai-powered-music-creation-tools-for-artists/>. *Dream Machine* Issues [5](../Dream%20Machine%20MD/5.md), [8](../Dream%20Machine%20MD/8.md), [12](../Dream%20Machine%20MD/12.md).
 
@@ -435,7 +449,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **35.** IBM watsonx uncapped indemnity for enterprise customers. [TODO: confirm citation.]
 
-**36.** Sundance AI Literacy Initiative, in [Chapter 12: Authenticity, the New Scarcity](12_Authenticity_New_Scarcity.md), §"The provenance infrastructure, named."
+**36.** Sundance AI Literacy Initiative, in [Chapter 13: Authenticity, the New Scarcity](13_Authenticity_New_Scarcity.md), §"The provenance infrastructure, named."
 
 **37.** *Musically*, "BPI sets out transparency and sovereignty demands to secure 'AI licensing boom'." <https://musically.com/2026/05/19/bpi-transparency-sovereignty-ai-licensing-boom/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
@@ -472,6 +486,14 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **51.** GOV.UK / DSIT, "A decisive shift to power British AI: new £1.1 billion plan to back chip firms, boost computing power and skills for the AI revolution." <https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
 
 **52.** *Fortune*, "Google forced to allow news sites to opt out of AI scraping in 'world first,' UK watchdog says." <https://fortune.com/2026/06/05/auto-draft-3/>. See also *National Law Review*, "UK Regulator Introduces 'World First' Controls on the Use of Content in Google Generative AI Features." <https://natlawreview.com/article/uk-regulator-introduces-world-first-controls-use-content-google-generative-ai>. *Dream Machine* Issues [33](../Dream%20Machine%20MD/33.md), [34](../Dream%20Machine%20MD/34.md).
+
+**6a.** *Variety*, "Suno has lost a landmark AI copyright lawsuit to German music rights society GEMA." <https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**6b.** *Creative Bloq*, "What does the biggest AI copyright payout in history actually change for creatives?" <https://www.creativebloq.com/ai/what-does-the-biggest-ai-copyright-payout-in-history-actually-change-for-creatives>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**6c.** *Digital Music News*, "Suno Quickly Seizes on Udio’s Legal Victory Against Sony Music Over Admissible Infringed Works." <https://www.digitalmusicnews.com/2026/07/05/suno-admissible-infringed-works-argument/>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**46a.** *Billboard*, "ABBA’s Björn Ulvaeus Says We Might Be Doing AI Licensing Deals Wrong." <https://www.billboard.com/pro/abba-bjorn-ulvaeus-music-ai-un-global-summit/>. See also *Musically*, "‘Tracing the output was always the wrong question’." <https://musically.com/2026/07/13/bjorn-ulvaeus-on-ai-tracing-the-output-was-always-the-wrong-question/>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
 
 
 ## Chapter 7 — The Studios Decide
@@ -546,7 +568,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **33.** *Niche Gamer*, "Larian Studios backs off from gen AI." [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
 
-**33a.** Larian Studios policy framing on the next *Divinity*, January 2026; same source as [^33].
+**33a.** Larian Studios policy framing on the next *Divinity*, January 2026; same source as note 33 above.
 
 **34.** *Decrypt*, "Warhammer 40,000 Maker Games Workshop Rules Out Generative AI." [*Dream Machine* Issue 14](../Dream%20Machine%20MD/14.md).
 
@@ -640,8 +662,127 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **70.** *The Verge*, "Can AI Tell if your script will make a hit film?" <https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md).
 
+**71.** *Variety*, "About 300 Netflix Titles Used Generative AI This Year, Company Reveals." <https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
 
-## Chapter 8 — Worlds, Not Pictures
+
+## Chapter 8 — The Machine Gets the Money
+
+**1.** Drake Star Global Gaming Report Q2 2026, via *MarketScale*, "Gaming Investment Hits 12-Month High of $2.5B+ in Q2 2026, Led by AI, AdTech, and Hardware Deals." <https://www.marketscale.com/industries/sports-entertainment/gaming-investment-hits-12-month-high-of-25b-in-q2-2026-led-by-ai-adtech-and-hardware-deals>. Note: Drake Star characterises GTA 6's November 2026 release as likely the largest game launch in history.
+
+**2.** PYMNTS, "AI Worries Erase $1 Trillion From Big Tech Firms." <https://www.pymnts.com/artificial-intelligence-2/2026/ai-worries-erase-1-trillion-from-big-tech-firms/>. [*Dream Machine* Issue 19](../Dream%20Machine%20MD/19.md).
+
+**2a.** PYMNTS, "AI Now Responsible for a Third of US Economic Growth." <https://www.pymnts.com/economy/2026/ai-now-responsible-for-a-third-of-us-economic-growth/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**3.** Grand View Research, "Generative AI Content Creation Market" ($14.8 billion market in 2024, projected to quintuple to $80 billion by 2030). <https://www.grandviewresearch.com/industry-analysis/generative-ai-content-creation-market-report>. [*Dream Machine* Issue 4](../Dream%20Machine%20MD/4.md).
+
+**4.** *Music Ally*, "GenAI music firm Suno raises $250m at $2.45bn valuation." <https://musically.com/2025/11/19/genai-music-firm-suno-raises-250m-at-2-45bn-valuation/>. [*Dream Machine* Issue 8](../Dream%20Machine%20MD/8.md). *Variety*, "AI Music Startup Suno Raises $400M Funding at $5.4 Billion Valuation." <https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md). *Digital Music News*, "Is Apple Plotting an AI-Powered Audio Expansion? Tech Giant Closes Reportedly $1.6 Billion Qai Buyout — Its 'Second-Largest Acquisition' to Date." <https://www.digitalmusicnews.com/2026/01/30/apple-qai-acquisition/>. [*Dream Machine* Issue 17](../Dream%20Machine%20MD/17.md).
+
+**5.** Peony, "10 Best Gaming Investors in 2026" (gaming venture funding fell from a $12.5 billion peak in 2021 to $2.54 billion in 2024). <https://www.peony.ink/blog/top-gaming-investors>.
+
+**6.** Wikipedia, "2022–2026 video game industry layoffs" (an estimated 45,000 jobs lost from 2022 to July 2025). <https://en.wikipedia.org/wiki/2022%E2%80%932026_video_game_industry_layoffs>. *Game Developer*, "Data points to slowing layoffs, but doesn't capture true harm to game industry" (Farhan Noor's tracker: 8,500 layoffs in 2022; 10,500 in 2023; 14,600 in 2024; ~4,000 by mid-2025). <https://www.gamedeveloper.com/business/industry-layoffs-are-seemingly-slowing-but-the-damage-has-already-been-done>.
+
+**7.** *PC Gamer*, "As the videogame industry continues to be hammered by layoffs, Netflix is offering up to $840,000 per year for a new Director of Generative AI for Games." <https://www.pcgamer.com/gaming-industry/as-the-videogame-industry-continues-to-be-hammered-by-layoffs-netflix-is-offering-up-to-usd840-000-per-year-for-a-new-director-of-generative-ai-for-games/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
+
+**8.** PitchBook, "Q2 2026 Gaming VC First Look." <https://pitchbook.com/news/reports/q2-2026-gaming-vc-first-look>.
+
+**9.** *Forbes*, "Five Venture Capital Trends: Where Gaming Capital Is Moving In 2026." <https://www.forbes.com/councils/forbesbusinesscouncil/2026/07/31/five-venture-capital-trends-where-gaming-capital-is-moving-in-2026/>. OECD figure: OECD, "AI firms capture 61 percent of global venture capital in 2025." <https://www.oecd.org/en/about/news/announcements/2026/02/ai-firms-capture-61-percent-of-global-venture-capital-in-2025.html>.
+
+**10.** *GamesBeat*, "Fifth Door raises $20M for AI-powered game creation." <https://gamesbeat.com/fifth-door-raises-20m-for-ai-powered-game-creation/>. [*Dream Machine* Issue 9](../Dream%20Machine%20MD/9.md). *PYMNTS*, "Razer Spends $600 Million to Sharpen Focus on AI Gaming." <https://www.pymnts.com/news/artificial-intelligence/2026/razer-spends-600-million-dollars-sharpen-focus-ai-gaming/>. [*Dream Machine* Issue 13](../Dream%20Machine%20MD/13.md). *CTech*, "Sett secures $30 million Series B to automate game marketing with AI agents." <https://www.calcalistech.com/ctechnews/article/rjxbyqisze>. [*Dream Machine* Issue 23](../Dream%20Machine%20MD/23.md). Astrocade, "Astrocade raises $56M to help build the next era of interactive entertainment." <https://www.astrocade.com/blog/astrocade-raises-56m-funding>. [*Dream Machine* Issue 28](../Dream%20Machine%20MD/28.md). *The AI Insider*, "AI Game Creation Platform Aippy Announces Tens of Millions at $250M Valuation." <https://theaiinsider.tech/2026/06/03/ai-game-creation-platform-aippy-announces-tens-of-millions-at-250m-valuation/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md). *GamesBeat*, "Welevel unveils AI-based city-building survival game SolidRiver and $8.5M in funding." <https://gamesbeat.com/welevel-unveils-ai-based-city-building-survival-game-solidriver-and-8-5m-in-funding/>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
+
+**11.** *TechCrunch*, "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips." <https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/>. [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md). *GamesBeat*, "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay." <https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/>. *TechCrunch*, "General Intuition's $2.3B bet that video games can train AI agents for the real world." <https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md). *GamesBeat*, "Origin Lab raises $8 million to glean AI training data from game worlds." <https://gamesbeat.com/origin-lab-raises-8-million-turns-game-worlds-data-ai/>. [*Dream Machine* Issue 29](../Dream%20Machine%20MD/29.md).
+
+**11a.** *Tech.eu*, "Cambridge's Worldmodeldata raises £7M to turn video games into AI training data." <https://tech.eu/2026/07/06/worldmodeldata-lands-ps7m-to-turn-gaming-data-into-ai-training/>. *TechCrunch*, "Meta quietly launches vibe-coded gaming app Pocket." <https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/>. Both in [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**12.** On the Take-Two CEO and franchise origination, see Chapter 12, *The Orchestrator*: *NDTV Profit*, "Don't Expect AI To Invent the Next 'Grand Theft Auto', Says Take-Two CEO Strauss Zelnick." <https://www.ndtvprofit.com/technology/dont-expect-ai-to-invent-the-next-grand-theft-auto-says-take-two-ceo-strauss-zelnick>. [*Dream Machine* Issue 6](../Dream%20Machine%20MD/6.md). On the internal AI team layoff: *Metro*, "GTA 6 publisher lays off its entire AI team after seven years." <https://metro.co.uk/2026/04/06/gta-6-publisher-lays-off-entire-ai-team-seven-years-27874034/>. [*Dream Machine* Issue 24](../Dream%20Machine%20MD/24.md). See also Chapter 14, *Coordination Collapse*.
+
+**13.** *CNBC*, "Saudi PIF and Kushner's Affinity finalize $55 billion EA Sports deal." <https://www.cnbc.com/2026/08/05/saudi-wealth-fund-jared-kushner-ea-sports-deal.html>. Structure and completion (4 August 2026): *Wikipedia*, "Leveraged buyout of Electronic Arts." <https://en.wikipedia.org/wiki/Leveraged_buyout_of_Electronic_Arts>.
+
+**14.** Consortium AI framing: eciks, "Electronic Arts completes $55B takeover, becomes private company." <https://eciks.org/19135-ea-55-billion-takeover-private>. Player base of 700 million: AP via *ABC News*, "Video game giant Electronic Arts closes $55 billion go-private sale of its business." <https://abcnews.com/Technology/wireStory/video-game-giant-electronic-arts-closes-55-billion-135394606>. $22bn AI-driven profit-headroom analysis: *Reuters*, "Gaming industry could unlock $22 billion in profits on AI-driven cost cuts, says Morgan Stanley." <https://www.reuters.com/business/gaming-industry-could-unlock-22-billion-profits-ai-driven-cost-cuts-morgan-2026-04-22/>. [*Dream Machine* Issue 26](../Dream%20Machine%20MD/26.md).
+
+**15.** Akker, "AI Film Insurance 2026: The Coverage Gap Hollywood Is Not Talking About." <https://www.akkerins.com/new-blog/ai-film-production-insurance-gap-2026>.
+
+**16.** Roger Avary, *The Joe Rogan Experience*, Episode 2452 (February 2026), quoted in Akker, "AI Film Insurance 2026: The Coverage Gap Hollywood Is Not Talking About," as note 15.
+
+**17.** Wonder £9m seed: UKTN, "AI film studio Wonder lands £9m investment." <https://www.uktech.news/ai/ai-film-studio-wonder-lands-9m-investment-20251023>. [*Dream Machine* Issue 5](../Dream%20Machine%20MD/5.md). Wonder Studios at $50m: *Deadline*, "Meet Wonder Studios, The $50M British Studio Striving To Become The A24 Of AI Production." <https://deadline.com/2026/05/wonder-studios-a24-ai-production-1236900795/>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md). Filmology Labs $250m: *Variety*, "Filmology Labs, a $250 Million Studio Built for Content Creation Like Vertical Micro-Dramas and AI-Driven Media Formats, Set to Open in New Jersey." <https://variety.com/2026/digital/news/filmology-labs-content-creation-ai-studio-1236657646/>. [*Dream Machine* Issue 18](../Dream%20Machine%20MD/18.md). Video Rebirth $50m: *Crowdfund Insider*, "Singapore's Video Rebirth Raises $50m to Chase Studio-Grade AI Video." <https://www.crowdfundinsider.com/2025/11/255411-singapores-video-rebirth-raises-50m-to-chase-studio-grade-ai-video/>. [*Dream Machine* Issue 7](../Dream%20Machine%20MD/7.md). Flick $6m YC seed: *Business Insider*, "This couple (literally) married AI and filmmaking. Read the pitch deck they used to raise $6 million for their startup." <https://www.businessinsider.com/ai-filmmaking-startup-flick-lands-yc-seed-funding-pitch-deck-2026-5>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
+
+**18.** Ciaro, "Why Investors Fund Some Film Pitches and Ignore Others." <https://ciaro.pro/blog/why-investors-fund-some-film-pitches-and-ignore-others>.
+
+**19.** *DigiTimes*, "Seedance 2.0 cuts video generation cost below US$0.14/sec." <https://www.digitimes.com/news/a20260306PD225/cost-technology-production-development.html>. [*Dream Machine* Issue 20](../Dream%20Machine%20MD/20.md).
+
+**20.** *The Independent*, "Lights, camera, algorithm: First fully AI-generated film set to premiere at Tribeca Festival." <https://www.independent.co.uk/arts-entertainment/films/news/ai-generated-film-tribeca-dreams-of-violet-b2984749.html>. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md). *Digital Camera World*, "'The CGI would have cost millions. I spent $2,000.' Is Dreams of Violets AI slop – or the future of film-making?" <https://www.digitalcameraworld.com/tech/artificial-intelligence/a-major-film-festival-will-soon-debut-the-first-fully-ai-generated-feature-inspired-by-real-events-this-could-be-a-major-shift-for-filmmaking>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
+
+**21.** *Wall Street Journal*, "This Film Cost $500,000 to Make. $400,000 Was AI Compute Costs." <https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d?st=2a1WRJ&reflink=desktopwebshare_permalink>. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md).
+
+**22.** *Decrypt*, "'Killing Satoshi': $70M Bitcoin Film Starring Casey Affleck Will Make Heavy Use of AI." <https://decrypt.co/364505/killing-satoshi-70m-bitcoin-film-starring-casey-affleck-will-make-heavy-use-of-ai>. [*Dream Machine* Issue 26](../Dream%20Machine%20MD/26.md).
+
+**23.** *TechCrunch*, "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster." <https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/>. [*Dream Machine* Issue 26](../Dream%20Machine%20MD/26.md).
+
+**24.** *Fortune*, "What Netflix's acquisition of Ben Affleck's AI filmmaking company really shows." <https://fortune.com/2026/03/06/what-netflixs-acquisition-of-ben-afflecks-ai-filmmaking-company-really-shows/>. [*Dream Machine* Issue 20](../Dream%20Machine%20MD/20.md). On the price and the Roald Dahl comparison: *TechCrunch*, "Netflix may have paid $600 million for Ben Affleck's AI startup." <https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/>. [*Dream Machine* Issue 21](../Dream%20Machine%20MD/21.md). $587m confirmed in *Variety*, "Netflix Paid $587 Million for Ben Affleck's AI Startup InterPositive." <https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**25.** *SiliconANGLE*, "Higgsfield raises $80M on $1.3B valuation to scale AI video platform." <https://siliconangle.com/2026/01/15/higgsfield-raises-80m-1-3b-valuation-scale-ai-video-platform/>. [*Dream Machine* Issue 15](../Dream%20Machine%20MD/15.md). *36Kr*, "AI Video Unicorn Higgsfield: Earns $200M in 9 Months by 'Serving' Social Media Marketers." <https://eu.36kr.com/en/p/3650517574312323>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md). *Tech Times*, "AI Video Startup Higgsfield Hits $500M Revenue, Eyes $5B Funding Round." <https://www.techtimes.com/articles/319394/20260630/ai-video-startup-higgsfield-hits-500m-revenue-eyes-5b-funding-round.htm>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
+
+**25a.** *Tech Times*, "Kling AI Raises Record $2.8 Billion: What Creators Owe China Under Beijing Law." <https://www.techtimes.com/articles/319708/20260704/kling-ai-raises-record-28-billion-what-creators-owe-china-under-beijing-law.htm>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**26.** Runway and Luma raises: *The Hollywood Reporter*, "Hollywood's AI Breaking Point May Be Nearing." <https://www.hollywoodreporter.com/business/business-news/hollywood-ai-breaking-point-1236512451/>. Runway Japan $40m: Runway, "Runway is expanding into Japan: opening a Tokyo office and investing an initial $40M in the country." <https://runwayml.com/news/runway-is-coming-to-japan>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md). Studio and tool-maker film funds: *Forbes*, "Hollywood Studios Are Spending On AI To Control The Future Of Film." <https://www.forbes.com/sites/maureenkerr/2026/06/01/hollywood-studios-are-spending-on-ai-to-control-the-future-of-film/>. A24–DeepMind reaction: *Fortune*, "How Hollywood's youngest filmmakers are exposing Gen Z's real problem with AI." <https://fortune.com/2026/07/05/why-doesnt-gen-z-trust-ai-box-office-youtube-directors-backrooms-obsession/>.
+
+**27.** Google Veo enterprise positioning, SynthID provenance and Vertex distribution, and the 2026 model-market commoditisation: *Tech-Insider*, "Best AI Video Generator 2026: Veo vs Sora vs Kling." <https://tech-insider.org/best-ai-video-generator-2026/>. Kling (Kuaishou) per-second pricing, roughly $0.10/second per Get AI Perks, "Best AI Video Generators 2026: Sora 2 vs Veo 3.1 vs Kling 3.0 vs Runway." <https://www.getaiperks.com/en/blogs/44-best-ai-video-generators-2026>; the $0.07/second floor is Digital Applied's estimate, as note 28. Seedance cost curve: as note 19.
+
+**28.** *Digital Applied*, "AI Video Market After Sora: Runway, Kling, and Veo." <https://www.digitalapplied.com/blog/ai-video-market-after-sora-runway-kling-veo-2026>. OpenAI announced the shutdown on 24 March 2026; the app closed 26 April 2026. See also [Chapter 7](07_The_Studios_Decide.md) on the Disney exit. Higgsfield trajectory: as note 25.
+
+**28a.** *PocketGamer.biz*, "Reforged Labs shuts down as CEO says AI is closing its market opportunity." <https://www.pocketgamer.biz/reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**28b.** *TechCrunch*, "Design Arena creators raise $7.9 million to bring 'taste' to AI models." <https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**29.** Dubai $1m award: *BroadcastPro ME*, "Dubai launches $1m AI short film award in partnership with Google Gemini." <https://www.broadcastprome.com/news/dubai-launches-1m-ai-short-film-award-in-partnership-with-google-gemini/>. [*Dream Machine* Issue 2](../Dream%20Machine%20MD/2.md). XPRIZE Future Vision $3.5m: *Fortune*, "Billionaire Peter Diamandis offers $3.5 million to filmmakers who portray AI as the hero—not the villain." <https://fortune.com/2026/03/09/xprize-foundation-future-vision-xprize-peter-diamandis-films-scifi-ai-fears/>; Google, "$3.5 million Future Vision film competition." <https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/>. *Dream Machine* Issues [20](../Dream%20Machine%20MD/20.md) and [28](../Dream%20Machine%20MD/28.md). Astana $1m prize fund: *The Astana Times*, "Astana AI Film Festival Opens Submissions, Offers $1 Million Prize Fund." <https://astanatimes.com/2026/05/astana-ai-film-festival-opens-submissions-offers-1-million-prize-fund/>. [*Dream Machine* Issue 31](../Dream%20Machine%20MD/31.md). Luma Dream Brief $1m: *Campaign Brief*, "Luma AI launches 'The Luma Dream Brief', a $1m global competition for Cannes Lions Gold Winner." <https://campaignbrief.com/luma-ai-launches-the-luma-dream-brief-a-1m-global-competition-for-cannes-lions-gold-winner/>. [*Dream Machine* Issue 17](../Dream%20Machine%20MD/17.md). Adobe $10m grants: *Analytics India Magazine*, "Adobe Unveils AI Video Innovations + $10 Million Grants Ahead of Sundance Film Festival." <https://analyticsindiamag.com/ai-news-updates/adobe-unveils-ai-video-innovations-10-million-grants-ahead-of-sundance-film-festival/>. [*Dream Machine* Issue 15](../Dream%20Machine%20MD/15.md). Google–Sundance $2m: Google, "Sundance Institute & Google Partner to train filmmakers with AI." <https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/>. *Dream Machine* Issues [15](../Dream%20Machine%20MD/15.md) and [16](../Dream%20Machine%20MD/16.md). Runway Hundred Film Fund: *Forbes*, as note 26.
+
+**29a.** Higgsfield, "Higgsfield AI Global Film Festival" — $1m prize pool, 14 winners, $500,000 for first place. <https://higgsfield.ai/global-film-festival>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md). The open-sourced feature *Hell Grind*: <https://x.com/higgsfield/status/2084702370764820572>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**29b.** *Variety*, "Raindance Film Festival, AI Platform IMGN Launch New Film Fund and Development Hub for Indie Filmmakers." <https://variety.com/2026/film/global/raindance-israel-ai-platform-imgn-development-fund-1236809594/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**30.** *The Hollywood Reporter*, "ReelShort and More: The Microdrama TV Series Gold Rush Is Here." <https://www.hollywoodreporter.com/business/business-news/microdrama-series-verticals-production-1236418912/>.
+
+**31.** See [Chapter 7](07_The_Studios_Decide.md), §"Position One: All-in," and its sources: Amazon AI Studios and *House of David*; Netflix INKubator; Disney's Office of Technology Enablement. Netflix advertising: *Adweek*, "AI Agents Are Coming to Netflix to Grow Its $3 Billion Ad Business." <https://www.adweek.com/media/ai-agents-are-coming-to-netflix-to-grow-its-3-billion-ad-business/>. [*Dream Machine* Issue 29](../Dream%20Machine%20MD/29.md).
+
+**32.** *Variety*, "'Squid Game' Creator Makes Major Investment in AI Company TwelveLabs." <https://variety.com/2025/tv/news/squid-game-creator-investment-ai-company-twelvelabs-1236536825/>. [*Dream Machine* Issue 2](../Dream%20Machine%20MD/2.md).
+
+**33.** See [Chapter 7](07_The_Studios_Decide.md), §"Position One: All-in," and [Chapter 5](05_The_Slop_Ceiling.md), §"The pushback," on the Amazon AI Creators Fund and the Punky Duck collapse.
+
+**34.** Deloitte Insights (TMT Predictions 2026), "Tiny episodes, massive appeal: Short-form serials are gaining viewers and empowering independent studios." <https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/short-form-video-series.html>. Platform economics: Vitrina, "Micro Drama Distribution Platforms 2026." <https://vitrina.ai/blog/micro-drama-distribution-platforms-2026/>. DramaBox raise: Real Reel, "Vertical Drama Weekly: Capital Tightens, Platforms Integrate." <https://www.real-reel.com/vertical-drama-weekly-capital-platforms-2026/>. TikTok's standalone microdrama app: *TechCrunch*, "TikTok quietly launches a micro-drama app called PineDrama." <https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/>.
+
+**35.** *The Hollywood Reporter*, "ReelShort and More: The Microdrama TV Series Gold Rush Is Here" (budgets; Fox–Holywater). <https://www.hollywoodreporter.com/business/business-news/microdrama-series-verticals-production-1236418912/>. Holywater first flagged in [*Dream Machine* Issue 3](../Dream%20Machine%20MD/3.md). "First new professional format since reality TV": C21Media, "Microdrama under the microscope." <https://www.c21media.net/department/c21investigates/microdrama-under-the-microscope/>. Distributor abstention: *Deadline*, "Why TV's Traditional Sellers Aren't Mad About Microdramas." <https://deadline.com/2026/02/microdrama-vertical-video-tv-distributors-1236714399/>. Netflix vertical feed and AI recommendations: *TechCrunch*, "Netflix plans to add a vertical video feed, use AI for recommendations." <https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/>. [*Dream Machine* Issue 26](../Dream%20Machine%20MD/26.md).
+
+**36.** Real Reel, "Vertical Drama Weekly: Capital Tightens, Platforms Integrate." <https://www.real-reel.com/vertical-drama-weekly-capital-platforms-2026/>.
+
+**36a.** *Nikkei Asia*, "In China's 'microdrama' boom, AI moviemakers chase 2 minutes of fame." <https://asia.nikkei.com/spotlight/big-in-asia/in-china-s-microdrama-boom-ai-moviemakers-chase-2-minutes-of-fame>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**37.** On the Meta Reality Labs cuts, see [Chapter 14](14_Coordination_Collapse.md). On Vision Pro Personas and Gaussian splatting, see [Chapter 9](09_Worlds_Not_Pictures.md) and its sources.
+
+**38.** Wikipedia, "Sphere (venue)." <https://en.wikipedia.org/wiki/Sphere_(venue)>. *Yahoo Finance*, "Immersive Experience Bolsters Sphere Entertainment's (SPHR) Strong Performance" (O'Keeffe Stevens Advisory Q2 2026 investor letter). <https://finance.yahoo.com/markets/stocks/articles/immersive-experience-bolsters-sphere-entertainment-145116003.html>. Sphere Entertainment IR, "Yas Island to Be Home of Sphere Abu Dhabi, a New Global Icon for Immersive Entertainment." <https://investor.sphereentertainmentco.com/press-releases/news-details/2026/YAS-ISLAND-TO-BE-HOME-OF-SPHERE-ABU-DHABI-A-NEW-GLOBAL-ICON-FOR-IMMERSIVE-ENTERTAINMENT/default.aspx>. Sphere Entertainment IR, "Sphere Entertainment, the State of Maryland, Prince George's County and Peterson Companies Announce Intent to Develop a Sphere at National Harbor." <https://investor.sphereentertainmentco.com/press-releases/news-details/2026/Sphere-Entertainment-the-State-of-Maryland-Prince-Georges-County-and-Peterson-Companies-Announce-Intent-to-Develop-a-Sphere-at-National-Harbor/default.aspx>.
+
+**39.** *Time*, "Netflix House: World's Greatest Places 2026." <https://time.com/collection/worlds-greatest-places/2026/netflix-house/>. *Event Marketer*, "Inside the Meteoric Rise of Immersive Entertainment Experiences." <https://www.eventmarketer.com/article/fall-cover-story-immersive-entertainment-experiences/>.
+
+**40.** *The Immersive Lab*, "Immersive Experiences 2025: The Year in Review." <https://theimmersivelab.com/2026/01/immersive-experiences-2025-year-in-review/>.
+
+**41.** See [Chapter 9](09_Worlds_Not_Pictures.md) on Marble and the collapse in environment costs. Sony Pictures' use of Marble in virtual production, 40× faster than the traditional workflow: <https://www.linkedin.com/posts/brent-liang_tech-media-launch-ugcPost-7394911181091692546-TyUz>. [*Dream Machine* Issue 8](../Dream%20Machine%20MD/8.md). Netflix and Eyeline's Vista4D: <https://github.com/Eyeline-Labs/Vista4D>. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md).
+
+**42.** World Labs, "World Labs Announces New Funding." <https://www.worldlabs.ai/blog/funding-2026>. [*Dream Machine* Issue 19](../Dream%20Machine%20MD/19.md). *Tech Times*, "Feifei Li's World Labs Splits World Model Into Three Types: Marble Targets Simulation Linchpin." <https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm>. Odyssey, "Odyssey has raised a $310M Series B to accelerate world models." <https://odyssey.ml/our-series-b>. *Fundraise Insider*, "Odyssey Raises $310M Series B at $1.45B for World Models." <https://fundraiseinsider.com/blog/odyssey-raises-310m-series-b-at-1-45b-for-world-models/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md). *Yahoo Finance*, "Tripo AI raises nearly $200M in financing for AI 3D and world model tech." <https://finance.yahoo.com/sectors/technology/articles/tripo-ai-raises-nearly-200-164700546.html>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md). *Memeburn*, "Odyssey AI Raises $310M to Build World Models, Valued at $1.45 Billion." <https://memeburn.com/odyssey-ai-raises-310m-to-build-world-models-valued-at-1-45-billion/>.
+
+**43.** ComfyUI, "We raised $17 million to build an OS for Creative AI" (LinkedIn). <https://www.linkedin.com/posts/comfyui_we-raised-17-million-to-build-an-os-for-ugcPost-7373743341236236288-wkCc>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md). *TechCrunch*, "ComfyUI hits $500M valuation as creators seek more control over AI-generated media." <https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/>. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md). Four million users, $30m round and $48m raised in total: [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md), Editor's Pick.
+
+**44.** *TechTimes*, "Physics AI Slashes Engineering Simulation From Days to Seconds, PhysicsX Raises $300M." <https://www.techtimes.com/articles/318582/20260617/physics-ai-slashes-engineering-simulation-days-seconds-physicsx-raises-300m.htm>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
+
+**44a.** *Variety*, "Brad Pitt Says AI Could Help More 'Mid-Budget Films' Get Made if It's 'Used as a Tool'." <https://variety.com/2026/film/news/brad-pitt-ai-could-help-mid-budget-movies-get-made-1236831201/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+**45.** *C21Media*, "UK government unveils $500m creative industries plan as AI proposals remain uncertain." <https://www.c21media.net/news/uk-government-unveils-500m-creative-industries-plan-as-ai-proposals-remain-uncertain/>. Creative PEC, "Taking stock of the Creative Industries Sector Plan." <https://pec.ac.uk/blog_entries/taking-stock-of-the-creative-industries-sector-plan/>. Creative UK, "The Creative Industries Sector Plan: One Year On." <https://www.wearecreative.uk/the-creative-industries-sector-plan-one-year-on/>.
+
+**46.** GOV.UK (DSIT), "A decisive shift to power British AI: new £1.1 billion plan to back chip firms, boost computing power and skills for the AI revolution." <https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution>. [*Dream Machine* Issue 33](../Dream%20Machine%20MD/33.md). Arts Council England, "AI technologies and emerging forms of creative practice" (£4m of projects funded since 2019). <https://www.artscouncil.org.uk/ai-technologies-and-emerging-forms-creative-practice>. [*Dream Machine* Issue 17](../Dream%20Machine%20MD/17.md). Innovate UK, feasibility studies for frontier AI and ML — up to £3m competition for UK-registered SMEs. <https://apply-for-innovation-funding.service.gov.uk/competition/2419/overview/bb8d7d28-0e63-4ee1-bf4a-790dfb3ae02f>. [*Dream Machine* Issue 23](../Dream%20Machine%20MD/23.md).
+
+**47.** RWK Goodman, "UK Industrial Sector Strategy Plans — Creative Industries." <https://www.rwkgoodman.com/info-hub/uk-industrial-sector-strategy-plans-creative-industries/>.
+
+**48.** See Chapter 6, "The 88%," on the consultation response breakdown and the December 2025 Statement of Progress.
+
+
+## Chapter 9 — Worlds, Not Pictures
 
 **1.** World Labs, "Bringing Marble to Life." <https://www.worldlabs.ai/case-studies/bringing-marble-to-life>. [*Dream Machine* Issue 7](../Dream%20Machine%20MD/7.md), "Editor's Pick: Marble by WorldLabs goes on public release," 13 November 2025.
 
@@ -717,8 +858,28 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **37.** Sphere Entertainment, "Sphere Studios announces *The Rocky Horror Picture Show* at Sphere." <https://www.sphereentertainmentco.com/sphere-studios-announces-the-rocky-horror-picture-show-at-sphere/>. [*Dream Machine* Issue 35](../Dream%20Machine%20MD/35.md).
 
+**38.** Adobe Research, "Wonder" — real-time interactive 3D world navigation. <https://wonder-world-model.github.io/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
 
-## Chapter 9 — AI in Everything, Everywhere, All at Once
+**39.** Tencent, "WorldClaw" — agentic 3D open-world generation at scale. <https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+**40.** Reactor, "LingBot-World 2.0" — real-time world generation model. <https://www.reactor.inc/models/lingbot-world-2>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md) and [Issue 38](../Dream%20Machine%20MD/38.md).
+
+**41.** AlayaLab, "AlayaWorld: Long-Horizon and Playable Video World Generation." <https://github.com/AlayaLab/AlayaWorld>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**42.** Wayve, "GAIA-4" — the latest of Wayve's line of world models. <https://wayve.ai/thinking/gaia-4/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**43.** Lightricks, "LTX-2.5" — an open-world, open-source model. <https://huggingface.co/Lightricks/LTX-2.5>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+**44.** Gracia AI, 4D Gaussian splatting in Unreal Engine with real-time relighting and self-shadowing. <https://gracia.ai/>. Atlux, Unreal Engine to 4D Gaussian Splat. <https://atlux.one/4dgs>. *Radiance Fields*, "Notch 2026.2 Adds Native Gaussian Splat Import and Rendering." <https://radiancefields.com/notch-2026.2-adds-native-gaussian-splat-import-and-rendering>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**45.** InfiniSplat (SIGGRAPH Asia 2026) — turn a single image into a navigable 3DGS. <https://zju3dv.github.io/InfiniSplat/>. Paper: <https://arxiv.org/abs/2608.02437>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**46.** Insta360, "Insta360 X6" — introduces Spatial Capture: record a place in 360, bring it into the app, and it becomes a 3D model. <https://www.insta360.com/product/insta360-x6>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+**47.** Niantic Spatial and HMCI, "Building the Foundation for City of Rancho Cordova's First Digital Twin for Physical AI." <https://www.youtube.com/watch?v=TbPaQw-xLVc>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+
+## Chapter 10 — AI in Everything, Everywhere, All at Once
 
 **1.** *Creative Boom*, "Adobe is putting AI in everything everywhere all at once." <https://www.creativeboom.com/news/adobe-is-putting-ai-in-everything-everywhere-all-at-once/>. [*Dream Machine* Issue 5](../Dream%20Machine%20MD/5.md), "Editor's Pick," 31 October 2025.
 
@@ -840,13 +1001,29 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **59.** Anthropic, "Fable and Mythos access" — suspension of frontier AI tools following US export-control directive, June 2026. <https://www.anthropic.com/news/fable-mythos-access>. [*Dream Machine* Issue 34](../Dream%20Machine%20MD/34.md).
 
+**51a.** *Blog Mickey*, "How Disney Imagineering Is Using AI: Digital Twins, J.A.R.V.I.S., and Faster Ride Design." <https://blogmickey.com/2026/08/damaro-details-ai-use-imagineering-disney-company/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
 
-## Chapter 10 — What is newly possible
+**60.** *The Verge*, "Spotify is now an AI chatbot, too." <https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
+
+**61.** *Search Engine Land*, "OpenAI appears to be building chatbot-native ads that launch AI agents." <https://searchengineland.com/openai-appears-to-be-building-chatbot-native-ads-that-launch-ai-agents-484107>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+
+## Chapter 11 — What is newly possible
 
 **1.** Snap Newsroom, "Snapchat Gen Z AI Creativity Research 2026." <https://newsroom.snap.com/snapchat-gen-z-ai-creativity-research-2026>. [*Dream Machine* Issue 30](../Dream%20Machine%20MD/30.md).
 
+**2.** *Forbes*, "Homer Epic ‘The Odyssey’ Gets A Full-Length AI-Generated Film." <https://www.forbes.com/sites/lesliekatz/2026/07/14/homer-epic-the-odyssey-gets-a-full-length-ai-generated-film/>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
 
-## Chapter 11 — The Orchestrator
+**3.** *Musically*, "AI-powered platform Eros Music Worlds is turning film characters into virtual singers." <https://musically.com/2026/07/02/ai-powered-platform-eros-music-worlds-is-turning-film-characters-into-virtual-singers/>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**4.** National Portrait Gallery, "Interactive portrait of the nation by artist Es Devlin to launch at the National Portrait Gallery." <https://www.npg.org.uk/about/press/interactive-portrait-of-the-nation-by-artist-es-devlin-to-launch-at-the-national-portrait-gallery>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**5.** HeyGen, "AI Video Podcast." <https://www.heygen.com/apps/ai-video-podcast>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**6.** *WERSM*, "Wrinkles, a new app that Turns Local History Into An AI Audio Guide." <https://wersm.com/wrinkles-ai-audio-guide-local-history/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+
+## Chapter 12 — The Orchestrator
 
 **1.** [*Dream Machine* Issue 13](../Dream%20Machine%20MD/13.md), "Editor's Pick: The Year of the Orchestrator," 9 January 2026.
 
@@ -854,7 +1031,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **3.** Anthropic blog content on agent deployment patterns, Q1 2026.
 
-**3a.** *Bloomberg*, "AI Changed Chess. Grandmasters Now Win With Unpredictable Moves," 27 March 2026. <https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves>. [*Dream Machine* Issue 23](../Dream%20Machine%20MD/23.md). The chess analogy is developed in [Chapter 15's *Age of the Why* section](15_Choosing_the_Future.md).
+**3a.** *Bloomberg*, "AI Changed Chess. Grandmasters Now Win With Unpredictable Moves," 27 March 2026. <https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves>. [*Dream Machine* Issue 23](../Dream%20Machine%20MD/23.md). The chess analogy is developed in [Chapter 16's *Age of the Why* section](16_Choosing_the_Future.md).
 
 **4.** Sundance Institute, "Centering the Artist: Why We're Launching the AI Literacy Initiative." <https://www.sundance.org/blogs/centering-the-artist-why-were-launching-the-ai-literacy-initiative/>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
@@ -914,8 +1091,22 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **31.** *Variety*, "'Backrooms' Director Kane Parsons Says Using AI 'Defeats the Purpose' of Filmmaking: 'I Get No Enjoyment From Using Those Tools'." <https://variety.com/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
 
+**32.** *MusicRadar*, "You can now control FL Studio with an agentic AI chatbot from inside the DAW." <https://www.musicradar.com/music-tech/you-can-now-control-fl-studio-with-an-ai-chatbot-from-inside-the-daw>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
 
-## Chapter 12 — Authenticity as the New Scarcity
+**33.** *Music Ally*, "AI's new USB port: what the MCP standard means for the music industry." <https://musically.com/2026/07/20/ais-new-usb-port-what-the-mcp-standard-means-for-the-music-industry/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**34.** *Digital Music News*, "How AI Agents Are Quietly Automating Music Companies: From A&R to Release Ops." <https://www.digitalmusicnews.com/2026/07/29/ai-agents-music-industry-pibox/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**35.** *TVBEurope*, "'World first' agentic AI TV platform debuts." <https://www.tvbeurope.com/media-consumption/world-first-agentic-ai-tv-platform-debuts>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**36.** Filmera, agentic AI filmmaking platform and workspace. <https://www.filmera.ai/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+**37.** "How Spotify runs agents across 20M+ lines of code, with Niklas Gustavsson." <https://www.youtube.com/watch?v=9DHZLw5653E>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**38.** *Engadget*, "OpenAI launches a physical keypad for controlling agents." <https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/>. [*Dream Machine* Issue 38](../Dream%20Machine%20MD/38.md).
+
+
+## Chapter 13 — Authenticity as the New Scarcity
 
 **33a.** *Variety*, "AI Music Suno Funding Round $400 Million $5.4 Billion Valuation." <https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/>. *TechCrunch*, "Still Facing Copyright Lawsuits, AI Music Generator Suno Raises Another $400M." <https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/>. [*Dream Machine* Issue 32](../Dream%20Machine%20MD/32.md).
 
@@ -1031,8 +1222,14 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **32k.** *MusicTech*, "Traxsource to introduce labels to identify both human-made and AI-assisted music." <https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
+**32l.** *AOL*, "AI labels to be compulsory on authentic-looking content under EU rules." <https://www.aol.co.uk/articles/ai-labels-compulsory-authentic-looking-094628000.html>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
 
-## Chapter 13 — Coordination Collapse
+**32m.** *Musically*, "Key EU AI Act rules now being enforced – so how does that affect the music industry?" <https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md).
+
+**32n.** Spotify Newsroom, "Spotify Introduces a New ‘AI Persona’ Label for AI-Generated Artist Identities." <https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
+
+
+## Chapter 14 — Coordination Collapse
 
 **1.** [*Dream Machine* Issue 5](../Dream%20Machine%20MD/5.md), "Industry Insights: Stealth, Shadow and Secret AI Users."
 
@@ -1136,8 +1333,16 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **50.** *Fortune*, "Top CFOs warn AI success depends on training employees, not just buying technology." <https://fortune.com/2026/06/25/cfo-hpe-prologis-smucker-moodys-ai-success-training-employees/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
+**51.** *GameDev.net*, "Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity." <https://gamedev.net/news/5025-gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
 
-## Chapter 14 — The New Jobs
+**52.** *CNBC*, "Microsoft cuts 2.1% of employees as Xbox unit plans to spin off studios." <https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**53.** KPMG, "Analysis of 1.4 million AI interactions identifies the employee behaviors behind effective AI use." <https://kpmg.com/us/en/articles/2026/sophisticated-ai.html>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+**54.** *Fortune*, "Sir Martin Sorrell has identified the key AI skill for the future: ‘People who share will be the new kings and queens’." <https://fortune.com/2026/08/04/sir-martin-sorrell-has-identified-the-key-ai-skill-for-the-future-people-who-share-will-be-the-new-kings-and-queens/>. [*Dream Machine* Issue 40](../Dream%20Machine%20MD/40.md). See also *The Drum*, "Martin Sorrell: Cannes is obsessing over the wrong AI debate." <https://www.thedrum.com/news/martin-sorrell-cannes-is-obsessing-over-the-wrong-ai-debate>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+
+## Chapter 15 — The New Jobs
 
 **1.** *The Economist*, "Investors expect AI use to soar. That's not happening." <https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening>. [*Dream Machine* Issue 9](../Dream%20Machine%20MD/9.md).
 
@@ -1185,7 +1390,7 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **23.** Korin AI launch, May 2026. [*Dream Machine* Issue 27](../Dream%20Machine%20MD/27.md).
 
-**24.** *The Verge*, "New York's new law forces advertisers to say when they're using AI avatars." <https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor>. [*Dream Machine* Issue 11](../Dream%20Machine%20MD/11.md). C2PA / SynthID infrastructure references in Chapter 12.
+**24.** *The Verge*, "New York's new law forces advertisers to say when they're using AI avatars." <https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor>. [*Dream Machine* Issue 11](../Dream%20Machine%20MD/11.md). C2PA / SynthID infrastructure references in Chapter 13.
 
 **25.** *Forbes*, "AI Is Changing How Creators Work And Earn." <https://www.forbes.com/sites/kolawolesamueladebayo/2025/12/22/how-ai-is-changing-how-creators-work-and-earn/>. [*Dream Machine* Issue 13](../Dream%20Machine%20MD/13.md).
 
@@ -1210,6 +1415,8 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 **35.** McKinsey & Company, "What AI could mean for film and TV production and the industry's future." <https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future>. [*Dream Machine* Issue 16](../Dream%20Machine%20MD/16.md).
 
 **36.** GDC State of the Game Industry surveys 2024–2026, in [Appendix E](A5_Deep_Dive_Adoption_Dynamics.md), §"The Video Game Industry."
+
+**36a.** GDC, "GDC 2026 State of the Game Industry Reveals Impact of Layoffs, Generative AI and More" — 52% of developers say generative AI is having a negative impact on the industry, up from 30% the year before and 18% the year before that. <https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/>. [*Dream Machine* Issue 41](../Dream%20Machine%20MD/41.md).
 
 **37.** LANDR AI music study, late 2025, referenced via *Ari's Take*. <https://aristake.com/ai-tools-musicians-study/>. [*Dream Machine* Issue 8](../Dream%20Machine%20MD/8.md).
 
@@ -1245,8 +1452,14 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **53.** *PC Gamer*, "EA: AI is delivering 'faster prototyping' and a 'real rise in creativity' in its studios." <https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/>. [*Dream Machine* Issue 36](../Dream%20Machine%20MD/36.md).
 
+**54.** *Labor Market Matters*, "AI and independent work in 7 charts" — what if AI's first labour-market effect isn't replacing workers, but making traditional firms less necessary? <https://www.labormarketmatters.com/p/ai-and-independent-work-in-7-charts>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
 
-## Chapter 15 — Choosing the Future
+**55.** *Digital Trends*, "The AI game-dev boom has a dark side: fewer jobs for the people starting out." <https://www.digitaltrends.com/cool-tech/the-ai-game-dev-boom-has-a-dark-side-fewer-jobs-for-the-people-starting-out/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md).
+
+**56.** *GamesBeat*, "Teen founder raises $3.2M for AI game development startup ForgeGUI." <https://gamesbeat.com/teen-founder-raises-3-2m-for-ai-game-development-startup-forgegui/>. [*Dream Machine* Issue 39](../Dream%20Machine%20MD/39.md). And *Yahoo*, "My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat." <https://www.yahoo.com/lifestyle/articles/11-old-son-used-ai-110601483.html>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
+
+
+## Chapter 16 — Choosing the Future
 
 **1a.** *Bloomberg*, "AI Changed Chess. Grandmasters Now Win With Unpredictable Moves," 27 March 2026. <https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves>. [*Dream Machine* Issue 23](../Dream%20Machine%20MD/23.md). The behavioural pattern the piece describes — top grandmasters deliberately deviating from machine-optimal lines to put opponents on uncomputed ground — is the cleanest available analogy I have for the strategic shift the rest of this chapter argues for.
 
@@ -1254,8 +1467,10 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 **2.** DreamLab AI Collective, team page. <https://dreamlab-ai.com/team>.
 
+**3.** *Arts Council England*, "Arts Council England launches Responsible AI Cultural Leaders Academy." <https://www.artscouncil.org.uk/research-and-data/responsible-ai-arts-council-england>. [*Dream Machine* Issue 37](../Dream%20Machine%20MD/37.md).
 
-## Chapter 16 — The Tools
+
+## Chapter 17 — The Tools
 
 **1.** OpenAI, "Sora 2 is here," 30 September 2025. <https://openai.com/index/sora-2/>. [*Dream Machine* Issue 1](../Dream%20Machine%20MD/1.md).
 
@@ -1399,6 +1614,6 @@ All footnoted sources, organised by chapter. Every claim of substance in the man
 
 ## Summary
 
-- **Total footnotes**: 668
-- **Unique primary-source URLs cited**: 464
-- **Source corpus**: 32 editions of *Dream Machine | Creative AI* (October 2025 – June 2026)
+- **Total footnotes**: 774
+- **Unique primary-source URLs cited**: 618
+- **Source corpus**: 41 editions of *Dream Machine | Creative AI* (October 2025 – August 2026)

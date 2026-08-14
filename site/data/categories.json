@@ -19,7 +19,7 @@
       "Animation"
     ],
     "icon": "video",
-    "count": 54
+    "count": 57
   },
   {
     "name": "AI image models / tools",
@@ -32,7 +32,7 @@
       "Animation"
     ],
     "icon": "image",
-    "count": 31
+    "count": 32
   },
   {
     "name": "AI music / audio tools",
@@ -42,7 +42,7 @@
       "Music"
     ],
     "icon": "music",
-    "count": 161
+    "count": 178
   },
   {
     "name": "Voice, avatar, digital human",
@@ -54,7 +54,7 @@
       "Music"
     ],
     "icon": "face",
-    "count": 20
+    "count": 21
   },
   {
     "name": "Agent platforms and orchestration",
@@ -85,7 +85,7 @@
       "Animation"
     ],
     "icon": "studio",
-    "count": 37
+    "count": 38
   },
   {
     "name": "Games-development AI",
@@ -95,7 +95,7 @@
       "Games"
     ],
     "icon": "joystick",
-    "count": 46
+    "count": 48
   },
   {
     "name": "Marketing and advertising AI",
@@ -115,7 +115,7 @@
       "All"
     ],
     "icon": "code",
-    "count": 21
+    "count": 22
   },
   {
     "name": "ComfyUI ecosystem — nodes, extensions and workflows",
